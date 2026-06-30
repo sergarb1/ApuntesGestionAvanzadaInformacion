@@ -88,7 +88,13 @@ Cada proyecto de unidad es una pieza incremental. En U10 se integran todas las p
 src/content/docs/            → Markdown (castellano, raíz)
 src/content/docs/index.md    → Portada (imagen principal) + cards unidades + barra descargas + licencia
 src/styles/custom.css        → CSS premium (paleta, botones, hero, cards, download-bar)
-public/portada.png           → Imagen de portada para PDF/EPUB
+public/portada.png           → Imagen de portada para la web
+public/favicon.svg           → Favicon SVG
+public/favicon.png           → Favicon PNG (fallback)
+public/cc-by-sa.png          → Badge CC BY-SA 4.0
+public/logo.svg              → Logo horizontal
+public/logo-gai.svg          → Logo completo con fondo
+portada.png                  → Portada para EPUB (raíz del proyecto)
 public/                      → PDFs y EPUBs exportados
 public/epub/                 → EPUBs generados
 public/pdf/                  → PDFs generados
@@ -100,6 +106,7 @@ scripts/
   epub.css                   → CSS para bloques de código en EPUB
   generate-boletines.ps1     → Genera boletines desde plantillas
   gen.ps1                    → Utilidad de generación
+  create-portada.mjs         → Genera portada.png desde SVG con sharp
 strip_solutions.py           → Script para quitar soluciones de boletines resueltos
 astro.config.mjs             → Config principal (sidebar, i18n, plugins)
 .github/workflows/deploy.yml → CI/CD para GitHub Pages
@@ -107,7 +114,7 @@ astro.config.mjs             → Config principal (sidebar, i18n, plugins)
 
 ## Descargas
 
-- **PDF:** `npm run pdf` (genera PDF con portada, sin header hora, footer estilizado)
+- **PDF:** `npm run pdf` (genera PDF con portada, sin header hora, footer estilizado — requiere el sitio desplegado en GitHub Pages)
 - **EPUB:** `npm run epub` (genera EPUB con portada y sintaxis coloreada)
 - Los enlaces de descarga están disponibles en la página de inicio (`index.md`)
 
@@ -140,6 +147,7 @@ npm run epub      # Generar EPUB en public/epub/
 | 2026-06-30 | Añadidas soluciones orientativas a "Ponte en la piel" en U1, U2, U3 (antes solo tenían pistas) |
 | 2026-06-30 | Corregidos encabezados `##` en secciones ⭐ y ❓ de U4, U5, U6 (faltaba el prefijo de heading) |
 | 2026-06-30 | Renumerado ejercicio duplicado en U7 (Ejercicio 8 → 9, 9 → 10) |
+| 2026-06-30 | Tema claro por defecto + tarjetas bonitas + favicon SVG + portada.png + cc-by-sa.png + estilo ApuntesProgramacion (hero shadow, download msg, botones) + EPUB generado |
 
 ## Notas
 
