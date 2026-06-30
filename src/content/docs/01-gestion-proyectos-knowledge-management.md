@@ -191,6 +191,8 @@ Eres el Knowledge Manager de una consultora estratégica con 200 empleados. La e
 - ¿Y si el conocimiento se compartiera durante el proyecto, no al final?
 - ¿Qué incentivos podrían funcionar en un entorno de consultores que van siempre con el tiempo justo?
 
+**Solución orientativa:** Empieza por las entrevistas de salida, pero no esperes al último día. Implementa un proceso de "transferencia de conocimiento" durante las últimas dos semanas del empleado: que documente los proyectos activos, los contactos clave y las lecciones aprendidas usando una plantilla estándar. Crea un sistema de mentoría donde los seniors compartan conocimiento con los juniors de forma continuada (una hora a la semana). Establece un repositorio de "lecciones aprendidas" por proyecto, accesible a toda la consultora. Para incentivar, vincula la contribución al conocimiento con la evaluación del desempeño y los bonus. Y hazlo fácil: si compartir conocimiento implica rellenar un formulario de 20 campos, nadie lo hará. Plantillas simples, tiempo dedicado y reconocimiento público.
+
 ### Escenario 2: La empresa que confunde datos con conocimiento
 
 Trabajas en una empresa industrial que presume de tener "mucho conocimiento" porque tiene un CRM con 50.000 registros, una intranet con 2.000 documentos y un ERP que genera informes automáticos. Pero los empleados siguen cometiendo los mismos errores y nadie sabe realmente cómo se hacen las cosas.
@@ -202,6 +204,8 @@ Trabajas en una empresa industrial que presume de tener "mucho conocimiento" por
 - ¿Recuerdas la diferencia entre información y conocimiento? Ahora tienes que vendérsela a un directivo que va con prisas.
 - Busca un ejemplo de la vida cotidiana (una receta de cocina, un manual de instrucciones, etc.) para hacerlo más visual.
 
+**Solución orientativa:** Prepara 3 diapositivas: (1) "Lo que tenemos" — muestra el CRM con 50.000 registros y la intranet con 2.000 documentos; (2) "Lo que nos falta" — pon un ejemplo real de un error que se repite porque el conocimiento no se ha compartido (un comercial que pierde un cliente porque no sabía que otro compañero ya había gestionado una reclamación similar); (3) "El puente" — cómo pasar de datos a conocimiento: extraer patrones, documentar procesos, compartir experiencias. Usa la metáfora de la receta de cocina: los ingredientes son los datos, la receta es la información, pero saber cuándo añadir sal o cómo recuperar una masa que no sube es conocimiento. Eso solo se aprende haciendo y compartiendo. Termina con una propuesta concreta: "Empecemos con un piloto en el departamento de ventas durante 3 meses."
+
 ### Escenario 3: El proyecto KM que nadie pidió
 
 Acaban de aprobar un proyecto de implantación de KM en tu empresa. Tienes presupuesto, tienes el apoyo de la dirección… pero los empleados te miran con desconfianza. Creen que es "otra cosa de recursos humanos" o "una excusa para controlarlos más".
@@ -212,6 +216,8 @@ Acaban de aprobar un proyecto de implantación de KM en tu empresa. Tienes presu
 - Empieza por los que ya comparten conocimiento de forma natural. Convértelos en embajadores.
 - No intentes convencer a todo el mundo de golpe. Ve por fases.
 - ¿Qué lenguaje usarías para no sonar a "discurso de empresa"? Sé honesto, humano y directo.
+
+**Solución orientativa:** Mes 1 — identifica a 5 personas de distintos departamentos que ya comparten conocimiento de forma natural (los que responden dudas en Teams, los que ayudan a los nuevos, los que documentan procesos por iniciativa propia). Reúnete con ellos, explícales el proyecto y pídeles que sean embajadores. Lanza el proyecto con un mensaje sencillo: "Vamos a perder menos tiempo buscando información. Os contamos el plan en 15 minutos." Mes 2 — presenta los primeros resultados del piloto con los embajadores: casos concretos de tiempo ahorrado, problemas resueltos, conocimiento recuperado. Usa el canal que ya usan (Teams, correo, reunión semanal). Mes 3 — abre la participación al resto de la empresa con una campaña "Comparte y gana" (reconocimiento, no competición). Lenguaje: cercano, humano, sin jerga corporativa. "Esto no es para controlaros. Es para que lo que sabes no se pierda cuando te vayas de vacaciones."
 
 ## ❓ Dudas frecuentes
 

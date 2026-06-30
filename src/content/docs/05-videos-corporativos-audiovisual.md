@@ -308,7 +308,7 @@ El vídeo está montado. Ahora toca sacarlo al mundo. Y no, no vale con exportar
 
 ---
 
-⭐ **Ponte en la piel del Knowledge Manager**
+## ⭐ Ponte en la piel del Knowledge Manager
 
 **Escenario 1: El manual que nadie entiende**
 
@@ -330,7 +330,7 @@ Tu empresa tiene 200 empleados repartidos en 5 oficinas por toda España. Necesi
 
 ---
 
-❓ **Dudas frecuentes**
+## ❓ Dudas frecuentes
 
 **¿Necesito un estudio profesional para grabar vídeos corporativos?**
 No. Con un móvil, un micrófono de solapa barato (15-20 €) y luz natural tienes suficiente para empezar. La calidad del contenido y la claridad importan más que la producción.

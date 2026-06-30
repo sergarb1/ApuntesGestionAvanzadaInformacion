@@ -459,9 +459,9 @@ R: Sí, y es una combinación muy habitual. WordPress para la cara pública (web
 
 8. Diseña un plan de formación para implantar una nueva herramienta de oficina virtual (por ejemplo, migrar de Google Drive a SharePoint). El plan debe incluir: objetivos, audiencia, formato (presencial, online, vídeos), duración, materiales, cronograma y criterios de evaluación.
 
-8. Redacta una política de uso aceptable de las herramientas digitales para empleados. Debe incluir: normas de uso del correo electrónico, almacenamiento de documentos, videoconferencias, mensajería instantánea y redes sociales. Extensión máxima: una página. Tono: claro y directo, sin legalismos innecesarios.
+9. Redacta una política de uso aceptable de las herramientas digitales para empleados. Debe incluir: normas de uso del correo electrónico, almacenamiento de documentos, videoconferencias, mensajería instantánea y redes sociales. Extensión máxima: una página. Tono: claro y directo, sin legalismos innecesarios.
 
-9. Crea un plan de comunicación para anunciar la implantación de una nueva intranet corporativa. Define los mensajes clave, los canales (correo, reunión, cartelería digital), el cronograma de comunicaciones y cómo medirás la acogida de los empleados. Incluye un ejemplo del correo electrónico que enviarías anunciando el lanzamiento.
+10. Crea un plan de comunicación para anunciar la implantación de una nueva intranet corporativa. Define los mensajes clave, los canales (correo, reunión, cartelería digital), el cronograma de comunicaciones y cómo medirás la acogida de los empleados. Incluye un ejemplo del correo electrónico que enviarías anunciando el lanzamiento.
 
 ### Costes asociados a la oficina virtual
 

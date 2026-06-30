@@ -285,6 +285,8 @@ Eres el Knowledge Manager de una empresa que ha crecido mediante adquisiciones. 
 - La formación es clave: si la gente sabe usar la plantilla, la usarán.
 - ¿Y si haces un "manual de estilo" de una página que resuma las normas más importantes?
 
+**Solución orientativa:** Diseña una plantilla corporativa única con estilos definidos (títulos, cuerpo, tablas, listas, colores corporativos). Graba una macro en Word que aplique la plantilla a un documento existente en un solo clic: cambia fuentes, ajusta márgenes, actualiza encabezados y pies de página. Prioriza la conversión por orden de criticidad: (1) documentos legales y contractuales, (2) documentos de clientes, (3) documentación interna, (4) archivos históricos. Crea un manual de estilo de una página con las 10 reglas básicas: fuente, tamaño de títulos, sangría, formato de tablas, uso de negritas, etc. Forma a los equipos en sesiones de 30 minutos. Nombra un referente por departamento. No pretendas convertir 200 documentos en un mes; plantea un plan a 6 meses con hitos trimestrales.
+
 ### Escenario 2: La base de conocimiento es un cajón desastre
 
 Tu empresa lleva un año usando una carpeta compartida como "base de conocimiento". Hay 500 archivos: algunos en PDF, otros en Word, otros en PowerPoint, otros en formatos imposibles. Los nombres de los archivos son una mezcla de "Documento final revisado 3", "Informe_definitivo_de_verdad" y "PPT_reunion_jueves_2".
@@ -295,6 +297,8 @@ Tu empresa lleva un año usando una carpeta compartida como "base de conocimient
 - Define una nomenclatura estándar: Fecha_Area_Tipo_Version (ej: "20260115_RRHH_Procedimiento_v1").
 - El Excel debe tener filtros, categorías y un sistema de búsqueda.
 - El proceso de alta de nuevos documentos debe ser simple, o la gente no lo seguirá.
+
+**Solución orientativa:** Crea un Excel con las siguientes columnas: ID único, Título del documento, Área (RRHH, Ventas, Operaciones...), Tipo (procedimiento, plantilla, informe, manual), Formato (PDF, DOCX, XLSX), Autor, Fecha de creación, Versión, Estado (borrador/revisión/final/archivado), Ruta o enlace, Palabras clave. Normaliza los nombres con el formato AAAA-MM-DD_Area_Tipo_Descripcion_vXX.pdf. Aplica filtros y tablas dinámicas para facilitar la búsqueda. Para los documentos nuevos, crea un formulario simple de alta (un Excel con validación de datos o un formulario de Microsoft Forms) que alimente el índice automáticamente. Y programa una revisión trimestral: archiva documentos obsoletos, actualiza versiones y elimina duplicados. La regla de oro: si no se ha consultado en 6 meses, pasa a archivado.
 
 ### Escenario 3: La presentación que salva (o hunde) un proyecto
 
@@ -307,6 +311,8 @@ Tienes que presentar los resultados de tu proyecto de KM a la dirección general
 - Vincula los gráficos de Excel a PowerPoint para que los datos estén actualizados.
 - La primera diapositiva es para enganchar. La última, para pedir acción.
 - Ensaya en voz alta. No es lo mismo pensar la presentación que decirla.
+
+**Solución orientativa:** Estructura de 8 diapositivas para 10 minutos: (1) Portada con título impactante y tu nombre — 30 segundos. (2) El problema que resolvimos — un antes/después visual con un dato concreto — 1 minuto. (3) Resultados clave — 3 KPIs principales con gráficos vinculados de Excel (adopción, tiempo ahorrado, satisfacción) — 2 minutos. (4) Caso de éxito — testimonio real de un empleado (una frase destacada) — 1 minuto. (5) Lecciones aprendidas — 3 viñetas sinceras (lo que salió bien, lo que no, lo que haríamos diferente) — 1 minuto. (6) Propuesta fase 2 — qué incluye, presupuesto, plazo y retorno esperado — 2 minutos. (7) Cierre y petición concreta — "Necesitamos su aprobación para seguir" — 30 segundos. (8) Q&A — prepara 3 respuestas a preguntas difíciles — 1 minuto. Fuente mínima 28 pt, máximo 6 palabras por diapositiva de media. Ensaya 3 veces con cronómetro.
 
 ## ❓ Dudas frecuentes
 

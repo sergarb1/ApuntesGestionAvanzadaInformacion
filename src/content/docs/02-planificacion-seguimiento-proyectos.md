@@ -269,6 +269,8 @@ Eres el Knowledge Manager de una empresa de logística. Has diseñado una WBS pa
 - Un diagrama de Gantt simple puede ser más efectivo que una WBS jerárquica.
 - ¿Y si en lugar de entregar la WBS, cuentas una historia del proyecto con fechas?
 
+**Solución orientativa:** Olvida la WBS jerárquica para la presentación. Usa un cronograma visual por fases con los 7 paquetes de trabajo como bloques de color en una línea de tiempo. Para cada paquete, muestra 3 cosas: responsable, fecha límite y entregable principal. Complementa con una vista "quién hace qué" donde cada persona ve solo sus tareas. Cuenta el proyecto como una historia: "En enero haremos el diagnóstico, en febrero capturaremos los procesos críticos, en marzo formaremos a los equipos..." La WBS detallada con las 45 tareas la dejas como anexo para quien quiera profundizar. El director de operaciones se queda con el cronograma visual; el jefe de proyecto, con la WBS completa.
+
 ### Escenario 2: El riesgo que se hizo realidad
 
 Tu proyecto de KM lleva 3 meses. De repente, la dirección anuncia un recorte presupuestario del 40%. Tu equipo se reduce a la mitad y la herramienta que ibais a comprar ya no es viable. El plazo sigue siendo el mismo, por supuesto (porque los plazos nunca cambian, ¿verdad?).
@@ -280,6 +282,8 @@ Tu proyecto de KM lleva 3 meses. De repente, la dirección anuncia un recorte pr
 - Busca alternativas gratuitas a las herramientas de pago.
 - La comunicación honesta con el equipo es clave. No prometas lo que no puedas cumplir.
 
+**Solución orientativa:** Tres acciones inmediatas: (1) Convocas al equipo, explicas la situación con transparencia y hacéis una sesión de priorización — clasificad las 45 tareas en "imprescindible", "importante" y "deseable". Las imprescindibles se quedan, las deseables se posponen. (2) Sustituyes la herramienta de pago por una gratuita equivalente: Confluence por Notion (gratuito hasta 10 usuarios), MS Project por Trello o Asana, SharePoint por Google Drive. (3) Preparas una propuesta para la dirección con dos escenarios: "Escenario A — con el 60% del presupuesto entregamos el 70% del alcance en la fecha prevista" y "Escenario B — con el 60% del presupuesto y 2 meses más de plazo entregamos el 100%". Dejas que ellos decidan. Al equipo le dices la verdad: "La situación es difícil, pero tenemos un plan. Esto es lo que depende de nosotros."
+
 ### Escenario 3: El dashboard que miente (sin querer)
 
 Has creado un dashboard con 12 KPIs para el proyecto de KM. Todos están en verde. Pero los empleados siguen sin usar la base de conocimiento, las reuniones de seguimiento son un desierto y nadie parece interesado. Algo no cuadra. El dashboard dice que todo va bien, pero la realidad dice otra cosa.
@@ -287,9 +291,11 @@ Has creado un dashboard con 12 KPIs para el proyecto de KM. Todos están en verd
 **Tu misión:** ¿Qué está pasando? Revisa los KPIs que elegiste. Identifica 2 que estén midiendo lo que no es y 2 que deberías añadir para tener una imagen real. ¿Cómo rediseñarías el dashboard?
 
 **Pistas para tu reflexión:**
-- Los KPIs cuantitativos no lo son todo. Si mides solo "número de documentos subidos", pero nadie los lee, estás midiendo la actividad, no el impacto.
+- Los KPIs cuantitativos no lo son todo. Si mides solo "número de documentos subidos", pero nadie los lees, estás midiendo la actividad, no el impacto.
 - Añade métricas cualitativas: encuestas, entrevistas, observación directa.
 - Un KPI no debería estar en verde si la realidad no lo está. Ajusta tus umbrales.
+
+**Solución orientativa:** Tus KPIs miden actividad, no impacto. Sustituye "documentos subidos" por "documentos consultados a la semana" y añade "tasa de reutilización del conocimiento" (cuántas veces se accede a un documento ya existente en lugar de crear uno nuevo desde cero). Incorpora dos KPIs cualitativos: (1) encuesta mensual de satisfacción con el acceso a la información (1-10), (2) tiempo medio que tarda un empleado en encontrar una política o procedimiento. Ajusta los umbrales: el verde no significa "hay actividad", significa "el conocimiento se está usando y aporta valor". Y lo más importante: programa una reunión mensual de 30 minutos donde el equipo valide si el dashboard refleja la realidad. Si la reunión dice una cosa y el dashboard otra, el dashboard está mal.
 
 ## ❓ Dudas frecuentes
 

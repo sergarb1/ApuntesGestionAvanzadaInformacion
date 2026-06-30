@@ -275,7 +275,7 @@ Notion es un cajón desastre maravilloso. Es wiki, base de datos, gestor de tare
 
 ---
 
-⭐ **Ponte en la piel del Knowledge Manager**
+## ⭐ Ponte en la piel del Knowledge Manager
 
 **Escenario 1: La bandeja de entrada del terror**
 
@@ -297,7 +297,7 @@ Tu empresa tiene una wiki en Confluence que nadie usa. Se creó hace 3 años con
 
 ---
 
-❓ **Dudas frecuentes**
+## ❓ Dudas frecuentes
 
 **¿Teams o Slack? ¿Cuál es mejor?**
 Depende de tu ecosistema. Si usas Office 365, Teams es la elección natural por integración total (calendario, archivos, reuniones, aplicaciones). Slack es más flexible, rápido y tiene mejores integraciones con herramientas externas. Ambos son excelentes; la decisión es estratégica, no técnica.

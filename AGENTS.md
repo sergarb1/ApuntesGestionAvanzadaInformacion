@@ -64,8 +64,8 @@ Cada proyecto de unidad es una pieza incremental. En U10 se integran todas las p
 - **Tono:** conversacional, orientado a administración y finanzas. Sin tecnicismos informáticos.
 - **Lenguaje:** empresarial, claro, práctico. Ej: "hoja de cálculo" en vez de "Excel", "documento de texto" en vez de "Word".
 - **Secciones especiales:**
-  - "⭐ Ponte en la piel del Knowledge Manager" — ejercicios prácticos situacionales
-  - "❓ Dudas frecuentes" — preguntas y respuestas tipo FAQ
+  - `## ⭐ Ponte en la piel del Knowledge Manager` — ejercicios prácticos situacionales con **pistas para la reflexión** y **solución orientativa** (U1-U3: pistas + solución; U4-U11: solución directa)
+  - `## ❓ Dudas frecuentes` — preguntas y respuestas tipo FAQ
   - [NOTE], [WARNING], [TIP] en blockquotes
   - Casos prácticos: "Eres el asistente de dirección y te piden..."
 - **Formato:** Markdown compatible con Google Docs (importación directa).
@@ -132,6 +132,14 @@ npm run preview   # Previsualizar build
 npm run pdf       # Generar PDF en public/pdf/
 npm run epub      # Generar EPUB en public/epub/
 ```
+
+## Correcciones aplicadas
+
+| Fecha | Cambio |
+|-------|--------|
+| 2026-06-30 | Añadidas soluciones orientativas a "Ponte en la piel" en U1, U2, U3 (antes solo tenían pistas) |
+| 2026-06-30 | Corregidos encabezados `##` en secciones ⭐ y ❓ de U4, U5, U6 (faltaba el prefijo de heading) |
+| 2026-06-30 | Renumerado ejercicio duplicado en U7 (Ejercicio 8 → 9, 9 → 10) |
 
 ## Notas
 

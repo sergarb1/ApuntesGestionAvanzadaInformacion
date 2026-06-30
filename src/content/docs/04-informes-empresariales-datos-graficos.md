@@ -379,7 +379,7 @@ Usa la paleta de colores de la empresa. Si no tienes una guía de estilo, crea u
 
 ---
 
-⭐ **Ponte en la piel del Knowledge Manager**
+## ⭐ Ponte en la piel del Knowledge Manager
 
 **Escenario 1: El informe que nadie lee**
 
@@ -401,7 +401,7 @@ La empresa cambia de oficina en dos semanas. Te piden que redactes una circular 
 
 ---
 
-❓ **Dudas frecuentes**
+## ❓ Dudas frecuentes
 
 **¿Un informe ejecutivo tiene que ser corto?**
 Depende del destinatario. Un director general quiere máximo 2 páginas con conclusiones. Un director de departamento acepta 10 páginas con análisis. Un comité de dirección, 5 diapositivas. Conoce a tu audiencia y adáptate.
