@@ -127,7 +127,7 @@ description: Curso completo de Gestión Avanzada de la Información para CFGS As
       <span class="ra">RA1-5</span>
     </div>
     <a href="/ApuntesGestionAvanzadaInformacion/10-proyecto-knowledge-management-i" class="title-link">🧩 Proyecto Knowledge Management (I)</a>
-    <p class="desc">Integra todas las piezas del proyecto KM: memoria, documentación y preparación de la presentación final.</p>
+    <p class="desc">Integra todas las piezas del proyecto Knowledge Manager: memoria, documentación y preparación de la presentación final.</p>
     <a href="/ApuntesGestionAvanzadaInformacion/10-proyecto-knowledge-management-i" class="unit-link">👉 Ver unidad 👈</a>
   </div>
 
@@ -137,7 +137,7 @@ description: Curso completo de Gestión Avanzada de la Información para CFGS As
       <span class="ra">RA1-5</span>
     </div>
     <a href="/ApuntesGestionAvanzadaInformacion/11-proyecto-knowledge-management-ii" class="title-link">🏁 Proyecto Knowledge Management (II)</a>
-    <p class="desc">Prepara la defensa final del sistema KM: storytelling, presentación ejecutiva y evaluación del proyecto.</p>
+    <p class="desc">Prepara la defensa final del sistema Knowledge Manager: storytelling, presentación ejecutiva y evaluación del proyecto.</p>
     <a href="/ApuntesGestionAvanzadaInformacion/11-proyecto-knowledge-management-ii" class="unit-link">👉 Ver unidad 👈</a>
   </div>
 
@@ -158,6 +158,10 @@ description: Curso completo de Gestión Avanzada de la Información para CFGS As
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-01-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-01-avanzado" class="blink">📝 Avanzado</a>
     </div>
+    <div class="project-inline">
+      <span class="project-inline-badge">📁</span>
+      <a href="/ApuntesGestionAvanzadaInformacion/proyecto-01" class="project-inline-link">Proyecto: Propuesta de proyecto Knowledge Manager</a>
+    </div>
   </div>
 
   <div class="unit-card">
@@ -170,6 +174,10 @@ description: Curso completo de Gestión Avanzada de la Información para CFGS As
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-02-facil" class="blink">🟢 Fácil</a>
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-02-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-02-avanzado" class="blink">📝 Avanzado</a>
+    </div>
+    <div class="project-inline">
+      <span class="project-inline-badge">📁</span>
+      <a href="/ApuntesGestionAvanzadaInformacion/proyecto-02" class="project-inline-link">Proyecto: Planificación del proyecto Knowledge Manager</a>
     </div>
   </div>
 
@@ -184,6 +192,10 @@ description: Curso completo de Gestión Avanzada de la Información para CFGS As
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-03-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-03-avanzado" class="blink">📝 Avanzado</a>
     </div>
+    <div class="project-inline">
+      <span class="project-inline-badge">📁</span>
+      <a href="/ApuntesGestionAvanzadaInformacion/proyecto-03" class="project-inline-link">Proyecto: Plantillas y base de conocimiento</a>
+    </div>
   </div>
 
   <div class="unit-card">
@@ -196,6 +208,10 @@ description: Curso completo de Gestión Avanzada de la Información para CFGS As
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-04-facil" class="blink">🟢 Fácil</a>
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-04-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-04-avanzado" class="blink">📝 Avanzado</a>
+    </div>
+    <div class="project-inline">
+      <span class="project-inline-badge">📁</span>
+      <a href="/ApuntesGestionAvanzadaInformacion/proyecto-04" class="project-inline-link">Proyecto: Informe ejecutivo y dashboard</a>
     </div>
   </div>
 
@@ -210,6 +226,10 @@ description: Curso completo de Gestión Avanzada de la Información para CFGS As
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-05-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-05-avanzado" class="blink">📝 Avanzado</a>
     </div>
+    <div class="project-inline">
+      <span class="project-inline-badge">📁</span>
+      <a href="/ApuntesGestionAvanzadaInformacion/proyecto-05" class="project-inline-link">Proyecto: Vídeo de presentación del proyecto</a>
+    </div>
   </div>
 
   <div class="unit-card">
@@ -222,6 +242,10 @@ description: Curso completo de Gestión Avanzada de la Información para CFGS As
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-06-facil" class="blink">🟢 Fácil</a>
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-06-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-06-avanzado" class="blink">📝 Avanzado</a>
+    </div>
+    <div class="project-inline">
+      <span class="project-inline-badge">📁</span>
+      <a href="/ApuntesGestionAvanzadaInformacion/proyecto-06" class="project-inline-link">Proyecto: Espacio colaborativo</a>
     </div>
   </div>
 
@@ -236,6 +260,10 @@ description: Curso completo de Gestión Avanzada de la Información para CFGS As
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-07-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-07-avanzado" class="blink">📝 Avanzado</a>
     </div>
+    <div class="project-inline">
+      <span class="project-inline-badge">📁</span>
+      <a href="/ApuntesGestionAvanzadaInformacion/proyecto-07" class="project-inline-link">Proyecto: Portal web del conocimiento</a>
+    </div>
   </div>
 
   <div class="unit-card">
@@ -248,6 +276,10 @@ description: Curso completo de Gestión Avanzada de la Información para CFGS As
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-08-facil" class="blink">🟢 Fácil</a>
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-08-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-08-avanzado" class="blink">📝 Avanzado</a>
+    </div>
+    <div class="project-inline">
+      <span class="project-inline-badge">📁</span>
+      <a href="/ApuntesGestionAvanzadaInformacion/proyecto-08" class="project-inline-link">Proyecto: Sistema de clasificación documental</a>
     </div>
   </div>
 
@@ -262,6 +294,10 @@ description: Curso completo de Gestión Avanzada de la Información para CFGS As
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-09-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-09-avanzado" class="blink">📝 Avanzado</a>
     </div>
+    <div class="project-inline">
+      <span class="project-inline-badge">📁</span>
+      <a href="/ApuntesGestionAvanzadaInformacion/proyecto-09" class="project-inline-link">Proyecto: Workflows, custodia y legal</a>
+    </div>
   </div>
 
   <div class="unit-card">
@@ -275,102 +311,10 @@ description: Curso completo de Gestión Avanzada de la Información para CFGS As
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-10-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
       <a href="/ApuntesGestionAvanzadaInformacion/boletin-10-avanzado" class="blink">📝 Avanzado</a>
     </div>
-  </div>
-
-</div>
-
-## 📁 Proyectos de unidad
-
-<div class="unit-grid">
-
-  <div class="unit-card">
-    <div class="unit-card-header">
-      <span class="num">Proyecto 1</span>
+    <div class="project-inline">
+      <span class="project-inline-badge">📁</span>
+      <a href="/ApuntesGestionAvanzadaInformacion/proyecto-10" class="project-inline-link">Proyecto: Integración del sistema Knowledge Manager</a>
     </div>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-01" class="title-link">📋 Propuesta de proyecto KM</a>
-    <p class="desc">Define el alcance, objetivos y beneficios de implantar un sistema de Knowledge Management.</p>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-01" class="unit-link">👉 Ver proyecto 👈</a>
-  </div>
-
-  <div class="unit-card">
-    <div class="unit-card-header">
-      <span class="num">Proyecto 2</span>
-    </div>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-02" class="title-link">📊 Planificación del proyecto KM</a>
-    <p class="desc">Crea la WBS, el cronograma y el análisis de riesgos.</p>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-02" class="unit-link">👉 Ver proyecto 👈</a>
-  </div>
-
-  <div class="unit-card">
-    <div class="unit-card-header">
-      <span class="num">Proyecto 3</span>
-    </div>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-03" class="title-link">📝 Plantillas y base de conocimiento</a>
-    <p class="desc">Diseña plantillas corporativas y una base de conocimiento ofimática.</p>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-03" class="unit-link">👉 Ver proyecto 👈</a>
-  </div>
-
-  <div class="unit-card">
-    <div class="unit-card-header">
-      <span class="num">Proyecto 4</span>
-    </div>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-04" class="title-link">📈 Informe ejecutivo y dashboard</a>
-    <p class="desc">Elabora el informe ejecutivo y el cuadro de mando de indicadores.</p>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-04" class="unit-link">👉 Ver proyecto 👈</a>
-  </div>
-
-  <div class="unit-card">
-    <div class="unit-card-header">
-      <span class="num">Proyecto 5</span>
-    </div>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-05" class="title-link">🎬 Vídeo de presentación del proyecto</a>
-    <p class="desc">Produce un vídeo corporativo presentando el proyecto KM.</p>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-05" class="unit-link">👉 Ver proyecto 👈</a>
-  </div>
-
-  <div class="unit-card">
-    <div class="unit-card-header">
-      <span class="num">Proyecto 6</span>
-    </div>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-06" class="title-link">🌐 Espacio colaborativo</a>
-    <p class="desc">Configura un espacio de trabajo colaborativo para el equipo KM.</p>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-06" class="unit-link">👉 Ver proyecto 👈</a>
-  </div>
-
-  <div class="unit-card">
-    <div class="unit-card-header">
-      <span class="num">Proyecto 7</span>
-    </div>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-07" class="title-link">🏢 Portal web del conocimiento</a>
-    <p class="desc">Crea un portal web / intranet con CMS para gestionar el conocimiento.</p>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-07" class="unit-link">👉 Ver proyecto 👈</a>
-  </div>
-
-  <div class="unit-card">
-    <div class="unit-card-header">
-      <span class="num">Proyecto 8</span>
-    </div>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-08" class="title-link">🗂️ Sistema de clasificación documental</a>
-    <p class="desc">Diseña la taxonomía y los metadatos para el SGD.</p>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-08" class="unit-link">👉 Ver proyecto 👈</a>
-  </div>
-
-  <div class="unit-card">
-    <div class="unit-card-header">
-      <span class="num">Proyecto 9</span>
-    </div>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-09" class="title-link">🔐 Workflows, custodia y legal</a>
-    <p class="desc">Diseña los flujos documentales y la política de custodia con RGPD.</p>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-09" class="unit-link">👉 Ver proyecto 👈</a>
-  </div>
-
-  <div class="unit-card">
-    <div class="unit-card-header">
-      <span class="num">Proyecto 10</span>
-    </div>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-10" class="title-link">🧩 Integración del sistema KM</a>
-    <p class="desc">Compila todos los entregables en la memoria final del proyecto.</p>
-    <a href="/ApuntesGestionAvanzadaInformacion/proyecto-10" class="unit-link">👉 Ver proyecto 👈</a>
   </div>
 
 </div>

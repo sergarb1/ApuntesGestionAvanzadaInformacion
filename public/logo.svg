@@ -19,5 +19,5 @@
   <text x="72" y="72" font-family="Calibri, Arial, sans-serif" font-size="16" font-weight="300" fill="#85c1e9" letter-spacing="2">DE LA INFORMACIÓN</text>
   <text x="72" y="92" font-family="Calibri, Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.4)" letter-spacing="1">CFGS Asistencia a la Dirección · Módulo 0663</text>
   <rect x="355" y="10" width="35" height="100" rx="4" fill="rgba(46,134,193,0.1)"/>
-  <text x="362" y="72" font-family="Calibri, Arial, sans-serif" font-size="9" fill="rgba(255,255,255,0.25)" letter-spacing="5" transform="rotate(90, 372, 55)">KM</text>
+  <text x="372" y="20" font-family="Calibri, Arial, sans-serif" font-size="6" fill="rgba(255,255,255,0.3)" letter-spacing="1" text-anchor="middle" transform="rotate(90, 372, 55)">Knowledge Manager</text>
 </svg>

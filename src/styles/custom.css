@@ -298,6 +298,31 @@ h2::after {
   transform: translateY(-1px);
 }
 
+/* Enlace de proyecto dentro de tarjeta de boletín */
+.project-inline {
+  margin-top: 0.75rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid rgba(46, 134, 193, 0.12);
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.project-inline-badge {
+  font-size: 0.8rem;
+  line-height: 1;
+}
+.project-inline-link {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #2e86c1;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+.project-inline-link:hover {
+  color: #1a5276;
+  transform: translateX(2px);
+}
+
 /* ============================================ */
 /* BARRA DE DESCARGAS                           */
 /* ============================================ */
