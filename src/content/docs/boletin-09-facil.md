@@ -1,0 +1,23 @@
+---
+title: "Boletín 09 - Nivel Fácil: Flujos de trabajo, custodia de documentos y normativa legal"
+---
+
+1. **Diseñar un flujo de trabajo de aprobación de facturas**
+   El proceso de pago de una factura requiere: (1) recepción de la factura, (2) validación por el departamento solicitante, (3) aprobación por administración y (4) pago por tesorería. Dibuja un diagrama de flujo con las etapas, responsables y condiciones (por ejemplo, si la factura supera 1000 € requiere aprobación extra del director). Describe el flujo paso a paso.
+
+   > 💡 **Pista:** Representa el flujo como una secuencia de cajas y rombos (decisiones). Las condiciones (importe > 1000 €) crean caminos alternativos. Define claramente qué ocurre si una factura no es conforme o no se aprueba.
+
+2. **Cumplimentar una lista de verificación RGPD para un tratamiento de datos**
+   El departamento de RRHH va a crear un fichero con datos de empleados (nombre, DNI, teléfono, salario). Elabora una lista de verificación de cumplimiento RGPD que incluya al menos 6 puntos: base legal, información al interesado, conservación, seguridad, cesión de datos y derechos ARCO.
+
+   > 💡 **Pista:** Consulta los artículos 6, 13, 32 y 33 del RGPD para justificar cada punto. La base legal para datos de empleados suele ser la relación contractual. No olvides que los empleados tienen derecho a acceder, rectificar y cancelar sus datos.
+
+3. **Crear un registro de entrada y salida de documentos**
+   Diseña una plantilla (puede ser en Excel o SharePoint) para registrar la entrada y salida de documentos físicos en el archivo. La plantilla debe incluir: fecha, número de registro, tipo documental, remitente/destinatario, documento, soporte, ubicación física y firma de recepción. Rellena 3 ejemplos.
+
+   > 💡 **Pista:** Usa un prefijo E- para entrada y S- para salida seguido de un número correlativo. La columna "Ubicación" debe permitir localizar físicamente el documento (estantería, caja, carpeta).
+
+4. **Aplicar una política de retención a documentos electrónicos**
+   La empresa ha decidido eliminar facturas anteriores a 2018 (8 años de antigüedad). Enumera los pasos que debes seguir para hacerlo de forma segura y conforme a la ley: identificación de los documentos a eliminar, autorización, método de eliminación y registro de la destrucción. ¿Qué documentos NO deberías eliminar aunque superen el plazo?
+
+   > 💡 **Pista:** La eliminación segura requiere más que borrar archivos. Piensa en métodos como el borrado criptográfico. Antes de eliminar, comprueba que ningún documento esté vinculado a litigios o auditorías abiertas. Siempre levanta un acta de destrucción.

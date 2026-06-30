@@ -1,0 +1,293 @@
+/* === GESTIÓN AVANZADA DE LA INFORMACIÓN — Custom CSS === */
+/* Paleta azul corporativo knowledge management */
+
+:root {
+  --sl-font: 'Geist Sans', system-ui, sans-serif;
+  --sl-color-accent-low: #0a2e1a;
+  --sl-color-accent: #1a5276;
+  --sl-color-accent-high: #2e86c1;
+  --sl-color-text-accent: #2e86c1;
+  --sl-color-gray-1: #e5e7eb;
+  --sl-color-gray-2: #9ca3af;
+  --sl-color-gray-3: #6b7280;
+  --sl-color-gray-4: #374151;
+  --sl-color-gray-5: #1f2937;
+  --sl-color-gray-6: #111827;
+  --sl-color-black: #0a0f1a;
+  --sl-color-bg: #0a0f1a;
+  --sl-color-bg-nav: #0d1321;
+  --sl-color-bg-sidebar: #0d1321;
+  --sl-color-bg-inline-code: #1a1f2e;
+  --sl-color-bg-card: #111827;
+  --sl-color-hero-bg: linear-gradient(135deg, #0a1628, #1a3a5c, #0d2137);
+}
+
+/* Justificación del texto */
+.sl-markdown-content {
+  text-align: justify;
+}
+
+/* Título del sitio con degradado azul */
+.site-title {
+  background: linear-gradient(135deg, #2e86c1, #1a5276, #2e86c1);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+}
+
+/* Efecto glassmorphism en cards */
+.card-grid .card {
+  background: rgba(17, 24, 39, 0.7) !important;
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(46, 134, 193, 0.2) !important;
+  border-radius: 12px !important;
+  transition: all 0.3s ease;
+}
+.card-grid .card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(46, 134, 193, 0.5) !important;
+  box-shadow: 0 8px 32px rgba(26, 82, 118, 0.2);
+}
+
+/* Hero de la página de inicio */
+.home-page .hero {
+  background: linear-gradient(135deg, #0a1628 0%, #1a3a5c 50%, #0d2137 100%);
+  padding: 4rem 2rem;
+  border-radius: 16px;
+  margin-bottom: 2rem;
+  position: relative;
+  overflow: hidden;
+}
+.home-page .hero::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle at 30% 70%, rgba(46, 134, 193, 0.1) 0%, transparent 50%);
+  animation: heroGlow 8s ease-in-out infinite;
+}
+@keyframes heroGlow {
+  0%, 100% { transform: translate(0, 0); }
+  50% { transform: translate(5%, 5%); }
+}
+.home-page .hero h1 {
+  position: relative;
+  z-index: 1;
+  background: linear-gradient(135deg, #2e86c1, #85c1e9);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 2.8rem;
+}
+.home-page .hero p {
+  position: relative;
+  z-index: 1;
+  color: var(--sl-color-gray-2);
+  font-size: 1.2rem;
+}
+
+/* Botones del hero */
+.home-page .hero .action.primary {
+  background: linear-gradient(135deg, #1a5276, #2e86c1) !important;
+  border: none !important;
+  font-weight: 600;
+  padding: 0.75rem 2rem;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+.home-page .hero .action.primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(26, 82, 118, 0.4);
+}
+.home-page .hero .action.secondary {
+  border-color: #2e86c1 !important;
+  color: #2e86c1 !important;
+}
+
+/* Títulos de sección con subrayado degradado */
+h2 {
+  position: relative;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+h2::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(90deg, #1a5276, #2e86c1);
+  border-radius: 2px;
+}
+
+/* Grid de unidades y boletines */
+.unit-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+/* Cards de unidades */
+.unit-card {
+  background: rgba(17, 24, 39, 0.7);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(46, 134, 193, 0.15);
+  border-radius: 12px;
+  padding: 1.25rem;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+.unit-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #1a5276, #2e86c1, #85c1e9);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.unit-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(46, 134, 193, 0.4);
+  box-shadow: 0 8px 30px rgba(26, 82, 118, 0.15);
+}
+.unit-card:hover::before {
+  opacity: 1;
+}
+.unit-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+.unit-card-header .num {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #2e86c1;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.unit-card-header .ra {
+  font-size: 0.75rem;
+  background: rgba(46, 134, 193, 0.15);
+  color: #2e86c1;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-weight: 500;
+}
+.unit-card .title-link {
+  display: block;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--sl-color-white);
+  text-decoration: none;
+  margin-bottom: 0.5rem;
+  line-height: 1.3;
+}
+.unit-card .title-link:hover {
+  color: #2e86c1;
+}
+.unit-card .desc {
+  font-size: 0.85rem;
+  color: var(--sl-color-gray-3);
+  margin-bottom: 0.75rem;
+  line-height: 1.4;
+}
+.unit-card .desc code {
+  font-size: 0.8rem;
+  background: rgba(46, 134, 193, 0.1);
+  color: #85c1e9;
+  padding: 1px 6px;
+  border-radius: 4px;
+}
+
+/* Botón Ver unidad */
+.unit-link {
+  display: inline-block;
+  background: linear-gradient(135deg, #1a5276, #2e86c1);
+  color: white !important;
+  padding: 0.4rem 1.2rem;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+.unit-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(26, 82, 118, 0.3);
+}
+
+/* Sección de boletines dentro de cards */
+.boletin-section-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--sl-color-gray-2);
+  margin-bottom: 0.5rem;
+}
+.boletin-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.blink {
+  font-size: 0.75rem;
+  color: var(--sl-color-gray-2);
+  text-decoration: none;
+  padding: 2px 8px;
+  border-radius: 6px;
+  background: rgba(46, 134, 193, 0.08);
+  transition: all 0.2s ease;
+}
+.blink:hover {
+  background: rgba(46, 134, 193, 0.2);
+  color: #2e86c1;
+}
+
+/* Barra de descargas */
+.download-bar {
+  background: linear-gradient(135deg, #0d2137, #1a3a5c);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  justify-content: center;
+}
+.download-bar .dl-btn {
+  background: linear-gradient(135deg, #1a5276, #2e86c1);
+  color: white;
+  padding: 0.6rem 1.5rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+.download-bar .dl-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(26, 82, 118, 0.3);
+}
+
+/* Scrollbar personalizada */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: var(--sl-color-gray-6); }
+::-webkit-scrollbar-thumb {
+  background: var(--sl-color-gray-4);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--sl-color-gray-3); }
+
+/* Modo oscuro */
+.page { background: var(--sl-color-bg); }
+.sidebar { background: var(--sl-color-bg-sidebar) !important; }

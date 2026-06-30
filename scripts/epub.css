@@ -1,0 +1,31 @@
+pre {
+  font-family: 'Cascadia Code', 'Fira Code', monospace;
+  font-size: 0.85em;
+  white-space: pre-wrap;
+  background: #1a1f2e;
+  border: 1px solid #374151;
+  border-radius: 6px;
+  padding: 1em;
+  color: #e5e7eb;
+}
+code {
+  font-family: 'Cascadia Code', 'Fira Code', monospace;
+  font-size: 0.85em;
+  background: #1a1f2e;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+  color: #85c1e9;
+}
+body {
+  font-family: 'Geist Sans', system-ui, sans-serif;
+  line-height: 1.6;
+  color: #e5e7eb;
+  background: #0a0f1a;
+}
+h1, h2, h3, h4 { color: #2e86c1; }
+blockquote {
+  border-left: 4px solid #2e86c1;
+  padding-left: 1em;
+  margin-left: 0;
+  color: #9ca3af;
+}

@@ -1,0 +1,29 @@
+---
+title: "Boletín 4 - Fácil: Informes empresariales: datos, gráficos y comunicaciones"
+---
+
+# Boletín 4 - Fácil: Informes empresariales: datos, gráficos y comunicaciones
+
+## Ejercicio 1: Creación de un cuadro de mando con KPIs
+
+Diseña un cuadro de mando en Excel para el departamento de atención al cliente. Debe incluir: 5 indicadores clave (KPIs) con semáforo (verde/ámbar/rojo), un gráfico de evolución mensual de llamadas atendidas y una tabla resumen con datos de los últimos 6 meses. Los KPIs son: tiempo medio de respuesta (< 2 min → verde, 2-5 min → ámbar, > 5 min → rojo), llamadas atendidas/día (> 50 → verde, 30-50 → ámbar, < 30 → rojo), satisfacción del cliente (> 85% → verde, 70-85% → ámbar, < 70% → rojo).
+
+> 💡 **Pista:** Usa formato condicional con iconos (semáforo) para visualizar el estado de cada KPI automáticamente. Para la media de llamadas/día, divide el total mensual entre 22 días hábiles. El gráfico de líneas debe incluir la línea de objetivo como referencia visual.
+
+## Ejercicio 2: Combinación de correspondencia para comunicación comercial
+
+Una agencia de seguros necesita enviar una carta personalizada a 200 clientes ofreciendo un descuento del 15% en su renovación anual. Diseña el proceso completo: estructura del origen de datos en Excel (campos necesarios), carta modelo en Word con los campos combinados, y las instrucciones paso a paso para ejecutar la combinación. Incluye un ejemplo de cómo filtrar solo a clientes con pólizas superiores a 500 €.
+
+> 💡 **Pista:** El origen de datos debe tener un campo por cada valor variable en la carta (nombre, importe, fecha, etc.). En Word, los campos combinados se insertan desde Correspondencia > Insertar campo combinado. Usa el filtro en Editar lista de destinatarios para seleccionar solo los clientes que cumplen la condición.
+
+## Ejercicio 3: Creación de una infografía empresarial
+
+Diseña una infografía en formato vertical (A4) que resuma los logros anuales de una empresa de logística. Debe incluir: título llamativo, 4 datos clave con iconos (paquetes enviados, km recorridos, empleados, clientes), un gráfico de barras de crecimiento interanual, una línea de tiempo con los hitos del año y un código de colores corporativos (azul y naranja).
+
+> 💡 **Pista:** PowerPoint es una buena herramienta para crear infografías. Cambia la orientación de la diapositiva a vertical (Diseño > Tamaño de diapositiva > Personalizada). Usa formas (rectángulos, círculos) para crear tarjetas de datos. Los iconos pueden insertarse desde Insertar > Iconos. Mantén una paleta de 2 colores máximo para coherencia visual.
+
+## Ejercicio 4: Informe empresarial con gráficos dinámicos
+
+Elabora un informe de ventas trimestral en Excel para una cadena de tiendas de ropa. Debe incluir: portada con título y fecha, tabla de datos (6 meses × 3 tiendas), 2 gráficos (evolución de ventas por tienda y comparativa por categoría de producto), análisis de tendencias y un cuadro de conclusiones con recomendaciones.
+
+> 💡 **Pista:** Estructura el informe en 3 hojas separadas para claridad. Para el análisis de tendencias, añade una línea de tendencia (clic derecho en la serie > Agregar línea de tendencia). Las conclusiones deben traducir los datos en acciones concretas: ¿qué debe hacer la empresa con esta información?
