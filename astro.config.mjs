@@ -20,8 +20,10 @@ export default defineConfig({
         { icon: 'github', label: 'GitHub', href: 'https://github.com/sergarb1/ApuntesGestionAvanzadaInformacion' },
       ],
       head: [
+        { tag: 'script', content: "document.documentElement.dataset.theme='light'" },
         { tag: 'meta', attrs: { name: 'theme-color', content: '#1a5276' } },
-        { tag: 'link', attrs: { rel: 'icon', type: 'image/png', href: '/ApuntesGestionAvanzadaInformacion/favicon.png' } },
+        { tag: 'link', attrs: { rel: 'icon', type: 'image/svg+xml', href: '/ApuntesGestionAvanzadaInformacion/favicon.svg' } },
+        { tag: 'link', attrs: { rel: 'alternate icon', type: 'image/png', href: '/ApuntesGestionAvanzadaInformacion/favicon.png' } },
       ],
       sidebar: [
         {

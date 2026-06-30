@@ -4,23 +4,27 @@ description: Curso completo de Gestión Avanzada de la Información para CFGS As
 ---
 
 <div align="center">
-  <img src="https://sergarb1.github.io/ApuntesGestionAvanzadaInformacion/portada.png" alt="Portada Gestión Avanzada de la Información" width="100%">
+  <img src="https://sergarb1.github.io/ApuntesGestionAvanzadaInformacion/portada.png" alt="Portada Gestión Avanzada de la Información" style="max-width:100%;height:auto;border-radius:12px;margin:0 0 1.5rem;box-shadow:0 8px 40px rgba(0,0,0,0.15);">
 </div>
 
-<div align="center" style="margin: 1.5rem 0 1rem 0; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-  <a href="/ApuntesGestionAvanzadaInformacion/01-gestion-proyectos-knowledge-management" class="unit-link" style="font-size: 1rem; padding: 0.75rem 2rem;">👉 Empezar por la Unidad 1 👈</a>
-  <a href="https://github.com/sergarb1/ApuntesGestionAvanzadaInformacion" class="unit-link" style="background: transparent; border: 2px solid #2e86c1; font-size: 1rem; padding: 0.75rem 2rem;">⭐ Ver en GitHub ⭐</a>
-</div>
-
-<div align="center">
-  <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank">
-    <img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31">
-  </a>
+<div align="center" style="margin-bottom:2rem;">
+  <a href="/ApuntesGestionAvanzadaInformacion/01-gestion-proyectos-knowledge-management" style="display:inline-block;padding:0.75rem 2rem;background:linear-gradient(135deg,#1a5276,#2e86c1);color:#fff;border-radius:8px;text-decoration:none;font-weight:600;margin:0 0.5rem;">👉 Empezar por la Unidad 1</a>
+  <a href="https://github.com/sergarb1/ApuntesGestionAvanzadaInformacion" style="display:inline-block;padding:0.75rem 2rem;background:var(--sl-color-gray-5);color:var(--sl-color-white);border-radius:8px;text-decoration:none;font-weight:600;margin:0 0.5rem;">⭐ Ver en GitHub</a>
 </div>
 
 <div class="download-bar">
-  <a href="/ApuntesGestionAvanzadaInformacion/pdf/ApuntesGAI-es.pdf" class="dl-btn" download>📄 Descargar PDF</a>
-  <a href="/ApuntesGestionAvanzadaInformacion/epub/ApuntesGAI-es.epub" class="dl-btn" download>📚 Descargar EPUB</a>
+  <p style="margin:0 0 0.75rem;font-size:0.9rem;color:var(--sl-color-gray-2);font-weight:500;width:100%;text-align:center;">⬇️ ¿Prefieres estudiar sin conexión? Descarga el curso completo</p>
+  <a href="/ApuntesGestionAvanzadaInformacion/pdf/ApuntesGAI-es.pdf" class="dl-btn">📄 PDF (Castellano)</a>
+  <a href="/ApuntesGestionAvanzadaInformacion/epub/ApuntesGAI-es.epub" class="dl-btn">📱 EPUB</a>
+</div>
+
+<div align="center" style="margin:1.5rem 0;">
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank">
+    <img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31">
+  </a>
+  <p style="font-size:0.8rem;color:var(--sl-color-gray-3);margin-top:0.5rem;">
+    <strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0
+  </p>
 </div>
 
 ## 📚 Unidades
@@ -371,18 +375,13 @@ description: Curso completo de Gestión Avanzada de la Información para CFGS As
 
 </div>
 
-## Licencia
+## 📄 Licencia
 
-<div align="center">
+<div align="center" style="font-size:0.85rem;color:var(--sl-color-gray-3);">
 
-**Gestión Avanzada de la Información — CFGS Asistencia a la Dirección**
-
-© 2026 Sergi Garcia Barea. Licencia **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
+**Gestión Avanzada de la Información — CFGS Asistencia a la Dirección**  
+© 2026 Sergi Garcia Barea · CC BY-SA 4.0
 
 Eres libre de compartir, copiar, distribuir y adaptar el material para cualquier propósito, incluso comercial, siempre que reconozcas la autoría y compartas las adaptaciones bajo la misma licencia.
-
-<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank">
-  <img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31">
-</a>
 
 </div>
