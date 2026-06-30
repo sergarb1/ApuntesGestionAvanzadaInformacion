@@ -112,3 +112,19 @@ title: "Boletín 09 - Nivel Fácil (Resuelto): Flujos de trabajo, custodia de do
    Procedimiento en 6 pasos con identificación, autorización, eliminación segura y registro documental.
    ```
    > **💡 Explicación:** Eliminar documentos no es tan sencillo como pulsar "Suprimir". La normativa exige un proceso controlado con autorización y registro. La eliminación segura garantiza que los datos no puedan reconstruirse, protegiendo la confidencialidad.
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: La auditoría que destapa una filtración de datos
+
+El Delegado de Protección de Datos de GesDoc Consulting te informa de que ha recibido una notificación: un empleado del departamento de Formación ha enviado por error un listado de empleados con datos personales (nombre, DNI, salario) a toda la lista de distribución de clientes externos. El error ocurrió hace 20 minutos. Ahora mismo no sabes: (1) cuántos destinatarios lo han recibido, (2) si los datos se pueden recuperar, (3) qué obligación legal tienes de notificar a la Agencia Española de Protección de Datos.
+
+**Tu misión:** ¿Cuáles son las 3 acciones inmediatas que pones en marcha en los próximos 5 minutos? ¿Qué medidas preventivas implementarías en los workflows de aprobación de documentos para que un error así no pueda volver a ocurrir?
+
+> **Pistas para la reflexión:**
+> - La AEPD debe ser notificada en un plazo de 72 horas si hay riesgo para los derechos de las personas
+> - La primera acción es contener: pedir al empleado que revoque el correo si es posible, o enviar un correo de rectificación
+> - Los workflows de aprobación deberían detectar automáticamente envíos masivos con datos personales y requerir una doble validación
+```

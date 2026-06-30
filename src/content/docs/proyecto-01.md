@@ -38,6 +38,30 @@ GesDoc Consulting es una consultora de tamaño medio fundada en 2012, con sede e
 - Sea realista con el alcance: es mejor un proyecto acotado que funcione que uno ambicioso que fracase.
 - Identifique al menos un "campeón" del proyecto entre la alta dirección para asegurar patrocinio.
 
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El director financiero que no ve el retorno
+
+El director financiero de GesDoc Consulting te dice: "Esta propuesta de Knowledge Manager está muy bien, pero necesito cifras. ¿Cuánto nos cuesta NO hacerlo?"
+
+**Tu misión:** Prepara tres argumentos con estimaciones numéricas para 180 empleados: coste del tiempo perdido buscando información, coste de rotación y curvas de aprendizaje, y coste de errores repetidos.
+
+> **Pistas para la reflexión:**
+> - 180 empleados × 2 h/semana buscando info × 48 semanas × coste/hora medio
+> - ¿Cuánto tarda un nuevo empleado en ser productivo sin acceso a conocimiento histórico?
+> - Estima un porcentaje de proyectos que fracasan por falta de conocimiento compartido
+
+<details>
+<summary>🤔 Solución orientativa</summary>
+
+- **Tiempo perdido:** 180 emp. × 2 h/sem × 48 sem × 35 €/h = **604.800 €/año** en búsquedas ineficientes.
+- **Rotación:** 15 empleados/año × 3 meses baja productividad × 480 h × 35 €/h = **252.000 €/año**.
+- **Errores repetidos:** 2-3 proyectos/año × 20.000 € = **50.000 €/año**.
+
+Coste total de no hacer Knowledge Manager: ~900.000 €/año. Frente a un presupuesto de 85.000 €, el retorno es incuestionable.
+
+</details>
+
 ---
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*

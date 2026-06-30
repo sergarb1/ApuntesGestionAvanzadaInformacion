@@ -25,3 +25,19 @@ title: "Boletín 06 - Nivel Avanzado: Comunicación y trabajo en equipo con herr
    Describe los pasos, conectores y la lógica de asignación condicional.
 
    > 💡 **Pista:** El desafío está en la asignación condicional. Usa una "Condición" o "Cambiar" en Power Automate para bifurcar según el producto. Necesitarás Forms, SharePoint, Planner y Teams como conectores. Ten en cuenta los límites de concurrencia al procesar el formulario.
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El equipo que habla en 4 idiomas (digitales)
+
+Eres el Knowledge Manager y acabas de descubrir que el equipo del proyecto se comunica así: los de Madrid usan Teams, los de Barcelona usan WhatsApp, los de Valencia usan correo electrónico y los de Bilbao usan Slack (herencia de un cliente antiguo). Cada vez que hay que tomar una decisión importante, la información está repartida en 4 sitios distintos y nadie tiene la versión completa. Las decisiones se retrasan, la gente se salta cadenas y los malentendidos crecen.
+
+**Tu misión:** Diseña un plan de unificación de la comunicación en 30 días. ¿Qué herramienta eliges como canal oficial? ¿Cómo convences a cada oficina para que abandone su herramienta actual? ¿Qué haces con la información histórica que ya está en cada plataforma?
+
+> **Pistas para la reflexión:**
+> - La mejor herramienta no es la más potente, es la que todo el equipo usa de verdad
+> - El cambio requiere formación y un período de solapamiento (no apagues todas las herramientas el mismo día)
+> - La información histórica importante debe migrarse; la trivial puede perderse
+```

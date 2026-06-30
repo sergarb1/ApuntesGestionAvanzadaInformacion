@@ -21,3 +21,19 @@ title: "Boletín 09 - Nivel Fácil: Flujos de trabajo, custodia de documentos y 
    La empresa ha decidido eliminar facturas anteriores a 2018 (8 años de antigüedad). Enumera los pasos que debes seguir para hacerlo de forma segura y conforme a la ley: identificación de los documentos a eliminar, autorización, método de eliminación y registro de la destrucción. ¿Qué documentos NO deberías eliminar aunque superen el plazo?
 
    > 💡 **Pista:** La eliminación segura requiere más que borrar archivos. Piensa en métodos como el borrado criptográfico. Antes de eliminar, comprueba que ningún documento esté vinculado a litigios o auditorías abiertas. Siempre levanta un acta de destrucción.
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: La auditoría que destapa una filtración de datos
+
+El Delegado de Protección de Datos de GesDoc Consulting te informa de que ha recibido una notificación: un empleado del departamento de Formación ha enviado por error un listado de empleados con datos personales (nombre, DNI, salario) a toda la lista de distribución de clientes externos. El error ocurrió hace 20 minutos. Ahora mismo no sabes: (1) cuántos destinatarios lo han recibido, (2) si los datos se pueden recuperar, (3) qué obligación legal tienes de notificar a la Agencia Española de Protección de Datos.
+
+**Tu misión:** ¿Cuáles son las 3 acciones inmediatas que pones en marcha en los próximos 5 minutos? ¿Qué medidas preventivas implementarías en los workflows de aprobación de documentos para que un error así no pueda volver a ocurrir?
+
+> **Pistas para la reflexión:**
+> - La AEPD debe ser notificada en un plazo de 72 horas si hay riesgo para los derechos de las personas
+> - La primera acción es contener: pedir al empleado que revoque el correo si es posible, o enviar un correo de rectificación
+> - Los workflows de aprobación deberían detectar automáticamente envíos masivos con datos personales y requerir una doble validación
+```

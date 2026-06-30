@@ -176,3 +176,19 @@ Revisar la entrevista completa y marcar los momentos clave:
 Un plan detallado de edición con cada paso documentado, desde el visionado hasta la exportación final.
 
 > **💡 Explicación:** La edición de entrevistas requiere un equilibrio entre mantener la naturalidad del discurso y condensar la información. El uso de múltiples cámaras (multicam) y B-roll enriquece visualmente la pieza. La corrección de color asegura consistencia visual entre clips de diferentes fuentes.
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El vídeo que se escucha fatal
+
+Has grabado una entrevista al director de operaciones para el vídeo de lanzamiento del proyecto Knowledge Manager. Habla de los problemas de conocimiento en su departamento y es justo lo que necesitas. Pero al revisar el material, el audio tiene un zumbido de fondo constante que casi no deja oír su voz. No tienes tiempo ni presupuesto para volver a grabar. La presentación es en 3 días.
+
+**Tu misión:** ¿Cómo salvas el vídeo? ¿Qué herramientas o técnicas de postproducción puedes usar para limpiar el audio? ¿Y si no consigues un audio perfecto, cómo minimizas el impacto (subtítulos, música, texto en pantalla)?
+
+> **Pistas para la reflexión:**
+> - Los editores de vídeo tienen ecualizadores y filtros de reducción de ruido. Prueba con un filtro de paso alto para eliminar frecuencias graves
+> - Existen herramientas online gratuitas de limpieza de audio (Adobe Podcast Enhance, Audacity)
+> - Como plan de emergencia: subtítulos obligatorios, una música de fondo suave que enmascare el ruido
+```

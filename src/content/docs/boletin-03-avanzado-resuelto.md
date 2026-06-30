@@ -204,3 +204,16 @@ Paso 4: Probar la actualización
 Un sistema integrado donde Word y PowerPoint se actualizan automáticamente al modificar los datos en Excel, sin escribir una línea de código.
 
 > **💡 Explicación:** La vinculación de datos (Pegado especial > Pegar vínculo) permite que documentos de Word y presentaciones de PowerPoint se actualicen automáticamente cuando cambian los datos originales en Excel. Es la alternativa sin código a la automatización con macros. Los vínculos se actualizan al abrir el documento (previo aviso de seguridad) y también manualmente desde Archivo > Editar vínculos a archivos.
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El informe que tu jefe quiere en 10 minutos
+
+Tu jefe entra en tu despacho a las 14:50: "Necesito un informe con los datos de ventas del trimestre, con gráficos y todo, para la reunión de las 15:00 con el director comercial. Ah, y los datos están en una hoja de Excel que aún no está cerrada porque el departamento de contabilidad sigue introduciendo cifras."
+
+**Tu misión:** ¿Cómo resuelves el plazo imposible sin morir en el intento? ¿Qué técnica ofimática te permite tener el informe listo aunque los datos sigan cambiando? Explica el proceso paso a paso.
+
+> **Pistas para la reflexión:**
+> - Vincular datos (no incrustarlos) permite que el informe se actualice solo cuando cambien los datos origen
+> - Una plantilla de informe predefinida te ahorra el 80% del tiempo de maquetación
+> - ¿Qué pasa si los datos llegan con 5 minutos de retraso? Ten un plan B

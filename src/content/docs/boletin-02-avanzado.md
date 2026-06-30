@@ -60,3 +60,16 @@ El proyecto de consultoría tiene 4 consultores disponibles. Las tareas y sus ne
 Planifica la asignación de recursos aplicando nivelación. Calcula la duración inicial (sin nivelar), identifica el conflicto de recursos, aplica nivelación y calcula la nueva duración. Presenta un diagrama de carga de recursos antes y después.
 
 > 💡 **Pista:** Dibuja primero la planificación sin restricciones y calcula los recursos necesarios por día. Identifica los días donde se superan los 4 consultores disponibles. Para nivelar, retrasa las tareas con holgura (no críticas) hasta que la demanda no supere la oferta. Mide cuántos días adicionales añade la nivelación al proyecto.
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: La reunión de seguimiento donde nadie ha actualizado nada
+
+Son las 9:30. Empieza la reunión semanal de seguimiento del proyecto Knowledge Manager. Abres el cronograma en la pantalla y ves que los estados no se han actualizado desde la semana pasada. Preguntas "¿cómo vamos?" y obtienes respuestas vagas: "ahí, ahí", "estoy en ello", "esta semana lo termino".
+
+**Tu misión:** ¿Cómo reconduces la reunión para obtener información útil? ¿Qué dos cambios harías en el proceso de seguimiento para que no vuelva a pasar?
+
+> **Pistas para la reflexión:**
+> - Las preguntas cerradas ("¿al 100%?") dan respuestas concretas; las abiertas ("¿cómo va?") dan vaguedades
+> - ¿Quién actualiza el cronograma? ¿Cada miembro del equipo o una sola persona?
+> - Una reunión sin datos es una conversación de café. Una reunión con datos es gestión.

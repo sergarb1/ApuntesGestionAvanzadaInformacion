@@ -41,6 +41,33 @@ GesDoc Consulting ya cuenta con un sistema de clasificación documental que defi
 - Los workflows deben ser simples al principio. Puede añadir complejidad progresivamente cuando los usuarios se hayan adaptado.
 - El checklist GDPR no es un trámite: es una herramienta de trabajo. Asegúrese de que incluya acciones concretas y responsables asignados.
 
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El cliente que ejerce su derecho al olvido
+
+Recibes un correo de un cliente de GesDoc Consulting: "En virtud del RGPD, les solicito la eliminación de todos mis datos personales de sus sistemas. Adjunto copia de mi DNI." El problema es que los datos de este cliente pueden estar en múltiples sitios: propuestas comerciales, informes de proyectos, materiales formativos, correos electrónicos, actas de reuniones... y no tienes un registro único de dónde se almacenan los datos personales.
+
+**Tu misión:** Diseña el procedimiento para atender esta solicitud en el plazo legal de 30 días. ¿Qué pasos sigues? ¿Quién se involucra? ¿Cómo documentas que has cumplido? ¿Qué cambios harías en tu política de custodia para que la próxima vez sea más fácil localizar los datos personales?
+
+> **Pistas para la reflexión:**
+> - El plazo legal es de 30 días y no puedes fallar: las multas RGPD son de hasta 20 millones de euros
+> - Necesitas un "mapa de datos" que indique dónde se almacena información personal
+> - ¿Tus workflows de creación documental incluyen una casilla "contiene datos personales"?
+
+<details>
+<summary>🤔 Solución orientativa</summary>
+
+Procedimiento inmediato:
+1. **Identifica:** busca en sistemas documentales, correo, CRM y carpetas compartidas cualquier mención al cliente. Usa su nombre y DNI como términos de búsqueda.
+2. **Bloquea:** restringe el acceso a los documentos encontrados para que no se modifiquen durante el proceso.
+3. **Clasifica:** separa los datos personales (nombre, DNI, email, teléfono) del contenido del documento. Los datos personales se eliminan; el contenido del documento (si no contiene datos personales) puede conservarse.
+4. **Ejecuta:** elimina o anonimiza los datos personales. Documenta cada acción con fecha y responsable.
+5. **Responde:** envía al cliente confirmación escrita de la eliminación, incluyendo el detalle de qué datos se han eliminado y de qué sistemas.
+
+Para el futuro: añade un campo "contiene datos personales: sí/no" como metadato obligatorio en todos los documentos nuevos. Crea un registro de actividades de tratamiento (RAT) que centralice qué datos personales se almacenan y dónde.
+
+</details>
+
 ---
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*

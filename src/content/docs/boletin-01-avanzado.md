@@ -27,3 +27,16 @@ La empresa FamiliCorp (50 años de historia, 200 empleados, cultura tradicional)
 Diseña un marco de gobierno para un programa de transformación digital que abarca 4 proyectos simultáneos (CRM, ERP, BI, E-commerce) en una empresa de 500 empleados. Define: comités necesarios (al menos 3), niveles de decisión, umbrales de escalado, frecuencia de reuniones y responsables. Incluye un diagrama de la estructura de gobierno.
 
 > 💡 **Pista:** El marco de gobierno debe responder a: ¿quién decide cada tipo de decisión? ¿cómo se escalan los problemas cuando superan un nivel? Define umbrales económicos y de plazo para escalar. Los comités deben tener diferente nivel jerárquico y frecuencia de reunión. El diagrama ayuda a visualizar la estructura.
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El elevator pitch que te juegas en el ascensor
+
+Subes al ascensor de GesDoc Consulting y, para tu sorpresa, está el nuevo Consejero Delegado. Te mira y te dice: "Oye, tú eres el del proyecto ese de Knowledge Management, ¿verdad? Explícamelo en 30 segundos, que llegamos a la séptima planta."
+
+**Tu misión:** Prepara tu discurso de ascensor. Debe incluir: qué problema resuelve, cómo lo haces y qué beneficio concreto aporta a la empresa. Sin jerga técnica. En 30 segundos.
+
+> **Pistas para la reflexión:**
+> - No uses las palabras "Knowledge Management" en la primera frase. Empieza por el problema.
+> - Un CEO quiere saber: ¿esto ayuda a ganar más o a gastar menos?
+> - Practica en voz alta. Si no te sale en menos de 80 palabras, es demasiado largo.

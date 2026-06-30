@@ -40,6 +40,29 @@ El proyecto KM está en marcha, pero la dirección de GesDoc Consulting detecta 
 - Mantenga un ritmo ágil: si una escena dura más de 15 segundos sin cambiar, el espectador pierde atención.
 - Incluya testimonios breves de empleados reales si es posible; nadie vende mejor el proyecto que los propios compañeros.
 
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El vídeo que se volvió viral (pero no como esperabas)
+
+Has producido un vídeo corporativo de 4 minutos sobre el proyecto Knowledge Manager. La dirección lo aprueba, se publica en la intranet y se envía por correo a toda la empresa. A las 24 horas, el vídeo tiene 500 visualizaciones y 20 comentarios. Pero los comentarios no son precisamente positivos: "No me queda claro qué tengo que hacer", "Esto es otra iniciativa de RRHH que se quedará en nada", "¿Y esto a mí en qué me beneficia?". El director de comunicación te llama preocupado.
+
+**Tu misión:** Analiza qué ha fallado en la comunicación y rediseña la estrategia. ¿El problema es el guion, el tono, el canal o la audiencia? ¿Qué harías diferente para la segunda versión del vídeo? ¿Cómo responderías a los comentarios negativos?
+
+> **Pistas para la reflexión:**
+> - ¿El vídeo habla en "lenguaje empresa" o en "lenguaje empleado"?
+> - ¿Has explicado el beneficio concreto para cada perfil (consultor, administrativo, directivo)?
+> - Los comentarios negativos no son un problema: son información gratis para mejorar
+
+<details>
+<summary>🤔 Solución orientativa</summary>
+
+Análisis: el problema probablemente es que el vídeo habla del proyecto en términos institucionales, no personales. Los empleados necesitan saber "¿qué gano yo con esto?".
+- Rediseña el guión con tres historias de empleados reales (o simulados): un consultor que encontró rápido un documento clave, un administrativo que automatizó una tarea repetitiva, un directivo que tomó una decisión informada gracias al Knowledge Manager.
+- Responde a cada comentario negativo de forma individual y honesta: "Tienes razón, no explicamos bien el beneficio para tu puesto. En la siguiente fase haremos una sesión específica para tu departamento. ¿Te parece si hablamos?"
+- Segmenta la comunicación: vídeo general para la visión, sesiones por departamento para el "cómo me afecta".
+
+</details>
+
 ---
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*

@@ -21,3 +21,19 @@ title: "Boletín 10 - Nivel Avanzado: Proyecto Knowledge Management (I)"
    Diseña el esquema completo de una memoria de proyecto de implantación de un sistema de knowledge management. El esquema debe tener al menos 10 secciones. Desarrolla en profundidad la sección "Arquitectura del sistema y flujos de información", describiendo: repositorio único, motor de búsqueda, taxonomía, permisos de acceso e integraciones con otras herramientas. Redacta esta sección como si fuera la memoria real presentada a la dirección.
 
    > 💡 **Pista:** El esquema debe seguir la estructura clásica de una memoria: portada → resumen ejecutivo → análisis → propuesta → planificación → recursos → riesgos → formación → KPIs → conclusiones. Para la sección de arquitectura, sé concreto: nombra las herramientas (SharePoint, Teams, Power Automate) y explica cómo se relacionan entre sí.
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: La memoria final es un rompecabezas de 9 piezas
+
+Faltan 4 días para entregar la memoria del proyecto Knowledge Manager. Cada unidad del curso ha generado un entregable: propuesta, planificación, plantillas, dashboard, vídeo, espacio colaborativo, portal web, clasificación documental, política de custodia. Tienes 9 archivos en 9 carpetas distintas, cada uno con su propio formato, estilo y estructura. Tu jefe de proyecto te pide "la memoria unificada para mañana".
+
+**Tu misión:** ¿Qué estructura le das a la memoria para que las 9 piezas tengan coherencia? ¿Cómo organizas los contenidos para que un directivo pueda leer el resumen ejecutivo y un técnico pueda ir a los detalles? ¿Qué haces con los formatos dispares (Word, Excel, PowerPoint, vídeo)?
+
+> **Pistas para la reflexión:**
+> - La memoria debe tener un hilo conductor: situación inicial → fases del proyecto → resultados → lecciones aprendidas
+> - Los entregables en formatos no textuales (vídeo, Excel) van como anexos o capturas incorporadas al cuerpo
+> - El resumen ejecutivo se escribe el último, pero va el primero: debe poder leerse solo y contar toda la historia
+```

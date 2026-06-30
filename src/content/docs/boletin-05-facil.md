@@ -27,3 +27,19 @@ Planifica y describe el proceso de creación de un screencast (grabación de pan
 Describe el proceso de edición de una entrevista corporativa de 20 minutos (formato raw) para convertirla en una pieza final de 3 minutos. El material incluye: 2 cámaras (cámara principal al entrevistado, segunda cámara al entrevistador), gráficos de apoyo (3 diapositivas), y un clip de B-roll de las instalaciones. Detalla: selección de fragmentos, sincronización de audio, inserción de B-roll, corrección de color y exportación.
 
 > 💡 **Pista:** Visiona la entrevista completa y marca los fragmentos más interesantes con códigos de tiempo. Sincroniza ambas cámaras por el audio (busca un pico común). Alterna entre planos cada 10-15 segundos para mantener el interés visual. El B-roll debe ilustrar lo que se dice, no ser aleatorio. La corrección de color debe igualar ambas cámaras.
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El vídeo que se escucha fatal
+
+Has grabado una entrevista al director de operaciones para el vídeo de lanzamiento del proyecto Knowledge Manager. Habla de los problemas de conocimiento en su departamento y es justo lo que necesitas. Pero al revisar el material, el audio tiene un zumbido de fondo constante que casi no deja oír su voz. No tienes tiempo ni presupuesto para volver a grabar. La presentación es en 3 días.
+
+**Tu misión:** ¿Cómo salvas el vídeo? ¿Qué herramientas o técnicas de postproducción puedes usar para limpiar el audio? ¿Y si no consigues un audio perfecto, cómo minimizas el impacto (subtítulos, música, texto en pantalla)?
+
+> **Pistas para la reflexión:**
+> - Los editores de vídeo tienen ecualizadores y filtros de reducción de ruido. Prueba con un filtro de paso alto para eliminar frecuencias graves
+> - Existen herramientas online gratuitas de limpieza de audio (Adobe Podcast Enhance, Audacity)
+> - Como plan de emergencia: subtítulos obligatorios, una música de fondo suave que enmascare el ruido
+```

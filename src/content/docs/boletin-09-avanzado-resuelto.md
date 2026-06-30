@@ -165,3 +165,19 @@ title: "Boletín 09 - Nivel Avanzado (Resuelto): Flujos de trabajo, custodia de 
    Informe de auditoría completo con alcance, checklist, 3 hallazgos, recomendaciones y plan de acción con plazos.
    ```
    > **💡 Explicación:** Un informe de auditoría no solo detecta incumplimientos, sino que propone soluciones con plazos concretos. La dirección necesita saber qué está mal, por qué es importante y qué hay que hacer para solucionarlo. Sin plan de acción, la auditoría es solo un papel.
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: La auditoría que destapa una filtración de datos
+
+El Delegado de Protección de Datos de GesDoc Consulting te informa de que ha recibido una notificación: un empleado del departamento de Formación ha enviado por error un listado de empleados con datos personales (nombre, DNI, salario) a toda la lista de distribución de clientes externos. El error ocurrió hace 20 minutos. Ahora mismo no sabes: (1) cuántos destinatarios lo han recibido, (2) si los datos se pueden recuperar, (3) qué obligación legal tienes de notificar a la Agencia Española de Protección de Datos.
+
+**Tu misión:** ¿Cuáles son las 3 acciones inmediatas que pones en marcha en los próximos 5 minutos? ¿Qué medidas preventivas implementarías en los workflows de aprobación de documentos para que un error así no pueda volver a ocurrir?
+
+> **Pistas para la reflexión:**
+> - La AEPD debe ser notificada en un plazo de 72 horas si hay riesgo para los derechos de las personas
+> - La primera acción es contener: pedir al empleado que revoque el correo si es posible, o enviar un correo de rectificación
+> - Los workflows de aprobación deberían detectar automáticamente envíos masivos con datos personales y requerir una doble validación
+```

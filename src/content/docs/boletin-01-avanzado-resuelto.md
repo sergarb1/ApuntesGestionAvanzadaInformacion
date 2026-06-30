@@ -173,3 +173,16 @@ Comité Técnico (CT)
 Un marco de gobierno completo con comités, niveles de decisión, escalado y diagrama que permita gestionar el programa de forma estructurada.
 
 > **💡 Explicación:** Un marco de gobierno define quién decide qué y cómo se escalan los problemas. Es crítico en programas con múltiples proyectos para evitar cuellos de botella en la toma de decisiones y asegurar que los problemas se abordan al nivel adecuado.
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El elevator pitch que te juegas en el ascensor
+
+Subes al ascensor de GesDoc Consulting y, para tu sorpresa, está el nuevo Consejero Delegado. Te mira y te dice: "Oye, tú eres el del proyecto ese de Knowledge Management, ¿verdad? Explícamelo en 30 segundos, que llegamos a la séptima planta."
+
+**Tu misión:** Prepara tu discurso de ascensor. Debe incluir: qué problema resuelve, cómo lo haces y qué beneficio concreto aporta a la empresa. Sin jerga técnica. En 30 segundos.
+
+> **Pistas para la reflexión:**
+> - No uses las palabras "Knowledge Management" en la primera frase. Empieza por el problema.
+> - Un CEO quiere saber: ¿esto ayuda a ganar más o a gastar menos?
+> - Practica en voz alta. Si no te sale en menos de 80 palabras, es demasiado largo.

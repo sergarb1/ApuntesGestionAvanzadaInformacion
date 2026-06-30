@@ -27,3 +27,19 @@ Diseña una campaña de marketing en vídeo para promocionar un webinar gratuito
 Diseña un proceso completo de producción de vídeo corporativo para una empresa que produce 12 vídeos al año (1 al mes). El proceso debe cubrir: flujo de trabajo desde la solicitud hasta la entrega, roles del equipo mínimo (3 personas), herramientas software recomendadas por fase, estándares de calidad (checklist de aprobación), sistema de almacenamiento y versionado de archivos, y métricas de productividad (tiempo medio de producción, coste por vídeo). Incluye un diagrama del flujo de trabajo.
 
 > 💡 **Pista:** Define roles claros con responsabilidades específicas: un productor (gestión), un realizador/editor (técnica) y un motion designer (grafismo). El flujo de trabajo debe dividirse en 6 fases con días estimados. El sistema de almacenamiento debe separar originales, proyectos, exportaciones y recursos. Las métricas de productividad son esenciales para justificar recursos y mejorar procesos. La regla 3-2-1 de copia de seguridad es crítica.
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El vídeo que se escucha fatal
+
+Has grabado una entrevista al director de operaciones para el vídeo de lanzamiento del proyecto Knowledge Manager. Habla de los problemas de conocimiento en su departamento y es justo lo que necesitas. Pero al revisar el material, el audio tiene un zumbido de fondo constante que casi no deja oír su voz. No tienes tiempo ni presupuesto para volver a grabar. La presentación es en 3 días.
+
+**Tu misión:** ¿Cómo salvas el vídeo? ¿Qué herramientas o técnicas de postproducción puedes usar para limpiar el audio? ¿Y si no consigues un audio perfecto, cómo minimizas el impacto (subtítulos, música, texto en pantalla)?
+
+> **Pistas para la reflexión:**
+> - Los editores de vídeo tienen ecualizadores y filtros de reducción de ruido. Prueba con un filtro de paso alto para eliminar frecuencias graves
+> - Existen herramientas online gratuitas de limpieza de audio (Adobe Podcast Enhance, Audacity)
+> - Como plan de emergencia: subtítulos obligatorios, una música de fondo suave que enmascare el ruido
+```

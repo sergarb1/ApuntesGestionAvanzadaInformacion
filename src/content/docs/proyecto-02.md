@@ -40,6 +40,26 @@ La propuesta del proyecto KM (Proyecto 1) ha sido aprobada por la dirección de 
 - Identifique las dependencias críticas: cualquier retraso en el diagnóstico inicial retrasa todo el proyecto.
 - Reserve al menos un 10% del presupuesto para contingencias no previstas.
 
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El recurso clave que se va a mitad del proyecto
+
+Tu planificación del proyecto Knowledge Manager está aprobada. Lleváis dos meses y todo va según el cronograma. De repente, la consultora senior encargada de la captura de conocimiento crítico anuncia que se marcha de la empresa en tres semanas. Era la única persona que conocía a fondo los procesos del departamento de Consultoría Estratégica.
+
+**Tu misión:** ¿Qué haces? Rediseña la planificación sobre la marcha: ¿cómo reasignas sus tareas? ¿A quién pones a su lado para que transfiera el conocimiento antes de irse? ¿Qué tareas retrasas y cuáles adelantas? Actualiza el diagrama de Gantt mentalmente con los cambios.
+
+> **Pistas para la reflexión:**
+> - Prioriza la transferencia de conocimiento por encima de cualquier otra tarea en estas tres semanas
+> - ¿Puedes dividir las tareas de la consultora entre varias personas para minimizar el impacto?
+> - ¿Qué dice tu matriz de riesgos? Este riesgo debería estar identificado.
+
+<details>
+<summary>🤔 Solución orientativa</summary>
+
+Acción inmediata: (1) Reasigna a la consultora senior a tiempo completo a transferencia de conocimiento durante sus últimas 3 semanas — que documente procesos, grabe sesiones y realice acompañamiento a su sustituto. (2) Distribuye sus tareas pendientes entre el equipo: las críticas las asume el Knowledge Manager, las operativas se reparten entre consultores juniors. (3) Activa el plan de contingencia del riesgo "rotación de personal clave" (identificado en tu matriz de riesgos). (4) Ajusta el cronograma: aplaza 2 semanas las tareas no críticas, mantén las fechas de los hitos principales. (5) Programa una reunión extraordinaria con el comité del proyecto para comunicar los cambios y validar el nuevo plan.
+
+</details>
+
 ---
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*

@@ -39,6 +39,29 @@ Han transcurrido seis meses desde el inicio del proyecto KM en GesDoc Consulting
 - La presentación final del proyecto se preparará y entregará en la Unidad 11. Aquí concéntrese en la memoria técnica.
 - Enhorabuena por llegar hasta aquí. Un proyecto de KM no termina con la entrega de esta memoria: comienza una nueva etapa de mejora continua. ¡El conocimiento de GesDoc Consulting está ahora en sus manos!
 
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El nuevo CEO que no se cree el proyecto
+
+Acabas de entregar la Memoria Técnica del proyecto Knowledge Manager tras 6 meses de trabajo. Todo está documentado, evaluado y con lecciones aprendidas. Pero al día siguiente, la empresa anuncia un nuevo Consejero Delegado procedente de otro sector. En su primera reunión contigo, te dice: "He leído su memoria. Está muy bien escrita. Pero vengo de una empresa donde todo esto se hacía con Excel y el boca a boca. ¿De verdad necesitamos todo este despliegue?".
+
+**Tu misión:** Prepara un argumento de 3 minutos que convenza al nuevo CEO de que el sistema Knowledge Manager es estratégico para GesDoc Consulting. ¿Qué 3 mensajes clave le darías? ¿Qué dato concreto de la memoria usarías como prueba irrefutable? ¿Cómo conectarías el proyecto con los objetivos de negocio que a él le importan?
+
+> **Pistas para la reflexión:**
+> - Un CEO nuevo quiere saber dos cosas: ¿esto ayuda a ganar más dinero? ¿esto ayuda a gastar menos?
+> - Los datos de tu memoria (KPIs, encuestas, métricas de uso) son tus mejores aliados
+> - No uses jerga Knowledge Manager. Habla en su idioma: negocio, resultados, eficiencia
+
+<details>
+<summary>🤔 Solución orientativa</summary>
+
+Discurso de 3 minutos en tres partes:
+1. **El problema que resuelve:** "Señor CEO, antes de este proyecto, un consultor perdía 2 horas al día buscando información que ya existía en algún sitio. Eso son 600.000 € al año en tiempo perdido. Con el sistema Knowledge Manager, hemos reducido ese tiempo en un 40% en solo 6 meses."
+2. **Los resultados concretos:** "Hoy, cualquier empleado encuentra en menos de 2 minutos el documento que necesita. La base de conocimiento tiene 150+ lecciones aprendidas. El 75% de los nuevos empleados se forma usando los materiales del portal, reduciendo la curva de aprendizaje en un 30%. Todo esto está medido en el dashboard que puede consultar cuando quiera."
+3. **La visión de futuro:** "El sistema ya está funcionando y dando resultados. Ahora no se trata de mantenerlo, sino de escalarlo. Mi propuesta es extenderlo a las nuevas oficinas internacionales el próximo año. El coste de mantenimiento es mínimo comparado con el beneficio de retener el conocimiento crítico de la organización."
+
+</details>
+
 ---
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*

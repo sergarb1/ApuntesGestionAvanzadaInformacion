@@ -21,3 +21,19 @@ title: "Boletín 10 - Nivel Fácil: Proyecto Knowledge Management (I)"
    Define al menos 4 KPI para medir el éxito del proyecto de gestión documental. Para cada uno: nombre, fórmula de cálculo, frecuencia de medición y valor objetivo. Ejemplos: tiempo de búsqueda, documentos sin clasificar, satisfacción del usuario, cumplimiento de plazos de conservación.
 
    > 💡 **Pista:** Elige KPI que sean SMARTER (Specific, Measurable, Achievable, Relevant, Time-bound, Evaluated). El tiempo de búsqueda y el porcentaje de documentos clasificados son dos KPIs clásicos en gestión documental.
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: La memoria final es un rompecabezas de 9 piezas
+
+Faltan 4 días para entregar la memoria del proyecto Knowledge Manager. Cada unidad del curso ha generado un entregable: propuesta, planificación, plantillas, dashboard, vídeo, espacio colaborativo, portal web, clasificación documental, política de custodia. Tienes 9 archivos en 9 carpetas distintas, cada uno con su propio formato, estilo y estructura. Tu jefe de proyecto te pide "la memoria unificada para mañana".
+
+**Tu misión:** ¿Qué estructura le das a la memoria para que las 9 piezas tengan coherencia? ¿Cómo organizas los contenidos para que un directivo pueda leer el resumen ejecutivo y un técnico pueda ir a los detalles? ¿Qué haces con los formatos dispares (Word, Excel, PowerPoint, vídeo)?
+
+> **Pistas para la reflexión:**
+> - La memoria debe tener un hilo conductor: situación inicial → fases del proyecto → resultados → lecciones aprendidas
+> - Los entregables en formatos no textuales (vídeo, Excel) van como anexos o capturas incorporadas al cuerpo
+> - El resumen ejecutivo se escribe el último, pero va el primero: debe poder leerse solo y contar toda la historia
+```

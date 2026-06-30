@@ -21,3 +21,19 @@ title: "Boletín 08 - Nivel Avanzado: Archivo digital: cómo organizar los docum
    Investiga los plazos de conservación legales en España para: facturas (Ley 58/2003), contratos mercantiles (Código de Comercio), nóminas (ET), informes anuales y actas de consejo (LSC). Diseña una tabla con el tipo documental, plazo legal, base normativa y acción al vencimiento (eliminar, conservar parcialmente, transferir a archivo histórico). Aplica estos plazos a un ejemplo concreto de cada tipo.
 
    > 💡 **Pista:** Busca en el Código de Comercio (art. 30), la Ley General Tributaria (art. 66-70) y el Estatuto de los Trabajadores. No todos los documentos se eliminan al vencimiento: algunos deben conservarse parcialmente (informes) o transferirse al archivo histórico (actas, escrituras).
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El contrato que no aparece por ninguna parte
+
+La directora financiera de GesDoc Consulting necesita urgentemente el contrato con un proveedor firmado hace 3 años. Hay una cláusula que debe revisar antes de renovar. Te pide el documento. Buscas en la carpeta de "Contratos" y encuentras 47 archivos con nombres como "contrato_proveedor_final.pdf", "contrato_proveedor_v2.pdf", "contrato_definitivo_SI_esta_vez_si.pdf". Abres varios y ninguno es el que buscas. Preguntas a 3 compañeros y cada uno te dice una ubicación distinta. Pasada una hora, sigues sin encontrar el contrato.
+
+**Tu misión:** ¿Qué ha fallado en el sistema de clasificación documental para que esta situación sea posible? Diseña 3 reglas básicas de nombrado y organización que eviten que esto vuelva a ocurrir.
+
+> **Pistas para la reflexión:**
+> - Un buen nombre de archivo debe contener: tipo_documento_cliente_fecha.pdf
+> - Las versiones se controlan con un sistema, no con nombres (v1, v2, final, definitivo...)
+> - La clasificación no es solo cosa tuya: si cada empleado clasifica como quiere, el sistema no sirve
+```

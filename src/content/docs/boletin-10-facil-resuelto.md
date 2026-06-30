@@ -114,3 +114,19 @@ title: "Boletín 10 - Nivel Fácil (Resuelto): Proyecto Knowledge Management (I)
    5 KPIs definidos con fórmula, frecuencia, objetivo y metodología de medición.
    ```
    > **💡 Explicación:** Los KPI convierten objetivos abstractos ("mejorar la organización") en métricas concretas ("tiempo de búsqueda < 2 min"). Lo que no se mide no se puede mejorar. Definir los KPI al inicio del proyecto permite evaluar objetivamente si se ha alcanzado el éxito.
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: La memoria final es un rompecabezas de 9 piezas
+
+Faltan 4 días para entregar la memoria del proyecto Knowledge Manager. Cada unidad del curso ha generado un entregable: propuesta, planificación, plantillas, dashboard, vídeo, espacio colaborativo, portal web, clasificación documental, política de custodia. Tienes 9 archivos en 9 carpetas distintas, cada uno con su propio formato, estilo y estructura. Tu jefe de proyecto te pide "la memoria unificada para mañana".
+
+**Tu misión:** ¿Qué estructura le das a la memoria para que las 9 piezas tengan coherencia? ¿Cómo organizas los contenidos para que un directivo pueda leer el resumen ejecutivo y un técnico pueda ir a los detalles? ¿Qué haces con los formatos dispares (Word, Excel, PowerPoint, vídeo)?
+
+> **Pistas para la reflexión:**
+> - La memoria debe tener un hilo conductor: situación inicial → fases del proyecto → resultados → lecciones aprendidas
+> - Los entregables en formatos no textuales (vídeo, Excel) van como anexos o capturas incorporadas al cuerpo
+> - El resumen ejecutivo se escribe el último, pero va el primero: debe poder leerse solo y contar toda la historia
+```

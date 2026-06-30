@@ -141,3 +141,19 @@ title: "Boletín 08 - Nivel Avanzado (Resuelto): Archivo digital: cómo organiza
    Tabla de conservación con 5 tipos documentales, plazos legales, base normativa y acciones al vencimiento.
    ```
    > **💡 Explicación:** Cada tipo documental tiene un plazo de conservación diferente según la ley. No todos los documentos deben conservarse para siempre; una política de eliminación programada reduce costes de almacenamiento y riesgos legales. Las actas de consejo y escrituras tienen valor permanente.
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El contrato que no aparece por ninguna parte
+
+La directora financiera de GesDoc Consulting necesita urgentemente el contrato con un proveedor firmado hace 3 años. Hay una cláusula que debe revisar antes de renovar. Te pide el documento. Buscas en la carpeta de "Contratos" y encuentras 47 archivos con nombres como "contrato_proveedor_final.pdf", "contrato_proveedor_v2.pdf", "contrato_definitivo_SI_esta_vez_si.pdf". Abres varios y ninguno es el que buscas. Preguntas a 3 compañeros y cada uno te dice una ubicación distinta. Pasada una hora, sigues sin encontrar el contrato.
+
+**Tu misión:** ¿Qué ha fallado en el sistema de clasificación documental para que esta situación sea posible? Diseña 3 reglas básicas de nombrado y organización que eviten que esto vuelva a ocurrir.
+
+> **Pistas para la reflexión:**
+> - Un buen nombre de archivo debe contener: tipo_documento_cliente_fecha.pdf
+> - Las versiones se controlan con un sistema, no con nombres (v1, v2, final, definitivo...)
+> - La clasificación no es solo cosa tuya: si cada empleado clasifica como quiere, el sistema no sirve
+```

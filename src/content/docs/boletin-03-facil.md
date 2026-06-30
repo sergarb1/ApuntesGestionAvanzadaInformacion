@@ -27,3 +27,16 @@ Crea la estructura de una presentación comercial para presentar los resultados 
 Configura una combinación de correspondencia en Word para enviar una carta personalizada a 50 clientes informando de un cambio en las condiciones de pago. La carta debe incluir: nombre del cliente, dirección, tratamiento (Sr./Sra.), importe actual de la póliza y fecha de entrada en vigor. Describe paso a paso el proceso.
 
 > 💡 **Pista:** El proceso tiene 3 grandes pasos: preparar la base de datos en Excel, crear la carta modelo en Word con los campos combinados, y ejecutar la combinación. En Word, usa Correspondencia > Iniciar combinación de correspondencia > Cartas. Los campos se insertan con "Insertar campo combinado". Revisa siempre la vista previa antes de finalizar.
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El informe que tu jefe quiere en 10 minutos
+
+Tu jefe entra en tu despacho a las 14:50: "Necesito un informe con los datos de ventas del trimestre, con gráficos y todo, para la reunión de las 15:00 con el director comercial. Ah, y los datos están en una hoja de Excel que aún no está cerrada porque el departamento de contabilidad sigue introduciendo cifras."
+
+**Tu misión:** ¿Cómo resuelves el plazo imposible sin morir en el intento? ¿Qué técnica ofimática te permite tener el informe listo aunque los datos sigan cambiando? Explica el proceso paso a paso.
+
+> **Pistas para la reflexión:**
+> - Vincular datos (no incrustarlos) permite que el informe se actualice solo cuando cambien los datos origen
+> - Una plantilla de informe predefinida te ahorra el 80% del tiempo de maquetación
+> - ¿Qué pasa si los datos llegan con 5 minutos de retraso? Ten un plan B

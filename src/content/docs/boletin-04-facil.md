@@ -27,3 +27,16 @@ Diseña una infografía en formato vertical (A4) que resuma los logros anuales d
 Elabora un informe de ventas trimestral en Excel para una cadena de tiendas de ropa. Debe incluir: portada con título y fecha, tabla de datos (6 meses × 3 tiendas), 2 gráficos (evolución de ventas por tienda y comparativa por categoría de producto), análisis de tendencias y un cuadro de conclusiones con recomendaciones.
 
 > 💡 **Pista:** Estructura el informe en 3 hojas separadas para claridad. Para el análisis de tendencias, añade una línea de tendencia (clic derecho en la serie > Agregar línea de tendencia). Las conclusiones deben traducir los datos en acciones concretas: ¿qué debe hacer la empresa con esta información?
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El gráfico que no cuenta nada
+
+La directora general de GesDoc Consulting recibe tu informe ejecutivo con 5 gráficos, tablas y un dashboard. Te llama y te dice: "He mirado los gráficos y no sé si las cosas van bien o mal. Esto parece una sopa de números. Necesito que en una diapositiva me expliques el estado del proyecto en 30 segundos."
+
+**Tu misión:** ¿Cuál es el problema? ¿Estás mostrando datos o estás contando una historia? Rediseña el mensaje: ¿qué gráfico quitas, cuál mantienes y qué titular le pones a cada uno? Prepara la diapositiva mentalmente con la estructura: titular → dato → conclusión.
+
+> **Pistas para la reflexión:**
+> - Menos es más: un gráfico bien explicado vale más que 5 gráficos sin contexto
+> - Cada gráfico debe responder a una pregunta concreta: ¿vamos bien de plazo? ¿de presupuesto? ¿de calidad?
+> - El titular debe ser la conclusión, no la descripción: "Vamos bien de plazo pero nos estamos saliendo del presupuesto" vs "Gráfico de evolución del proyecto"

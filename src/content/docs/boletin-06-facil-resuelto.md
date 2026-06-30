@@ -79,3 +79,19 @@ title: "Boletín 06 - Nivel Fácil (Resuelto): Comunicación y trabajo en equipo
    Plan "Tareas Documentación" creado con 4 tareas, cada una asignada y con fecha de vencimiento.
    ```
    > **💡 Explicación:** Planner integrado en Teams permite a cada miembro ver sus tareas asignadas y actualizar el estado en tiempo real, mejorando el seguimiento sin necesidad de correos internos.
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El equipo que habla en 4 idiomas (digitales)
+
+Eres el Knowledge Manager y acabas de descubrir que el equipo del proyecto se comunica así: los de Madrid usan Teams, los de Barcelona usan WhatsApp, los de Valencia usan correo electrónico y los de Bilbao usan Slack (herencia de un cliente antiguo). Cada vez que hay que tomar una decisión importante, la información está repartida en 4 sitios distintos y nadie tiene la versión completa. Las decisiones se retrasan, la gente se salta cadenas y los malentendidos crecen.
+
+**Tu misión:** Diseña un plan de unificación de la comunicación en 30 días. ¿Qué herramienta eliges como canal oficial? ¿Cómo convences a cada oficina para que abandone su herramienta actual? ¿Qué haces con la información histórica que ya está en cada plataforma?
+
+> **Pistas para la reflexión:**
+> - La mejor herramienta no es la más potente, es la que todo el equipo usa de verdad
+> - El cambio requiere formación y un período de solapamiento (no apagues todas las herramientas el mismo día)
+> - La información histórica importante debe migrarse; la trivial puede perderse
+```

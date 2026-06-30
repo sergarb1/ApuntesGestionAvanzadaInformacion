@@ -21,3 +21,19 @@ title: "Boletín 07 - Nivel Fácil: Oficina virtual y página web de la empresa"
    Instala y activa el plugin "Wordfence Security" en WordPress. Realiza un escaneo básico de seguridad. Explica qué acciones recomienda el plugin tras el análisis y cómo programar escaneos periódicos.
 
    > 💡 **Pista:** Una vez activado, encontrarás "Wordfence" en el menú lateral. El escaneo se inicia desde la subpestaña "Scan". Las opciones de programación están en "Opciones de escaneo".
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: La web que muestra información incorrecta
+
+Un empleado de GesDoc Consulting te escribe: "Oye, en el portal del conocimiento pone que el procedimiento para solicitar vacaciones es enviar un correo a RRHH, pero eso cambió el mes pasado. Ahora se hace a través de una herramienta nueva. Varios compañeros han enviado correos a la antigua dirección y se han perdido solicitudes." Revisas el portal y efectivamente, hay 3 páginas con información desactualizada, una con un enlace roto y otra que muestra el organigrama de hace 2 años.
+
+**Tu misión:** ¿Cómo solucionas la situación actual (corregir el contenido erróneo) y cómo evitas que vuelva a pasar? Propón un proceso de revisión y actualización de contenidos que funcione sin que te lleve todo tu tiempo.
+
+> **Pistas para la reflexión:**
+> - Un portal sin dueño es un portal muerto. Cada sección debe tener un responsable de contenido
+> - Programa revisiones trimestrales con los responsables de cada área
+> - Añade un aviso de "Última actualización: [fecha]" en cada página para que los usuarios sepan si el contenido está fresco
+```

@@ -244,3 +244,16 @@ F:                          ████ ████ (4 consultores)
 Un plan de nivelación con diagramas de carga antes y después, identificación del conflicto y solución aplicada.
 
 > **💡 Explicación:** La nivelación de recursos resuelve conflictos cuando la demanda supera la disponibilidad. Puede aumentar la duración del proyecto. Se prioriza retrasar tareas con holgura antes que las del camino crítico.
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: La reunión de seguimiento donde nadie ha actualizado nada
+
+Son las 9:30. Empieza la reunión semanal de seguimiento del proyecto Knowledge Manager. Abres el cronograma en la pantalla y ves que los estados no se han actualizado desde la semana pasada. Preguntas "¿cómo vamos?" y obtienes respuestas vagas: "ahí, ahí", "estoy en ello", "esta semana lo termino".
+
+**Tu misión:** ¿Cómo reconduces la reunión para obtener información útil? ¿Qué dos cambios harías en el proceso de seguimiento para que no vuelva a pasar?
+
+> **Pistas para la reflexión:**
+> - Las preguntas cerradas ("¿al 100%?") dan respuestas concretas; las abiertas ("¿cómo va?") dan vaguedades
+> - ¿Quién actualiza el cronograma? ¿Cada miembro del equipo o una sola persona?
+> - Una reunión sin datos es una conversación de café. Una reunión con datos es gestión.

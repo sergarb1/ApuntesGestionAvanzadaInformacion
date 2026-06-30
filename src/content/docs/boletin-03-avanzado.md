@@ -35,3 +35,16 @@ Diseña una presentación interactiva en PowerPoint para un curso de formación 
 Diseña un flujo de trabajo que, partiendo de datos en Excel, genere un informe en Word y una presentación en PowerPoint. Los datos son: tabla con empleados (nombre, departamento, ventas trimestrales). El informe Word debe incluir portada, tabla de resultados y resumen ejecutivo. La presentación PowerPoint debe incluir 3 diapositivas. Explica cómo usar el copiado y vinculado de datos (Pegado especial > Vincular) para que Word y PowerPoint se actualicen automáticamente cuando cambien los datos en Excel. Describe el proceso paso a paso sin usar código.
 
 > 💡 **Pista:** En Excel, copia los datos y en Word usa Pegado especial > Pegar vínculo para que los cambios en Excel se reflejen en Word. Para el gráfico en PowerPoint, crea el gráfico en Excel y pégalo en PowerPoint con Pegado especial > Vincular datos. Si cambias los datos en Excel, al abrir Word o PowerPoint te preguntará si quieres actualizar los vínculos.
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El informe que tu jefe quiere en 10 minutos
+
+Tu jefe entra en tu despacho a las 14:50: "Necesito un informe con los datos de ventas del trimestre, con gráficos y todo, para la reunión de las 15:00 con el director comercial. Ah, y los datos están en una hoja de Excel que aún no está cerrada porque el departamento de contabilidad sigue introduciendo cifras."
+
+**Tu misión:** ¿Cómo resuelves el plazo imposible sin morir en el intento? ¿Qué técnica ofimática te permite tener el informe listo aunque los datos sigan cambiando? Explica el proceso paso a paso.
+
+> **Pistas para la reflexión:**
+> - Vincular datos (no incrustarlos) permite que el informe se actualice solo cuando cambien los datos origen
+> - Una plantilla de informe predefinida te ahorra el 80% del tiempo de maquetación
+> - ¿Qué pasa si los datos llegan con 5 minutos de retraso? Ten un plan B

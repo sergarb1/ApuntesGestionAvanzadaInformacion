@@ -270,3 +270,19 @@ NAS Corporativo (4 TB RAID 5)
 Un proceso completo de producción con roles, flujo de trabajo, herramientas, checklist de calidad, sistema de archivos y métricas de productividad.
 
 > **💡 Explicación:** Un proceso de producción estandarizado garantiza consistencia, calidad y eficiencia en la producción recurrente de vídeos. La regla 3-2-1 de copia de seguridad (3 copias, 2 soportes diferentes, 1 fuera de sitio) es crítica para no perder material original. Las métricas permiten identificar cuellos de botella y mejorar continuamente el proceso.
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El vídeo que se escucha fatal
+
+Has grabado una entrevista al director de operaciones para el vídeo de lanzamiento del proyecto Knowledge Manager. Habla de los problemas de conocimiento en su departamento y es justo lo que necesitas. Pero al revisar el material, el audio tiene un zumbido de fondo constante que casi no deja oír su voz. No tienes tiempo ni presupuesto para volver a grabar. La presentación es en 3 días.
+
+**Tu misión:** ¿Cómo salvas el vídeo? ¿Qué herramientas o técnicas de postproducción puedes usar para limpiar el audio? ¿Y si no consigues un audio perfecto, cómo minimizas el impacto (subtítulos, música, texto en pantalla)?
+
+> **Pistas para la reflexión:**
+> - Los editores de vídeo tienen ecualizadores y filtros de reducción de ruido. Prueba con un filtro de paso alto para eliminar frecuencias graves
+> - Existen herramientas online gratuitas de limpieza de audio (Adobe Podcast Enhance, Audacity)
+> - Como plan de emergencia: subtítulos obligatorios, una música de fondo suave que enmascare el ruido
+```

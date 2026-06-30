@@ -211,3 +211,16 @@ Elabora un informe de ventas trimestral en Excel para una cadena de tiendas de r
 Un informe estructurado en 3 hojas (portada, datos, análisis) con gráficos, tendencias y conclusiones.
 
 > **💡 Explicación:** Un informe empresarial debe contar una historia con los datos. La estructura típica es: portada (presentación), datos (hechos), análisis (interpretación) y conclusiones (recomendaciones). Los gráficos de líneas son ideales para mostrar tendencias temporales.
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El gráfico que no cuenta nada
+
+La directora general de GesDoc Consulting recibe tu informe ejecutivo con 5 gráficos, tablas y un dashboard. Te llama y te dice: "He mirado los gráficos y no sé si las cosas van bien o mal. Esto parece una sopa de números. Necesito que en una diapositiva me expliques el estado del proyecto en 30 segundos."
+
+**Tu misión:** ¿Cuál es el problema? ¿Estás mostrando datos o estás contando una historia? Rediseña el mensaje: ¿qué gráfico quitas, cuál mantienes y qué titular le pones a cada uno? Prepara la diapositiva mentalmente con la estructura: titular → dato → conclusión.
+
+> **Pistas para la reflexión:**
+> - Menos es más: un gráfico bien explicado vale más que 5 gráficos sin contexto
+> - Cada gráfico debe responder a una pregunta concreta: ¿vamos bien de plazo? ¿de presupuesto? ¿de calidad?
+> - El titular debe ser la conclusión, no la descripción: "Vamos bien de plazo pero nos estamos saliendo del presupuesto" vs "Gráfico de evolución del proyecto"

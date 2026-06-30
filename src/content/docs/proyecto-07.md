@@ -40,6 +40,31 @@ GesDoc Consulting ha avanzado en la implantación de su Sistema de Knowledge Man
 - No intente migrar todo el contenido de golpe. Publique primero el contenido más demandado y vaya añadiendo progresivamente.
 - Configure Google Analytics o estadísticas del CMS desde el primer día para medir qué contenido se consulta más.
 
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El portal que nadie visita
+
+Has lanzado el portal web del conocimiento con un CMS, 8 páginas de contenido, buscador interno y un diseño atractivo. La dirección está contenta. Pero al cabo de un mes, las estadísticas muestran algo preocupante: 200 visitas únicas, pero el 80% corresponden al primer día de lanzamiento. Después, el tráfico ha sido prácticamente cero. El portal es un bonito cementerio digital.
+
+**Tu misión:** Diseña una estrategia de contenido y promoción para los próximos 3 meses que convierta el portal en el punto de referencia de conocimiento de la empresa. ¿Qué tipo de contenido generarías? ¿Cómo atraerías visitantes recurrentes? ¿Cómo medirías el éxito?
+
+> **Pistas para la reflexión:**
+> - Un portal sin contenido fresco es un portal muerto. ¿Quién genera contenido nuevo y con qué frecuencia?
+> - ¿El portal resuelve un problema real o es "un portal porque tocaba"?
+> - Piensa en push (notificaciones, correos) vs pull (la gente viene porque sabe que hay contenido útil)
+
+<details>
+<summary>🤔 Solución orientativa</summary>
+
+Estrategia de 3 meses:
+- **Mes 1 — Contenido mínimamente viable:** Publica contenido que la gente necesita YA (no el que tú quieres publicar). Pregunta a 5 departamentos: "¿Qué información buscáis a menudo y no encontráis?" Esa es tu lista de prioridades.
+- **Mes 2 — Calendario editorial:** Designa a una persona por departamento como "editora de contenido" (10 min/semana). Cada semana, cada editor publica un post corto: lección aprendida, proceso actualizado, pregunta frecuente respondida.
+- **Mes 3 — Integración en procesos:** El portal se convierte en el lugar donde se publican las actas de reuniones, los procedimientos actualizados y los documentos oficiales. No es un sitio alternativo: es el sitio oficial.
+
+Métricas de éxito: visitantes recurrentes (no únicos), % de empleados que publican contenido, tiempo medio de sesión, búsquedas realizadas vs. resultados útiles.
+
+</details>
+
 ---
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*

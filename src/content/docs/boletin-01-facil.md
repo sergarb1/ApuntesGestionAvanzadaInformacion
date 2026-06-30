@@ -36,3 +36,16 @@ h) Manual de incorporación para nuevos empleados
 Crea una matriz RACI para las siguientes tareas del proyecto de implantación de un CRM en una empresa comercial: 1) Definición de requisitos, 2) Evaluación de proveedores, 3) Configuración del sistema, 4) Formación de usuarios, 5) Pruebas de aceptación. Roles: Director Comercial, Jefe de Proyecto, Analista Funcional, Usuarios clave, Proveedor.
 
 > 💡 **Pista:** Recuerda que cada tarea debe tener exactamente un responsable (R) que ejecuta y un accountable (A) que aprueba. Los consultados (C) aportan información antes de la decisión; los informados (I) reciben notificación después. El mismo rol puede tener diferentes asignaciones en distintas tareas.
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El elevator pitch que te juegas en el ascensor
+
+Subes al ascensor de GesDoc Consulting y, para tu sorpresa, está el nuevo Consejero Delegado. Te mira y te dice: "Oye, tú eres el del proyecto ese de Knowledge Management, ¿verdad? Explícamelo en 30 segundos, que llegamos a la séptima planta."
+
+**Tu misión:** Prepara tu discurso de ascensor. Debe incluir: qué problema resuelve, cómo lo haces y qué beneficio concreto aporta a la empresa. Sin jerga técnica. En 30 segundos.
+
+> **Pistas para la reflexión:**
+> - No uses las palabras "Knowledge Management" en la primera frase. Empieza por el problema.
+> - Un CEO quiere saber: ¿esto ayuda a ganar más o a gastar menos?
+> - Practica en voz alta. Si no te sale en menos de 80 palabras, es demasiado largo.

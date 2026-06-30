@@ -27,3 +27,16 @@ Identifica al menos 6 riesgos para el proyecto de lanzamiento de la aspiradora i
 Elabora el presupuesto detallado para el proyecto de mudanza del ejercicio 2. Incluye: costes de personal (3 personas implicadas: Jefe de Proyecto a 300 €/día, Administrativo a 150 €/día, Técnico a 200 €/día), costes de materiales (embalaje 1.200 €, reformas 15.000 €, mudanza 3.500 €, instalación redes 2.800 €) y costes de contingencia (10% del total). Calcula el presupuesto final.
 
 > 💡 **Pista:** Para los costes de personal, multiplica días estimados por coste diario de cada rol. Suma todos los costes directos y aplica el porcentaje de contingencia. El presupuesto final debe reflejar la suma de costes directos más contingencia. Justifica brevemente cada partida.
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: La reunión de seguimiento donde nadie ha actualizado nada
+
+Son las 9:30. Empieza la reunión semanal de seguimiento del proyecto Knowledge Manager. Abres el cronograma en la pantalla y ves que los estados no se han actualizado desde la semana pasada. Preguntas "¿cómo vamos?" y obtienes respuestas vagas: "ahí, ahí", "estoy en ello", "esta semana lo termino".
+
+**Tu misión:** ¿Cómo reconduces la reunión para obtener información útil? ¿Qué dos cambios harías en el proceso de seguimiento para que no vuelva a pasar?
+
+> **Pistas para la reflexión:**
+> - Las preguntas cerradas ("¿al 100%?") dan respuestas concretas; las abiertas ("¿cómo va?") dan vaguedades
+> - ¿Quién actualiza el cronograma? ¿Cada miembro del equipo o una sola persona?
+> - Una reunión sin datos es una conversación de café. Una reunión con datos es gestión.

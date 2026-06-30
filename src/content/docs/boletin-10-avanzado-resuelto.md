@@ -190,3 +190,19 @@ title: "Boletín 10 - Nivel Avanzado (Resuelto): Proyecto Knowledge Management (
    Esquema de 12 secciones + desarrollo completo de la sección técnica con 5 subsecciones detalladas.
    ```
    > **💡 Explicación:** Una memoria de proyecto debe ser completa pero no excesiva. El esquema muestra la estructura global; desarrollar una sección en profundidad demuestra la capacidad de pasar del plano conceptual al detalle técnico. La sección de arquitectura es crítica porque define cómo funcionará el sistema en el día a día.
+
+```
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: La memoria final es un rompecabezas de 9 piezas
+
+Faltan 4 días para entregar la memoria del proyecto Knowledge Manager. Cada unidad del curso ha generado un entregable: propuesta, planificación, plantillas, dashboard, vídeo, espacio colaborativo, portal web, clasificación documental, política de custodia. Tienes 9 archivos en 9 carpetas distintas, cada uno con su propio formato, estilo y estructura. Tu jefe de proyecto te pide "la memoria unificada para mañana".
+
+**Tu misión:** ¿Qué estructura le das a la memoria para que las 9 piezas tengan coherencia? ¿Cómo organizas los contenidos para que un directivo pueda leer el resumen ejecutivo y un técnico pueda ir a los detalles? ¿Qué haces con los formatos dispares (Word, Excel, PowerPoint, vídeo)?
+
+> **Pistas para la reflexión:**
+> - La memoria debe tener un hilo conductor: situación inicial → fases del proyecto → resultados → lecciones aprendidas
+> - Los entregables en formatos no textuales (vídeo, Excel) van como anexos o capturas incorporadas al cuerpo
+> - El resumen ejecutivo se escribe el último, pero va el primero: debe poder leerse solo y contar toda la historia
+```

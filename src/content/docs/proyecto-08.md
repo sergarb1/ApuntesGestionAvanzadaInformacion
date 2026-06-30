@@ -40,6 +40,29 @@ GesDoc Consulting genera miles de documentos al año: informes de consultoría, 
 - Los metadatos obligatorios deben ser los mínimos indispensables. Si pide demasiados, los empleados saltarán el proceso.
 - Pruebe el sistema con un grupo piloto durante dos semanas antes del despliegue general. Las primeras semanas revelarán problemas que no había anticipado.
 
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El documento confidencial que apareció donde no debía
+
+Un auditor externo está revisando los procesos documentales de GesDoc Consulting. Durante la auditoría, encuentra un informe confidencial de recursos humanos (con datos salariales de empleados) almacenado en la carpeta compartida de "Plantillas corporativas", accesible para toda la empresa. El auditor te pregunta: "¿Cómo ha llegado esto aquí? ¿Quién tiene acceso? ¿Cuál es el procedimiento para clasificar documentos confidenciales?".
+
+**Tu misión:** Analiza cómo ha podido ocurrir este fallo en el sistema de clasificación documental. ¿Qué medidas técnicas y de proceso implementarías para evitar que vuelva a suceder? ¿Cómo auditarías retrospectivamente la clasificación de los documentos existentes? Redacta las tres acciones prioritarias que pondrías en marcha mañana mismo.
+
+> **Pistas para la reflexión:**
+> - El error no es de la persona que guardó el archivo, es del proceso que lo permitió
+> - ¿Tu taxonomía incluye niveles de confidencialidad? ¿Y metadatos de acceso?
+> - ¿Cómo formas a los empleados para que clasifiquen correctamente?
+
+<details>
+<summary>🤔 Solución orientativa</summary>
+
+Tres acciones prioritarias:
+1. **Auditoría de choque:** Revisa todos los documentos de carpetas compartidas buscando archivos mal clasificados. Usa un script de búsqueda por palabras clave (confidencial, salario, datos personales, etc.) para identificar candidatos. Reclasifica y reubica los documentos sensibles en carpetas con permisos restringidos.
+2. **Mejora de la taxonomía:** Añade un nivel de "confidencialidad" como metadato obligatorio en todos los documentos (Público, Interno, Confidencial, Secreto). Configura alertas automáticas: si alguien guarda un documento marcado como "Confidencial" en una carpeta de acceso general, el sistema envía una notificación al responsable.
+3. **Formación exprés:** Sesión de 30 minutos para todos los empleados sobre clasificación documental. Regla simple: "Si tiene datos personales, nombres, salarios o información estratégica, no va en carpetas compartidas. Pregunta antes de guardar."
+
+</details>
+
 ---
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*

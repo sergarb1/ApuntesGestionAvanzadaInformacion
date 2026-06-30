@@ -137,3 +137,16 @@ Elabora el presupuesto detallado para el proyecto de mudanza del ejercicio 2. In
 Un presupuesto desglosado en personal y materiales, con contingencia y total final.
 
 > **💡 Explicación:** El presupuesto debe incluir todos los costes necesarios para ejecutar el proyecto. La contingencia cubre imprevistos y se calcula como un porcentaje sobre los costes directos (generalmente entre 5% y 15% según la incertidumbre del proyecto).
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: La reunión de seguimiento donde nadie ha actualizado nada
+
+Son las 9:30. Empieza la reunión semanal de seguimiento del proyecto Knowledge Manager. Abres el cronograma en la pantalla y ves que los estados no se han actualizado desde la semana pasada. Preguntas "¿cómo vamos?" y obtienes respuestas vagas: "ahí, ahí", "estoy en ello", "esta semana lo termino".
+
+**Tu misión:** ¿Cómo reconduces la reunión para obtener información útil? ¿Qué dos cambios harías en el proceso de seguimiento para que no vuelva a pasar?
+
+> **Pistas para la reflexión:**
+> - Las preguntas cerradas ("¿al 100%?") dan respuestas concretas; las abiertas ("¿cómo va?") dan vaguedades
+> - ¿Quién actualiza el cronograma? ¿Cada miembro del equipo o una sola persona?
+> - Una reunión sin datos es una conversación de café. Una reunión con datos es gestión.

@@ -40,6 +40,33 @@ El equipo del proyecto KM de GesDoc Consulting está formado por 6 personas de d
 - Utilice el espacio como piloto para demostrar su valor antes de extenderlo al resto de la organización.
 - Programe recordatorios periódicos para mantener el espacio vivo. Un espacio colaborativo abandonado es peor que no tenerlo.
 
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El espacio colaborativo fantasma
+
+Configuraste un espacio colaborativo en Teams para el equipo del proyecto Knowledge Manager con canales, planner, repositorio de documentos y normas de uso. Todo perfecto. Tres meses después, abres el espacio y ves que el último mensaje en el canal general es de hace 6 semanas. El planner tiene tareas sin actualizar desde el segundo mes. Los documentos siguen llegando por correo electrónico. El espacio está muerto.
+
+**Tu misión:** Diagnostica por qué el espacio colaborativo ha fracasado y diseña un plan de reactivación. ¿Cómo consigues que el equipo vuelva a usar la herramienta sin que parezca una imposición? ¿Qué cambios harías en la estructura o en las dinámicas de trabajo?
+
+> **Pistas para la reflexión:**
+> - Las herramientas no fracasan solas: fracasan porque el proceso no las exige
+> - ¿Hay alguna consecuencia por no usar el espacio? ¿Y algún beneficio por usarlo?
+> - A veces menos es más: ¿demasiados canales? ¿demasiadas herramientas?
+
+<details>
+<summary>🤔 Solución orientativa</summary>
+
+Diagnóstico más probable: el espacio se creó pero no se integró en los procesos diarios del equipo.
+
+Plan de reactivación:
+1. **Reduce la fricción:** unifica todo en un solo sitio (Teams). Elimina herramientas duplicadas.
+2. **Cambia el hábito desde la reunión:** la reunión semanal de equipo pasa a ser "reunión dentro de Teams". El orden del día, las decisiones y las tareas se registran en el espacio durante la reunión, no después.
+3. **Regla del "no correo":** todo lo relacionado con el proyecto se comunica exclusivamente en Teams. Los correos sobre el proyecto se responden con "lo vemos en Teams".
+4. **Nombra un dinamizador:** una persona del equipo rota cada semana como responsable de mantener el espacio vivo: publicar resúmenes, actualizar tareas, recordar plazos.
+5. **Mide y celebra:** muestra cada semana las métricas de uso del espacio. Cuando alguien publique algo útil, reconócelo.
+
+</details>
+
 ---
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*

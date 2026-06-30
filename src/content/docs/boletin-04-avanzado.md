@@ -27,3 +27,16 @@ Crea una infografía dinámica en Excel que se actualice automáticamente al cam
 Diseña un sistema en Excel que genere automáticamente un informe trimestral de ventas con los siguientes requisitos: los datos brutos están en una hoja (12 meses × 5 productos × 4 regiones), el informe debe incluir portada dinámica (con trimestre seleccionable), tabla resumen (top 10 productos), gráfico de tendencias, tabla comparativa intertrimestral y exportación automática a PDF. Todo debe actualizarse al cambiar el trimestre en una celda desplegable.
 
 > 💡 **Pista:** La celda desplegable se crea con Validación de datos > Lista. Usa SUMAR.SI.CONJUNTO con criterios de fecha (>= FechaInicio y <= FechaFin) para filtrar los datos del trimestre. Para el top 10, combina JERARQUIA con INDICE y COINCIDIR. Para exportar a PDF, usa Archivo > Exportar > Crear PDF/XPS. Diseña las fórmulas para que todas referencien la celda del trimestre seleccionado.
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El gráfico que no cuenta nada
+
+La directora general de GesDoc Consulting recibe tu informe ejecutivo con 5 gráficos, tablas y un dashboard. Te llama y te dice: "He mirado los gráficos y no sé si las cosas van bien o mal. Esto parece una sopa de números. Necesito que en una diapositiva me expliques el estado del proyecto en 30 segundos."
+
+**Tu misión:** ¿Cuál es el problema? ¿Estás mostrando datos o estás contando una historia? Rediseña el mensaje: ¿qué gráfico quitas, cuál mantienes y qué titular le pones a cada uno? Prepara la diapositiva mentalmente con la estructura: titular → dato → conclusión.
+
+> **Pistas para la reflexión:**
+> - Menos es más: un gráfico bien explicado vale más que 5 gráficos sin contexto
+> - Cada gráfico debe responder a una pregunta concreta: ¿vamos bien de plazo? ¿de presupuesto? ¿de calidad?
+> - El titular debe ser la conclusión, no la descripción: "Vamos bien de plazo pero nos estamos saliendo del presupuesto" vs "Gráfico de evolución del proyecto"

@@ -38,6 +38,32 @@ GesDoc Consulting carece de una imagen corporativa unificada en sus documentos i
 - La plantilla de PowerPoint debe ser minimalista: menos es más. Una diapositiva sobrecargada no se leerá.
 - Pruebe sus plantillas con un usuario real antes de publicarlas. Lo que para usted es intuitivo, para otros puede no serlo.
 
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: La plantilla que nadie usa
+
+Has diseñado unas plantillas corporativas impecables para GesDoc Consulting. La plantilla de Word tiene estilos, portada automática, índices y encabezados perfectos. La base de conocimiento en Excel tiene 4 pestañas con validación de datos y formato condicional. La plantilla de PowerPoint es una obra de arte. Una semana después de lanzarlas, consultas los registros y descubres que solo 3 personas de 180 han descargado las plantillas. El resto sigue usando la fuente Comic Sans y documentos sin formato.
+
+**Tu misión:** Diseña un plan de adopción de 30 días para que las plantillas se conviertan en el estándar corporativo. ¿Cómo consigues que la gente las use sin convertirlo en una imposición odiosa? ¿Qué métricas usarías para medir la adopción?
+
+> **Pistas para la reflexión:**
+> - ¿Por qué la gente no usa las plantillas? Sin saber el motivo, cualquier solución es un tiro al aire
+> - ¿Quiénes son los 3 que sí las usaron? Conviértelos en embajadores
+> - Un correo masivo diciendo "usad las plantillas" no funciona. Necesitas algo más creativo
+
+<details>
+<summary>🤔 Solución orientativa</summary>
+
+Plan de adopción en 30 días:
+- **Semana 1:** Entrevista a 5 personas de distintos departamentos para entender por qué no usan las plantillas (motivos típicos: "no sabía que existían", "son difíciles de encontrar", "prefiero mi formato", "me da pereza cambiarme").
+- **Semana 2:** Crea un minitutorial de 5 minutos en vídeo mostrando lo fácil que es usar las plantillas. Los 3 embajadores graban testimonios de 30 segundos cada uno.
+- **Semana 3:** Lanza el "Reto Plantilla" — los primeros 20 empleados que entreguen un documento con la plantilla corporativa reciben un reconocimiento público. Publica un ranking semanal de adopción por departamento.
+- **Semana 4:** Integra las plantillas en los procesos: el departamento de Calidad no acepta documentos sin la plantilla corporativa. No es un castigo, es un estándar de calidad.
+
+Métrica clave: % de documentos nuevos creados con plantilla corporativa sobre el total. Objetivo: 80% en 3 meses.
+
+</details>
+
 ---
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*

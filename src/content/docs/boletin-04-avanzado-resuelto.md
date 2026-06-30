@@ -212,3 +212,16 @@ Para hacerlo más rápido, se puede asignar el comando a la barra de acceso ráp
 Un sistema completo que genera informes trimestrales automáticamente al cambiar un parámetro, listo para exportar a PDF.
 
 > **💡 Explicación:** La automatización de informes mediante parámetros y fórmulas dinámicas reduce drásticamente el tiempo de elaboración. Al cambiar el trimestre en la celda desplegable, todas las fórmulas, tablas y gráficos se actualizan sin necesidad de programar. La exportación a PDF desde Archivo permite distribuir el informe en formato profesional.
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El gráfico que no cuenta nada
+
+La directora general de GesDoc Consulting recibe tu informe ejecutivo con 5 gráficos, tablas y un dashboard. Te llama y te dice: "He mirado los gráficos y no sé si las cosas van bien o mal. Esto parece una sopa de números. Necesito que en una diapositiva me expliques el estado del proyecto en 30 segundos."
+
+**Tu misión:** ¿Cuál es el problema? ¿Estás mostrando datos o estás contando una historia? Rediseña el mensaje: ¿qué gráfico quitas, cuál mantienes y qué titular le pones a cada uno? Prepara la diapositiva mentalmente con la estructura: titular → dato → conclusión.
+
+> **Pistas para la reflexión:**
+> - Menos es más: un gráfico bien explicado vale más que 5 gráficos sin contexto
+> - Cada gráfico debe responder a una pregunta concreta: ¿vamos bien de plazo? ¿de presupuesto? ¿de calidad?
+> - El titular debe ser la conclusión, no la descripción: "Vamos bien de plazo pero nos estamos saliendo del presupuesto" vs "Gráfico de evolución del proyecto"

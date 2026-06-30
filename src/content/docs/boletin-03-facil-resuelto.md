@@ -185,3 +185,16 @@ Atentamente,
 Una carta modelo configurada para mail merge con los campos combinados y 50 cartas personalizadas generadas.
 
 > **💡 Explicación:** La combinación de correspondencia permite personalizar documentos masivos. Es importante revisar la vista previa para asegurar que los campos se insertan correctamente y que el formato se mantiene en todas las copias.
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El informe que tu jefe quiere en 10 minutos
+
+Tu jefe entra en tu despacho a las 14:50: "Necesito un informe con los datos de ventas del trimestre, con gráficos y todo, para la reunión de las 15:00 con el director comercial. Ah, y los datos están en una hoja de Excel que aún no está cerrada porque el departamento de contabilidad sigue introduciendo cifras."
+
+**Tu misión:** ¿Cómo resuelves el plazo imposible sin morir en el intento? ¿Qué técnica ofimática te permite tener el informe listo aunque los datos sigan cambiando? Explica el proceso paso a paso.
+
+> **Pistas para la reflexión:**
+> - Vincular datos (no incrustarlos) permite que el informe se actualice solo cuando cambien los datos origen
+> - Una plantilla de informe predefinida te ahorra el 80% del tiempo de maquetación
+> - ¿Qué pasa si los datos llegan con 5 minutos de retraso? Ten un plan B

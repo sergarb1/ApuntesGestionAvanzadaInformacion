@@ -146,3 +146,16 @@ Crea una matriz RACI para las siguientes tareas del proyecto de implantación de
 Una matriz que asigna claramente responsabilidades para evitar duplicidades o lagunas en la ejecución del proyecto.
 
 > **💡 Explicación:** La matriz RACI evita conflictos de responsabilidad. Cada tarea debe tener solo un responsable (R) y un accountable (A). El accountable es quien responde por el resultado final, aunque no ejecute la tarea.
+
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El elevator pitch que te juegas en el ascensor
+
+Subes al ascensor de GesDoc Consulting y, para tu sorpresa, está el nuevo Consejero Delegado. Te mira y te dice: "Oye, tú eres el del proyecto ese de Knowledge Management, ¿verdad? Explícamelo en 30 segundos, que llegamos a la séptima planta."
+
+**Tu misión:** Prepara tu discurso de ascensor. Debe incluir: qué problema resuelve, cómo lo haces y qué beneficio concreto aporta a la empresa. Sin jerga técnica. En 30 segundos.
+
+> **Pistas para la reflexión:**
+> - No uses las palabras "Knowledge Management" en la primera frase. Empieza por el problema.
+> - Un CEO quiere saber: ¿esto ayuda a ganar más o a gastar menos?
+> - Practica en voz alta. Si no te sale en menos de 80 palabras, es demasiado largo.

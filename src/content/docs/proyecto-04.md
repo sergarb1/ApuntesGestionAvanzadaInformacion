@@ -39,6 +39,33 @@ Han transcurrido tres meses desde el inicio del proyecto KM en GesDoc Consulting
 - Utilice semáforos (verde/ámbar/rojo) en el dashboard para comunicar estado de forma instantánea.
 - Vincule los datos del dashboard a la base de conocimiento para que se actualicen automáticamente cuando se añadan nuevos registros.
 
+## 🧠 Tu turno como Knowledge Manager
+
+### Escenario: El dashboard que dice verde pero la realidad es roja
+
+Has presentado tu dashboard con 4 indicadores del proyecto Knowledge Manager a la directora general. Todos están en verde. Ella sonríe, asiente y dice: "Perfecto, todo va bien entonces". Pero tú sabes que la realidad es otra: los empleados no están usando la base de conocimiento, el equipo del proyecto está quemado y los plazos se están ajustando con horas extra no registradas. El dashboard muestra lo que quieres ver, no lo que está pasando.
+
+**Tu misión:** Rediseña el dashboard para que refleje la realidad, no la ficción. Identifica qué indicadores están midiendo lo superficial y qué métricas cualitativas o cuantitativas deberías añadir para tener una imagen honesta del proyecto.
+
+> **Pistas para la reflexión:**
+> - Los indicadores de actividad (documentos subidos, reuniones realizadas) no miden impacto
+> - ¿Cómo mides si el equipo está quemado? ¿Y si los empleados usan realmente el sistema?
+> - Un dashboard que siempre está verde es mentalmente sospechoso
+
+<details>
+<summary>🤔 Solución orientativa</summary>
+
+Indicadores a sustituir o complementar:
+- "Documentos subidos" → "Documentos consultados/semana" y "tasa de reutilización"
+- "Horas de formación impartidas" → "Evaluación de la formación (encuesta 1-10)"
+- Añade "Índice de carga del equipo" (horas reales vs. planificadas por persona)
+- Añade "Encuesta mensual de satisfacción con el acceso a la información"
+- Añade "Nº de incidencias/quejas del equipo del proyecto"
+
+Y lo más importante: programa una reunión de 30 minutos al mes para validar el dashboard con el equipo. Si la reunión dice una cosa y el dashboard otra, el dashboard está mal.
+
+</details>
+
 ---
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*
