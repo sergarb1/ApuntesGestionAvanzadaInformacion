@@ -183,7 +183,7 @@ Un Excel puede funcionar como una base de conocimiento sencilla pero muy efectiv
 | ID | Título | Categoría | Departamento | Fecha | Autor | Palabras clave | Enlace |
 |----|--------|-----------|-------------|-------|-------|----------------|--------|
 | KM001 | Cómo reclamar un pago atrasado | Procedimiento | Administración | 15/01/2026 | Ana García | reclamación, pago, factura | [Documento] |
-| KM002 | Guía de onboarding para nuevos empleados | Proceso | RRHH | 20/01/2026 | Carlos Ruiz | onboarding, bienvenida, formación | [Documento] |
+| KM002 | Guía de incorporación para nuevos empleados | Proceso | RRHH | 20/01/2026 | Carlos Ruiz | incorporación, bienvenida, formación | [Documento] |
 
 **Ventajas:**
 - Todo el mundo sabe usar Excel
@@ -312,7 +312,7 @@ Tienes que presentar los resultados de tu proyecto de KM a la dirección general
 - La primera diapositiva es para enganchar. La última, para pedir acción.
 - Ensaya en voz alta. No es lo mismo pensar la presentación que decirla.
 
-**Solución orientativa:** Estructura de 8 diapositivas para 10 minutos: (1) Portada con título impactante y tu nombre — 30 segundos. (2) El problema que resolvimos — un antes/después visual con un dato concreto — 1 minuto. (3) Resultados clave — 3 KPIs principales con gráficos vinculados de Excel (adopción, tiempo ahorrado, satisfacción) — 2 minutos. (4) Caso de éxito — testimonio real de un empleado (una frase destacada) — 1 minuto. (5) Lecciones aprendidas — 3 viñetas sinceras (lo que salió bien, lo que no, lo que haríamos diferente) — 1 minuto. (6) Propuesta fase 2 — qué incluye, presupuesto, plazo y retorno esperado — 2 minutos. (7) Cierre y petición concreta — "Necesitamos su aprobación para seguir" — 30 segundos. (8) Q&A — prepara 3 respuestas a preguntas difíciles — 1 minuto. Fuente mínima 28 pt, máximo 6 palabras por diapositiva de media. Ensaya 3 veces con cronómetro.
+**Solución orientativa:** Estructura de 8 diapositivas para 10 minutos: (1) Portada con título impactante y tu nombre — 30 segundos. (2) El problema que resolvimos — un antes/después visual con un dato concreto — 1 minuto. (3) Resultados clave — 3 KPIs principales con gráficos vinculados de Excel (adopción, tiempo ahorrado, satisfacción) — 2 minutos. (4) Caso de éxito — testimonio real de un empleado (una frase destacada) — 1 minuto. (5) Lecciones aprendidas — 3 viñetas sinceras (lo que salió bien, lo que no, lo que haríamos diferente) — 1 minuto. (6) Propuesta fase 2 — qué incluye, presupuesto, plazo y retorno esperado — 2 minutos. (7) Cierre y petición concreta — "Necesitamos su aprobación para seguir" — 30 segundos. (8) turno de preguntas — prepara 3 respuestas a preguntas difíciles — 1 minuto. Fuente mínima 28 pt, máximo 6 palabras por diapositiva de media. Ensaya 3 veces con cronómetro.
 
 ## ❓ Dudas frecuentes
 

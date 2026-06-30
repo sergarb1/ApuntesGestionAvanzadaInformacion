@@ -174,7 +174,7 @@ Google Docs, Word Online, OnlyOffice… permiten que varias personas editen el m
 
 Etherpad, HackMD, Google Keep… son el "post-it digital". Ideales para:
 
-- Lluvias de ideas en reuniones (brainstorming)
+- Lluvias de ideas en reuniones
 - Notas rápidas entre dos personas
 - Apuntes de formaciones o charlas en directo
 - Redacción colaborativa en tiempo real
@@ -293,7 +293,7 @@ Trabajas en una empresa con 4 departamentos (ventas, marketing, operaciones, RRH
 
 Tu empresa tiene una wiki en Confluence que nadie usa. Se creó hace 3 años con mucho entusiasmo y ahora está llena de información obsoleta, páginas a medio escribir y enlaces rotos. Cada vez que alguien busca algo, no lo encuentra. El director de IT quiere cerrarla. Tú crees que tiene potencial y que es una pena perder el trabajo ya hecho. ¿Cómo la rescatas?
 
-**Solución orientativa:** Primero, haz una limpieza a fondo: archiva páginas obsoletas (con fecha), elimina duplicados, actualiza lo que sea rescatable. Sé implacable: mejor 20 páginas útiles que 200 páginas muertas. Segundo, define una estructura clara y simple: 5 secciones principales (procesos, productos, herramientas, FAQ, onboarding). Tercero, asigna responsables de mantenimiento por sección (una persona por sección, con recordatorio trimestral). Cuarto, lanza una campaña de comunicación interna: "La wiki ha vuelto" con ejemplos concretos de cómo usarla para resolver problemas del día a día. Quinto, integra la wiki en el flujo diario: cuando alguien pregunte algo en Teams que ya está documentado en la wiki, responde con un enlace a la wiki en lugar de responder directamente. Así la gente aprende a consultarla. En 3 meses, las visitas se habrán multiplicado y la wiki será el recurso de referencia de la empresa.
+**Solución orientativa:** Primero, haz una limpieza a fondo: archiva páginas obsoletas (con fecha), elimina duplicados, actualiza lo que sea rescatable. Sé implacable: mejor 20 páginas útiles que 200 páginas muertas. Segundo, define una estructura clara y simple: 5 secciones principales (procesos, productos, herramientas, FAQ, incorporación). Tercero, asigna responsables de mantenimiento por sección (una persona por sección, con recordatorio trimestral). Cuarto, lanza una campaña de comunicación interna: "La wiki ha vuelto" con ejemplos concretos de cómo usarla para resolver problemas del día a día. Quinto, integra la wiki en el flujo diario: cuando alguien pregunte algo en Teams que ya está documentado en la wiki, responde con un enlace a la wiki en lugar de responder directamente. Así la gente aprende a consultarla. En 3 meses, las visitas se habrán multiplicado y la wiki será el recurso de referencia de la empresa.
 
 ---
 

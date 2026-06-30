@@ -34,7 +34,7 @@ El vídeo tiene ventajas que otros formatos no tienen: permite ver el proceso en
 
 - Para procesos que implican movimiento o interacción con software (tutoriales, demostraciones)
 - Para mensajes que requieren tono emocional o lenguaje no verbal (anuncios, motivación, valores)
-- Para formación que se repite con frecuencia (onboarding, procedimientos estándar)
+- Para formación que se repite con frecuencia (incorporación, procedimientos estándar)
 - Para llegar a audiencias que prefieren contenido visual (cada vez más, toda la audiencia)
 
 Si el contenido es principalmente texto y tablas, mejor un documento. Si es un proceso, un procedimiento o un mensaje con carga emocional, mejor un vídeo.

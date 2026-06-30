@@ -27,7 +27,7 @@ d) 231
 e) Base de datos de clientes
 f) Procedimiento de atención al cliente
 g) "Tras analizar los datos, observamos que las ventas caen en agosto"
-h) Manual de onboarding para nuevos empleados
+h) Manual de incorporación para nuevos empleados
 
 > 💡 **Pista:** Aplica la jerarquía DIK. Los datos son elementos brutos sin procesar. La información son datos organizados con un propósito. El conocimiento implica experiencia, juicio o interpretación. Pregúntate: ¿esto me permite tomar una decisión por sí solo?
 

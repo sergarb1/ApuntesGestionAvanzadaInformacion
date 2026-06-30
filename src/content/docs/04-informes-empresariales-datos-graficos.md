@@ -469,7 +469,7 @@ Sí, pero revísalas y adáptalas a la imagen corporativa de tu empresa. Una pla
 
 **Ejercicio 5.** Diseña un dashboard en papel o con una herramienta gratuita (Canva, Google Drawings) para un departamento de atención al cliente. Incluye: número de tickets abiertos, tiempo medio de respuesta, satisfacción del cliente, tickets por agente y tendencia semanal. Explica la disposición de los elementos.
 
-**Ejercicio 6.** Crea una checklist de control de calidad documental para tu empresa. Debe tener al menos 8 puntos. Compártela con un compañero y pídele que la pruebe con un documento real. Anota el feedback recibido.
+**Ejercicio 6.** Crea una checklist de control de calidad documental para tu empresa. Debe tener al menos 8 puntos. Compártela con un compañero y pídele que la pruebe con un documento real. Anota los comentarios recibidos.
 
 **Ejercicio 7.** Simula un mailing masivo para convocar a 50 proveedores a una jornada de puertas abiertas. Redacta el correo completo (asunto, cuerpo, despedida) y explica cómo gestionarías las respuestas, las confirmaciones y las bajas.
 

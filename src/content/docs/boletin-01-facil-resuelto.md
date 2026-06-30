@@ -98,7 +98,7 @@ d) 231
 e) Base de datos de clientes
 f) Procedimiento de atención al cliente
 g) "Tras analizar los datos, observamos que las ventas caen en agosto"
-h) Manual de onboarding para nuevos empleados
+h) Manual de incorporación para nuevos empleados
 
 **Solución:**
 
@@ -111,7 +111,7 @@ h) Manual de onboarding para nuevos empleados
 | e) Base de datos clientes | Dato | Registros sin procesar, aunque estructurados |
 | f) Procedimiento atención | Información | Documento estructurado con instrucciones |
 | g) "Ventas caen en agosto" | Conocimiento | Interpretación basada en análisis de datos |
-| h) Manual onboarding | Información | Documento que transmite conocimiento explícito |
+| h) Manual incorporación | Información | Documento que transmite conocimiento explícito |
 
 **Salida esperada:**
 Una tabla de clasificación con justificación para cada elemento.

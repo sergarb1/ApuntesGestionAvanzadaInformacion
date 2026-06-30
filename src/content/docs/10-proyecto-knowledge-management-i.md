@@ -408,7 +408,7 @@ Usa esta checklist antes de subir tu PDF. Si puedes marcar todo, estás listo:
 
 7. **Prueba del ascensor:** Explícale tu proyecto KM a alguien que no sepa nada del curso en menos de 60 segundos. Si no te entiende, tu resumen ejecutivo necesita trabajo.
 
-8. **Benchmarking:** Intercambia tu borrador de memoria con un compañero. Leed las memorias del otro y dad feedback sincero. Dos pares de ojos ven más que uno.
+8. **Análisis comparativo:** Intercambia tu borrador de memoria con un compañero. Leed las memorias del otro y haced comentarios sinceros. Dos pares de ojos ven más que uno.
 
 9. **Versiones de la memoria:** Guarda al menos 3 versiones de tu memoria a lo largo del proceso (v0.1, v0.5, v1.0). Así, si algo se rompe, tienes copias de seguridad.
 
