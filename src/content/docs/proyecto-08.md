@@ -12,14 +12,14 @@ GesDoc Consulting genera miles de documentos al año: informes de consultoría, 
 1. Diseñar una taxonomía corporativa jerárquica para GesDoc Consulting con al menos 3 niveles de profundidad y 5 categorías principales (ej: Informes, Formación, Comercial, Proyectos, Administración).
 2. Definir un esquema de metadatos obligatorios y opcionales para cada tipo documental (título, autor, fecha, área, cliente, versión, palabras clave, formato, confidencialidad, estado).
 3. Crear una tabla de retención documental que especifique los plazos de conservación y el destino final (archivo histórico o destrucción) para cada categoría documental.
-4. Configurar un sistema de digitalización de documentos: definir el flujo de captura (escaneo, OCR, validación, indexación, almacenamiento) y seleccionar las herramientas necesarias.
+4. Definir el procedimiento de captura y registro de nuevos documentos, especificando qué metadatos se asignan en el momento de la incorporación al sistema (origen, tipo documental, área responsable, nivel de confidencialidad).
 5. Elaborar una guía de clasificación documental para los empleados, con instrucciones claras sobre cómo clasificar y etiquetar cada documento.
 6. Probar el sistema clasificando al menos 10 documentos reales o simulados de diferentes áreas y tipos.
 
 ## Entregables
 - Documento de diseño del sistema de clasificación (8-12 páginas en Word): taxonomía, esquema de metadatos, tabla de retención.
 - Guía de clasificación documental para empleados (3-5 páginas, formato infografía o documento breve).
-- Configuración del sistema de digitalización: diagrama de flujo del proceso de captura y capturas de pantalla de la herramienta configurada.
+- Procedimiento de captura y registro: descripción del proceso de alta de nuevos documentos con los metadatos obligatorios.
 - Muestra de 10 documentos clasificados con sus metadatos completos (tabla Excel o capturas).
 
 ## Criterios de evaluación
@@ -30,8 +30,8 @@ GesDoc Consulting genera miles de documentos al año: informes de consultoría, 
 
 ## Recursos y herramientas
 - Estándares: ISAD(G), Dublin Core, ISO 15489 (gestión documental)
-- Software de digitalización: escáner con OCR (Adobe Acrobat, NAPS2, PaperScan), reconocimiento óptico
 - Herramienta de gestión documental: SharePoint, Alfresco, ownCloud, o sistema de carpetas con metadatos en Windows
+- Para el diseño de flujos de trabajo del ciclo de vida documental, consulte el Proyecto 9
 - Vocabularios controlados: tesauros, listas de términos autorizados
 
 ## Consejos para el Knowledge Manager
@@ -44,4 +44,4 @@ GesDoc Consulting genera miles de documentos al año: informes de consultoría, 
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*
 
-**RA trabajados:** RA8 - Aplicar sistemas de clasificación documental, taxonomías y metadatos para la gestión eficiente de la información corporativa.
+**RA trabajados:** RA5 - Implementa sistemas de archivo digital y gestión documental, aplicando técnicas de digitalización, clasificación, almacenamiento seguro y recuperación de la información.

@@ -43,4 +43,4 @@ Han transcurrido tres meses desde el inicio del proyecto KM en GesDoc Consulting
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*
 
-**RA trabajados:** RA4 - Integrar y visualizar datos procedentes de múltiples fuentes para la elaboración de informes ejecutivos y dashboards.
+**RA trabajados:** RA2 - Elabora documentos e informes empresariales, integrando datos, gráficos y elementos visuales para la transmisión de conocimiento en la organización.

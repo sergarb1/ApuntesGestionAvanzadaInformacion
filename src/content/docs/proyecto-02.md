@@ -44,4 +44,4 @@ La propuesta del proyecto KM (Proyecto 1) ha sido aprobada por la dirección de 
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*
 
-**RA trabajados:** RA2 - Planificar proyectos de gestión avanzada de información aplicando metodologías y estándares reconocidos.
+**RA trabajados:** RA1 - Gestiona proyectos empresariales aplicando metodologías y herramientas de planificación y seguimiento, identificando el valor del conocimiento como activo estratégico en la organización.

@@ -44,4 +44,4 @@ El equipo del proyecto KM de GesDoc Consulting está formado por 6 personas de d
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*
 
-**RA trabajados:** RA6 - Configurar y gestionar espacios colaborativos digitales para equipos de trabajo multidisciplinares.
+**RA trabajados:** RA4 - Utiliza herramientas de comunicación y colaboración en entornos web para la gestión eficiente del conocimiento y el trabajo en equipo en la organización.

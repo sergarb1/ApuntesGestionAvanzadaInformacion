@@ -6,7 +6,7 @@ title: "Proyecto 9: Workflows y política de custodia documental"
 Diseñar los workflows de gestión documental y redactar la política de custodia documental para GesDoc Consulting, estableciendo procedimientos claros para la creación, revisión, aprobación, publicación y archivo de documentos, así como las directrices de seguridad, acceso y cumplimiento normativo en materia de protección de datos (GDPR).
 
 ## Contexto
-GesDoc Consulting ya cuenta con un sistema de clasificación documental (Proyecto 8) y un portal del conocimiento (Proyecto 7), pero la organización carece de procedimientos formalizados que regulen el ciclo de vida completo de los documentos: quién puede crear qué documentos, cómo se revisan y aprueban, cuándo se publican, cómo se archivan y qué medidas de seguridad se aplican. Además, la entrada en vigor del RGPD (Reglamento General de Protección de Datos) exige que la empresa demuestre el cumplimiento normativo en el tratamiento de datos personales contenidos en su documentación. Como Knowledge Manager, debe diseñar los flujos de trabajo documentales y redactar la política de custodia que regirá todo el sistema KM de GesDoc Consulting.
+GesDoc Consulting ya cuenta con un sistema de clasificación documental que define la taxonomía, los metadatos y la tabla de retención (Proyecto 8), y un portal del conocimiento como punto de acceso (Proyecto 7), pero la organización carece de procedimientos formalizados que regulen el ciclo de vida completo de los documentos: quién puede crear qué documentos, cómo se revisan y aprueban, cuándo se publican, cómo se archivan y qué medidas de seguridad se aplican. Además, la entrada en vigor del RGPD (Reglamento General de Protección de Datos) exige que la empresa demuestre el cumplimiento normativo en el tratamiento de datos personales contenidos en su documentación. Como Knowledge Manager, debe diseñar los flujos de trabajo documentales y redactar la política de custodia que regirá todo el sistema KM de GesDoc Consulting.
 
 ## Tareas del proyecto
 1. Diseñar los workflows del ciclo de vida documental para al menos 3 tipos de documento (informe de consultoría, material formativo, propuesta comercial), incluyendo las fases de: creación, revisión, aprobación, publicación, actualización y archivo o destrucción.
@@ -45,4 +45,4 @@ GesDoc Consulting ya cuenta con un sistema de clasificación documental (Proyect
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*
 
-**RA trabajados:** RA9 - Diseñar flujos de trabajo documental y políticas de custodia que garanticen la seguridad, integridad y disponibilidad de la información corporativa.
+**RA trabajados:** RA5 - Implementa sistemas de archivo digital y gestión documental, aplicando técnicas de digitalización, clasificación, almacenamiento seguro y recuperación de la información.

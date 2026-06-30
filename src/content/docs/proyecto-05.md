@@ -44,4 +44,4 @@ El proyecto KM está en marcha, pero la dirección de GesDoc Consulting detecta 
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*
 
-**RA trabajados:** RA5 - Elaborar y producir materiales de comunicación corporativa multimedia aplicando técnicas de guionización y producción audiovisual.
+**RA trabajados:** RA3 - Crea y edita contenido audiovisual corporativo, aplicando técnicas de guionización, grabación y edición digital para la difusión de conocimiento en la organización.

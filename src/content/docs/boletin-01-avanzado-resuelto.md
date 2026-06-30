@@ -27,7 +27,7 @@ La empresa TecnoSoluciones S.A. quiere invertir en un nuevo software ERP. Estima
 | 3 | 35.000 € | -8.000 € | 27.000 € | -6.000 € |
 | 4 | 40.000 € | -8.000 € | 32.000 € | 26.000 € |
 
-**ROI:** ((26.000 - 60.000) / 60.000) x 100 = **43,33%** en 4 años
+**ROI:** (26.000 / 60.000) x 100 = **43,33%** en 4 años
 
 **Payback:** El flujo acumulado se vuelve positivo entre el año 3 y 4.
 Payback exacto = 3 + (6.000 / 32.000) = **3,19 años** (3 años y 2 meses aprox.)

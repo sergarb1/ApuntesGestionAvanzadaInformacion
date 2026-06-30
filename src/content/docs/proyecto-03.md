@@ -42,4 +42,4 @@ GesDoc Consulting carece de una imagen corporativa unificada en sus documentos i
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*
 
-**RA trabajados:** RA3 - Aplicar técnicas de gestión documental y ofimática avanzada para la creación de recursos corporativos.
+**RA trabajados:** RA2 - Elabora documentos y presentaciones profesionales utilizando herramientas ofimáticas avanzadas, aplicando técnicas de integración, automatización y normalización documental en el contexto de la gestión de la información.

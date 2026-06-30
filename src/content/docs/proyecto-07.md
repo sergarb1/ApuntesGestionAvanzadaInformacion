@@ -44,4 +44,4 @@ GesDoc Consulting ha avanzado en la implantación de su Sistema de Knowledge Man
 
 *Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*
 
-**RA trabajados:** RA7 - Diseñar e implementar portales web de gestión del conocimiento utilizando sistemas de gestión de contenidos.
+**RA trabajados:** RA4 - Configura y mantiene la oficina virtual y la página web corporativa, integrando herramientas digitales y aplicando criterios de seguridad, accesibilidad y protección de datos.
