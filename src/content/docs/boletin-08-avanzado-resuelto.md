@@ -30,7 +30,11 @@ title: "Boletín 08 - Nivel Avanzado (Resuelto): Archivo digital: cómo organiza
    ```
    Esquema de 12 campos con tipo, obligatoriedad y ejemplo. Listo para implementar en un DMS.
    ```
-   > **💡 Explicación:** Los metadatos son la ficha técnica del documento. Sin ellos, buscar un documento en un archivo digital grande es como buscar una aguja en un pajar. La combinación de metadatos de identificación (ID, título), contexto (autor, destinatario) y control (versión, estado) cubre todo el ciclo de vida.
+   <aside type="tip">
+
+Los metadatos son la ficha técnica del documento. Sin ellos, buscar un documento en un archivo digital grande es como buscar una aguja en un pajar. La combinación de metadatos de identificación (ID, título), contexto (autor, destinatario) y control (versión, estado) cubre todo el ciclo de vida.
+
+</aside>
 
 2. ⭐⭐ **Definir una política de migración de archivos físicos a digitales**
    El departamento de Administración tiene 12 archivadores con documentos en papel que deben digitalizarse. Diseña un plan de migración que incluya: criterios de prioridad (qué documentos primero), lotes de trabajo, controles de calidad y qué hacer con los documentos en papel después de digitalizar. Incluye un cronograma estimado.
@@ -68,7 +72,11 @@ title: "Boletín 08 - Nivel Avanzado (Resuelto): Archivo digital: cómo organiza
    ```
    Plan estructurado en 5 fases con prioridades, lotes, controles y cronograma de 8 semanas.
    ```
-   > **💡 Explicación:** Digitalizar no es solo escanear: requiere un plan ordenado. Priorizar por uso y valor legal asegura que los documentos más críticos estén disponibles primero. El control de calidad evita que una mala digitalización genere más trabajo que el papel original.
+   <aside type="tip">
+
+Digitalizar no es solo escanear: requiere un plan ordenado. Priorizar por uso y valor legal asegura que los documentos más críticos estén disponibles primero. El control de calidad evita que una mala digitalización genere más trabajo que el papel original.
+
+</aside>
 
 3. ⭐⭐ **Automatizar la clasificación documental con Power Automate y SharePoint**
    Diseña un flujo en Power Automate que, cuando se suba un archivo a una carpeta de SharePoint, le asigne automáticamente metadatos (tipo documental, año, departamento) en función de la carpeta destino y del nombre del archivo. Describe la lógica condicional necesaria.
@@ -109,7 +117,11 @@ title: "Boletín 08 - Nivel Avanzado (Resuelto): Archivo digital: cómo organiza
    ```
    Cada archivo subido recibe metadatos automáticos. Los no clasificables generan alerta para revisión manual.
    ```
-   > **💡 Explicación:** Automatizar la clasificación reduce el error humano y acelera la disponibilidad de los documentos. La lógica condicional basada en carpetas y nombres permite adaptarse a la estructura existente sin cambios drásticos.
+   <aside type="tip">
+
+Automatizar la clasificación reduce el error humano y acelera la disponibilidad de los documentos. La lógica condicional basada en carpetas y nombres permite adaptarse a la estructura existente sin cambios drásticos.
+
+</aside>
 
 4. ⭐⭐⭐ **Crear un plan de conservación documental basado en la normativa legal**
    Investiga los plazos de conservación legales en España para: facturas (Ley 58/2003), contratos mercantiles (Código de Comercio), nóminas (ET), informes anuales y actas de consejo (LSC). Diseña una tabla con el tipo documental, plazo legal, base normativa y acción al vencimiento (eliminar, conservar parcialmente, transferir a archivo histórico). Aplica estos plazos a un ejemplo concreto de cada tipo.
@@ -140,7 +152,11 @@ title: "Boletín 08 - Nivel Avanzado (Resuelto): Archivo digital: cómo organiza
    ```
    Tabla de conservación con 5 tipos documentales, plazos legales, base normativa y acciones al vencimiento.
    ```
-   > **💡 Explicación:** Cada tipo documental tiene un plazo de conservación diferente según la ley. No todos los documentos deben conservarse para siempre; una política de eliminación programada reduce costes de almacenamiento y riesgos legales. Las actas de consejo y escrituras tienen valor permanente.
+   <aside type="tip">
+
+Cada tipo documental tiene un plazo de conservación diferente según la ley. No todos los documentos deben conservarse para siempre; una política de eliminación programada reduce costes de almacenamiento y riesgos legales. Las actas de consejo y escrituras tienen valor permanente.
+
+</aside>
 
 ```
 

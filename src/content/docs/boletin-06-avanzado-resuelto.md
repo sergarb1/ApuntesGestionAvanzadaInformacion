@@ -36,7 +36,11 @@ title: "Boletín 06 - Nivel Avanzado (Resuelto): Comunicación y trabajo en equi
    ```
    Estructura de 5 equipos con canales estándar y privados correctamente justificada.
    ```
-   > **💡 Explicación:** La combinación de equipos públicos y privados permite equilibrar la transparencia con la confidencialidad. Los canales privados dentro de un equipo público añaden una capa adicional de restricción sin crear un equipo nuevo.
+   <aside type="tip">
+
+La combinación de equipos públicos y privados permite equilibrar la transparencia con la confidencialidad. Los canales privados dentro de un equipo público añaden una capa adicional de restricción sin crear un equipo nuevo.
+
+</aside>
 
 2. ⭐⭐ **Automatizar el envío de una agenda semanal con Power Automate**
    Crea un flujo en Power Automate que cada lunes a las 8:00 h publique un mensaje en el canal "General" del equipo con el resumen de tareas pendientes del Planner. Describe los pasos para configurarlo y qué conectores necesitas.
@@ -60,7 +64,11 @@ title: "Boletín 06 - Nivel Avanzado (Resuelto): Comunicación y trabajo en equi
    ```
    Cada lunes a las 8:00 aparece un mensaje en el canal General con las tareas pendientes del Planner.
    ```
-   > **💡 Explicación:** Power Automate elimina la necesidad de recordatorios manuales. Al integrar Planner y Teams, el equipo recibe automáticamente el estado de sus tareas sin intervención humana.
+   <aside type="tip">
+
+Power Automate elimina la necesidad de recordatorios manuales. Al integrar Planner y Teams, el equipo recibe automáticamente el estado de sus tareas sin intervención humana.
+
+</aside>
 
 3. ⭐⭐ **Configurar una reunión recurrente con grabación automática**
    Programa una reunión recurrente semanal (los miércoles de 9:30 a 10:30) llamada "Seguimiento de proyectos". Activa la grabación automática y la transcripción en vivo. Configura que los archivos de grabación se guarden en la biblioteca de documentos del equipo "Proyecto Facturación 2026".
@@ -83,7 +91,11 @@ title: "Boletín 06 - Nivel Avanzado (Resuelto): Comunicación y trabajo en equi
    ```
    Reunión recurrente creada. Cada miércoles se grabará y transcribirá automáticamente.
    ```
-   > **💡 Explicación:** La grabación automática asegura que ningún asistente pierda información si no puede acudir. La transcripción en vivo permite buscar palabras clave dentro de la reunión posteriormente.
+   <aside type="tip">
+
+La grabación automática asegura que ningún asistente pierda información si no puede acudir. La transcripción en vivo permite buscar palabras clave dentro de la reunión posteriormente.
+
+</aside>
 
 4. ⭐⭐⭐ **Integrar un formulario externo con recogida de datos automatizada**
    Supón que tu empresa recibe solicitudes de proveedores a través de un formulario de Microsoft Forms. Diseña un sistema completo para que cada nueva respuesta:
@@ -116,7 +128,11 @@ title: "Boletín 06 - Nivel Avanzado (Resuelto): Comunicación y trabajo en equi
    ```
    Cada respuesta de formulario genera un registro en SharePoint, una tarea en Planner y un aviso en Teams.
    ```
-   > **💡 Explicación:** Este flujo elimina la entrada manual de datos y reduce el tiempo de respuesta a proveedores. La asignación condicional garantiza que cada solicitud llegue automáticamente a la persona adecuada.
+   <aside type="tip">
+
+Este flujo elimina la entrada manual de datos y reduce el tiempo de respuesta a proveedores. La asignación condicional garantiza que cada solicitud llegue automáticamente a la persona adecuada.
+
+</aside>
 
 ```
 

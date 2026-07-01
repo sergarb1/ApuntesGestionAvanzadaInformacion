@@ -2,7 +2,6 @@
 title: "Boletín 5 - Fácil: Creación de vídeos corporativos y contenido audiovisual"
 ---
 
-# Boletín 5 - Fácil: Creación de vídeos corporativos y contenido audiovisual
 
 ## Ejercicio 1: Redacción de un guion para vídeo corporativo de bienvenida
 

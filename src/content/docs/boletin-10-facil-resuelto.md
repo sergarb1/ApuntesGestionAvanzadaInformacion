@@ -29,7 +29,11 @@ title: "Boletín 10 - Nivel Fácil (Resuelto): Proyecto Knowledge Management (I)
    ```
    Introducción completa con contexto, problemática, objetivos y estructura del documento.
    ```
-   > **💡 Explicación:** La introducción de una memoria debe responder a qué, por qué y para qué del proyecto. Debe captar el interés del lector (dirección, cliente) mostrando que se entiende el problema y que el proyecto tiene una solución estructurada.
+   <aside type="tip">
+
+La introducción de una memoria debe responder a qué, por qué y para qué del proyecto. Debe captar el interés del lector (dirección, cliente) mostrando que se entiende el problema y que el proyecto tiene una solución estructurada.
+
+</aside>
 
 2. **Preparar un resumen ejecutivo para la dirección**
    A partir de la memoria anterior, redacta un resumen ejecutivo de una página dirigido a la dirección de la empresa. Debe incluir: problema, solución propuesta, beneficios esperados, inversión estimada y plazo de ejecución. Usa un lenguaje directo y orientado a resultados.
@@ -64,7 +68,11 @@ title: "Boletín 10 - Nivel Fácil (Resuelto): Proyecto Knowledge Management (I)
    ```
    Resumen ejecutivo de una página con problema, solución, beneficios, inversión y plazo.
    ```
-   > **💡 Explicación:** El resumen ejecutivo es lo primero que lee la dirección. Debe ser autónomo (no requiere leer la memoria completa) y destacar los beneficios en términos de negocio. La dirección quiere saber: ¿qué problema resuelve, cuánto cuesta, cuánto ahorra?
+   <aside type="tip">
+
+El resumen ejecutivo es lo primero que lee la dirección. Debe ser autónomo (no requiere leer la memoria completa) y destacar los beneficios en términos de negocio. La dirección quiere saber: ¿qué problema resuelve, cuánto cuesta, cuánto ahorra?
+
+</aside>
 
 3. **Crear un cronograma de proyecto con hitos clave**
    Diseña un cronograma para el proyecto de implantación del sistema de gestión documental. Incluye al menos 6 fases con fechas de inicio y fin, responsables y un hito clave por fase. Usa formato tabla.
@@ -86,7 +94,11 @@ title: "Boletín 10 - Nivel Fácil (Resuelto): Proyecto Knowledge Management (I)
    ```
    Cronograma con 6 fases, fechas, responsables e hitos clave para 8 semanas de proyecto.
    ```
-   > **💡 Explicación:** Un cronograma convierte el plan en acciones con fechas concretas. Cada fase debe terminar con un hito verificable (un documento aprobado, un sistema configurado, unos empleados formados) para medir el progreso real.
+   <aside type="tip">
+
+Un cronograma convierte el plan en acciones con fechas concretas. Cada fase debe terminar con un hito verificable (un documento aprobado, un sistema configurado, unos empleados formados) para medir el progreso real.
+
+</aside>
 
 4. **Definir indicadores clave de rendimiento (KPI) del proyecto**
    Define al menos 4 KPI para medir el éxito del proyecto de gestión documental. Para cada uno: nombre, fórmula de cálculo, frecuencia de medición y valor objetivo. Ejemplos: tiempo de búsqueda, documentos sin clasificar, satisfacción del usuario, cumplimiento de plazos de conservación.
@@ -113,7 +125,11 @@ title: "Boletín 10 - Nivel Fácil (Resuelto): Proyecto Knowledge Management (I)
    ```
    5 KPIs definidos con fórmula, frecuencia, objetivo y metodología de medición.
    ```
-   > **💡 Explicación:** Los KPI convierten objetivos abstractos ("mejorar la organización") en métricas concretas ("tiempo de búsqueda < 2 min"). Lo que no se mide no se puede mejorar. Definir los KPI al inicio del proyecto permite evaluar objetivamente si se ha alcanzado el éxito.
+   <aside type="tip">
+
+Los KPI convierten objetivos abstractos ("mejorar la organización") en métricas concretas ("tiempo de búsqueda < 2 min"). Lo que no se mide no se puede mejorar. Definir los KPI al inicio del proyecto permite evaluar objetivamente si se ha alcanzado el éxito.
+
+</aside>
 
 ```
 

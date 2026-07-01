@@ -2,7 +2,6 @@
 title: "Boletín 2 - Fácil: Planificación y seguimiento de proyectos con herramientas digitales"
 ---
 
-# Boletín 2 - Fácil: Planificación y seguimiento de proyectos con herramientas digitales
 
 ## Ejercicio 1: Creación de una Estructura de Desglose del Trabajo (EDT/WBS)
 
@@ -42,7 +41,11 @@ La empresa ElectroHogar va a lanzar un nuevo producto: una aspiradora inteligent
 **Salida esperada:**
 Una EDT jerárquica con 4 paquetes de trabajo principales y al menos 3 subniveles cada uno.
 
-> **💡 Explicación:** La EDT descompone el trabajo en componentes manejables. Cada nivel inferior es un subconjunto del nivel superior. La regla del 100% establece que el nivel padre debe contener todo el trabajo de sus niveles hijo.
+<aside type="tip">
+
+La EDT descompone el trabajo en componentes manejables. Cada nivel inferior es un subconjunto del nivel superior. La regla del 100% establece que el nivel padre debe contener todo el trabajo de sus niveles hijo.
+
+</aside>
 
 ## Ejercicio 2: Planificación de un diagrama de Gantt
 
@@ -73,7 +76,11 @@ El proyecto de mudanza de oficinas de la empresa InnovaConsult tiene las siguien
 **Salida esperada:**
 Un diagrama de Gantt con las tareas, duraciones, dependencias y la duración total del proyecto.
 
-> **💡 Explicación:** El diagrama de Gantt es una herramienta visual de planificación. Las dependencias determinan el orden de las tareas. El camino crítico es la secuencia de tareas que determina la duración mínima del proyecto.
+<aside type="tip">
+
+El diagrama de Gantt es una herramienta visual de planificación. Las dependencias determinan el orden de las tareas. El camino crítico es la secuencia de tareas que determina la duración mínima del proyecto.
+
+</aside>
 
 ## Ejercicio 3: Análisis de riesgos del proyecto
 
@@ -97,7 +104,11 @@ Identifica al menos 6 riesgos para el proyecto de lanzamiento de la aspiradora i
 **Salida esperada:**
 Un registro de riesgos con al menos 6 entradas, cada una con descripción, probabilidad, impacto y mitigación.
 
-> **💡 Explicación:** El registro de riesgos es un documento vivo que se actualiza durante todo el proyecto. Las medidas de mitigación deben ser acciones concretas y asignables a una persona responsable.
+<aside type="tip">
+
+El registro de riesgos es un documento vivo que se actualiza durante todo el proyecto. Las medidas de mitigación deben ser acciones concretas y asignables a una persona responsable.
+
+</aside>
 
 ## Ejercicio 4: Elaboración de un presupuesto de proyecto
 
@@ -136,7 +147,11 @@ Elabora el presupuesto detallado para el proyecto de mudanza del ejercicio 2. In
 **Salida esperada:**
 Un presupuesto desglosado en personal y materiales, con contingencia y total final.
 
-> **💡 Explicación:** El presupuesto debe incluir todos los costes necesarios para ejecutar el proyecto. La contingencia cubre imprevistos y se calcula como un porcentaje sobre los costes directos (generalmente entre 5% y 15% según la incertidumbre del proyecto).
+<aside type="tip">
+
+El presupuesto debe incluir todos los costes necesarios para ejecutar el proyecto. La contingencia cubre imprevistos y se calcula como un porcentaje sobre los costes directos (generalmente entre 5% y 15% según la incertidumbre del proyecto).
+
+</aside>
 
 ## 🧠 Tu turno como Knowledge Manager
 

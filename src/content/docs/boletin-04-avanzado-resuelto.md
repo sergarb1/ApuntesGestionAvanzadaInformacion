@@ -2,7 +2,6 @@
 title: "Boletín 4 - Avanzado: Informes empresariales: datos, gráficos y comunicaciones"
 ---
 
-# Boletín 4 - Avanzado: Informes empresariales: datos, gráficos y comunicaciones
 
 ## Ejercicio 1: Cuadro de mando interactivo con segmentadores y líneas de tiempo (⭐)
 
@@ -48,7 +47,11 @@ Formato: Tabla (Ctrl+T) para que los datos sean dinámicos.
 **Salida esperada:**
 Un dashboard interactivo con tabla dinámica, 3 gráficos vinculados, 3 segmentadores y una línea de tiempo funcionando sincronizadamente.
 
-> **💡 Explicación:** Los segmentadores y líneas de tiempo convierten un informe estático en una herramienta interactiva de análisis. La clave está en conectar todos los elementos a la misma tabla dinámica para que los filtros se sincronicen automáticamente.
+<aside type="tip">
+
+Los segmentadores y líneas de tiempo convierten un informe estático en una herramienta interactiva de análisis. La clave está en conectar todos los elementos a la misma tabla dinámica para que los filtros se sincronicen automáticamente.
+
+</aside>
 
 ## Ejercicio 2: Scorecard dinámico con formato condicional avanzado (⭐⭐)
 
@@ -96,7 +99,11 @@ Si Ranking >= 18 → fondo rojo claro
 **Salida esperada:**
 Un scorecard con 20 comerciales evaluados, puntuación ponderada automática, ranking y formato condicional avanzado.
 
-> **💡 Explicación:** Los scorecards permiten evaluar el rendimiento de forma objetiva combinando múltiples indicadores. La normalización asegura que todos los indicadores tengan el mismo rango (0-10) antes de aplicar la ponderación. El formato condicional avanzado mejora la legibilidad.
+<aside type="tip">
+
+Los scorecards permiten evaluar el rendimiento de forma objetiva combinando múltiples indicadores. La normalización asegura que todos los indicadores tengan el mismo rango (0-10) antes de aplicar la ponderación. El formato condicional avanzado mejora la legibilidad.
+
+</aside>
 
 ## Ejercicio 3: Infografía dinámica basada en datos con tablas dinámicas (⭐⭐⭐)
 
@@ -143,7 +150,11 @@ Formato: Fondo rojo claro, texto rojo oscuro, negrita
 **Salida esperada:**
 Una infografía interactiva que calcula el NPS automáticamente y se actualiza al añadir nuevas respuestas de la encuesta.
 
-> **💡 Explicación:** El NPS (Net Promoter Score) es un indicador estándar de satisfacción y lealtad. Se calcula como el porcentaje de promotores menos el porcentaje de detractores. Un NPS superior a 0 es bueno; superior a 50 es excelente.
+<aside type="tip">
+
+El NPS (Net Promoter Score) es un indicador estándar de satisfacción y lealtad. Se calcula como el porcentaje de promotores menos el porcentaje de detractores. Un NPS superior a 0 es bueno; superior a 50 es excelente.
+
+</aside>
 
 ## Ejercicio 4: Generación automatizada de informes trimestrales (⭐⭐⭐⭐)
 
@@ -211,7 +222,11 @@ Para hacerlo más rápido, se puede asignar el comando a la barra de acceso ráp
 **Salida esperada:**
 Un sistema completo que genera informes trimestrales automáticamente al cambiar un parámetro, listo para exportar a PDF.
 
-> **💡 Explicación:** La automatización de informes mediante parámetros y fórmulas dinámicas reduce drásticamente el tiempo de elaboración. Al cambiar el trimestre en la celda desplegable, todas las fórmulas, tablas y gráficos se actualizan sin necesidad de programar. La exportación a PDF desde Archivo permite distribuir el informe en formato profesional.
+<aside type="tip">
+
+La automatización de informes mediante parámetros y fórmulas dinámicas reduce drásticamente el tiempo de elaboración. Al cambiar el trimestre en la celda desplegable, todas las fórmulas, tablas y gráficos se actualizan sin necesidad de programar. La exportación a PDF desde Archivo permite distribuir el informe en formato profesional.
+
+</aside>
 
 ## 🧠 Tu turno como Knowledge Manager
 

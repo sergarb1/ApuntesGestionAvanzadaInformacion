@@ -29,7 +29,11 @@ title: "Boletín 09 - Nivel Avanzado (Resuelto): Flujos de trabajo, custodia de 
    ```
    Flujo completo con aprobaciones en dos niveles, escalado automático y registro en SharePoint.
    ```
-   > **💡 Explicación:** Automatizar las aprobaciones elimina los correos encadenados y los retrasos. El escalado automático evita que una solicitud quede bloqueada para siempre porque un responsable está de vacaciones o no responde.
+   <aside type="tip">
+
+Automatizar las aprobaciones elimina los correos encadenados y los retrasos. El escalado automático evita que una solicitud quede bloqueada para siempre porque un responsable está de vacaciones o no responde.
+
+</aside>
 
 2. ⭐⭐ **Realizar un análisis de riesgos para un tratamiento de datos personales**
    El departamento de Administración va a implantar un nuevo software de gestión de clientes que almacenará: nombre, DNI, dirección, email, teléfono e historial de compras. Realiza un análisis de riesgos identificando: activos, amenazas, vulnerabilidades, impacto potencial (bajo, medio, alto) y medidas de mitigación. Sigue la metodología del RGPD (AEPD).
@@ -76,7 +80,11 @@ title: "Boletín 09 - Nivel Avanzado (Resuelto): Flujos de trabajo, custodia de 
    ```
    Análisis completo con activos, amenazas, vulnerabilidades, matriz de riesgo y medidas de mitigación.
    ```
-   > **💡 Explicación:** El análisis de riesgos es obligatorio bajo el RGPD (art. 32 y 35). Identificar las amenazas permite aplicar medidas proporcionadas: no se trata de eliminar todo riesgo, sino de reducirlo a un nivel aceptable para los derechos de los interesados.
+   <aside type="tip">
+
+El análisis de riesgos es obligatorio bajo el RGPD (art. 32 y 35). Identificar las amenazas permite aplicar medidas proporcionadas: no se trata de eliminar todo riesgo, sino de reducirlo a un nivel aceptable para los derechos de los interesados.
+
+</aside>
 
 3. ⭐⭐ **Diseñar un sistema de custodia con cadena de custodia digital**
    Una empresa maneja documentos que pueden ser requeridos como prueba en juicios (contratos, facturas, actas). Diseña un sistema de custodia digital que garantice la integridad, autenticidad y conservación del documento, incluyendo: sellado de tiempo (timestamp), firmas electrónicas, registro de accesos y copias de seguridad. Explica cómo se demuestra que el documento no ha sido alterado.
@@ -115,7 +123,11 @@ title: "Boletín 09 - Nivel Avanzado (Resuelto): Flujos de trabajo, custodia de 
    ```
    Sistema de custodia con 5 componentes: ingreso sellado, almacenamiento seguro, registro de accesos, verificación por hash y conservación.
    ```
-   > **💡 Explicación:** La cadena de custodia digital garantiza que un documento es admisible como prueba judicial. El hash + timestamp + firma electrónica crean un vínculo indisoluble entre el documento y su momento de creación, imposible de falsificar sin romper la cadena.
+   <aside type="tip">
+
+La cadena de custodia digital garantiza que un documento es admisible como prueba judicial. El hash + timestamp + firma electrónica crean un vínculo indisoluble entre el documento y su momento de creación, imposible de falsificar sin romper la cadena.
+
+</aside>
 
 4. ⭐⭐⭐ **Elaborar un informe de auditoría de cumplimiento normativo**
    Imagina que eres el responsable de archivo y te piden una auditoría interna de cumplimiento. Elabora un informe que incluya: alcance (qué departamentos y procesos se auditan), checklist de verificación (al menos 10 puntos sobre RGPD, LOPDGDD, ENS si aplica), hallazgos (3 no conformidades realistas), recomendaciones y plan de acción con plazos. Redacta el informe como si fuera para la dirección de la empresa.
@@ -164,7 +176,11 @@ title: "Boletín 09 - Nivel Avanzado (Resuelto): Flujos de trabajo, custodia de 
    ```
    Informe de auditoría completo con alcance, checklist, 3 hallazgos, recomendaciones y plan de acción con plazos.
    ```
-   > **💡 Explicación:** Un informe de auditoría no solo detecta incumplimientos, sino que propone soluciones con plazos concretos. La dirección necesita saber qué está mal, por qué es importante y qué hay que hacer para solucionarlo. Sin plan de acción, la auditoría es solo un papel.
+   <aside type="tip">
+
+Un informe de auditoría no solo detecta incumplimientos, sino que propone soluciones con plazos concretos. La dirección necesita saber qué está mal, por qué es importante y qué hay que hacer para solucionarlo. Sin plan de acción, la auditoría es solo un papel.
+
+</aside>
 
 ```
 

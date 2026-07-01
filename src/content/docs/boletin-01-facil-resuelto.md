@@ -2,7 +2,6 @@
 title: "Boletín 1 - Fácil: Gestión de proyectos empresariales. El valor del conocimiento"
 ---
 
-# Boletín 1 - Fácil: Gestión de proyectos empresariales. El valor del conocimiento
 
 ## Ejercicio 1: Creación de un acta de constitución del proyecto
 
@@ -51,7 +50,11 @@ Redacta el acta de constitución (project charter) para un proyecto de implantac
 **Salida esperada:**
 Un documento formal con los apartados anteriores que sirva como autorización oficial para iniciar el proyecto.
 
-> **💡 Explicación:** El acta de constitución es el documento que formaliza la existencia del proyecto y autoriza al jefe de proyecto a asignar recursos. Debe ser aprobada por el patrocinador o comité de dirección.
+<aside type="tip">
+
+El acta de constitución es el documento que formaliza la existencia del proyecto y autoriza al jefe de proyecto a asignar recursos. Debe ser aprobada por el patrocinador o comité de dirección.
+
+</aside>
 
 ## Ejercicio 2: Identificación de stakeholders
 
@@ -85,7 +88,11 @@ Empresa: LogiDistribuye S.L. (120 empleados, 3 almacenes)
 **Salida esperada:**
 Una tabla con los stakeholders identificados, su clasificación poder-interés y la estrategia de gestión recomendada.
 
-> **💡 Explicación:** La matriz poder-interés permite priorizar los esfuerzos de comunicación. Los stakeholders con alto poder y alto interés requieren una gestión cercana y continua.
+<aside type="tip">
+
+La matriz poder-interés permite priorizar los esfuerzos de comunicación. Los stakeholders con alto poder y alto interés requieren una gestión cercana y continua.
+
+</aside>
 
 ## Ejercicio 3: Clasificación de datos, información y conocimiento
 
@@ -116,7 +123,11 @@ h) Manual de incorporación para nuevos empleados
 **Salida esperada:**
 Una tabla de clasificación con justificación para cada elemento.
 
-> **💡 Explicación:** La jerarquía DIK (Dato- Información- Conocimiento) es fundamental en gestión del conocimiento. Los datos son hechos brutos; la información son datos con contexto; el conocimiento es información interiorizada que permite la toma de decisiones.
+<aside type="tip">
+
+La jerarquía DIK (Dato- Información- Conocimiento) es fundamental en gestión del conocimiento. Los datos son hechos brutos; la información son datos con contexto; el conocimiento es información interiorizada que permite la toma de decisiones.
+
+</aside>
 
 ## Ejercicio 4: Matriz de responsabilidades (RACI)
 
@@ -145,7 +156,11 @@ Crea una matriz RACI para las siguientes tareas del proyecto de implantación de
 **Salida esperada:**
 Una matriz que asigna claramente responsabilidades para evitar duplicidades o lagunas en la ejecución del proyecto.
 
-> **💡 Explicación:** La matriz RACI evita conflictos de responsabilidad. Cada tarea debe tener solo un responsable (R) y un accountable (A). El accountable es quien responde por el resultado final, aunque no ejecute la tarea.
+<aside type="tip">
+
+La matriz RACI evita conflictos de responsabilidad. Cada tarea debe tener solo un responsable (R) y un accountable (A). El accountable es quien responde por el resultado final, aunque no ejecute la tarea.
+
+</aside>
 
 ## 🧠 Tu turno como Knowledge Manager
 

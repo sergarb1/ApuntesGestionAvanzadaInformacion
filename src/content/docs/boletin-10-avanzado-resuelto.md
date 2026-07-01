@@ -37,7 +37,11 @@ title: "Boletín 10 - Nivel Avanzado (Resuelto): Proyecto Knowledge Management (
    ```
    Análisis DAFO con 4 cuadrantes, 3 elementos cada uno, y estrategias FO y DA.
    ```
-   > **💡 Explicación:** El DAFO permite tener una visión completa del proyecto antes de empezar. No basta con listar los elementos; lo valioso es el cruce estratégico: cómo las fortalezas ayudan a capturar oportunidades y cómo las debilidades nos exponen a las amenazas.
+   <aside type="tip">
+
+El DAFO permite tener una visión completa del proyecto antes de empezar. No basta con listar los elementos; lo valioso es el cruce estratégico: cómo las fortalezas ayudan a capturar oportunidades y cómo las debilidades nos exponen a las amenazas.
+
+</aside>
 
 2. ⭐⭐ **Elaborar un plan de comunicación del proyecto para los grupos de interés**
    Diseña un plan de comunicación para el proyecto de gestión documental dirigido a cuatro grupos de interés: dirección, empleados, proveedores y clientes. Para cada grupo define: objetivo de la comunicación, canal, frecuencia, contenido clave y responsable. Incluye cómo gestionar las posibles resistencias al cambio.
@@ -81,7 +85,11 @@ title: "Boletín 10 - Nivel Avanzado (Resuelto): Proyecto Knowledge Management (
    ```
    Plan de comunicación con 4 grupos de interés, canales, frecuencias y estrategia de gestión del cambio.
    ```
-   > **💡 Explicación:** El fracaso de muchos proyectos no es técnico sino humano. Un plan de comunicación adaptado a cada grupo reduce la incertidumbre, alinea expectativas y facilita la adopción. La gestión de resistencias es especialmente crítica con los empleados.
+   <aside type="tip">
+
+El fracaso de muchos proyectos no es técnico sino humano. Un plan de comunicación adaptado a cada grupo reduce la incertidumbre, alinea expectativas y facilita la adopción. La gestión de resistencias es especialmente crítica con los empleados.
+
+</aside>
 
 3. ⭐⭐ **Calcular el retorno de inversión (ROI) del proyecto**
    Estima los costes anuales actuales por la mala gestión documental (pérdida de tiempo, errores, almacenamiento) y compáralos con la inversión del proyecto. Calcula el ROI esperado a 1, 2 y 3 años. Incluye los supuestos y las fórmulas utilizadas. Determina el periodo de amortización (payback).
@@ -125,7 +133,11 @@ title: "Boletín 10 - Nivel Avanzado (Resuelto): Proyecto Knowledge Management (
    ```
    ROI calculado para 3 años (950% año 1) con payback de 1,14 meses y todos los supuestos detallados.
    ```
-   > **💡 Explicación:** El ROI traduce los beneficios intangibles (tiempo, organización) en euros. Un payback inferior a 6 meses hace que el proyecto sea prácticamente una decisión obvia para cualquier dirección. Documentar los supuestos es clave para que el cálculo sea defendible.
+   <aside type="tip">
+
+El ROI traduce los beneficios intangibles (tiempo, organización) en euros. Un payback inferior a 6 meses hace que el proyecto sea prácticamente una decisión obvia para cualquier dirección. Documentar los supuestos es clave para que el cálculo sea defendible.
+
+</aside>
 
 4. ⭐⭐⭐ **Redactar la memoria completa del proyecto (esquema + desarrollo de una sección técnica)**
    Diseña el esquema completo de una memoria de proyecto de implantación de un sistema de knowledge management. El esquema debe tener al menos 10 secciones. Desarrolla en profundidad la sección "Arquitectura del sistema y flujos de información", describiendo: repositorio único, motor de búsqueda, taxonomía, permisos de acceso e integraciones con otras herramientas. Redacta esta sección como si fuera la memoria real presentada a la dirección.
@@ -189,7 +201,11 @@ title: "Boletín 10 - Nivel Avanzado (Resuelto): Proyecto Knowledge Management (
    ```
    Esquema de 12 secciones + desarrollo completo de la sección técnica con 5 subsecciones detalladas.
    ```
-   > **💡 Explicación:** Una memoria de proyecto debe ser completa pero no excesiva. El esquema muestra la estructura global; desarrollar una sección en profundidad demuestra la capacidad de pasar del plano conceptual al detalle técnico. La sección de arquitectura es crítica porque define cómo funcionará el sistema en el día a día.
+   <aside type="tip">
+
+Una memoria de proyecto debe ser completa pero no excesiva. El esquema muestra la estructura global; desarrollar una sección en profundidad demuestra la capacidad de pasar del plano conceptual al detalle técnico. La sección de arquitectura es crítica porque define cómo funcionará el sistema en el día a día.
+
+</aside>
 
 ```
 

@@ -2,7 +2,6 @@
 title: "Boletín 3 - Fácil: Documentos profesionales con Word, Excel y PowerPoint"
 ---
 
-# Boletín 3 - Fácil: Documentos profesionales con Word, Excel y PowerPoint
 
 ## Ejercicio 1: Creación de una plantilla profesional en Word
 

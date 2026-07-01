@@ -2,7 +2,6 @@
 title: "Boletín 5 - Fácil: Creación de vídeos corporativos y contenido audiovisual"
 ---
 
-# Boletín 5 - Fácil: Creación de vídeos corporativos y contenido audiovisual
 
 ## Ejercicio 1: Redacción de un guion para vídeo corporativo de bienvenida
 
@@ -32,7 +31,11 @@ Empresa: Consultoría Estratégica S.L. | Duración total: 60 segundos
 **Salida esperada:**
 Un guion completo con tabla de planificación que incluya tiempos, escenas, planos, audio y texto.
 
-> **💡 Explicación:** Un guion de vídeo corporativo debe planificar cada segundo. La estructura típica es: apertura (presentación), desarrollo (contenido) y cierre (llamada a la acción). Las indicaciones técnicas facilitan la producción al equipo de grabación y edición.
+<aside type="tip">
+
+Un guion de vídeo corporativo debe planificar cada segundo. La estructura típica es: apertura (presentación), desarrollo (contenido) y cierre (llamada a la acción). Las indicaciones técnicas facilitan la producción al equipo de grabación y edición.
+
+</aside>
 
 ## Ejercicio 2: Creación de un storyboard para demo de producto
 
@@ -57,7 +60,11 @@ Duración total: 90 segundos | Formato: 16:9
 **Salida esperada:**
 Un storyboard de 6 viñetas con descripción visual y de audio para cada escena de la demo.
 
-> **💡 Explicación:** El storyboard es la versión visual del guion. Cada viñeta representa una escena clave y facilita la comunicación entre el equipo creativo y el de producción. Es especialmente útil para vídeos de demostración de producto donde la secuencia visual es crítica.
+<aside type="tip">
+
+El storyboard es la versión visual del guion. Cada viñeta representa una escena clave y facilita la comunicación entre el equipo creativo y el de producción. Es especialmente útil para vídeos de demostración de producto donde la secuencia visual es crítica.
+
+</aside>
 
 ## Ejercicio 3: Creación de un screencast para formación
 
@@ -116,7 +123,11 @@ Planifica y describe el proceso de creación de un screencast (grabación de pan
 **Salida esperada:**
 Un plan de screencast completo con estructura, herramientas, contenido seccionado por tiempos y proceso de postproducción.
 
-> **💡 Explicación:** El screencast es una herramienta de formación muy efectiva para software. La clave está en planificar la estructura antes de grabar, usar anotaciones visuales para guiar la atención y mantener una duración adecuada (5-7 minutos máximos por procedimiento).
+<aside type="tip">
+
+El screencast es una herramienta de formación muy efectiva para software. La clave está en planificar la estructura antes de grabar, usar anotaciones visuales para guiar la atención y mantener una duración adecuada (5-7 minutos máximos por procedimiento).
+
+</aside>
 
 ## Ejercicio 4: Edición de una entrevista corporativa
 
@@ -175,7 +186,11 @@ Revisar la entrevista completa y marcar los momentos clave:
 **Salida esperada:**
 Un plan detallado de edición con cada paso documentado, desde el visionado hasta la exportación final.
 
-> **💡 Explicación:** La edición de entrevistas requiere un equilibrio entre mantener la naturalidad del discurso y condensar la información. El uso de múltiples cámaras (multicam) y B-roll enriquece visualmente la pieza. La corrección de color asegura consistencia visual entre clips de diferentes fuentes.
+<aside type="tip">
+
+La edición de entrevistas requiere un equilibrio entre mantener la naturalidad del discurso y condensar la información. El uso de múltiples cámaras (multicam) y B-roll enriquece visualmente la pieza. La corrección de color asegura consistencia visual entre clips de diferentes fuentes.
+
+</aside>
 
 ```
 

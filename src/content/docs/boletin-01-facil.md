@@ -2,7 +2,6 @@
 title: "Boletín 1 - Fácil: Gestión de proyectos empresariales. El valor del conocimiento"
 ---
 
-# Boletín 1 - Fácil: Gestión de proyectos empresariales. El valor del conocimiento
 
 ## Ejercicio 1: Creación de un acta de constitución del proyecto
 

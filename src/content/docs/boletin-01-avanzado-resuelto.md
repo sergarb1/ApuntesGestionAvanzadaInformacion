@@ -2,7 +2,6 @@
 title: "Boletín 1 - Avanzado: Gestión de proyectos empresariales. El valor del conocimiento"
 ---
 
-# Boletín 1 - Avanzado: Gestión de proyectos empresariales. El valor del conocimiento
 
 ## Ejercicio 1: Elaboración de un caso de negocio con análisis de retorno (⭐)
 
@@ -43,7 +42,11 @@ VAN = **14.462 €** (positivo, proyecto viable)
 **Salida esperada:**
 Un caso de negocio completo con cálculos financieros, tabla de flujos y una conclusión razonada.
 
-> **💡 Explicación:** El VAN positivo indica que el proyecto genera valor. El payback muestra en cuánto tiempo se recupera la inversión. El ROI expresa la rentabilidad relativa. Tres indicadores complementarios para evaluar una inversión.
+<aside type="tip">
+
+El VAN positivo indica que el proyecto genera valor. El payback muestra en cuánto tiempo se recupera la inversión. El ROI expresa la rentabilidad relativa. Tres indicadores complementarios para evaluar una inversión.
+
+</aside>
 
 ## Ejercicio 2: Diseño de un plan de gestión del conocimiento (⭐⭐)
 
@@ -86,7 +89,11 @@ Una consultora de 50 empleados detecta que pierde conocimiento cuando los senior
 **Salida esperada:**
 Un plan estructurado con las cinco secciones que permita a la organización retener el conocimiento crítico.
 
-> **💡 Explicación:** El plan de gestión del conocimiento debe abordar tanto la captura (extraer el conocimiento tácito) como la transferencia (hacer que fluya hacia quienes lo necesitan). Los indicadores permiten medir la efectividad del plan.
+<aside type="tip">
+
+El plan de gestión del conocimiento debe abordar tanto la captura (extraer el conocimiento tácito) como la transferencia (hacer que fluya hacia quienes lo necesitan). Los indicadores permiten medir la efectividad del plan.
+
+</aside>
 
 ## Ejercicio 3: Estrategia de gestión del cambio organizativo (⭐⭐⭐)
 
@@ -113,7 +120,11 @@ Empresa: FamiliCorp (200 empleados, cultura tradicional)
 **Salida esperada:**
 Una tabla con los 8 pasos de Kotter y una acción concreta para cada uno.
 
-> **💡 Explicación:** El modelo de Kotter es uno de los más utilizados para gestionar el cambio organizativo. Su enfoque en 8 pasos asegura que se abordan tanto la preparación emocional como los aspectos prácticos del cambio.
+<aside type="tip">
+
+El modelo de Kotter es uno de los más utilizados para gestionar el cambio organizativo. Su enfoque en 8 pasos asegura que se abordan tanto la preparación emocional como los aspectos prácticos del cambio.
+
+</aside>
 
 ## Ejercicio 4: Creación de un marco de gobierno del proyecto (⭐⭐⭐⭐)
 
@@ -172,7 +183,11 @@ Comité Técnico (CT)
 **Salida esperada:**
 Un marco de gobierno completo con comités, niveles de decisión, escalado y diagrama que permita gestionar el programa de forma estructurada.
 
-> **💡 Explicación:** Un marco de gobierno define quién decide qué y cómo se escalan los problemas. Es crítico en programas con múltiples proyectos para evitar cuellos de botella en la toma de decisiones y asegurar que los problemas se abordan al nivel adecuado.
+<aside type="tip">
+
+Un marco de gobierno define quién decide qué y cómo se escalan los problemas. Es crítico en programas con múltiples proyectos para evitar cuellos de botella en la toma de decisiones y asegurar que los problemas se abordan al nivel adecuado.
+
+</aside>
 
 ## 🧠 Tu turno como Knowledge Manager
 

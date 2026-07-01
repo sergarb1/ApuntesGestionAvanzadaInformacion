@@ -4,6 +4,7 @@ title: "🔐 Unidad 9: Flujos de trabajo, custodia de documentos y normativa leg
 
 🎯 **Objetivos de aprendizaje**
 
+<div class="objetivos-box">
 - Comprender qué es un flujo de trabajo documental y cómo se diseña.
 - Identificar las herramientas y prácticas para la colaboración en documentos compartidos.
 - Conocer el ciclo de vida del documento y las responsabilidades de custodia.
@@ -11,12 +12,16 @@ title: "🔐 Unidad 9: Flujos de trabajo, custodia de documentos y normativa leg
 - Reconocer las obligaciones legales en materia de protección de datos y archivo.
 - Valorar el impacto ambiental de la gestión documental y la transición al papel cero.
 - Aplicar estándares de autenticación documental ante instancias públicas y privadas.
-
+</div>
 ## Diseño de flujos de trabajo documentales (workflow)
 
 Un **flujo de trabajo** o workflow es una secuencia de pasos automatizados o semiautomatizados por los que pasa un documento desde que se inicia hasta que se completa. Piensa en él como una receta de cocina: cada paso tiene un responsable, una acción y un criterio para pasar al siguiente.
 
-> **📝 Nota:** Los flujos de trabajo no son solo cosa de informáticos. Como Knowledge Manager, vas a diseñar flujos que afectan a personas de toda la organización. Tu misión es que sean claros, eficientes y que nadie se quede bloqueado esperando a que otro haga su parte.
+<aside>
+
+Los flujos de trabajo no son solo cosa de informáticos. Como Knowledge Manager, vas a diseñar flujos que afectan a personas de toda la organización. Tu misión es que sean claros, eficientes y que nadie se quede bloqueado esperando a que otro haga su parte.
+
+</aside>
 
 ### Elementos de un workflow documental
 
@@ -37,7 +42,11 @@ Un **flujo de trabajo** o workflow es una secuencia de pasos automatizados o sem
 5. Aprobada la factura, se registra el pago y se archiva (fin).
 6. Si en cualquier paso se rechaza, la factura vuelve al inicio con una nota del motivo y una notificación al remitente.
 
-> **💡 Consejo:** Cuando diseñes un workflow, ponte en la piel de la persona que ejecuta cada tarea. Si un paso es confuso o requiere información que no está disponible, el flujo se atascará. Los mejores workflows son los que parecen tan sencillos que nadie nota que existen.
+<aside type="tip">
+
+Cuando diseñes un workflow, ponte en la piel de la persona que ejecuta cada tarea. Si un paso es confuso o requiere información que no está disponible, el flujo se atascará. Los mejores workflows son los que parecen tan sencillos que nadie nota que existen.
+
+</aside>
 
 ### Herramientas para diseñar workflows
 
@@ -59,7 +68,11 @@ Ya quedaron atrás los tiempos en los que un documento viajaba por correo electr
 - **SharePoint + Coautoría:** la integración Microsoft permite que los documentos alojados en SharePoint se editen de forma colaborativa desde Word sin tener que usar la versión web.
 - **Notion / Coda:** herramientas que combinan documentos, bases de datos y wikis. Muy flexibles, pero con menos potencia ofimática que Office.
 
-> **⚠️ Advertencia:** La edición colaborativa es maravillosa, pero tiene sus reglas. Si dos personas modifican la misma celda de una hoja de cálculo a la vez, una de las dos perderá su cambio. Establece protocolos: ¿quién edita qué? ¿cuándo se considera que un documento está "cerrado" para ediciones? ¿cómo se resuelven los conflictos?
+<aside type="caution">
+
+La edición colaborativa es maravillosa, pero tiene sus reglas. Si dos personas modifican la misma celda de una hoja de cálculo a la vez, una de las dos perderá su cambio. Establece protocolos: ¿quién edita qué? ¿cuándo se considera que un documento está "cerrado" para ediciones? ¿cómo se resuelven los conflictos?
+
+</aside>
 
 ### Buenas prácticas para la colaboración documental
 
@@ -69,7 +82,11 @@ Ya quedaron atrás los tiempos en los que un documento viajaba por correo electr
 - **Notificaciones:** configura alertas para saber cuándo un documento que te interesa ha sido modificado.
 - **Propietario del documento:** cada documento debe tener un responsable claro que decida cuándo se cierra una versión y se pasa a la siguiente.
 
-> **📝 Nota:** Como Knowledge Manager, una de tus tareas es definir y comunicar las normas de colaboración. Si no se establecen, cada uno hará lo que le parezca, y el caos informativo estará servido.
+<aside>
+
+Como Knowledge Manager, una de tus tareas es definir y comunicar las normas de colaboración. Si no se establecen, cada uno hará lo que le parezca, y el caos informativo estará servido.
+
+</aside>
 
 ## Custodia y ciclo de vida del documento
 
@@ -98,7 +115,11 @@ El Knowledge Manager suele actuar como custodio documental o coordina a los cust
 - Coordinar la destrucción segura de documentos obsoletos.
 - Mantener un registro actualizado de los documentos bajo custodia.
 
-> **⚠️ Advertencia:** Ser custodio documental no es un cargo honorífico. Si un documento importante desaparece o se filtra, el custodio es responsable. Asegúrate de tener registros de acceso, trazabilidad de cambios y copias de seguridad actualizadas.
+<aside type="caution">
+
+Ser custodio documental no es un cargo honorífico. Si un documento importante desaparece o se filtra, el custodio es responsable. Asegúrate de tener registros de acceso, trazabilidad de cambios y copias de seguridad actualizadas.
+
+</aside>
 
 ## Autenticación: firma electrónica, certificados digitales, sellos de tiempo
 
@@ -116,7 +137,11 @@ Tipos de firma electrónica según el Reglamento eIDAS (Reglamento Europeo de Id
 | **Avanzada** | Alta | Vinculada al firmante de forma única, permite detectar cambios | Contratos comerciales, facturas, informes |
 | **Cualificada** | Equivalente a firma manuscrita | Certificado cualificado + dispositivo seguro | Trámites administrativos, escrituras, contratos de alto valor |
 
-> **💡 Consejo:** Para el día a día empresarial, la firma electrónica avanzada suele ser suficiente. Para contratos de alto valor o documentos con implicaciones legales graves, usa la firma cualificada.
+<aside type="tip">
+
+Para el día a día empresarial, la firma electrónica avanzada suele ser suficiente. Para contratos de alto valor o documentos con implicaciones legales graves, usa la firma cualificada.
+
+</aside>
 
 ### Certificados digitales
 
@@ -136,7 +161,11 @@ Un **sello de tiempo** (timestamp) es un certificado que acredita que un documen
 
 Es especialmente útil cuando necesitas demostrar que un documento se presentó antes de una fecha límite (una oferta, una declaración, un recurso administrativo). Una vez aplicado el sello de tiempo, no se puede modificar el documento sin que se detecte.
 
-> **📝 Nota:** El sello de tiempo no verifica el contenido del documento, solo certifica que existía en ese momento. Es como un sobre cerrado fechado: no sabes lo que hay dentro, pero sabes cuándo se cerró.
+<aside>
+
+El sello de tiempo no verifica el contenido del documento, solo certifica que existía en ese momento. Es como un sobre cerrado fechado: no sabes lo que hay dentro, pero sabes cuándo se cerró.
+
+</aside>
 
 ## Aspectos legales: RGPD, LOPDGDD, normativa de archivos
 
@@ -154,7 +183,11 @@ Puntos clave:
 - **Derechos ARSULIPO:** acceso, rectificación, supresión, limitación, portabilidad, oposición. Los ciudadanos pueden exigir que elimines sus datos, y debes poder responder en un plazo máximo de 30 días.
 - **Registro de actividades de tratamiento:** las empresas deben documentar qué datos tratan, para qué, durante cuánto tiempo y con qué medidas de seguridad.
 
-> **⚠️ Advertencia:** El RGPD no es un brindis al sol. Las multas pueden alcanzar los 20 millones de euros o el 4% de la facturación anual. Como custodio documental, tienes la responsabilidad de que los documentos cumplan la normativa.
+<aside type="caution">
+
+El RGPD no es un brindis al sol. Las multas pueden alcanzar los 20 millones de euros o el 4% de la facturación anual. Como custodio documental, tienes la responsabilidad de que los documentos cumplan la normativa.
+
+</aside>
 
 ### Normativa de archivos
 
@@ -166,7 +199,11 @@ Además de la protección de datos, existe normativa específica sobre conservac
 - **Normativa laboral:** los documentos relacionados con la relación laboral (contratos, nóminas, finiquitos) deben conservarse al menos 4 años.
 - **Ley 10/2010** de prevención del blanqueo de capitales: obliga a conservar documentación durante 10 años (para ciertos sectores).
 
-> **📝 Nota:** Como Knowledge Manager, no necesitas ser abogado, pero sí conocer las obligaciones básicas de tu sector. Ante la duda, consulta con el departamento jurídico o con un asesor en protección de datos.
+<aside>
+
+Como Knowledge Manager, no necesitas ser abogado, pero sí conocer las obligaciones básicas de tu sector. Ante la duda, consulta con el departamento jurídico o con un asesor en protección de datos.
+
+</aside>
 
 ### El delegado de protección de datos (DPO)
 
@@ -199,7 +236,11 @@ Y eso sin contar el transporte, la impresión y la gestión de residuos. Una emp
 - **Campañas de concienciación:** muchos empleados imprimen por inercia. Un cartel junto a la impresora recordando el coste ambiental puede ayudar. Datos concretos impactan más que frases genéricas.
 - **Firma electrónica en lugar de impresión y escaneo:** rompe el círculo vicioso de imprimir-firmar-escanear-enviar.
 
-> **💡 Consejo:** La transición al papel cero no se hace de un día para otro. Empieza por los procesos más papel-intensivos (facturación, RRHH, informes periódicos) y ve extendiendo. Celebra cada hito: la primera semana sin facturas en papel, el primer mes sin nóminas impresas...
+<aside type="tip">
+
+La transición al papel cero no se hace de un día para otro. Empieza por los procesos más papel-intensivos (facturación, RRHH, informes periódicos) y ve extendiendo. Celebra cada hito: la primera semana sin facturas en papel, el primer mes sin nóminas impresas...
+
+</aside>
 
 ## Estándares de autenticación ante instancias públicas y privadas
 
@@ -225,7 +266,11 @@ Las administraciones públicas disponen de sedes electrónicas donde las empresa
 
 Las sedes electrónicas más utilizadas por las empresas en España: Agencia Tributaria, Seguridad Social, Registro Mercantil, sedes autonómicas y locales.
 
-> **⚠️ Advertencia:** No todos los documentos electrónicos valen para todo. Un documento firmado con firma simple puede ser válido internamente, pero no para presentar una oferta en un concurso público. Conoce los requisitos de cada trámite antes de enviar nada.
+<aside type="caution">
+
+No todos los documentos electrónicos valen para todo. Un documento firmado con firma simple puede ser válido internamente, pero no para presentar una oferta en un concurso público. Conoce los requisitos de cada trámite antes de enviar nada.
+
+</aside>
 
 ### Normativas sectoriales específicas
 
@@ -241,7 +286,11 @@ Además de las normas generales (RGPD, LOPDGDD, Código de Comercio), existen no
 
 **Administración pública:** la Ley 39/2015 y la Ley 40/2015 establecen la obligación de conservar los documentos electrónicos en formatos que garanticen su integridad y accesibilidad a largo plazo. Los documentos con valor histórico tienen conservación permanente.
 
-> **📝 Nota:** Como Knowledge Manager, tu obligación no es conocer todas las normativas sectoriales de memoria, pero sí saber que existen y consultarlas cuando sea necesario. Una buena práctica es tener un documento actualizado con los plazos de conservación aplicables a tu sector, y revisarlo anualmente.
+<aside>
+
+Como Knowledge Manager, tu obligación no es conocer todas las normativas sectoriales de memoria, pero sí saber que existen y consultarlas cuando sea necesario. Una buena práctica es tener un documento actualizado con los plazos de conservación aplicables a tu sector, y revisarlo anualmente.
+
+</aside>
 
 ### Interoperabilidad
 
@@ -268,7 +317,11 @@ Diseñar el flujo es solo la mitad del trabajo. La otra mitad es documentarlo pa
 
 **Plan de contingencia:** ¿qué pasa si el sistema falla? ¿hay un proceso manual alternativo? ¿quién tiene autoridad para aprobar fuera del sistema?
 
-> **💡 Consejo:** No documentes el workflow en un PDF que nadie va a leer. Incrusta la documentación en el propio sistema (enlaces a políticas, descripciones en cada tarea) o crea una página en la intranet. La documentación debe estar donde se necesita, no en un cajón virtual.
+<aside type="tip">
+
+No documentes el workflow en un PDF que nadie va a leer. Incrusta la documentación en el propio sistema (enlaces a políticas, descripciones en cada tarea) o crea una página en la intranet. La documentación debe estar donde se necesita, no en un cajón virtual.
+
+</aside>
 
 ### La gestión del cambio en la implantación de flujos documentales
 
@@ -290,7 +343,11 @@ Miedo a que la tecnología falle y no poder hacer el trabajo.
 Algunos empleados ven los flujos documentales como una herramienta de vigilancia.
 - **Cómo manejarlo:** sé transparente. Explica que la trazabilidad no es para fiscalizar, sino para mejorar procesos y proteger al empleado (si hay un problema, se puede demostrar quién hizo qué y cuándo).
 
-> **💡 Consejo:** El cambio cultural es la parte más difícil de cualquier implantación de flujos documentales. No subestimes el factor humano. Invierte al menos tanto tiempo en la gestión del cambio como en la configuración técnica. Los flujos perfectos no sirven de nada si nadie los sigue.
+<aside type="tip">
+
+El cambio cultural es la parte más difícil de cualquier implantación de flujos documentales. No subestimes el factor humano. Invierte al menos tanto tiempo en la gestión del cambio como en la configuración técnica. Los flujos perfectos no sirven de nada si nadie los sigue.
+
+</aside>
 
 ### El delegado de protección de datos (DPO) y su relación con el Knowledge Manager
 
@@ -305,7 +362,11 @@ El Delegado de Protección de Datos (DPO) es una figura obligatoria en muchas or
 | Formación | Asesora sobre normativa | Forma a los usuarios en procedimientos |
 | Auditoría | Realiza auditorías de cumplimiento | Proporciona registros de acceso y trazabilidad |
 
-> **📝 Nota:** Si tu empresa no tiene un DPO (no todas están obligadas a tenerlo), las responsabilidades recaen en la dirección. Como Knowledge Manager, puedes convertirte en el referente interno en gestión documental y protección de datos, aunque el DPO formal sea externo.
+<aside>
+
+Si tu empresa no tiene un DPO (no todas están obligadas a tenerlo), las responsabilidades recaen en la dirección. Como Knowledge Manager, puedes convertirte en el referente interno en gestión documental y protección de datos, aunque el DPO formal sea externo.
+
+</aside>
 
 ## ⭐ Ponte en la piel del Knowledge Manager
 
@@ -369,7 +430,11 @@ Implantar flujos de trabajo documentales y sistemas de custodia requiere inversi
 - Apoyo de asesoría jurídica para definir políticas de conservación.
 - Voluntad de la dirección para respaldar los cambios.
 
-> **⚠️ Advertencia:** El error más común es infravalorar el tiempo de formación y cambio cultural. No es raro que una implantación de flujos documentales lleve 3-6 meses en consolidarse. No esperes resultados en semanas. Presupuesta el tiempo realista y comunícalo a la dirección desde el principio.
+<aside type="caution">
+
+El error más común es infravalorar el tiempo de formación y cambio cultural. No es raro que una implantación de flujos documentales lleve 3-6 meses en consolidarse. No esperes resultados en semanas. Presupuesta el tiempo realista y comunícalo a la dirección desde el principio.
+
+</aside>
 
 ### Responsabilidades legales del Knowledge Manager en la gestión documental
 
@@ -394,7 +459,11 @@ Llega un momento en el que conviene poner negro sobre blanco las responsabilidad
 - Responder ante una inspección de protección de datos (es competencia del DPO o la dirección).
 - Pagar las multas si algo sale mal (la responsabilidad última es de la dirección).
 
-> **💡 Consejo:** Documenta todas tus actuaciones. Si tienes un registro de cuándo se hizo cada copia de seguridad, qué permisos se asignaron y quién autorizó cada destrucción de documentos, podrás demostrar en cualquier momento que has actuado diligentemente. El papel (nunca mejor dicho) lo aguanta todo.
+<aside type="tip">
+
+Documenta todas tus actuaciones. Si tienes un registro de cuándo se hizo cada copia de seguridad, qué permisos se asignaron y quién autorizó cada destrucción de documentos, podrás demostrar en cualquier momento que has actuado diligentemente. El papel (nunca mejor dicho) lo aguanta todo.
+
+</aside>
 
 ### Casos prácticos de aplicación de normativa
 
@@ -417,7 +486,11 @@ Un empleado dice que no fue informado de un cambio en sus condiciones laborales 
 - Si el workflow incluye una tarea de "notificar al empleado" y el sistema registra que se ejecutó, puedes demostrar que la comunicación se realizó.
 - Si no hay trazabilidad, es la palabra del empleado contra la de la empresa. Lección aprendida: los flujos documentales deben incluir notificaciones con acuse de recibo o registro de entrega.
 
-> **📝 Nota:** La trazabilidad no es burocracia: es protección. Un workflow bien diseñado y documentado te protege a ti como Knowledge Manager, protege a la empresa y protege los derechos de los empleados y clientes.
+<aside>
+
+La trazabilidad no es burocracia: es protección. Un workflow bien diseñado y documentado te protege a ti como Knowledge Manager, protege a la empresa y protege los derechos de los empleados y clientes.
+
+</aside>
 
 ## ❓ Dudas frecuentes
 
@@ -439,6 +512,9 @@ R: Depende del sector. Una empresa tecnológica puede acercarse al 100% de papel
 **P: ¿Necesito un certificado digital para firmar documentos internos?**
 R: No, para documentos internos puede ser suficiente con la firma electrónica simple (un nombre al final de un correo) o avanzada (plataformas como DocuSign, Signaturit, FirmaDigital). El certificado digital es necesario cuando el documento tiene efectos legales externos (contratos con clientes, trámites administrativos, ofertas a concursos públicos).
 
+<div class="faq-item">
+</div>
+<div class="faq-item">
 ### Checklist del Knowledge Manager para flujos y custodia legal
 
 **Diseño de workflows:**
@@ -467,9 +543,14 @@ R: No, para documentos internos puede ser suficiente con la firma electrónica s
 - [ ] Factura electrónica y nómina digital implantados.
 - [ ] Consumo de papel medido trimestralmente.
 
-> **💡 Consejo:** La normativa cambia. El RGPD se actualiza, aparecen nuevas leyes sectoriales, los plazos de conservación se modifican. Programa una revisión normativa anual con tu asesoría jurídica para mantener actualizada tu checklist.
+<aside type="tip">
 
-## Resumen (lo que importa de verdad)
+La normativa cambia. El RGPD se actualiza, aparecen nuevas leyes sectoriales, los plazos de conservación se modifican. Programa una revisión normativa anual con tu asesoría jurídica para mantener actualizada tu checklist.
+
+</aside>
+
+<div class="resumen-card">
+## 📌 Resumen (lo que importa de verdad)
 
 - Los flujos de trabajo documentales automatizan procesos, reducen errores, evitan cuellos de botella y dejan trazabilidad de cada paso. Diseñarlos bien es clave para la eficiencia.
 - La edición colaborativa en tiempo real evita el caos de versiones y acelera la creación de documentos, pero requiere normas claras de uso.
@@ -491,30 +572,57 @@ R: Las consecuencias pueden ser graves: multas de hasta 20 millones de euros o e
 **P: ¿Cuánto tiempo tengo para responder a una solicitud de derechos ARSULIPO?**
 R: El RGPD establece un plazo máximo de un mes desde la recepción de la solicitud. En casos complejos o con un gran volumen de solicitudes, puede ampliarse hasta dos meses, informando al solicitante del motivo de la ampliación. Como Knowledge Manager, tu papel es localizar los documentos afectados en el menor tiempo posible para que el DPO o el responsable pueda responder dentro del plazo.
 
-## Ejercicios Propuestos
+## ✍️ Ejercicios propuestos
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 1. Diseña un flujo de trabajo documental para el proceso de solicitud de vacaciones en una empresa de 20 empleados. Define: inicio (trigger), tareas, actores (roles), condiciones (días de antelación, solapamiento con otros empleados, período de prueba), notificaciones y estado final. Representa el flujo como un diagrama (puedes dibujarlo a mano y describirlo). ¿Qué mejoras aporta respecto a un proceso manual en papel?
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 2. Compara tres herramientas de firma electrónica (DocuSign, Signaturit, Firma de la FNMT) y elabora una tabla comparativa con: precio, tipos de firma que ofrece, validez legal, integraciones con otras herramientas, facilidad de uso, y requisitos técnicos. ¿Cuál recomendarías para una pyme que necesita firmar contratos con clientes? ¿Y para una empresa que trabaja con la administración pública?
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 3. Redacta una política de conservación documental para una empresa de consultoría. Debe especificar los plazos de conservación para: facturas, contratos con clientes, informes de proyectos, datos de empleados (nóminas, contratos, evaluaciones), correos electrónicos y documentación de formación. Para cada tipo, indica qué hacer al final del plazo (destrucción segura, archivo histórico o revisión).
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 4. Calcula el impacto ambiental del consumo de papel de tu centro de estudios o de tu lugar de trabajo. Averigua cuántas hojas se consumen al año (pregunta en administración o haz una estimación), multiplica por los factores ambientales (árboles, agua, CO2) y propón tres medidas concretas de reducción con objetivos cuantificables (ej: reducir un 15% en el primer año mediante impresión a doble cara).
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 5. Simula un caso práctico de derecho de supresión (RGPD). Un cliente (persona física) solicita la eliminación de todos sus datos personales de los sistemas de tu empresa. Identifica al menos 5 tipos de documentos de la empresa que podrían contener sus datos personales y decide, para cada tipo, si procede eliminar o conservar (indicando la base legal que lo justifica: RGPD, Código de Comercio, normativa laboral, etc.).
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 6. Elabora una guía básica para empleados sobre "Cómo firmar un documento electrónico correctamente". Debe incluir: qué es una firma electrónica y por qué es importante, qué tipos existen y cuándo usar cada uno, qué herramientas tiene la empresa disponibles, un paso a paso para firmar un PDF, y una lista de errores comunes a evitar (firmar sin leer, usar firma simple para documentos legales, compartir el certificado digital).
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 7. Diseña un plan de formación para implantar un sistema de firma electrónica en una empresa de 40 empleados. El plan debe incluir: perfiles de usuarios (directivos, mandos intermedios, administrativos), contenidos de la formación, formato (presencial, vídeo, manual), duración, cronograma, y criterios de evaluación del aprendizaje.
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 8. Redacta un procedimiento de actuación ante una solicitud de derecho de supresión (RGPD). El procedimiento debe incluir: quién recibe la solicitud, cómo se registra, qué pasos se siguen para localizar los datos, cómo se decide qué conservar y qué eliminar, cómo se documenta la decisión, y cómo se comunica la respuesta al solicitante.
+</div>
 
 ---
 
-**RAs trabajados en esta unidad:**
-
-- **RA5** - Implementa sistemas de archivo digital y gestión documental, aplicando técnicas de digitalización, clasificación, almacenamiento seguro y recuperación de la información.
+<span class="ra-badge-footer">🎯 RA trabajados: - **RA5** - Implementa sistemas de archivo digital y gestión documental, aplicando técnicas de digitalización, clasificación, almacenamiento seguro y recuperación de la información.
+</span>
 
 ---
 
 <div align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank"><img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31"></a><br><strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0</div>
+</div>
+
+</div>
+</div>

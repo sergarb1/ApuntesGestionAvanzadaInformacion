@@ -2,7 +2,6 @@
 title: "Boletín 2 - Avanzado: Planificación y seguimiento de proyectos con herramientas digitales"
 ---
 
-# Boletín 2 - Avanzado: Planificación y seguimiento de proyectos con herramientas digitales
 
 ## Ejercicio 1: Cálculo del camino crítico y holguras (⭐)
 
@@ -69,7 +68,11 @@ Las tareas C y E tienen holgura (3 y 19 días respectivamente) y pueden retrasar
 **Salida esperada:**
 Una tabla con el cálculo de tiempos tempranos y tardíos, identificación del camino crítico y holgura de cada tarea.
 
-> **💡 Explicación:** El camino crítico es la secuencia de tareas con holgura cero. Cualquier retraso en estas tareas retrasa el proyecto. Las tareas no críticas tienen holgura, que es el tiempo que pueden retrasarse sin afectar la fecha de finalización.
+<aside type="tip">
+
+El camino crítico es la secuencia de tareas con holgura cero. Cualquier retraso en estas tareas retrasa el proyecto. Las tareas no críticas tienen holgura, que es el tiempo que pueden retrasarse sin afectar la fecha de finalización.
+
+</aside>
 
 ## Ejercicio 2: Análisis del valor ganado (Earned Value) (⭐⭐)
 
@@ -115,7 +118,11 @@ VAC (Variación al finalizar) = BAC - EAC = 150.000 - 180.723 = -30.723 €
 **Salida esperada:**
 Cálculos completos de EVM con interpretación y pronóstico del coste final.
 
-> **💡 Explicación:** El análisis del valor ganado (EVM) integra alcance, plazo y coste. Un CPI menor que 1 indica sobrecoste. Un SPI menor que 1 indica retraso. El EAC pronostica el coste final si el rendimiento actual se mantiene.
+<aside type="tip">
+
+El análisis del valor ganado (EVM) integra alcance, plazo y coste. Un CPI menor que 1 indica sobrecoste. Un SPI menor que 1 indica retraso. El EAC pronostica el coste final si el rendimiento actual se mantiene.
+
+</aside>
 
 ## Ejercicio 3: Matriz de probabilidad e impacto con simulación (⭐⭐⭐)
 
@@ -170,7 +177,11 @@ Probabilidad ↓
 **Salida esperada:**
 Matriz de probabilidad-impacto, valor esperado de cada riesgo, priorización y plan de respuesta para los 3 críticos.
 
-> **💡 Explicación:** El valor esperado del riesgo (Probabilidad x Impacto) permite priorizar objetivamente. La matriz 5x5 clasifica los riesgos en zonas de criticidad. Las respuestas pueden ser: evitar, mitigar, transferir o aceptar.
+<aside type="tip">
+
+El valor esperado del riesgo (Probabilidad x Impacto) permite priorizar objetivamente. La matriz 5x5 clasifica los riesgos en zonas de criticidad. Las respuestas pueden ser: evitar, mitigar, transferir o aceptar.
+
+</aside>
 
 ## Ejercicio 4: Nivelación de recursos (Resource Leveling) (⭐⭐⭐⭐)
 
@@ -243,7 +254,11 @@ F:                          ████ ████ (4 consultores)
 **Salida esperada:**
 Un plan de nivelación con diagramas de carga antes y después, identificación del conflicto y solución aplicada.
 
-> **💡 Explicación:** La nivelación de recursos resuelve conflictos cuando la demanda supera la disponibilidad. Puede aumentar la duración del proyecto. Se prioriza retrasar tareas con holgura antes que las del camino crítico.
+<aside type="tip">
+
+La nivelación de recursos resuelve conflictos cuando la demanda supera la disponibilidad. Puede aumentar la duración del proyecto. Se prioriza retrasar tareas con holgura antes que las del camino crítico.
+
+</aside>
 
 ## 🧠 Tu turno como Knowledge Manager
 

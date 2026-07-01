@@ -4,6 +4,7 @@ title: "📊 Unidad 2: Planificación y seguimiento de proyectos con herramienta
 
 🎯 **Objetivos de aprendizaje**
 
+<div class="objetivos-box">
 - Comprender qué es una WBS y cómo se aplica a proyectos de conocimiento
 - Planificar proyectos desglosando tareas, estableciendo relaciones y definiendo hitos
 - Asignar recursos de forma eficiente: personas, tiempo, materiales y coste
@@ -11,7 +12,7 @@ title: "📊 Unidad 2: Planificación y seguimiento de proyectos con herramienta
 - Conocer herramientas digitales para el control de proyectos sin tecnicismos innecesarios
 - Definir KPIs de conocimiento y diseñar dashboards de seguimiento
 - Elaborar informes claros y útiles para los stakeholders
-
+</div>
 ---
 
 En la unidad anterior te convertiste en Knowledge Manager. Ahora toca ponerse manos a la obra. Porque una cosa es tener la visión estratégica y otra muy distinta es planificar el día a día. Y sí, planificar da pereza. Pero como decía aquel refrán versionado: "planificar no es hacer, pero sin planificar solo haces tonterías".
@@ -31,7 +32,11 @@ Imagina que tienes que comerte un elefante. ¿Te lo comes de un bocado? No, lo t
 3. **Sigue la regla del 100%**: la WBS debe incluir el 100% del trabajo necesario (ni más, ni menos).
 4. **No mezcles con organización**: la WBS es sobre el trabajo, no sobre quién lo hace.
 
-> **📝 Nota:** Una buena WBS es como una lasaña bien hecha: capas claras, cada ingrediente en su sitio y al final todo junto funciona perfectamente.
+<aside>
+
+Una buena WBS es como una lasaña bien hecha: capas claras, cada ingrediente en su sitio y al final todo junto funciona perfectamente.
+
+</aside>
 
 ### Ejemplo de WBS para un proyecto de KM
 
@@ -58,7 +63,11 @@ Imagina que tienes que comerte un elefante. ¿Te lo comes de un bocado? No, lo t
     └── 1.5.2 Presentación a dirección
 ```
 
-> **💡 Consejo:** No quieras hacer la WBS perfecta a la primera. Hazla, revísala con tu equipo y ajústala. Una WBS es un ser vivo, no una losa de piedra.
+<aside type="tip">
+
+No quieras hacer la WBS perfecta a la primera. Hazla, revísala con tu equipo y ajústala. Una WBS es un ser vivo, no una losa de piedra.
+
+</aside>
 
 ## Planificación de tareas: relaciones, hitos y dependencias
 
@@ -82,7 +91,11 @@ Los **hitos** son eventos importantes dentro del proyecto. No tienen duración (
 - Finalización del pilotaje
 - Presentación del informe final
 
-> **⚠️ Advertencia:** No conviertas cada tarea en un hito. Si marcas 80 hitos en un proyecto de 3 meses, los hitos pierden su valor. Reserva los hitos para lo que realmente importa.
+<aside type="caution">
+
+No conviertas cada tarea en un hito. Si marcas 80 hitos en un proyecto de 3 meses, los hitos pierden su valor. Reserva los hitos para lo que realmente importa.
+
+</aside>
 
 ### El camino crítico
 
@@ -102,7 +115,11 @@ Las personas son el recurso más importante (y el más complicado). Asignar recu
 - **Estimar dedicación**: ¿horas por semana? ¿días completos? ¿solo puntualmente?
 - **Negociar disponibilidad**: porque los recursos suelen estar ya ocupados en otros proyectos o en el día a día.
 
-> **💡 Consejo:** Cuando pidas recursos a un jefe, no digas "necesito a alguien para el proyecto". Di "necesito a alguien 10 horas a la semana durante 3 meses para hacer X, Y y Z, y esto es lo que conseguiremos". La concreción vende.
+<aside type="tip">
+
+Cuando pidas recursos a un jefe, no digas "necesito a alguien para el proyecto". Di "necesito a alguien 10 horas a la semana durante 3 meses para hacer X, Y y Z, y esto es lo que conseguiremos". La concreción vende.
+
+</aside>
 
 ### Recursos materiales y coste
 
@@ -122,7 +139,11 @@ Una buena práctica es crear una **matriz de asignación de recursos**, donde cr
 | Configuración plataforma | Carlos (IT) | 40h | 200€ (licencia) | Software X |
 | Formación equipos | Tú (KM) | 30h | 500€ (externo) | Aula, proyector |
 
-> **📝 Nota:** El coste no es solo el dinero que pagas. También es el tiempo de tus compañeros que dejan de hacer otras cosas. Eso se llama **coste de oportunidad** y los jefes lo entienden muy bien.
+<aside>
+
+El coste no es solo el dinero que pagas. También es el tiempo de tus compañeros que dejan de hacer otras cosas. Eso se llama **coste de oportunidad** y los jefes lo entienden muy bien.
+
+</aside>
 
 ## Gestión de riesgos: lo que puede salir mal (y cómo evitarlo)
 
@@ -162,7 +183,11 @@ Para cada riesgo, evalúa:
 | Transferir | Pasas el riesgo a un tercero | Contratas un seguro o una garantía en la herramienta |
 | Aceptar | Asumes el riesgo y te preparas | Aceptas que puede haber recorte y tienes un plan B con menos recursos |
 
-> **⚠️ Advertencia:** No documentes los riesgos y los olvides en una carpeta. Revísalos en cada reunión de seguimiento. Un riesgo que no se revisa es un riesgo que se materializa.
+<aside type="caution">
+
+No documentes los riesgos y los olvides en una carpeta. Revísalos en cada reunión de seguimiento. Un riesgo que no se revisa es un riesgo que se materializa.
+
+</aside>
 
 ## Herramientas digitales para el control de proyectos
 
@@ -201,7 +226,11 @@ Sí, Excel. No lo subestimes. Con Excel puedes hacer cronogramas, presupuestos, 
 
 **¿Para qué usarlo en KM?** Para todo. Literalmente. Es la navaja suiza de la gestión de proyectos.
 
-> **💡 Consejo:** No te obsesiones con la herramienta perfecta. La mejor herramienta es la que vas a usar de verdad. Si tu equipo ya usa Excel, no les impongas Jira de golpe. Evoluciona, no revoluciones.
+<aside type="tip">
+
+No te obsesiones con la herramienta perfecta. La mejor herramienta es la que vas a usar de verdad. Si tu equipo ya usa Excel, no les impongas Jira de golpe. Evoluciona, no revoluciones.
+
+</aside>
 
 ## KPIs de conocimiento y dashboards de seguimiento
 
@@ -230,7 +259,11 @@ Un **dashboard** es una visualización gráfica de los KPIs más importantes. Te
 - Comparativa con el objetivo
 - Un semáforo visual: verde (bien), amarillo (atención), rojo (urge)
 
-> **📝 Nota:** Un dashboard no es un informe. El dashboard se mira en 30 segundos y te da una foto del estado. Los informes son para leer con calma. No mezcles churras con merinas.
+<aside>
+
+Un dashboard no es un informe. El dashboard se mira en 30 segundos y te da una foto del estado. Los informes son para leer con calma. No mezcles churras con merinas.
+
+</aside>
 
 ## Informes para stakeholders: cómo contar lo que pasa
 
@@ -254,10 +287,16 @@ Cada stakeholder necesita un tipo de informe diferente. No le presentes a la dir
 5. **Riesgos y problemas**: qué está pasando y qué se está haciendo.
 6. **Próximos pasos**: qué toca hacer hasta el siguiente informe.
 
-> **💡 Consejo:** Si tu informe ejecutivo ocupa más de una página, no lo va a leer nadie. Sé breve, directo y pon lo importante al principio. Los detalles, en anexos.
+<aside type="tip">
+
+Si tu informe ejecutivo ocupa más de una página, no lo va a leer nadie. Sé breve, directo y pon lo importante al principio. Los detalles, en anexos.
+
+</aside>
 
 ## ⭐ Ponte en la piel del Knowledge Manager
 
+<div class="escenario-box">
+<div class="escenario-box">
 ### Escenario 1: La WBS que nadie entendió
 
 Eres el Knowledge Manager de una empresa de logística. Has diseñado una WBS para un proyecto de captura de conocimiento operativo con 45 tareas distribuidas en 7 paquetes de trabajo. La presentas en una reunión y todos te miran con cara de "¿esto qué es?". El director de operaciones dice: "yo solo quiero saber quién hace qué y cuándo".
@@ -271,6 +310,8 @@ Eres el Knowledge Manager de una empresa de logística. Has diseñado una WBS pa
 
 **Solución orientativa:** Olvida la WBS jerárquica para la presentación. Usa un cronograma visual por fases con los 7 paquetes de trabajo como bloques de color en una línea de tiempo. Para cada paquete, muestra 3 cosas: responsable, fecha límite y entregable principal. Complementa con una vista "quién hace qué" donde cada persona ve solo sus tareas. Cuenta el proyecto como una historia: "En enero haremos el diagnóstico, en febrero capturaremos los procesos críticos, en marzo formaremos a los equipos..." La WBS detallada con las 45 tareas la dejas como anexo para quien quiera profundizar. El director de operaciones se queda con el cronograma visual; el jefe de proyecto, con la WBS completa.
 
+</div>
+<div class="escenario-box">
 ### Escenario 2: El riesgo que se hizo realidad
 
 Tu proyecto de KM lleva 3 meses. De repente, la dirección anuncia un recorte presupuestario del 40%. Tu equipo se reduce a la mitad y la herramienta que ibais a comprar ya no es viable. El plazo sigue siendo el mismo, por supuesto (porque los plazos nunca cambian, ¿verdad?).
@@ -284,6 +325,8 @@ Tu proyecto de KM lleva 3 meses. De repente, la dirección anuncia un recorte pr
 
 **Solución orientativa:** Tres acciones inmediatas: (1) Convocas al equipo, explicas la situación con transparencia y hacéis una sesión de priorización — clasificad las 45 tareas en "imprescindible", "importante" y "deseable". Las imprescindibles se quedan, las deseables se posponen. (2) Sustituyes la herramienta de pago por una gratuita equivalente: Confluence por Notion (gratuito hasta 10 usuarios), MS Project por Trello o Asana, SharePoint por Google Drive. (3) Preparas una propuesta para la dirección con dos escenarios: "Escenario A — con el 60% del presupuesto entregamos el 70% del alcance en la fecha prevista" y "Escenario B — con el 60% del presupuesto y 2 meses más de plazo entregamos el 100%". Dejas que ellos decidan. Al equipo le dices la verdad: "La situación es difícil, pero tenemos un plan. Esto es lo que depende de nosotros."
 
+</div>
+<div class="escenario-box">
 ### Escenario 3: El dashboard que miente (sin querer)
 
 Has creado un dashboard con 12 KPIs para el proyecto de KM. Todos están en verde. Pero los empleados siguen sin usar la base de conocimiento, las reuniones de seguimiento son un desierto y nadie parece interesado. Algo no cuadra. El dashboard dice que todo va bien, pero la realidad dice otra cosa.
@@ -299,31 +342,45 @@ Has creado un dashboard con 12 KPIs para el proyecto de KM. Todos están en verd
 
 ## ❓ Dudas frecuentes
 
+<div class="faq-item">
+</div>
+<div class="faq-item">
 ### ¿Hasta qué nivel de detalle debe llegar una WBS?
 
 Hasta el nivel en el que puedas estimar tiempo, coste y recursos con fiabilidad. Si una tarea es demasiado grande como para saber cuánto va a durar, desglósala más. Una buena regla es que cada tarea no debería durar más de 5 días hábiles. Si dura más, probablemente puedas dividirla.
 
+</div>
+<div class="faq-item">
 ### ¿Y si el proyecto cambia a mitad de camino?
 
 Los proyectos cambian. Es normal. La clave está en tener un proceso de **control de cambios**. Cualquier cambio debe pasar por una evaluación de impacto (tiempo, coste, calidad) y ser aprobado por el comité del proyecto. No digas "sí" a todo lo que te pidan, o el proyecto se desbocará. Pero tampoco digas "no" por sistema. Evalúa y decide.
 
+</div>
+<div class="faq-item">
 ### ¿Es necesario usar MS Project? Sale caro y parece complicado.
 
 No, no es necesario. Para muchos proyectos de KM, herramientas como Trello, Notion o incluso Excel son más que suficientes. MS Project es útil cuando tienes muchos recursos, dependencias complejas y necesitas hacer un seguimiento muy detallado. Si tu proyecto es pequeño o mediano, ahorra el dinero y usa algo más sencillo.
 
+</div>
+<div class="faq-item">
 ### ¿Qué hago si los stakeholders no miran los informes que les envío?
 
 Hay dos opciones: o los informes son demasiado largos o el canal no es el adecuado. Prueba a: (a) reducir el informe a una página con lo esencial, (b) presentarlo en persona en 5 minutos en lugar de enviarlo por correo, (c) usar un dashboard online que puedan consultar cuando quieran. Si después de todo esto siguen sin mirarlo, pregúntales directamente qué necesitan.
 
+</div>
+<div class="faq-item">
 ### ¿Cuántos KPIs son suficientes para un proyecto de KM?
 
 Entre 5 y 8 KPIs bien elegidos son más que suficientes. Menos de 3 y tienes una visión incompleta. Más de 10 y nadie los va a mirar (ni tú). La clave está en elegir KPIs que sean: relevantes, medibles, accesibles y vinculados a los objetivos del proyecto.
 
+</div>
+<div class="faq-item">
 ### ¿Qué pasa si un riesgo se materializa y no tengo plan B?
 
 Entonces estás en modo bombero: apagando fuegos sobre la marcha. No es el fin del mundo, pero es más estresante y menos eficiente. La próxima vez, dedica una hora a identificar riesgos al inicio del proyecto. Una hora de prevención vale más que semanas de reacción.
 
-## Resumen (lo que importa de verdad)
+<div class="resumen-card">
+## 📌 Resumen (lo que importa de verdad)
 
 - La WBS es la herramienta básica para desglosar el proyecto en tareas manejables. Sin WBS, planificas a ojo.
 - Las tareas tienen dependencias entre sí. Identificarlas bien te permite ordenar el trabajo y calcular plazos realistas.
@@ -333,25 +390,68 @@ Entonces estás en modo bombero: apagando fuegos sobre la marcha. No es el fin d
 - Los KPIs y los dashboards te permiten saber si el proyecto va bien sin hacer suposiciones. Mide lo que importa.
 - Los informes para stakeholders deben ser breves, claros y adaptados a cada audiencia. Una página es mejor que diez.
 
-## Ejercicios Propuestos
+## ✍️ Ejercicios propuestos
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 1. **Construye una WBS.** Imagina que tienes que implantar un sistema de gestión del conocimiento en una pequeña empresa de 20 empleados del sector creativo (una agencia de publicidad). Crea una WBS con al menos 4 niveles y 15 tareas. Incluye desde el diagnóstico inicial hasta el cierre del proyecto.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 2. **Calcula el camino crítico.** Usando la WBS del ejercicio anterior, identifica qué tareas forman parte del camino crítico. Explica por qué esas tareas son críticas y qué pasaría si una de ellas se retrasa una semana.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 3. **Matriz de riesgos.** Para el mismo proyecto de la agencia de publicidad, identifica 5 riesgos específicos. Evalúa su probabilidad e impacto, asíigna un nivel (bajo, medio, alto, crítico) y propón una estrategia de respuesta para cada uno.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 4. **Diseña un dashboard en Excel.** Crea una tabla en Excel (o dibuja el diseño en papel) con un dashboard para un proyecto de KM. Debe incluir al menos 6 KPIs con formato de semáforo (verde/amarillo/rojo), un gráfico de tendencia y un indicador de estado general del proyecto. Explica qué mide cada KPI y por qué lo has elegido.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 5. **Simulación de reunión de seguimiento.** Redacta el guión de una reunión de seguimiento de proyecto de 15 minutos. Incluye: saludo, repaso de KPIs, estado de tareas críticas, riesgos actuales, acuerdos y cierre. El tono debe ser profesional pero cercano.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 6. **Informe ejecutivo.** Redacta un informe ejecutivo de una página para la dirección sobre el estado de un proyecto de KM ficticio. Incluye: semáforo de estado, 3 KPIs clave, 2 logros del mes, 1 riesgo en seguimiento y los próximos pasos. Puedes inventar los datos, pero deben ser coherentes entre sí.
+</div>
+</div>
 
 ---
 
-**RAs trabajados en esta unidad:**
-- **RA1** - Gestiona proyectos empresariales aplicando metodologías y herramientas de planificación y seguimiento, identificando el valor del conocimiento como activo estratégico en la organización.
+<span class="ra-badge-footer">🎯 RA trabajados: - **RA1** - Gestiona proyectos empresariales aplicando metodologías y herramientas de planificación y seguimiento, identificando el valor del conocimiento como activo estratégico en la organización.
+</span>
 
+</div>
 ---
 
 <div align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank"><img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31"></a><br><strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>

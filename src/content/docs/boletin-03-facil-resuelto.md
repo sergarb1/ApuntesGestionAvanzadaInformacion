@@ -2,7 +2,6 @@
 title: "Boletín 3 - Fácil: Documentos profesionales con Word, Excel y PowerPoint"
 ---
 
-# Boletín 3 - Fácil: Documentos profesionales con Word, Excel y PowerPoint
 
 ## Ejercicio 1: Creación de una plantilla profesional en Word
 
@@ -45,7 +44,11 @@ Diseña una plantilla de informe ejecutivo en Microsoft Word que incluya: portad
 **Salida esperada:**
 Una plantilla de Word completa con todos los elementos listados que permita crear informes consistentes.
 
-> **💡 Explicación:** Las plantillas de Word basadas en estilos garantizan la consistencia documental. La TDC automática se actualiza al modificar el contenido. El uso de encabezados y pies de página diferenciados aporta profesionalismo.
+<aside type="tip">
+
+Las plantillas de Word basadas en estilos garantizan la consistencia documental. La TDC automática se actualiza al modificar el contenido. El uso de encabezados y pies de página diferenciados aporta profesionalismo.
+
+</aside>
 
 ## Ejercicio 2: Creación de una factura automatizada en Excel
 
@@ -88,7 +91,11 @@ Fila 17: | | **TOTAL FACTURA:** | =D15+D16
 **Salida esperada:**
 Una hoja Excel con las fórmulas implementadas que calcule automáticamente el importe de cada línea, la base imponible, el IVA y el total.
 
-> **💡 Explicación:** Las fórmulas de Excel automatizan los cálculos repetitivos y reducen errores humanos. La validación de datos evita entradas incorrectas. El formato condicional ayuda a identificar visualmente facturas de alto importe.
+<aside type="tip">
+
+Las fórmulas de Excel automatizan los cálculos repetitivos y reducen errores humanos. La validación de datos evita entradas incorrectas. El formato condicional ayuda a identificar visualmente facturas de alto importe.
+
+</aside>
 
 ## Ejercicio 3: Presentación PowerPoint para un comité de dirección
 
@@ -134,7 +141,11 @@ Crea la estructura de una presentación comercial para presentar los resultados 
 **Salida esperada:**
 Una estructura de presentación con 6 diapositivas, incluyendo un gráfico de barras y animaciones.
 
-> **💡 Explicación:** Una presentación profesional debe tener una estructura clara (portada, índice, contenido, cierre). Las animaciones deben ser sutiles (aparecer, atenuar) y las notas del orador ayudan a recordar los puntos clave durante la exposición.
+<aside type="tip">
+
+Una presentación profesional debe tener una estructura clara (portada, índice, contenido, cierre). Las animaciones deben ser sutiles (aparecer, atenuar) y las notas del orador ayudan a recordar los puntos clave durante la exposición.
+
+</aside>
 
 ## Ejercicio 4: Configuración de una combinación de correspondencia (Mail Merge)
 
@@ -184,7 +195,11 @@ Atentamente,
 **Salida esperada:**
 Una carta modelo configurada para mail merge con los campos combinados y 50 cartas personalizadas generadas.
 
-> **💡 Explicación:** La combinación de correspondencia permite personalizar documentos masivos. Es importante revisar la vista previa para asegurar que los campos se insertan correctamente y que el formato se mantiene en todas las copias.
+<aside type="tip">
+
+La combinación de correspondencia permite personalizar documentos masivos. Es importante revisar la vista previa para asegurar que los campos se insertan correctamente y que el formato se mantiene en todas las copias.
+
+</aside>
 
 ## 🧠 Tu turno como Knowledge Manager
 

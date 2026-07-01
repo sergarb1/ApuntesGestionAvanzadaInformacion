@@ -2,7 +2,6 @@
 title: "Boletín 4 - Fácil: Informes empresariales: datos, gráficos y comunicaciones"
 ---
 
-# Boletín 4 - Fácil: Informes empresariales: datos, gráficos y comunicaciones
 
 ## Ejercicio 1: Creación de un cuadro de mando con KPIs
 

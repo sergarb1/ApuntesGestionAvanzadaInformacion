@@ -4,6 +4,7 @@ title: "🗂️ Unidad 8: Archivo digital: cómo organizar los documentos de la 
 
 🎯 **Objetivos de aprendizaje**
 
+<div class="objetivos-box">
 - Comprender el concepto de gestión documental y su importancia estratégica en la empresa.
 - Identificar los elementos que componen un sistema de gestión documental (SGD).
 - Conocer las técnicas de digitalización: escaneo, OCR y captura de documentos.
@@ -11,14 +12,18 @@ title: "🗂️ Unidad 8: Archivo digital: cómo organizar los documentos de la 
 - Reconocer los sistemas de clasificación documental: jerárquica, facetada y mixta.
 - Evaluar las opciones de almacenamiento: local, red y nube.
 - Diseñar un plan básico de copias de seguridad y recuperación.
-
+</div>
 ## Concepto de gestión documental y su importancia
 
 Imagina que tu empresa recibe cada día 50 documentos: facturas, contratos, informes, correos, actas de reuniones… Ahora imagina que no hay ningún sistema para organizarlos. ¿Dónde está la factura de la imprenta de enero? "Uy, creo que la guardé en el escritorio... o en el grupo de WhatsApp... o en un correo que ya no encuentro."
 
 La **gestión documental** es el conjunto de prácticas, procesos y herramientas que permiten controlar el ciclo de vida de los documentos en una organización: desde que se crean o reciben hasta que se archivan o destruyen.
 
-> **📝 Nota:** No confundas gestión documental con tener carpetas bien ordenadas en el ordenador. La gestión documental implica políticas, roles, metadatos, control de versiones, permisos de acceso y, sobre todo, un sistema que garantice que el documento correcto está disponible para la persona correcta en el momento correcto.
+<aside>
+
+No confundas gestión documental con tener carpetas bien ordenadas en el ordenador. La gestión documental implica políticas, roles, metadatos, control de versiones, permisos de acceso y, sobre todo, un sistema que garantice que el documento correcto está disponible para la persona correcta en el momento correcto.
+
+</aside>
 
 ¿Por qué es importante? Por varias razones:
 
@@ -28,7 +33,11 @@ La **gestión documental** es el conjunto de prácticas, procesos y herramientas
 - **Toma de decisiones:** con información accesible y fiable, se decide mejor y más rápido.
 - **Continuidad del negocio:** si un empleado se va, el conocimiento no se va con él. Los documentos quedan en la empresa.
 
-> **💡 Consejo:** Como Knowledge Manager, tu objetivo no es solo guardar documentos, sino hacer que la información sea **encontrable**. Un documento que no se puede encontrar es, a efectos prácticos, un documento que no existe.
+<aside type="tip">
+
+Como Knowledge Manager, tu objetivo no es solo guardar documentos, sino hacer que la información sea **encontrable**. Un documento que no se puede encontrar es, a efectos prácticos, un documento que no existe.
+
+</aside>
 
 ### Beneficios concretos de una buena gestión documental
 
@@ -82,7 +91,11 @@ Un SGD necesita que alguien lo gestione. Los roles típicos son:
 | Usuario final | Crea, modifica y consulta documentos | A diario |
 | Auditor | Verifica que se cumplen las políticas y la normativa | Trimestral o anualmente |
 
-> **⚠️ Advertencia:** El error más común es instalar un SGD y pensar que el trabajo está hecho. El software es la parte fácil. Lo difícil es definir los procesos, formar a los usuarios y mantener la disciplina documental en el día a día.
+<aside type="caution">
+
+El error más común es instalar un SGD y pensar que el trabajo está hecho. El software es la parte fácil. Lo difícil es definir los procesos, formar a los usuarios y mantener la disciplina documental en el día a día.
+
+</aside>
 
 ## Digitalización: escaneo, OCR, captura de documentos
 
@@ -101,7 +114,11 @@ No es lo mismo escanear un documento para leerlo en pantalla que escanearlo para
 
 El OCR es la magia que convierte una imagen escaneada en texto seleccionable y buscable. Sin OCR, un PDF escaneado es como una foto: puedes verla, pero no buscar palabras dentro.
 
-> **💡 Consejo:** Siempre que digitalices un documento, aplícale OCR. Es como ponerle etiqueta a una caja: después te ahorrará horas de búsqueda. Herramientas como Adobe Acrobat, Tesseract (gratuito, código abierto) o el OCR integrado de SharePoint lo hacen posible.
+<aside type="tip">
+
+Siempre que digitalices un documento, aplícale OCR. Es como ponerle etiqueta a una caja: después te ahorrará horas de búsqueda. Herramientas como Adobe Acrobat, Tesseract (gratuito, código abierto) o el OCR integrado de SharePoint lo hacen posible.
+
+</aside>
 
 El OCR tiene limitaciones:
 - Funciona mejor con textos impresos que con escritura manual.
@@ -140,7 +157,11 @@ Los metadatos son "datos sobre los datos". Son campos que describen el documento
 | Cliente | ¿A qué cliente se refiere? | Cliente XYZ, S.L. |
 | Versión | ¿Qué versión es? | 1.0, 2.1, 3.0 |
 
-> **📝 Nota:** Cuantos más metadatos, más fácil será encontrar documentos... pero también más trabajo dará rellenarlos. El arte está en encontrar el equilibrio. Un buen truco: haz obligatorios solo los metadatos imprescindibles y el resto que sean opcionales. Con 5 metadatos bien elegidos puedes filtrar lo que necesites.
+<aside>
+
+Cuantos más metadatos, más fácil será encontrar documentos... pero también más trabajo dará rellenarlos. El arte está en encontrar el equilibrio. Un buen truco: haz obligatorios solo los metadatos imprescindibles y el resto que sean opcionales. Con 5 metadatos bien elegidos puedes filtrar lo que necesites.
+
+</aside>
 
 ### Taxonomías documentales
 
@@ -171,7 +192,11 @@ Proyectos
     └── Proyectos cerrados 2024
 ```
 
-> **⚠️ Advertencia:** No dejes que cada usuario cree sus propias carpetas. La taxonomía debe ser única, acordada por todos y mantenida por el gestor documental. Si cada uno organiza sus documentos como quiere, el sistema colapsa y la búsqueda se vuelve imposible.
+<aside type="caution">
+
+No dejes que cada usuario cree sus propias carpetas. La taxonomía debe ser única, acordada por todos y mantenida por el gestor documental. Si cada uno organiza sus documentos como quiere, el sistema colapsa y la búsqueda se vuelve imposible.
+
+</aside>
 
 ## Sistemas de clasificación: jerárquica, facetada, mixta
 
@@ -199,7 +224,11 @@ Aplicado a documentos: puedes filtrar por departamento + tipo de documento + añ
 
 Combina jerarquía y facetas. Es el enfoque más realista: tienes una estructura jerárquica base (carpetas), pero los documentos también llevan etiquetas (metadatos) que permiten búsquedas transversales.
 
-> **💡 Consejo:** En entornos reales, la clasificación mixta suele ser la mejor opción. La jerarquía da orden y las facetas dan flexibilidad. Como Knowledge Manager, tu trabajo es diseñar esa combinación. Por ejemplo: una estructura de carpetas por departamentos, y dentro de cada carpeta los documentos se etiquetan con metadatos que permiten filtrar por tipo, fecha, cliente, etc.
+<aside type="tip">
+
+En entornos reales, la clasificación mixta suele ser la mejor opción. La jerarquía da orden y las facetas dan flexibilidad. Como Knowledge Manager, tu trabajo es diseñar esa combinación. Por ejemplo: una estructura de carpetas por departamentos, y dentro de cada carpeta los documentos se etiquetan con metadatos que permiten filtrar por tipo, fecha, cliente, etc.
+
+</aside>
 
 ### ¿Cómo elegir el sistema adecuado?
 
@@ -242,7 +271,11 @@ Los documentos se guardan en servidores externos gestionados por proveedores com
 **Ventajas:** accesible desde cualquier sitio, no requiere mantenimiento de hardware, escalable, copias de seguridad incluidas.
 **Inconvenientes:** dependencia de internet, posibles problemas de privacidad según dónde estén los servidores, coste recurrente.
 
-> **📝 Nota:** Cada vez más empresas optan por el modelo híbrido: documentos activos en la nube (acceso rápido y compartido) y documentos archivados en local o en almacenamiento en frío (más barato pero menos accesible). Lo importante es que la decisión sea consciente, no fruto de la improvisación.
+<aside>
+
+Cada vez más empresas optan por el modelo híbrido: documentos activos en la nube (acceso rápido y compartido) y documentos archivados en local o en almacenamiento en frío (más barato pero menos accesible). Lo importante es que la decisión sea consciente, no fruto de la improvisación.
+
+</aside>
 
 ## Copias de seguridad y plan de recuperación
 
@@ -264,7 +297,11 @@ Es la regla de oro de las copias de seguridad:
 | Incremental | Solo lo nuevo desde la última copia | Rápida | Mínimo | Diaria |
 | Diferencial | Solo lo nuevo desde la última completa | Media | Medio | Cada 2-3 días |
 
-> **💡 Consejo:** Usa copias completas semanales + incrementales diarias. Y pruébalas. Una copia de seguridad que no se ha probado nunca no es una copia de seguridad: es una esperanza.
+<aside type="tip">
+
+Usa copias completas semanales + incrementales diarias. Y pruébalas. Una copia de seguridad que no se ha probado nunca no es una copia de seguridad: es una esperanza.
+
+</aside>
 
 ### Plan de recuperación
 
@@ -279,7 +316,11 @@ No basta con hacer copias. Hay que tener un plan para cuando toque restaurar:
 **RPO (Recovery Point Objective):** cuántos datos puedes permitirte perder como máximo (ej: 24 horas).
 **RTO (Recovery Time Objective):** cuánto tiempo puedes estar sin el sistema (ej: 4 horas).
 
-> **⚠️ Advertencia:** El mayor error es descubrir que la copia de seguridad no funciona cuando ya has perdido los datos. Programa restauraciones de prueba al menos una vez al trimestre. Y documenta el resultado.
+<aside type="caution">
+
+El mayor error es descubrir que la copia de seguridad no funciona cuando ya has perdido los datos. Programa restauraciones de prueba al menos una vez al trimestre. Y documenta el resultado.
+
+</aside>
 
 ## Normativas y estándares de gestión documental
 
@@ -324,7 +365,11 @@ Se entrega un manual de 50 páginas y se da por formado al personal.
 Todo el mundo puede subir, modificar y borrar documentos. Nadie es responsable de la integridad del sistema.
 ✅ **Solución:** asigna roles claros: administrador, gestor documental, usuarios. Y comunícalos.
 
-> **⚠️ Advertencia:** El error más grave de todos es pensar que la gestión documental es un proyecto con fecha de inicio y fin. No lo es: es un proceso continuo que requiere mantenimiento, revisión y mejora constantes. Si no le dedicas tiempo de forma regular, el sistema degenera.
+<aside type="caution">
+
+El error más grave de todos es pensar que la gestión documental es un proyecto con fecha de inicio y fin. No lo es: es un proceso continuo que requiere mantenimiento, revisión y mejora constantes. Si no le dedicas tiempo de forma regular, el sistema degenera.
+
+</aside>
 
 ### El futuro de la gestión documental: inteligencia artificial y automatización
 
@@ -340,7 +385,11 @@ La gestión documental está viviendo una transformación gracias a la inteligen
 
 **Asistentes virtuales:** integrados en el SGD, permiten a los usuarios preguntar en lenguaje natural: "¿Dónde está el contrato de Pérez firmado en 2024?" y obtener la respuesta sin navegar por carpetas.
 
-> **📝 Nota:** La IA en gestión documental no va a sustituir al Knowledge Manager. Al contrario: va a liberarte de tareas repetitivas para que puedas dedicarte a lo que realmente aporta valor: diseñar estrategias, formar usuarios y mejorar los procesos.
+<aside>
+
+La IA en gestión documental no va a sustituir al Knowledge Manager. Al contrario: va a liberarte de tareas repetitivas para que puedas dedicarte a lo que realmente aporta valor: diseñar estrategias, formar usuarios y mejorar los procesos.
+
+</aside>
 
 ### Cómo implantar un SGD en una empresa paso a paso
 
@@ -357,7 +406,11 @@ Si te enfrentas a la implantación de un sistema de gestión documental desde ce
 9. **Seguimiento:** las primeras semanas, resuelve dudas y ajusta lo que no funcione.
 10. **Mejora continua:** revisa periódicamente la taxonomía, los metadatos y los flujos. La gestión documental no es estática.
 
-> **⚠️ Advertencia:** El paso 4 (diseño de la taxonomía) es el que más tiempo requiere y el que más se suele subestimar. Una taxonomía mal diseñada es una condena al fracaso del SGD. Dedica al menos una semana a hacerla bien, con participación de los futuros usuarios.
+<aside type="caution">
+
+El paso 4 (diseño de la taxonomía) es el que más tiempo requiere y el que más se suele subestimar. Una taxonomía mal diseñada es una condena al fracaso del SGD. Dedica al menos una semana a hacerla bien, con participación de los futuros usuarios.
+
+</aside>
 
 ## ⭐ Ponte en la piel del Knowledge Manager
 
@@ -419,7 +472,11 @@ Un lunes por la mañana, el servidor de la empresa ha sido infectado por un rans
 - Ahorro en papel y almacenamiento físico.
 - Satisfacción de los usuarios con el SGD (encuesta trimestral).
 
-> **📝 Nota:** No hace falta medir todos los indicadores desde el primer día. Empieza con 3-4 indicadores clave y ve añadiendo según madure el sistema. Lo importante es que los datos te sirvan para tomar decisiones, no solo para tener un cuadro de mando bonito.
+<aside>
+
+No hace falta medir todos los indicadores desde el primer día. Empieza con 3-4 indicadores clave y ve añadiendo según madure el sistema. Lo importante es que los datos te sirvan para tomar decisiones, no solo para tener un cuadro de mando bonito.
+
+</aside>
 
 ### Cómo auditar tu sistema de gestión documental
 
@@ -436,7 +493,11 @@ Una auditoría documental es una revisión sistemática del SGD para verificar q
 7. **Informe de resultados:** documenta los hallazgos, las no conformidades y las recomendaciones de mejora.
 8. **Plan de acción:** define acciones correctivas con responsables y plazos.
 
-> **⚠️ Advertencia:** Una auditoría no es para "pillar" a nadie. Es para mejorar el sistema. Comunícalo así a los empleados: "Vamos a revisar cómo funciona la gestión documental para identificar áreas de mejora y facilitaros el trabajo." La transparencia genera colaboración; la sospecha genera resistencia.
+<aside type="caution">
+
+Una auditoría no es para "pillar" a nadie. Es para mejorar el sistema. Comunícalo así a los empleados: "Vamos a revisar cómo funciona la gestión documental para identificar áreas de mejora y facilitaros el trabajo." La transparencia genera colaboración; la sospecha genera resistencia.
+
+</aside>
 
 ## ❓ Dudas frecuentes
 
@@ -458,6 +519,9 @@ R: La nube pública (Google Drive, OneDrive, Dropbox) es más barata y accesible
 **P: ¿Cada cuánto debo hacer copias de seguridad?**
 R: Depende de la frecuencia con la que se generen o modifiquen documentos. En una empresa activa, lo recomendable es: copia incremental a diario, copia completa semanal. Y recuerda probar las restauraciones al menos una vez al trimestre. Si trabajas con documentos muy críticos (facturación diaria, contratos), considera copias cada pocas horas.
 
+<div class="faq-item">
+</div>
+<div class="faq-item">
 ### Checklist del Knowledge Manager para la gestión documental
 
 **Implantación del SGD:**
@@ -481,9 +545,14 @@ R: Depende de la frecuencia con la que se generen o modifiquen documentos. En un
 - [ ] Encuesta de satisfacción a usuarios del SGD.
 - [ ] Documentos sin metadatos identificados y corregidos.
 
-> **💡 Consejo:** No esperes a tenerlo todo perfecto para empezar. Un SGD que funciona al 80% pero se usa es mejor que un SGD perfecto que nadie toca. Mejora de forma iterativa.
+<aside type="tip">
 
-## Resumen (lo que importa de verdad)
+No esperes a tenerlo todo perfecto para empezar. Un SGD que funciona al 80% pero se usa es mejor que un SGD perfecto que nadie toca. Mejora de forma iterativa.
+
+</aside>
+
+<div class="resumen-card">
+## 📌 Resumen (lo que importa de verdad)
 
 - La gestión documental controla el ciclo de vida completo de los documentos, desde su creación hasta su destrucción. No es "tener carpetas ordenadas", es una disciplina con políticas, roles y herramientas.
 - Un SGD combina base de datos, hardware, software y roles definidos. El software es la parte más fácil; lo difícil son los procesos y la cultura.
@@ -499,30 +568,57 @@ R: Sí, pero con cuidado. Muchos SGD permiten crear espacios externos (extranet)
 **P: ¿Qué hago si un documento tiene información personal de varias personas y solo una de ellas solicita la eliminación?**
 R: En este caso, no puedes eliminar todo el documento porque afectaría a los datos de otras personas. Lo correcto es bloquear el acceso a los datos de la persona solicitante (por ejemplo, anonimizando su información) manteniendo el resto del documento intacto. Si no es posible separar los datos, deberás bloquear el documento completo y evaluar si es necesario conservarlo.
 
-## Ejercicios Propuestos
+## ✍️ Ejercicios propuestos
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 1. Diseña una taxonomía documental para una pequeña empresa de 15 empleados dedicada a la organización de eventos. Debe incluir al menos 5 categorías principales con sus subcategorías y una breve explicación de por qué has elegido esa estructura. ¿Qué problemas resolvería tu taxonomía?
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 2. Define los metadatos mínimos (6-8 campos) para cada uno de los siguientes tipos de documento: factura, contrato laboral, acta de reunión e informe de proyecto. Justifica cada campo y di si debería ser obligatorio u opcional. ¿Cambiarían los metadatos si la empresa fuera una administración pública?
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 3. Simula el proceso de digitalización de un lote de 100 facturas en papel. Describe paso a paso el proceso completo: preparación de los documentos, escaneo (parámetros), aplicación de OCR, control de calidad, asignación de metadatos e ingesta en el SGD. Calcula el tiempo estimado para cada fase y el tiempo total.
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 4. Investiga tres proveedores de almacenamiento en la nube (Google Drive, OneDrive, Dropbox, iCloud, etc.) y compara sus prestaciones en una tabla con al menos 6 criterios: precio, capacidad, seguridad (cifrado, 2FA), integraciones con otras herramientas, facilidad de uso y opciones de colaboración. ¿Cuál recomendarías para una pyme de 20 empleados? Justifica tu respuesta.
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 5. Elabora un plan de copias de seguridad para una empresa con 10 empleados que genera unos 5 GB de documentos nuevos al mes. Especifica: tipo de copia (completa, incremental, diferencial), frecuencia, soporte (disco externo, nube, cinta), ubicación de las copias (local y off-site), responsable y procedimiento de prueba de restauración. Calcula el espacio de almacenamiento necesario para mantener 3 meses de copias.
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 6. Redacta una política de gestión documental básica para una empresa. Debe incluir: objetivo de la política, alcance (a quién aplica), roles y responsabilidades, criterios de clasificación y metadatos obligatorios, política de conservación (plazos por tipo de documento), procedimiento de destrucción segura, frecuencia de copias de seguridad, y consecuencias del incumplimiento. Extensión recomendada: 1-2 páginas.
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 7. Realiza una auditoría simulada de un SGD. Elige un sistema real (el de tu centro de estudios, tu lugar de trabajo o uno que conozcas) y evalúa los siguientes aspectos: taxonomía, metadatos, permisos, copias de seguridad, uso por parte de los empleados. Escribe un informe de auditoría con hallazgos y recomendaciones.
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 8. Diseña un plan de migración de documentos para una empresa que pasa de almacenar archivos en carpetas de red a usar un SGD. El plan debe incluir: inventario de documentos, criterios de prioridad, limpieza de documentos obsoletos, asignación de metadatos, cronograma, responsables y plan de contingencia.
+</div>
 
 ---
 
-**RAs trabajados en esta unidad:**
-
-- **RA5** - Implementa sistemas de archivo digital y gestión documental, aplicando técnicas de digitalización, clasificación, almacenamiento seguro y recuperación de la información.
+<span class="ra-badge-footer">🎯 RA trabajados: - **RA5** - Implementa sistemas de archivo digital y gestión documental, aplicando técnicas de digitalización, clasificación, almacenamiento seguro y recuperación de la información.
+</span>
 
 ---
 
 <div align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank"><img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31"></a><br><strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0</div>
+</div>
+
+</div>
+</div>

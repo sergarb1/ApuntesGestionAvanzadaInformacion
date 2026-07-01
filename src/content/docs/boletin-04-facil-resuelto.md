@@ -2,7 +2,6 @@
 title: "Boletín 4 - Fácil: Informes empresariales: datos, gráficos y comunicaciones"
 ---
 
-# Boletín 4 - Fácil: Informes empresariales: datos, gráficos y comunicaciones
 
 ## Ejercicio 1: Creación de un cuadro de mando con KPIs
 
@@ -52,7 +51,11 @@ Panel de KPIs (formato semáforo con formato condicional):
 **Salida esperada:**
 Un cuadro de mando con 5 KPIS, semáforo, gráfico de evolución mensual y tabla de datos.
 
-> **💡 Explicación:** Los cuadros de mando permiten visualizar rápidamente el estado de los indicadores clave. El semáforo (verde/ámbar/rojo) facilita la identificación de áreas que requieren atención. El formato condicional de Excel automatiza la actualización de colores.
+<aside type="tip">
+
+Los cuadros de mando permiten visualizar rápidamente el estado de los indicadores clave. El semáforo (verde/ámbar/rojo) facilita la identificación de áreas que requieren atención. El formato condicional de Excel automatiza la actualización de colores.
+
+</aside>
 
 ## Ejercicio 2: Combinación de correspondencia para comunicación comercial
 
@@ -109,7 +112,11 @@ Finalizar y combinar > Imprimir documentos (o Enviar correo electrónico)
 **Salida esperada:**
 Una carta modelo con campos combinados, origen de datos Excel configurado y filtro aplicado para seleccionar clientes objetivo.
 
-> **💡 Explicación:** La combinación de correspondencia permite personalizar comunicaciones masivas. El filtro evita enviar la oferta a clientes que no cumplen los criterios. El cálculo del descuento se realiza directamente en Word usando el campo = (fórmula).
+<aside type="tip">
+
+La combinación de correspondencia permite personalizar comunicaciones masivas. El filtro evita enviar la oferta a clientes que no cumplen los criterios. El cálculo del descuento se realiza directamente en Word usando el campo = (fórmula).
+
+</aside>
 
 ## Ejercicio 3: Creación de una infografía empresarial
 
@@ -155,7 +162,11 @@ Diseña una infografía en formato vertical (A4) que resuma los logros anuales d
 **Salida esperada:**
 Una infografía empresarial completa con datos clave, gráfico de crecimiento y línea de tiempo.
 
-> **💡 Explicación:** Las infografías combinan datos visuales y texto para comunicar información de forma atractiva y rápida. PowerPoint es una herramienta accesible para crearlas. La distribución en bloques (encabezado, datos, gráfico, tiempo) facilita la lectura.
+<aside type="tip">
+
+Las infografías combinan datos visuales y texto para comunicar información de forma atractiva y rápida. PowerPoint es una herramienta accesible para crearlas. La distribución en bloques (encabezado, datos, gráfico, tiempo) facilita la lectura.
+
+</aside>
 
 ## Ejercicio 4: Informe empresarial con gráficos dinámicos
 
@@ -210,7 +221,11 @@ Elabora un informe de ventas trimestral en Excel para una cadena de tiendas de r
 **Salida esperada:**
 Un informe estructurado en 3 hojas (portada, datos, análisis) con gráficos, tendencias y conclusiones.
 
-> **💡 Explicación:** Un informe empresarial debe contar una historia con los datos. La estructura típica es: portada (presentación), datos (hechos), análisis (interpretación) y conclusiones (recomendaciones). Los gráficos de líneas son ideales para mostrar tendencias temporales.
+<aside type="tip">
+
+Un informe empresarial debe contar una historia con los datos. La estructura típica es: portada (presentación), datos (hechos), análisis (interpretación) y conclusiones (recomendaciones). Los gráficos de líneas son ideales para mostrar tendencias temporales.
+
+</aside>
 
 ## 🧠 Tu turno como Knowledge Manager
 

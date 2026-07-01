@@ -21,7 +21,11 @@ title: "Boletín 06 - Nivel Fácil (Resuelto): Comunicación y trabajo en equipo
    ```
    Equipo creado con éxito. Canales visibles en el panel lateral.
    ```
-   > **💡 Explicación:** Los equipos de Teams permiten organizar a los empleados en grupos de trabajo con canales temáticos. Diferenciar entre propietario y miembro es clave para mantener el control sin bloquear la productividad.
+   <aside type="tip">
+
+Los equipos de Teams permiten organizar a los empleados en grupos de trabajo con canales temáticos. Diferenciar entre propietario y miembro es clave para mantener el control sin bloquear la productividad.
+
+</aside>
 
 2. **Programar una reunión con clientes**
    Programa una reunión en el calendario de Teams para el próximo jueves a las 10:00 h con el asunto "Revisión trimestral con clientes". Duración: 1 hora. Incluye un orden del día con 3 puntos. Adjunta el enlace a un documento de Word Online compartido.
@@ -42,7 +46,11 @@ title: "Boletín 06 - Nivel Fácil (Resuelto): Comunicación y trabajo en equipo
    ```
    Reunión creada. Se ha enviado invitación a los asistentes con el orden del día y el enlace al documento.
    ```
-   > **💡 Explicación:** Incluir un orden del día y documentos adjuntos en la invitación facilita que los asistentes lleguen preparados, reduciendo el tiempo improductivo de la reunión.
+   <aside type="tip">
+
+Incluir un orden del día y documentos adjuntos en la invitación facilita que los asistentes lleguen preparados, reduciendo el tiempo improductivo de la reunión.
+
+</aside>
 
 3. **Compartir un archivo con permisos específicos**
    Sube el archivo "Presupuesto_Q4.xlsx" a la biblioteca de documentos del equipo. Comparte el enlace con el departamento de contabilidad con permisos de solo lectura. Explica cómo revocar el acceso si fuera necesario.
@@ -59,7 +67,11 @@ title: "Boletín 06 - Nivel Fácil (Resuelto): Comunicación y trabajo en equipo
    ```
    Archivo compartido. El departamento de Contabilidad recibe un enlace con permisos de solo lectura.
    ```
-   > **💡 Explicación:** Compartir con permisos restringidos evita modificaciones no autorizadas. La gestión centralizada de permisos en SharePoint/Teams permite revocar accesos de forma inmediata si un empleado cambia de rol o sale de la empresa.
+   <aside type="tip">
+
+Compartir con permisos restringidos evita modificaciones no autorizadas. La gestión centralizada de permisos en SharePoint/Teams permite revocar accesos de forma inmediata si un empleado cambia de rol o sale de la empresa.
+
+</aside>
 
 4. **Usar una lista de tareas compartida**
    Crea una lista de tareas en Microsoft Planner vinculada al canal "Documentos" del equipo. Añade 4 tareas con fechas de vencimiento y asígnalas a distintos miembros. Una de ellas debe tener la etiqueta "Urgente".
@@ -78,7 +90,11 @@ title: "Boletín 06 - Nivel Fácil (Resuelto): Comunicación y trabajo en equipo
    ```
    Plan "Tareas Documentación" creado con 4 tareas, cada una asignada y con fecha de vencimiento.
    ```
-   > **💡 Explicación:** Planner integrado en Teams permite a cada miembro ver sus tareas asignadas y actualizar el estado en tiempo real, mejorando el seguimiento sin necesidad de correos internos.
+   <aside type="tip">
+
+Planner integrado en Teams permite a cada miembro ver sus tareas asignadas y actualizar el estado en tiempo real, mejorando el seguimiento sin necesidad de correos internos.
+
+</aside>
 
 ```
 

@@ -4,20 +4,25 @@ title: "🏢 Unidad 7: Oficina virtual y página web de la empresa"
 
 🎯 **Objetivos de aprendizaje**
 
+<div class="objetivos-box">
 - Comprender qué es una oficina virtual y cómo integra las herramientas digitales de la empresa.
 - Identificar las plataformas CMS más utilizadas para crear sitios web corporativos.
 - Diferenciar entre intranet, extranet y portal de conocimiento.
 - Entender el papel de la sindicación de contenidos (RSS) en la difusión de información.
 - Reconocer los riesgos de seguridad y privacidad en entornos web corporativos.
 - Aprender a integrar el ecosistema digital de la empresa en un único punto de acceso.
-
+</div>
 ## ¿Qué es una oficina virtual?
 
 Imagina que tu empresa decide que todo el mundo trabaje desde casa, pero sin dejar de coordinarse, compartir documentos y atender clientes. ¿Cómo lo harían? Pues exactamente: con una oficina virtual.
 
 Una **oficina virtual** es un conjunto de herramientas digitales que permiten a los empleados de una empresa trabajar, comunicarse y colaborar sin necesidad de estar físicamente en el mismo edificio. No es una "app" concreta, sino un ecosistema de servicios que simulan el entorno de una oficina tradicional.
 
-> **📝 Nota:** Cuando hablamos de oficina virtual no nos referimos solo al correo electrónico. Hablamos de herramientas colaborativas, gestores de proyectos, repositorios de documentos, videoconferencia, calendarios compartidos y, por supuesto, la página web corporativa.
+<aside>
+
+Cuando hablamos de oficina virtual no nos referimos solo al correo electrónico. Hablamos de herramientas colaborativas, gestores de proyectos, repositorios de documentos, videoconferencia, calendarios compartidos y, por supuesto, la página web corporativa.
+
+</aside>
 
 En el perfil de **Knowledge Manager**, la oficina virtual es tu gran aliada. Vas a ser la persona encargada de seleccionar, configurar y mantener estas herramientas para que el resto de la organización pueda trabajar sin fricciones. Vamos, que si la wifi va lenta o el gestor documental no encuentra un archivo... te van a mirar a ti.
 
@@ -34,7 +39,11 @@ En el perfil de **Knowledge Manager**, la oficina virtual es tu gran aliada. Vas
 | Videoconferencia | Reuniones virtuales cara a cara | Zoom, Google Meet, Teams |
 | Calendario compartido | Coordinación de agendas | Outlook Calendar, Google Calendar |
 
-> **⚠️ Advertencia:** Una oficina virtual no se improvisa. Si cada departamento elige su propia herramienta sin coordinación, acabarás con 17 plataformas distintas, 43 usuarios bloqueados y un Knowledge Manager al borde del infarto. La integración es clave.
+<aside type="caution">
+
+Una oficina virtual no se improvisa. Si cada departamento elige su propia herramienta sin coordinación, acabarás con 17 plataformas distintas, 43 usuarios bloqueados y un Knowledge Manager al borde del infarto. La integración es clave.
+
+</aside>
 
 ### Herramientas de comunicación y colaboración en equipo
 
@@ -62,7 +71,11 @@ Cuando trabajas en remoto o en modalidad híbrida, el clásico "pasar por la mes
 
 La página web de la empresa no es un lujo: es su tarjeta de visita digital. Y no, no hace falta saber programar como un ingeniero informático para montarla. Aquí entran los **CMS** (Content Management Systems), que son sistemas de gestión de contenidos que permiten crear y mantener una web sin escribir ni una línea de código.
 
-> **📝 Nota:** Un CMS separa el contenido del diseño. Esto significa que puedes cambiar completamente el aspecto de tu web sin tocar los textos, y viceversa. Esa flexibilidad es lo que los hace tan potentes.
+<aside>
+
+Un CMS separa el contenido del diseño. Esto significa que puedes cambiar completamente el aspecto de tu web sin tocar los textos, y viceversa. Esa flexibilidad es lo que los hace tan potentes.
+
+</aside>
 
 ### WordPress
 
@@ -76,7 +89,11 @@ Como Knowledge Manager, WordPress te permite:
 - Personalizar el diseño con temas (themes) sin tocar código.
 - Integrar herramientas de SEO para que la web sea encontrable en Google.
 
-> **💡 Consejo:** Si tu empresa no tiene un departamento de IT potente, WordPress con un hosting compartido puede ser tu mejor opción. Pero ojo: las actualizaciones de seguridad son obligatorias. Un WordPress desactualizado es como dejar la puerta de la oficina abierta por la noche.
+<aside type="tip">
+
+Si tu empresa no tiene un departamento de IT potente, WordPress con un hosting compartido puede ser tu mejor opción. Pero ojo: las actualizaciones de seguridad son obligatorias. Un WordPress desactualizado es como dejar la puerta de la oficina abierta por la noche.
+
+</aside>
 
 ### Wix
 
@@ -97,7 +114,11 @@ SharePoint es la apuesta de Microsoft para la gestión de contenido corporativo.
 
 Si tu empresa ya usa Microsoft 365, SharePoint se integra de forma natural con Teams, Outlook y OneDrive. Como Knowledge Manager, te permitirá crear sitios web internos, bibliotecas de documentos con control de versiones, y flujos de trabajo automatizados.
 
-> **⚠️ Advertencia:** SharePoint es muy potente, pero también tiene su curva de aprendizaje. No esperes montar una web perfecta en una tarde. Dedica tiempo a planificar la estructura antes de empezar a hacer clics.
+<aside type="caution">
+
+SharePoint es muy potente, pero también tiene su curva de aprendizaje. No esperes montar una web perfecta en una tarde. Dedica tiempo a planificar la estructura antes de empezar a hacer clics.
+
+</aside>
 
 ### Otras opciones de CMS
 
@@ -128,7 +149,11 @@ Una intranet bien diseñada es el corazón de la gestión del conocimiento. En e
 - Directorio de empleados.
 - Calendario de eventos y formación.
 
-> **📝 Nota:** La intranet no es un cajón desastre donde se tiran archivos y que nadie mira. Una intranet necesita mantenimiento: contenido actualizado, estructura clara y búsqueda eficiente. Si no, se convierte en un cementerio digital.
+<aside>
+
+La intranet no es un cajón desastre donde se tiran archivos y que nadie mira. Una intranet necesita mantenimiento: contenido actualizado, estructura clara y búsqueda eficiente. Si no, se convierte en un cementerio digital.
+
+</aside>
 
 Como Knowledge Manager, tu misión es que la intranet sea el primer sitio al que un empleado acuda cuando necesite información. Para lograrlo:
 
@@ -153,7 +178,11 @@ Un paso más allá de la intranet es el **portal de conocimiento** o **knowledge
 
 El autoservicio (self-service) es una tendencia imparable. A nadie le gusta esperar en una llamada de atención al cliente para saber cómo devolver un producto. Prefieren buscar en la web, encontrar un artículo claro y resolverlo en dos minutos.
 
-> **💡 Consejo:** Como Knowledge Manager, dedica tiempo a escribir artículos de base de conocimiento que sean claros, directos y con capturas de pantalla. Un buen artículo de autoservicio puede ahorrarle a la empresa decenas de horas de atención al cliente cada mes.
+<aside type="tip">
+
+Como Knowledge Manager, dedica tiempo a escribir artículos de base de conocimiento que sean claros, directos y con capturas de pantalla. Un buen artículo de autoservicio puede ahorrarle a la empresa decenas de horas de atención al cliente cada mes.
+
+</aside>
 
 La clave del éxito de un portal de conocimiento es:
 
@@ -178,7 +207,11 @@ Para el Knowledge Manager, el RSS es útil para:
 - **Agregar información:** usar un lector RSS (como Feedly) para tener todo el contenido relevante en un solo lugar.
 - **Alertas temáticas:** configurar feeds RSS para palabras clave concretas y recibir novedades al instante.
 
-> **📝 Nota:** Aunque las redes sociales han eclipsado al RSS, este sigue siendo más fiable. Las redes sociales te muestran lo que su algoritmo decide; el RSS te muestra exactamente lo que quieres ver, en orden cronológico y sin publicidad.
+<aside>
+
+Aunque las redes sociales han eclipsado al RSS, este sigue siendo más fiable. Las redes sociales te muestran lo que su algoritmo decide; el RSS te muestra exactamente lo que quieres ver, en orden cronológico y sin publicidad.
+
+</aside>
 
 ## Seguridad y privacidad en entornos web corporativos
 
@@ -202,7 +235,11 @@ Cualquier web corporativa que recopile datos personales (formularios de contacto
 - No compartir datos con terceros sin autorización.
 - Disponer de un aviso de cookies configurable.
 
-> **⚠️ Advertencia:** Una web sin aviso de cookies, sin política de privacidad o con formularios que no informan al usuario puede acarrear multas importantes. La ignorancia no exime del cumplimiento.
+<aside type="caution">
+
+Una web sin aviso de cookies, sin política de privacidad o con formularios que no informan al usuario puede acarrear multas importantes. La ignorancia no exime del cumplimiento.
+
+</aside>
 
 ### Gestión de identidades y accesos (IAM)
 
@@ -233,7 +270,11 @@ Aquí llegamos al plato fuerte para el Knowledge Manager. No basta con tener her
 - **Power Automate:** la solución de Microsoft para flujos de trabajo. Se integra con todas las herramientas de Microsoft 365 y con cientos de servicios externos.
 - **APIs:** cuando las soluciones low-code no son suficientes, toca llamar al departamento de IT. Las APIs permiten conexiones a medida entre sistemas.
 
-> **💡 Consejo:** No integres por integrar. Cada conexión entre herramientas es un punto de fallo potencial. Antes de conectar dos sistemas, pregúntate: ¿esto aporta valor real o solo es postureo tecnológico?
+<aside type="tip">
+
+No integres por integrar. Cada conexión entre herramientas es un punto de fallo potencial. Antes de conectar dos sistemas, pregúntate: ¿esto aporta valor real o solo es postureo tecnológico?
+
+</aside>
 
 ### Pautas de accesibilidad web
 
@@ -247,7 +288,11 @@ Puntos básicos de accesibilidad:
 - **Subtítulos** en vídeos corporativos.
 - **Tamaño de texto redimensionable** sin que se rompa el diseño.
 
-> **📝 Nota:** La accesibilidad web no es solo una cuestión ética: en muchos países es obligatoria por ley para sitios web de administraciones públicas y empresas que prestan servicios de interés general. Además, mejora el SEO y la experiencia de todos los usuarios.
+<aside>
+
+La accesibilidad web no es solo una cuestión ética: en muchos países es obligatoria por ley para sitios web de administraciones públicas y empresas que prestan servicios de interés general. Además, mejora el SEO y la experiencia de todos los usuarios.
+
+</aside>
 
 ### Cómo elegir las herramientas adecuadas para tu oficina virtual
 
@@ -264,7 +309,11 @@ Una de las decisiones más importantes como Knowledge Manager es seleccionar las
 
 No te dejes cegar por la herramienta más popular o la más barata. La mejor herramienta es la que la gente va a usar. Una herramienta perfecta sobre el papel pero que nadie adopta es peor que una herramienta regular que todo el mundo utiliza.
 
-> **💡 Consejo:** Antes de comprar cualquier suscripción, pruébala con un equipo pequeño durante 30 días. Si después de ese periodo el equipo no quiere volver a la herramienta anterior, es buena señal. Si hay dudas, busca otra opción.
+<aside type="tip">
+
+Antes de comprar cualquier suscripción, pruébala con un equipo pequeño durante 30 días. Si después de ese periodo el equipo no quiere volver a la herramienta anterior, es buena señal. Si hay dudas, busca otra opción.
+
+</aside>
 
 ### Gestión de la oficina virtual en el día a día
 
@@ -290,9 +339,17 @@ Ser Knowledge Manager de una oficina virtual no es un trabajo de "configurar una
 - Encuesta de satisfacción a los usuarios sobre las herramientas.
 - Revisión y limpieza de contenido obsoleto en la intranet.
 
-> **💡 Consejo:** Automatiza todo lo que puedas. Las tareas repetitivas son las primeras candidatas a automatizar: creación de usuarios, informes semanales de uso, recordatorios de actualización de plugins. Las notificaciones de actualizaciones, los informes de uso y las alertas de seguridad pueden configurarse para que te lleguen sin tener que ir a mirarlas. Tu tiempo es mejor invertido en las personas que en los pings del sistema.
+<aside type="tip">
 
-> **📝 Nota:** Una buena práctica es tener un "día de limpieza digital" cada mes. Dedica una hora a revisar usuarios inactivos, permisos incorrectos, documentos obsoletos y herramientas infrautilizadas. Es como la limpieza de primavera, pero para tu oficina virtual.
+Automatiza todo lo que puedas. Las tareas repetitivas son las primeras candidatas a automatizar: creación de usuarios, informes semanales de uso, recordatorios de actualización de plugins. Las notificaciones de actualizaciones, los informes de uso y las alertas de seguridad pueden configurarse para que te lleguen sin tener que ir a mirarlas. Tu tiempo es mejor invertido en las personas que en los pings del sistema.
+
+</aside>
+
+<aside>
+
+Una buena práctica es tener un "día de limpieza digital" cada mes. Dedica una hora a revisar usuarios inactivos, permisos incorrectos, documentos obsoletos y herramientas infrautilizadas. Es como la limpieza de primavera, pero para tu oficina virtual.
+
+</aside>
 
 ### Implantación de una oficina virtual paso a paso
 
@@ -306,7 +363,11 @@ Si alguna vez te toca implantar una oficina virtual desde cero (o reestructurar 
 6. **Soporte:** las primeras semanas son críticas. Ten a alguien disponible para resolver dudas al momento.
 7. **Revisión:** a los tres meses, evalúa qué funciona y qué no. Ajusta.
 
-> **📝 Nota:** El paso 4 (formación) es el que más se salta y el que más problemas causa. Invertir una hora en formar a un empleado te ahorrará decenas de incidencias después. No lo omitas.
+<aside>
+
+El paso 4 (formación) es el que más se salta y el que más problemas causa. Invertir una hora en formar a un empleado te ahorrará decenas de incidencias después. No lo omitas.
+
+</aside>
 
 ## ⭐ Ponte en la piel del Knowledge Manager
 
@@ -366,7 +427,11 @@ Solución: prioriza las integraciones críticas (las que más tiempo ahorran), u
 Posibles causas: falta de formación, herramientas poco intuitivas, resistencia al cambio, herramientas que no resuelven problemas reales.
 Solución: forma, escucha, adapta. Si una herramienta no se usa, pregúntate por qué. A veces la solución no es más formación, sino cambiar de herramienta.
 
-> **💡 Consejo:** Crea un canal de "incidencias digitales" en Teams o Slack donde los empleados puedan reportar problemas. Así centralizas las quejas y puedes priorizar soluciones. Y de paso, demuestras que escuchas.
+<aside type="tip">
+
+Crea un canal de "incidencias digitales" en Teams o Slack donde los empleados puedan reportar problemas. Así centralizas las quejas y puedes priorizar soluciones. Y de paso, demuestras que escuchas.
+
+</aside>
 
 ## ❓ Dudas frecuentes
 
@@ -394,6 +459,9 @@ R: No. Hay miles de plugins gratuitos en el repositorio oficial de WordPress. Pa
 **P: ¿Qué es eso del Single Sign-On (SSO)?**
 R: Es un sistema que permite al empleado iniciar sesión una sola vez y acceder a todas las herramientas de la empresa sin volver a identificarse. Como Knowledge Manager, te interesa porque simplifica la gestión de cuentas y mejora la seguridad. Microsoft Azure AD y Google Workspace lo ofrecen integrado.
 
+<div class="faq-item">
+</div>
+<div class="faq-item">
 ### Checklist del Knowledge Manager para la oficina virtual
 
 Usa esta lista para asegurarte de que no se te escapa nada en tu oficina virtual:
@@ -419,9 +487,14 @@ Usa esta lista para asegurarte de que no se te escapa nada en tu oficina virtual
 - [ ] Actualizaciones de seguridad pendientes.
 - [ ] Cumplimiento RGPD verificado (aviso cookies, política privacidad).
 
-> **💡 Consejo:** Imprime esta checklist y pégala en tu mesa (o mejor, crea una lista en Teams o Notion). Revisarla te llevará 10 minutos al mes y te ahorrará disgustos.
+<aside type="tip">
 
-## Resumen (lo que importa de verdad)
+Imprime esta checklist y pégala en tu mesa (o mejor, crea una lista en Teams o Notion). Revisarla te llevará 10 minutos al mes y te ahorrará disgustos.
+
+</aside>
+
+<div class="resumen-card">
+## 📌 Resumen (lo que importa de verdad)
 
 - La oficina virtual integra todas las herramientas digitales que permiten trabajar sin estar en el mismo espacio físico: comunicación, almacenamiento, proyectos, web corporativa e intranet.
 - Un CMS (WordPress, Wix, SharePoint) permite crear y gestionar la web corporativa sin programar. Cada uno tiene sus ventajas según el tamaño y necesidades de la empresa.
@@ -441,28 +514,60 @@ R: Háblalo con él o ella. Pregunta por qué: ¿la herramienta es complicada? �
 **P: ¿Puedo tener la web corporativa en WordPress y la intranet en SharePoint a la vez?**
 R: Sí, y es una combinación muy habitual. WordPress para la cara pública (web corporativa, blog, noticias) y SharePoint para la intranet y gestión documental interna. Lo importante es que ambas estén integradas: por ejemplo, que los artículos publicados en WordPress puedan aparecer automáticamente en la intranet, o que el formulario de contacto de la web alimente el CRM.
 
-## Ejercicios Propuestos
+## ✍️ Ejercicios propuestos
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 1. Busca tres empresas de distintos sectores (por ejemplo, una tienda online, una consultora y una administración pública) y analiza su página web. Identifica qué CMS crees que utilizan (WordPress, Wix, SharePoint, Drupal, otro) y justifica tu respuesta basándote en la URL, el diseño, las funcionalidades y la estructura de la web.
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 2. Crea un mapa conceptual de los componentes de una oficina virtual para una empresa de 30 empleados. Incluye al menos herramientas de comunicación, almacenamiento, gestión de proyectos, videoconferencia y web corporativa. Explica brevemente por qué has elegido cada herramienta y cómo se integrarían entre sí.
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 3. Simula la creación de una intranet para tu centro de estudios o para una empresa que conozcas. Define al menos 6 secciones que incluirías, qué tipo de contenido alojarías en cada una, quién debería tener permisos de edición y cómo medirías el éxito de cada sección.
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 4. Redacta un artículo de base de conocimiento (autoservicio) que explique a un cliente cómo descargar una factura desde el área de cliente de una web. El artículo debe ser claro, incluir pasos numerados con capturas de pantalla simuladas, recomendaciones y un enlace de contacto por si el problema persiste.
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 5. Investiga qué es Power Automate (o Zapier) y diseña un flujo de automatización que conecte al menos tres herramientas. Describe el disparador, las acciones, las condiciones y el resultado esperado. Pon un ejemplo concreto relacionado con la gestión del conocimiento (por ejemplo, "cuando se publique un nuevo artículo en WordPress, que se cree una tarjeta en Trello y se envíe un mensaje al canal de Teams").
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 6. Elabora una lista de verificación (checklist) de seguridad para la web corporativa de una pyme. Debe incluir al menos 12 puntos que el Knowledge Manager debe revisar periódicamente, como: certificado SSL vigente, plugins actualizados, copias de seguridad recientes, política de privacidad visible, aviso de cookies configurado, etc.
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 7. Evalúa tres herramientas de videoconferencia (Teams, Zoom, Google Meet) y compáralas en una tabla con al menos 7 criterios: precio, número máximo de participantes, duración máxima de las reuniones, grabación, compartir pantalla, integración con calendario y seguridad (cifrado). ¿Cuál recomendarías para una empresa de 25 empleados que hace reuniones internas y con clientes? Justifica tu respuesta.
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 8. Diseña un plan de formación para implantar una nueva herramienta de oficina virtual (por ejemplo, migrar de Google Drive a SharePoint). El plan debe incluir: objetivos, audiencia, formato (presencial, online, vídeos), duración, materiales, cronograma y criterios de evaluación.
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 9. Redacta una política de uso aceptable de las herramientas digitales para empleados. Debe incluir: normas de uso del correo electrónico, almacenamiento de documentos, videoconferencias, mensajería instantánea y redes sociales. Extensión máxima: una página. Tono: claro y directo, sin legalismos innecesarios.
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 10. Crea un plan de comunicación para anunciar la implantación de una nueva intranet corporativa. Define los mensajes clave, los canales (correo, reunión, cartelería digital), el cronograma de comunicaciones y cómo medirás la acogida de los empleados. Incluye un ejemplo del correo electrónico que enviarías anunciando el lanzamiento.
+</div>
 
+</div>
+<div class="faq-item">
 ### Costes asociados a la oficina virtual
 
 Uno de los aspectos que más preguntas genera es cuánto cuesta mantener una oficina virtual. Como Knowledge Manager, te pedirán presupuestos y tendrás que justificar el gasto. Aquí tienes una estimación orientativa de costes mensuales por empleado para una empresa pequeña-mediana:
@@ -479,8 +584,14 @@ Uno de los aspectos que más preguntas genera es cuánto cuesta mantener una ofi
 
 **Coste total estimado:** entre 30 y 80 € por empleado al mes, dependiendo de las herramientas elegidas y las licencias.
 
-> **📝 Nota:** No mires solo el coste. Mira el retorno. Una oficina virtual bien configurada ahorra tiempo, evita errores, facilita el teletrabajo y reduce la rotación de empleados. Un empleado que puede trabajar flexiblemente y encuentra la información que necesita es un empleado más productivo y más feliz.
+<aside>
 
+No mires solo el coste. Mira el retorno. Una oficina virtual bien configurada ahorra tiempo, evita errores, facilita el teletrabajo y reduce la rotación de empleados. Un empleado que puede trabajar flexiblemente y encuentra la información que necesita es un empleado más productivo y más feliz.
+
+</aside>
+
+</div>
+<div class="faq-item">
 ### Casos reales de oficinas virtuales en empresas
 
 A veces la teoría se entiende mejor con ejemplos reales. Aquí tienes tres casos de cómo distintas empresas han configurado su oficina virtual:
@@ -494,8 +605,14 @@ Tienen Microsoft 365 Business Premium. La intranet está montada en SharePoint, 
 **Caso C: Empresa industrial (200 empleados)**
 Combinan un ERP (SAP) con SharePoint para la gestión documental. La intranet está en SharePoint y es el repositorio de procedimientos, manuales de calidad y normativas. La comunicación formal es por correo (Outlook) y la informal por Teams. La web corporativa es Drupal, gestionada por un equipo de IT. Las facturas se digitalizan con un sistema de captura automática que las envía al ERP. Usan Power BI para dashboards de producción y calidad.
 
-> **📝 Nota:** No copies el modelo de otra empresa sin adaptarlo a tu realidad. Cada empresa tiene su cultura, su presupuesto y sus necesidades. Lo que funciona en una startup tecnológica no tiene por qué funcionar en una empresa industrial.
+<aside>
 
+No copies el modelo de otra empresa sin adaptarlo a tu realidad. Cada empresa tiene su cultura, su presupuesto y sus necesidades. Lo que funciona en una startup tecnológica no tiene por qué funcionar en una empresa industrial.
+
+</aside>
+
+</div>
+<div class="faq-item">
 ### El futuro de la oficina virtual: tendencias
 
 La oficina virtual no deja de evolucionar. Como Knowledge Manager, te interesa estar al tanto de las tendencias para anticiparte a las necesidades de la empresa.
@@ -510,6 +627,8 @@ La oficina virtual no deja de evolucionar. Como Knowledge Manager, te interesa e
 
 **Sostenibilidad digital:** el impacto ambiental de la tecnología (consumo energético de servidores, residuos electrónicos) empieza a ser un criterio en la selección de herramientas. Optar por proveedores con centros de datos eficientes o con certificaciones verdes puede marcar la diferencia.
 
+</div>
+<div class="faq-item">
 ### Glosario de términos clave
 
 - **CMS (Content Management System):** sistema que permite crear y gestionar contenido web sin conocimientos técnicos.
@@ -525,10 +644,13 @@ La oficina virtual no deja de evolucionar. Como Knowledge Manager, te interesa e
 
 ---
 
-**RAs trabajados en esta unidad:**
-
-- **RA4** - Configura y mantiene la oficina virtual y la página web corporativa, integrando herramientas digitales y aplicando criterios de seguridad, accesibilidad y protección de datos.
+<span class="ra-badge-footer">🎯 RA trabajados: - **RA4** - Configura y mantiene la oficina virtual y la página web corporativa, integrando herramientas digitales y aplicando criterios de seguridad, accesibilidad y protección de datos.
+</span>
 
 ---
 
 <div align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank"><img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31"></a><br><strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0</div>
+</div>
+
+</div>
+</div>

@@ -2,7 +2,6 @@
 title: "Boletín 5 - Avanzado: Creación de vídeos corporativos y contenido audiovisual"
 ---
 
-# Boletín 5 - Avanzado: Creación de vídeos corporativos y contenido audiovisual
 
 ## Ejercicio 1: Producción de un vídeo corporativo multicámara (⭐)
 
@@ -53,7 +52,11 @@ Planifica la producción completa de un vídeo corporativo de 4 minutos para el 
 **Salida esperada:**
 Un plan de producción completo con call sheet, guion multicámara y cronograma de postproducción.
 
-> **💡 Explicación:** La producción profesional de vídeo corporativo requiere una planificación detallada. El call sheet organiza el rodaje, el guion multicámara coordina las fuentes de vídeo, y el cronograma de postproducción asegura que se cumplen los plazos de entrega.
+<aside type="tip">
+
+La producción profesional de vídeo corporativo requiere una planificación detallada. El call sheet organiza el rodaje, el guion multicámara coordina las fuentes de vídeo, y el cronograma de postproducción asegura que se cumplen los plazos de entrega.
+
+</aside>
 
 ## Ejercicio 2: Creación de un tutorial con anotaciones y subtítulos (⭐⭐)
 
@@ -108,7 +111,11 @@ Diseña un tutorial en vídeo de 8 minutos para enseñar a empleados a utilizar 
 **Salida esperada:**
 Un plan completo de producción de tutorial con módulos, anotaciones, subtítulos bilingües y flujo de trabajo detallado.
 
-> **💡 Explicación:** Los tutoriales con anotaciones mejoran la retención del aprendizaje al dirigir la atención del espectador. Los subtítulos no solo cumplen con normativas de accesibilidad, sino que mejoran la experiencia en entornos sin audio. La producción por módulos facilita la reutilización del contenido.
+<aside type="tip">
+
+Los tutoriales con anotaciones mejoran la retención del aprendizaje al dirigir la atención del espectador. Los subtítulos no solo cumplen con normativas de accesibilidad, sino que mejoran la experiencia en entornos sin audio. La producción por módulos facilita la reutilización del contenido.
+
+</aside>
 
 ## Ejercicio 3: Estrategia de marketing en vídeo con pruebas A/B (⭐⭐⭐)
 
@@ -163,7 +170,11 @@ Diseña una campaña de marketing en vídeo para promocionar un webinar gratuito
 **Salida esperada:**
 Una estrategia completa de campaña de vídeo marketing con 3 versiones, plan de difusión, KPIs y pruebas A/B.
 
-> **💡 Explicación:** Las pruebas A/B en vídeo marketing permiten optimizar la inversión identificando qué mensaje resuena mejor con la audiencia. Es importante cambiar solo una variable por prueba (el enfoque creativo) y mantener constantes el resto (duración, plataforma, presupuesto).
+<aside type="tip">
+
+Las pruebas A/B en vídeo marketing permiten optimizar la inversión identificando qué mensaje resuena mejor con la audiencia. Es importante cambiar solo una variable por prueba (el enfoque creativo) y mantener constantes el resto (duración, plataforma, presupuesto).
+
+</aside>
 
 ## Ejercicio 4: Pipeline completo de producción de vídeo (⭐⭐⭐⭐)
 
@@ -269,7 +280,11 @@ NAS Corporativo (4 TB RAID 5)
 **Salida esperada:**
 Un proceso completo de producción con roles, flujo de trabajo, herramientas, checklist de calidad, sistema de archivos y métricas de productividad.
 
-> **💡 Explicación:** Un proceso de producción estandarizado garantiza consistencia, calidad y eficiencia en la producción recurrente de vídeos. La regla 3-2-1 de copia de seguridad (3 copias, 2 soportes diferentes, 1 fuera de sitio) es crítica para no perder material original. Las métricas permiten identificar cuellos de botella y mejorar continuamente el proceso.
+<aside type="tip">
+
+Un proceso de producción estandarizado garantiza consistencia, calidad y eficiencia en la producción recurrente de vídeos. La regla 3-2-1 de copia de seguridad (3 copias, 2 soportes diferentes, 1 fuera de sitio) es crítica para no perder material original. Las métricas permiten identificar cuellos de botella y mejorar continuamente el proceso.
+
+</aside>
 
 ```
 

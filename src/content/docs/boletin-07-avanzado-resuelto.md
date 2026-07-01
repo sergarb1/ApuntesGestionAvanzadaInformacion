@@ -31,7 +31,11 @@ title: "Boletín 07 - Nivel Avanzado (Resuelto): Oficina virtual y página web d
    ```
    Banner de cookies visible con tres opciones. Página "Aviso Legal" creada y enlazada. Sitio conforme al RGPD.
    ```
-   > **💡 Explicación:** El RGPD exige informar y obtener consentimiento antes de cargar cookies no técnicas. Declarar correctamente las categorías y ofrecer opciones de rechazo es obligatorio para evitar sanciones.
+   <aside type="tip">
+
+El RGPD exige informar y obtener consentimiento antes de cargar cookies no técnicas. Declarar correctamente las categorías y ofrecer opciones de rechazo es obligatorio para evitar sanciones.
+
+</aside>
 
 2. ⭐⭐ **Crear un certificado SSL autofirmado y configurarlo en un sitio local**
    Usando OpenSSL (o una herramienta gráfica como XAMPP), genera un certificado SSL autofirmado para un sitio WordPress local. Configura Apache para que sirva el sitio por HTTPS. Explica las diferencias entre un certificado autofirmado y uno emitido por una CA (Let's Encrypt, por ejemplo) y cuándo usar cada uno.
@@ -67,7 +71,11 @@ title: "Boletín 07 - Nivel Avanzado (Resuelto): Oficina virtual y página web d
    ```
    Sitio accesible por https://localhost con certificado autofirmado.
    ```
-   > **💡 Explicación:** El SSL cifra la comunicación entre el navegador y el servidor. Aunque un certificado autofirmado no es válido para producción, es útil para entornos de pruebas internos donde no se requiere validación externa.
+   <aside type="tip">
+
+El SSL cifra la comunicación entre el navegador y el servidor. Aunque un certificado autofirmado no es válido para producción, es útil para entornos de pruebas internos donde no se requiere validación externa.
+
+</aside>
 
 3. ⭐⭐ **Configurar un subdominio y redirigir a una subcarpeta**
    Una empresa tiene el dominio principal empresa.com y quiere crear el subdominio intranet.empresa.com que apunte a una subcarpeta del alojamiento. Configura el registro DNS correspondiente (tipo CNAME) y la redirección en el panel de control del hosting (cPanel o similar). Explica cómo verificar que la redirección funciona correctamente.
@@ -100,7 +108,11 @@ title: "Boletín 07 - Nivel Avanzado (Resuelto): Oficina virtual y página web d
    ```
    Subdominio intranet.empresa.com resuelve y carga el contenido de la subcarpeta correctamente.
    ```
-   > **💡 Explicación:** Los subdominios permiten organizar secciones del sitio web sin necesidad de dominios adicionales. El registro CNAME apunta el subdominio al dominio principal, y el panel de hosting asigna la carpeta correspondiente.
+   <aside type="tip">
+
+Los subdominios permiten organizar secciones del sitio web sin necesidad de dominios adicionales. El registro CNAME apunta el subdominio al dominio principal, y el panel de hosting asigna la carpeta correspondiente.
+
+</aside>
 
 4. ⭐⭐⭐ **Automatizar copias de seguridad del sitio web con envío a la nube**
    Diseña un plan de copias de seguridad para un WordPress corporativo. Configura el plugin "UpdraftPlus" para que realice copias de seguridad completas (archivos + base de datos) cada noche a las 3:00 AM y las almacene en Google Drive. Configura también la retención de las últimas 10 copias. Describe qué hacer en caso de tener que restaurar el sitio desde una copia.
@@ -135,7 +147,11 @@ title: "Boletín 07 - Nivel Avanzado (Resuelto): Oficina virtual y página web d
    ```
    Copia de seguridad diaria automatizada en Google Drive con las últimas 10 versiones conservadas.
    ```
-   > **💡 Explicación:** Las copias de seguridad automatizadas son la última barrera ante un ataque, fallo del servidor o error humano. Almacenarlas en la nube garantiza que estén disponibles incluso si el servidor principal queda inaccesible.
+   <aside type="tip">
+
+Las copias de seguridad automatizadas son la última barrera ante un ataque, fallo del servidor o error humano. Almacenarlas en la nube garantiza que estén disponibles incluso si el servidor principal queda inaccesible.
+
+</aside>
 
 ```
 

@@ -2,7 +2,6 @@
 title: "Boletín 2 - Fácil: Planificación y seguimiento de proyectos con herramientas digitales"
 ---
 
-# Boletín 2 - Fácil: Planificación y seguimiento de proyectos con herramientas digitales
 
 ## Ejercicio 1: Creación de una Estructura de Desglose del Trabajo (EDT/WBS)
 

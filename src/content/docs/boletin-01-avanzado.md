@@ -2,7 +2,6 @@
 title: "Boletín 1 - Avanzado: Gestión de proyectos empresariales. El valor del conocimiento"
 ---
 
-# Boletín 1 - Avanzado: Gestión de proyectos empresariales. El valor del conocimiento
 
 ## Ejercicio 1: Elaboración de un caso de negocio con análisis de retorno (⭐)
 

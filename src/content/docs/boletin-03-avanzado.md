@@ -2,7 +2,6 @@
 title: "Boletín 3 - Avanzado: Documentos profesionales con Word, Excel y PowerPoint"
 ---
 
-# Boletín 3 — Avanzado: Documentos profesionales con Word, Excel y PowerPoint
 
 ---
 

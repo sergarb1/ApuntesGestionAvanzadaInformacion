@@ -36,7 +36,11 @@ title: "Boletín 09 - Nivel Fácil (Resuelto): Flujos de trabajo, custodia de do
    ```
    Diagrama de flujo con 4 etapas, responsables, condiciones y rutas alternativas.
    ```
-   > **💡 Explicación:** Un flujo de trabajo bien definido elimina la ambigüedad sobre quién hace qué y cuándo. Las condiciones evitan cuellos de botella al escalar solo las decisiones que realmente requieren un nivel superior.
+   <aside type="tip">
+
+Un flujo de trabajo bien definido elimina la ambigüedad sobre quién hace qué y cuándo. Las condiciones evitan cuellos de botella al escalar solo las decisiones que realmente requieren un nivel superior.
+
+</aside>
 
 2. **Cumplimentar una lista de verificación RGPD para un tratamiento de datos**
    El departamento de RRHH va a crear un fichero con datos de empleados (nombre, DNI, teléfono, salario). Elabora una lista de verificación de cumplimiento RGPD que incluya al menos 6 puntos: base legal, información al interesado, conservación, seguridad, cesión de datos y derechos ARCO.
@@ -57,7 +61,11 @@ title: "Boletín 09 - Nivel Fácil (Resuelto): Flujos de trabajo, custodia de do
    ```
    Lista de verificación con 7 puntos, todos marcados como cumplidos, con referencias al RGPD.
    ```
-   > **💡 Explicación:** El RGPD exige que cualquier tratamiento de datos personales esté justificado, sea conocido por el interesado y cuente con medidas de seguridad. La lista de verificación ayuda a no omitir ninguno de estos requisitos.
+   <aside type="tip">
+
+El RGPD exige que cualquier tratamiento de datos personales esté justificado, sea conocido por el interesado y cuente con medidas de seguridad. La lista de verificación ayuda a no omitir ninguno de estos requisitos.
+
+</aside>
 
 3. **Crear un registro de entrada y salida de documentos**
    Diseña una plantilla (puede ser en Excel o SharePoint) para registrar la entrada y salida de documentos físicos en el archivo. La plantilla debe incluir: fecha, número de registro, tipo documental, remitente/destinatario, documento, soporte, ubicación física y firma de recepción. Rellena 3 ejemplos.
@@ -84,7 +92,11 @@ title: "Boletín 09 - Nivel Fácil (Resuelto): Flujos de trabajo, custodia de do
    ```
    Plantilla funcional con 3 registros de ejemplo y criterios de numeración definidos.
    ```
-   > **💡 Explicación:** Un registro de entrada/salida permite saber en todo momento qué documentos están en el archivo, quién los tiene y dónde localizarlos. Es esencial para la custodia y para evitar pérdidas de documentos.
+   <aside type="tip">
+
+Un registro de entrada/salida permite saber en todo momento qué documentos están en el archivo, quién los tiene y dónde localizarlos. Es esencial para la custodia y para evitar pérdidas de documentos.
+
+</aside>
 
 4. **Aplicar una política de retención a documentos electrónicos**
    La empresa ha decidido eliminar facturas anteriores a 2018 (8 años de antigüedad). Enumera los pasos que debes seguir para hacerlo de forma segura y conforme a la ley: identificación de los documentos a eliminar, autorización, método de eliminación y registro de la destrucción. ¿Qué documentos NO deberías eliminar aunque superen el plazo?
@@ -111,7 +123,11 @@ title: "Boletín 09 - Nivel Fácil (Resuelto): Flujos de trabajo, custodia de do
    ```
    Procedimiento en 6 pasos con identificación, autorización, eliminación segura y registro documental.
    ```
-   > **💡 Explicación:** Eliminar documentos no es tan sencillo como pulsar "Suprimir". La normativa exige un proceso controlado con autorización y registro. La eliminación segura garantiza que los datos no puedan reconstruirse, protegiendo la confidencialidad.
+   <aside type="tip">
+
+Eliminar documentos no es tan sencillo como pulsar "Suprimir". La normativa exige un proceso controlado con autorización y registro. La eliminación segura garantiza que los datos no puedan reconstruirse, protegiendo la confidencialidad.
+
+</aside>
 
 ```
 

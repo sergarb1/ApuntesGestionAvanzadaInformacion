@@ -4,6 +4,7 @@ title: "📝 Unidad 3: Documentos profesionales con Word, Excel y PowerPoint"
 
 🎯 **Objetivos de aprendizaje**
 
+<div class="objetivos-box">
 - Utilizar los programas ofimáticos de forma integrada para la elaboración de documentos profesionales
 - Diseñar y aplicar plantillas corporativas que garanticen la uniformidad documental
 - Automatizar tareas repetitivas mediante macros y funciones avanzadas
@@ -11,7 +12,7 @@ title: "📝 Unidad 3: Documentos profesionales con Word, Excel y PowerPoint"
 - Crear bases de conocimiento en formato ofimático accesibles y mantenibles
 - Aplicar la combinación de correspondencia para comunicación masiva personalizada
 - Incorporar buenas prácticas de revisión, control de cambios y formato coherente
-
+</div>
 ---
 
 Vamos a ser sinceros: PowerPoint no muerde, Excel no es un enemigo y Word no va a explotar si pulsas una tecla equivocada. Sin embargo, hay toda una leyenda urbana sobre lo "difícil" que es usar bien las herramientas ofimáticas. Y como todo mito, tiene algo de verdad y mucho de exageración.
@@ -59,7 +60,11 @@ PowerPoint es el programa más criticado (¿quién no ha sufrido una presentaci�
 - Informes visuales de proyecto
 - Sesiones de transferencia de conocimiento
 
-> **📝 Nota:** Los tres programas se complementan. Word redacta, Excel calcula y PowerPoint comunica. Usarlos por separado está bien. Usarlos juntos es magia.
+<aside>
+
+Los tres programas se complementan. Word redacta, Excel calcula y PowerPoint comunica. Usarlos por separado está bien. Usarlos juntos es magia.
+
+</aside>
 
 ## Plantillas corporativas: el uniforme de los documentos
 
@@ -80,7 +85,11 @@ Una **plantilla corporativa** es un documento base que define el aspecto visual 
 4. Personaliza el **pie de página** con número de página, nombre del documento y fecha.
 5. Guarda el archivo como **plantilla (.dotx)**.
 
-> **💡 Consejo:** Si trabajas en una organización donde cada departamento usa su propia plantilla (o no usa ninguna), ofrécete a crear una plantilla unificada. Te ganarás el cariño de todos (y evitarás muchos dolores de cabeza).
+<aside type="tip">
+
+Si trabajas en una organización donde cada departamento usa su propia plantilla (o no usa ninguna), ofrécete a crear una plantilla unificada. Te ganarás el cariño de todos (y evitarás muchos dolores de cabeza).
+
+</aside>
 
 ### Normalización documental
 
@@ -100,7 +109,11 @@ La normalización va más allá de la plantilla. Es definir **reglas** sobre có
 | Imágenes | Centradas, con pie de foto en cursiva y numerado |
 | Listas | Con viñetas para elementos no ordenados; numeradas para pasos o prioridades |
 
-> **⚠️ Advertencia:** No seas el "policía del formato". La normalización es una guía, no una cárcel. Explica por qué las normas son útiles y la gente las seguirá voluntariamente. Si impones, la gente las saboteará.
+<aside type="caution">
+
+No seas el "policía del formato". La normalización es una guía, no una cárcel. Explica por qué las normas son útiles y la gente las seguirá voluntariamente. Si impones, la gente las saboteará.
+
+</aside>
 
 ## Macros: el trabajo que se hace solo
 
@@ -129,13 +142,21 @@ Una **macro** es una secuencia de acciones que se ejecutan automáticamente. En 
 5. Cuando termines, ve a **Detener grabación**.
 6. A partir de ahora, puedes ejecutar la macro cuando quieras.
 
-> **💡 Consejo:** No intentes grabar una macro de 50 pasos la primera vez. Empieza con algo simple: poner el logotipo, ajustar márgenes, aplicar un estilo. Cuando domines lo básico, lánzate a algo más complejo. Como en la cocina: primero haces un huevo frito, luego una tortilla y luego ya te atreves con el sushi.
+<aside type="tip">
+
+No intentes grabar una macro de 50 pasos la primera vez. Empieza con algo simple: poner el logotipo, ajustar márgenes, aplicar un estilo. Cuando domines lo básico, lánzate a algo más complejo. Como en la cocina: primero haces un huevo frito, luego una tortilla y luego ya te atreves con el sushi.
+
+</aside>
 
 ### Seguridad en macros
 
 Las macros pueden contener código malicioso. Por eso, Word y Excel las tienen desactivadas por defecto. Si confías en el origen de la macro, puedes habilitarlas.
 
-> **⚠️ Advertencia:** Nunca habilites macros de documentos que no sepas de dónde vienen. Es como abrir la puerta de casa a un desconocido: a veces es el cartero y a veces es un carterista.
+<aside type="caution">
+
+Nunca habilites macros de documentos que no sepas de dónde vienen. Es como abrir la puerta de casa a un desconocido: a veces es el cartero y a veces es un carterista.
+
+</aside>
 
 ## Integración de datos entre aplicaciones
 
@@ -170,7 +191,11 @@ Hay dos formas de meter datos de un programa en otro:
 - Un documento de Word que sirve como guion para la presentación
 - Diapositivas que resumen el contenido de un informe extenso
 
-> **💡 Consejo:** La combinación más poderosa es Excel (datos) + PowerPoint (visualización). Cuando el jefe pregunta "¿cómo van los KPIs?" y tienes el PowerPoint vinculado a Excel, solo tienes que actualizar los datos y la presentación se actualiza sola. Parece magia, pero es solo trabajo inteligente.
+<aside type="tip">
+
+La combinación más poderosa es Excel (datos) + PowerPoint (visualización). Cuando el jefe pregunta "¿cómo van los KPIs?" y tienes el PowerPoint vinculado a Excel, solo tienes que actualizar los datos y la presentación se actualiza sola. Parece magia, pero es solo trabajo inteligente.
+
+</aside>
 
 ## Creación de bases de conocimiento en formato ofimático
 
@@ -205,7 +230,11 @@ Un documento maestro de Word puede servir como repositorio si se estructura bien
 3. Usa **marcadores** e **hipervínculos** internos para navegar
 4. Crea un **índice** de palabras clave al final
 
-> **📝 Nota:** Ninguna de estas soluciones sustituye a un sistema de gestión documental profesional a largo plazo. Pero para empezar, para proyectos pequeños o para equipos que no quieren aprender una herramienta nueva, Excel y Word son opciones perfectamente válidas. Lo importante es empezar, no buscar la solución perfecta.
+<aside>
+
+Ninguna de estas soluciones sustituye a un sistema de gestión documental profesional a largo plazo. Pero para empezar, para proyectos pequeños o para equipos que no quieren aprender una herramienta nueva, Excel y Word son opciones perfectamente válidas. Lo importante es empezar, no buscar la solución perfecta.
+
+</aside>
 
 ## Combinación de correspondencia: el arte de personalizar en masa
 
@@ -232,7 +261,11 @@ Tienes que enviar una carta a 50 clientes anunciando un nuevo servicio de asesor
 2. Creas una carta en Word: "Estimado/a «Nombre»: Nos complace informarle como «Cargo» de «Empresa» que hemos lanzado nuestro nuevo servicio…"
 3. Ejecutas la combinación de correspondencia y Word genera las 50 cartas automáticamente.
 
-> **⚠️ Advertencia:** Siempre revisa el resultado antes de imprimir o enviar. Un campo mal puesto puede generar un "Estimado/a Sr. Pérez: Nos complace informarle como null de null que…" y eso no es profesional. La revisión previa es obligatoria.
+<aside type="caution">
+
+Siempre revisa el resultado antes de imprimir o enviar. Un campo mal puesto puede generar un "Estimado/a Sr. Pérez: Nos complace informarle como null de null que…" y eso no es profesional. La revisión previa es obligatoria.
+
+</aside>
 
 ## Buenas prácticas: cómo no hacer el ridículo con un documento
 
@@ -269,10 +302,16 @@ El **control de cambios** de Word es una de las funcionalidades más infravalora
 - Mejor aún: usa la función de control de versiones de OneDrive o SharePoint.
 - No acumules 15 versiones del mismo documento en tu escritorio. Al final no sabrás cuál es la buena.
 
-> **💡 Consejo:** La regla de oro de la documentación profesional: **tu documento debe quedar bien incluso si lo imprime alguien que no tiene las fuentes que tú usaste**. Usa fuentes estándar (Arial, Calibri, Times New Roman) y comprueba siempre el resultado final.
+<aside type="tip">
+
+La regla de oro de la documentación profesional: **tu documento debe quedar bien incluso si lo imprime alguien que no tiene las fuentes que tú usaste**. Usa fuentes estándar (Arial, Calibri, Times New Roman) y comprueba siempre el resultado final.
+
+</aside>
 
 ## ⭐ Ponte en la piel del Knowledge Manager
 
+<div class="escenario-box">
+<div class="escenario-box">
 ### Escenario 1: El informe que parecía hecho por 5 personas diferentes
 
 Eres el Knowledge Manager de una empresa que ha crecido mediante adquisiciones. Cada empresa comprada usaba sus propias plantillas, sus propias fuentes y su propio formato. Ahora te piden que unifiques la documentación corporativa. Tienes 200 documentos heredados que hay que convertir a la nueva plantilla.
@@ -287,6 +326,8 @@ Eres el Knowledge Manager de una empresa que ha crecido mediante adquisiciones. 
 
 **Solución orientativa:** Diseña una plantilla corporativa única con estilos definidos (títulos, cuerpo, tablas, listas, colores corporativos). Graba una macro en Word que aplique la plantilla a un documento existente en un solo clic: cambia fuentes, ajusta márgenes, actualiza encabezados y pies de página. Prioriza la conversión por orden de criticidad: (1) documentos legales y contractuales, (2) documentos de clientes, (3) documentación interna, (4) archivos históricos. Crea un manual de estilo de una página con las 10 reglas básicas: fuente, tamaño de títulos, sangría, formato de tablas, uso de negritas, etc. Forma a los equipos en sesiones de 30 minutos. Nombra un referente por departamento. No pretendas convertir 200 documentos en un mes; plantea un plan a 6 meses con hitos trimestrales.
 
+</div>
+<div class="escenario-box">
 ### Escenario 2: La base de conocimiento es un cajón desastre
 
 Tu empresa lleva un año usando una carpeta compartida como "base de conocimiento". Hay 500 archivos: algunos en PDF, otros en Word, otros en PowerPoint, otros en formatos imposibles. Los nombres de los archivos son una mezcla de "Documento final revisado 3", "Informe_definitivo_de_verdad" y "PPT_reunion_jueves_2".
@@ -300,6 +341,8 @@ Tu empresa lleva un año usando una carpeta compartida como "base de conocimient
 
 **Solución orientativa:** Crea un Excel con las siguientes columnas: ID único, Título del documento, Área (RRHH, Ventas, Operaciones...), Tipo (procedimiento, plantilla, informe, manual), Formato (PDF, DOCX, XLSX), Autor, Fecha de creación, Versión, Estado (borrador/revisión/final/archivado), Ruta o enlace, Palabras clave. Normaliza los nombres con el formato AAAA-MM-DD_Area_Tipo_Descripcion_vXX.pdf. Aplica filtros y tablas dinámicas para facilitar la búsqueda. Para los documentos nuevos, crea un formulario simple de alta (un Excel con validación de datos o un formulario de Microsoft Forms) que alimente el índice automáticamente. Y programa una revisión trimestral: archiva documentos obsoletos, actualiza versiones y elimina duplicados. La regla de oro: si no se ha consultado en 6 meses, pasa a archivado.
 
+</div>
+<div class="escenario-box">
 ### Escenario 3: La presentación que salva (o hunde) un proyecto
 
 Tienes que presentar los resultados de tu proyecto de KM a la dirección general en 10 minutos. Tienes datos de Excel (KPIs, gráficos de adopción, ahorro de tiempo), documentos de Word (testimonios, casos de uso) y muchas ganas de que aprueben la segunda fase del proyecto.
@@ -316,31 +359,45 @@ Tienes que presentar los resultados de tu proyecto de KM a la dirección general
 
 ## ❓ Dudas frecuentes
 
+<div class="faq-item">
+</div>
+<div class="faq-item">
 ### ¿Merece la pena aprender macros o es demasiado complicado?
 
 Merece muchísimo la pena, y no hace falta ser programador. Grabar macros es tan sencillo como pulsar "grabar" y hacer las acciones. Aprender lo básico te ahorrará horas de trabajo repetitivo. Empieza con macros pequeñas: formatear un documento, insertar una tabla, poner un encabezado. Cuando veas el tiempo que ahorras, querrás aprender más.
 
+</div>
+<div class="faq-item">
 ### ¿Qué hago si un documento de Word se me desconfigura al abrirlo en otro ordenador?
 
 Esto suele pasar por dos motivos: (1) faltan fuentes instaladas, (2) la versión de Office es diferente. Para evitarlo: usa fuentes estándar (Arial, Calibri), guarda los documentos en formato .docx (no .doc) y, si el documento es crítico, considera exportarlo a PDF antes de compartirlo.
 
+</div>
+<div class="faq-item">
 ### ¿Combinación de correspondencia funciona con Outlook para enviar correos?
 
 Sí, la combinación de correspondencia permite enviar correos electrónicos directamente desde Word usando Outlook como cliente. Eso sí, haz una prueba con un destinatario de prueba antes de enviar a toda la lista. Un error en el asunto o en el saludo puede ser muy incómodo (y poco profesional).
 
+</div>
+<div class="faq-item">
 ### ¿Es mejor vincular o incrustar datos de Excel en Word?
 
 Depende del caso. Si el informe se actualiza periódicamente (ej: informe mensual de KPIs), vincula. Si vas a enviar el documento a alguien y no quieres que dependa de tus archivos, incrusta. Una regla práctica: vincula para trabajo interno, incrusta para documentos que salen de la organización.
 
+</div>
+<div class="faq-item">
 ### ¿Realmente un Knowledge Manager necesita saber ofimática a este nivel?
 
 Sí. Puede que no seas tú quien haga todos los documentos (en una empresa grande puede haber un equipo de documentación), pero necesitas saber cómo se hacen para poder supervisarlos, establecer normas y resolver dudas. Además, en empresas pequeñas (que son la mayoría), tú serás quien haga los documentos. La ofimática bien usada es una competencia básica del Knowledge Manager.
 
+</div>
+<div class="faq-item">
 ### ¿Cómo convenzo a mi equipo de usar plantillas corporativas?
 
 La mejor manera es hacer que la plantilla sea fácil de usar y que realmente ahorre trabajo. Si la plantilla está bien diseñada, la gente la usará porque es más rápido que empezar de cero. Si es complicada o restrictiva, la sabotearán. Crea la plantilla con ellos, no para ellos. Y celebra cuando alguien la use bien: el refuerzo positivo funciona mejor que el negativo.
 
-## Resumen (lo que importa de verdad)
+<div class="resumen-card">
+## 📌 Resumen (lo que importa de verdad)
 
 - Word, Excel y PowerPoint son herramientas complementarias que deben usarse de forma integrada, no como islas independientes.
 - Las plantillas corporativas garantizan coherencia visual y ahorran tiempo. Una plantilla bien diseñada es una inversión, no un gasto.
@@ -350,25 +407,68 @@ La mejor manera es hacer que la plantilla sea fácil de usar y que realmente aho
 - La combinación de correspondencia permite personalizar comunicaciones masivas sin perder el trato individual.
 - Las buenas prácticas de formato, control de cambios y gestión de versiones separan los documentos profesionales de los aficionados.
 
-## Ejercicios Propuestos
+## ✍️ Ejercicios propuestos
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 1. **Crea una plantilla corporativa.** Diseña una plantilla de Word para una empresa ficticia del sector legal. Define los estilos (títulos, párrafo normal, citas), el encabezado con logotipo (puedes inventarlo), el pie de página y los márgenes. Explica las decisiones de diseño que has tomado.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 2. **Grabación de una macro.** Identifica una tarea repetitiva que hagas en Word o Excel (por ejemplo, aplicar un formato específico a un texto pegado de internet). Graba una macro que automatice esa tarea y describe paso a paso cómo lo has hecho. Si no puedes grabar la macro porque no tienes el programa, describe los pasos que seguirías.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 3. **Combinación de correspondencia.** Imagina que tienes que enviar una carta personalizada a 30 clientes anunciando un nuevo servicio de KM. Diseña la estructura del Excel (columnas necesarias) y redacta el texto de la carta de Word con los campos combinados. Incluye al menos 4 campos personalizados.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 4. **Base de conocimiento en Excel.** Crea la estructura de una base de conocimiento en Excel para el departamento de atención al cliente. Define al menos 8 columnas, explica qué tipo de datos va en cada una y pon 3 ejemplos de entradas. Añade también las reglas de validación de datos que aplicarías.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 5. **Vinculación de datos.** Describe un caso práctico en el que necesites vincular datos de Excel a un informe de Word. Explica qué datos se vinculan, por qué es mejor vincular que incrustar en ese caso y qué pasa si los datos de origen se actualizan.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 6. **Auditoría de documentos.** Busca 3 documentos profesionales (informes, cartas, presentaciones) que hayas hecho tú o que encuentres en internet. Evalúalos según las buenas prácticas de la unidad: formato coherente, uso de estilos, accesibilidad, control de versiones. Para cada documento, identifica 3 cosas que hacen bien y 3 que podrían mejorar.
+</div>
+</div>
 
 ---
 
-**RAs trabajados en esta unidad:**
-- **RA2** - Elabora documentos y presentaciones profesionales utilizando herramientas ofimáticas avanzadas, aplicando técnicas de integración, automatización y normalización documental en el contexto de la gestión de la información.
+<span class="ra-badge-footer">🎯 RA trabajados: - **RA2** - Elabora documentos y presentaciones profesionales utilizando herramientas ofimáticas avanzadas, aplicando técnicas de integración, automatización y normalización documental en el contexto de la gestión de la información.
+</span>
 
+</div>
 ---
 
 <div align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank"><img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31"></a><br><strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>

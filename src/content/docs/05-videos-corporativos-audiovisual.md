@@ -4,6 +4,7 @@ title: "🎬 Unidad 5: Creación de vídeos corporativos y contenido audiovisual
 
 🎯 **Objetivos de aprendizaje**
 
+<div class="objetivos-box">
 - Comprender la importancia del vídeo como herramienta de transmisión de conocimiento en entornos corporativos
 - Identificar el equipamiento básico necesario para grabar contenido audiovisual de calidad profesional
 - Estructurar un guion y planificar un storyboard para producciones audiovisuales
@@ -12,7 +13,7 @@ title: "🎬 Unidad 5: Creación de vídeos corporativos y contenido audiovisual
 - Producir screencasts y tutoriales para formación interna
 - Insertar títulos, rótulos y transiciones en proyectos de vídeo
 - Exportar vídeos en el formato adecuado según el canal de destino
-
+</div>
 ---
 
 ## El vídeo como herramienta de transmisión de conocimiento
@@ -28,7 +29,11 @@ c) Grabar un tutorial de 8 minutos (que la gente verá cuando lo necesite)
 
 El vídeo tiene ventajas que otros formatos no tienen: permite ver el proceso en acción, se puede pausar y retroceder, se consume en cualquier momento y lugar, y se puede compartir con un enlace. Como Knowledge Manager, el vídeo es una de tus herramientas más poderosas para la formación y la comunicación interna.
 
-> **📝 Nota:** El vídeo corporativo no compite con Netflix. No necesitas efectos especiales ni un actor profesional. Necesitas claridad, buena iluminación y un sonido decente. El contenido es el rey; la producción, la reina.
+<aside>
+
+El vídeo corporativo no compite con Netflix. No necesitas efectos especiales ni un actor profesional. Necesitas claridad, buena iluminación y un sonido decente. El contenido es el rey; la producción, la reina.
+
+</aside>
 
 ### ¿Cuándo usar vídeo en lugar de texto?
 
@@ -66,7 +71,11 @@ El sonido es más importante que la imagen. Un vídeo con imagen regular pero bu
 
 **Micrófono de cañón**: se conecta a la cámara y capta el sonido direccional. Ideal para grabar en exteriores o en salas grandes donde el sonido rebota. Más caro y requiere práctica.
 
-> **⚠️ Advertencia:** Nunca uses el micrófono integrado del ordenador para nada que no sea una videollamada. Capta todo: el teclado, el aire acondicionado, el perro del vecino, la nevera, el tráfico de la calle. Tu audiencia merece mejor sonido.
+<aside type="caution">
+
+Nunca uses el micrófono integrado del ordenador para nada que no sea una videollamada. Capta todo: el teclado, el aire acondicionado, el perro del vecino, la nevera, el tráfico de la calle. Tu audiencia merece mejor sonido.
+
+</aside>
 
 ### Iluminación
 
@@ -76,7 +85,11 @@ La luz natural es gratis y queda genial. Colócate de frente a una ventana y ya 
 
 **Panel LED**: luz más profesional y regulable. Un par de paneles con softbox y pareces la CNN. Más caro (a partir de 60 € cada uno) pero el resultado es muy profesional.
 
-> **💡 Consejo:** No hace falta gastarte 500 € en iluminación. Una lámpara de escritorio con una bombilla de luz fría apuntando a una pared blanca ya difumina la luz y mejora el resultado. La luz rebotada en la pared es más suave que la luz directa.
+<aside type="tip">
+
+No hace falta gastarte 500 € en iluminación. Una lámpara de escritorio con una bombilla de luz fría apuntando a una pared blanca ya difumina la luz y mejora el resultado. La luz rebotada en la pared es más suave que la luz directa.
+
+</aside>
 
 ### El fondo
 
@@ -102,7 +115,11 @@ El error más común del principiante es ponerse a grabar sin guion, esperando q
 
 No hace falta que sea literario. Un guion bien escrito es una lista de ideas con el texto clave. Algunas personas prefieren guion palabra por palabra; otras, solo notas. Encuentra tu estilo. Pero ten algo escrito. Improvisar frente a cámara es difícil incluso para profesionales.
 
-> **📝 Nota:** Si lees el guion palabra por palabra frente a cámara, sonará a robot lector. Mejor memoriza las ideas y habla natural. Si necesitas apoyo, usa un teleprompter (hay apps gratuitas para el móvil) o tarjetas con palabras clave.
+<aside>
+
+Si lees el guion palabra por palabra frente a cámara, sonará a robot lector. Mejor memoriza las ideas y habla natural. Si necesitas apoyo, usa un teleprompter (hay apps gratuitas para el móvil) o tarjetas con palabras clave.
+
+</aside>
 
 ### Storyboard
 
@@ -150,7 +167,11 @@ No todos los formatos sirven para todo. Saber elegir el formato correcto te ahor
 | AAC | Alternativa a MP3. Mejor calidad al mismo peso | Muy buena | Reducido |
 | FLAC | Archivo sin pérdida, audiófilos | Perfecta | Alto |
 
-> **💡 Consejo:** Si estás en modo "no quiero líos", exporta siempre en MP4 con códec H.264 y audio AAC. Funciona en todos lados: YouTube, intranet, PowerPoint, WhatsApp, email. Es el "todoterreno" de los formatos.
+<aside type="tip">
+
+Si estás en modo "no quiero líos", exporta siempre en MP4 con códec H.264 y audio AAC. Funciona en todos lados: YouTube, intranet, PowerPoint, WhatsApp, email. Es el "todoterreno" de los formatos.
+
+</aside>
 
 ---
 
@@ -171,7 +192,11 @@ Aquí es donde ocurre la magia. Has grabado el material y ahora toca montarlo. L
 
 - **DaVinci Resolve**: es gratuito y se usa en Hollywood. Literalmente. Tiene de todo: edición, corrección de color, audio, efectos especiales. La curva de aprendizaje es más empinada, pero merece la pena para quien quiera profundizar. Necesita un ordenador con buena tarjeta gráfica
 
-> **⚠️ Advertencia:** DaVinci Resolve es muy potente, pero no te lances a hacer corrección de color en tu primer vídeo. Aprende primero a cortar, poner títulos y exportar. Lo básico bien hecho gana a lo avanzado mal hecho. Empieza con CapCut y sube de nivel cuando te sientas cómodo.
+<aside type="caution">
+
+DaVinci Resolve es muy potente, pero no te lances a hacer corrección de color en tu primer vídeo. Aprende primero a cortar, poner títulos y exportar. Lo básico bien hecho gana a lo avanzado mal hecho. Empieza con CapCut y sube de nivel cuando te sientas cómodo.
+
+</aside>
 
 ### El flujo de edición básico
 
@@ -202,7 +227,11 @@ Un screencast es una grabación de la pantalla del ordenador. Es la herramienta 
 - **ScreenRec**: similar a Loom, más ligero. Bueno para grabaciones exprés. Sube automáticamente a la nube
 - **PowerPoint**: sí, PowerPoint permite grabar la presentación con voz y cámara. Para lo básico, funciona. El resultado es un vídeo MP4
 
-> **💡 Consejo:** Los screencasts deben ser cortos. Si el proceso tiene 10 pasos, no hagas un vídeo de 20 minutos. Haz 3 vídeos de 5-7 minutos. La gente los verá mejor y los recordará más. Además, es más fácil actualizar un vídeo corto que uno largo cuando el proceso cambie.
+<aside type="tip">
+
+Los screencasts deben ser cortos. Si el proceso tiene 10 pasos, no hagas un vídeo de 20 minutos. Haz 3 vídeos de 5-7 minutos. La gente los verá mejor y los recordará más. Además, es más fácil actualizar un vídeo corto que uno largo cuando el proceso cambie.
+
+</aside>
 
 ### Cómo hacer un buen tutorial
 
@@ -221,7 +250,11 @@ Un screencast es una grabación de la pantalla del ordenador. Es la herramienta 
 - **El scroll infinito**: bajas y subes por la página sin parar. Decide qué quieres mostrar y ve directo
 - **El "como puedes ver"**: si el espectador no puede ver lo que dices, no sirve de nada. Asegúrate de que lo que mencionas está visible en pantalla
 
-> **⚠️ Advertencia:** No grabes un tutorial mientras tienes el correo abierto. Vas a recibir una notificación justo cuando estés explicando algo importante. El "¡ping!" del correo arruina la toma. Silencia todo. Literalmente, todo.
+<aside type="caution">
+
+No grabes un tutorial mientras tienes el correo abierto. Vas a recibir una notificación justo cuando estés explicando algo importante. El "¡ping!" del correo arruina la toma. Silencia todo. Literalmente, todo.
+
+</aside>
 
 ---
 
@@ -241,7 +274,11 @@ Son la guinda del pastel. Bien usados, mejoran la comprensión y dan profesional
 - **Llamadas (callouts)**: para destacar información importante. Un texto que aparece sobreimpresionado. "Esto es clave: el plazo es 15 de junio". Que sea breve, como un titular
 - **Subtítulos**: si el vídeo se va a ver en entornos sin sonido (oficina abierta, transporte público). Muchas herramientas (CapCut, YouTube) los generan automáticamente. Revísalos porque a veces fallan
 
-> **📝 Nota:** No pongas 15 rótulos a la vez. La atención del espectador es limitada. Muestra la información progresivamente, como cuando vas destapando los ingredientes de una receta. Un rótulo cada vez.
+<aside>
+
+No pongas 15 rótulos a la vez. La atención del espectador es limitada. Muestra la información progresivamente, como cuando vas destapando los ingredientes de una receta. Un rótulo cada vez.
+
+</aside>
 
 ### Transiciones
 
@@ -250,7 +287,11 @@ Son la guinda del pastel. Bien usados, mejoran la comprensión y dan profesional
 - **Barrido (wipe)**: para cambios de escena evidentes. Con cuidadito, que si abusas pareces una telenovela de los 80
 - **Zoom**: para enfatizar un detalle. Muy útil en screencasts cuando quieres acercarte a un botón o menú concreto
 
-> **⚠️ Advertencia:** Regla de oro de las transiciones: si llaman la atención sobre sí mismas, es que has usado demasiada transición. El espectador no debería pensar "qué transición más chula", sino "qué bien explicado está esto". La transición es invisible cuando está bien usada.
+<aside type="caution">
+
+Regla de oro de las transiciones: si llaman la atención sobre sí mismas, es que has usado demasiada transición. El espectador no debería pensar "qué transición más chula", sino "qué bien explicado está esto". La transición es invisible cuando está bien usada.
+
+</aside>
 
 ---
 
@@ -286,7 +327,11 @@ El vídeo está montado. Ahora toca sacarlo al mundo. Y no, no vale con exportar
 - **Sube el vídeo** a YouTube (en privado), Vimeo, Google Drive, OneDrive o SharePoint
 - **Envía el enlace** con una miniatura (una imagen del vídeo) y una breve descripción. "Te comparto el tutorial de facturación. Son 8 minutos."
 
-> **💡 Consejo:** HandBrake es una herramienta gratuita que comprime vídeos sin perder calidad notable. Pasa un vídeo de 2 GB a 200 MB y apenas notas la diferencia. Esencial en tu caja de herramientas. Aprende a usarlo: ajusta la calidad a RF 22-24 para un buen equilibrio.
+<aside type="tip">
+
+HandBrake es una herramienta gratuita que comprime vídeos sin perder calidad notable. Pasa un vídeo de 2 GB a 200 MB y apenas notas la diferencia. Esencial en tu caja de herramientas. Aprende a usarlo: ajusta la calidad a RF 22-24 para un buen equilibrio.
+
+</aside>
 
 ---
 
@@ -364,7 +409,8 @@ Planifica 2-3 horas de trabajo: 30 min de guion, 30 min de preparación, 30 min 
 
 ---
 
-## Resumen (lo que importa de verdad)
+<div class="resumen-card">
+## 📌 Resumen (lo que importa de verdad)
 
 - El vídeo es la herramienta más efectiva para transmitir conocimiento en entornos corporativos. Un tutorial bien hecho ahorra tiempo, reduce errores y puede verse cuando sea necesario
 - No necesitas un estudio profesional. Un móvil, un micrófono externo y buena iluminación natural bastan para empezar a hacer vídeos de calidad
@@ -378,7 +424,7 @@ Planifica 2-3 horas de trabajo: 30 min de guion, 30 min de preparación, 30 min 
 
 ---
 
-## Ejercicios Propuestos
+## ✍️ Ejercicios propuestos
 
 **Ejercicio 1.** Escribe el guion completo de un vídeo de 5 minutos que explique a los nuevos empleados cómo solicitar las vacaciones en el sistema de RRHH. Incluye: gancho inicial, presentación, desarrollo paso a paso (mínimo 4 pasos), conclusión y llamada a la acción.
 
@@ -402,9 +448,13 @@ Planifica 2-3 horas de trabajo: 30 min de guion, 30 min de preparación, 30 min 
 
 ---
 
-**RAs trabajados en esta unidad:**
-- **RA3** - Crea y edita contenido audiovisual corporativo, aplicando técnicas de guionización, grabación y edición digital para la difusión de conocimiento en la organización.
+<span class="ra-badge-footer">🎯 RA trabajados: - **RA3** - Crea y edita contenido audiovisual corporativo, aplicando técnicas de guionización, grabación y edición digital para la difusión de conocimiento en la organización.
+</span>
 
 ---
 
 <div align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank"><img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31"></a><br><strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0</div>
+</div>
+</div>
+
+</div>

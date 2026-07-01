@@ -4,13 +4,14 @@ title: "📈 Unidad 4: Informes empresariales: datos, gráficos y comunicaciones
 
 🎯 **Objetivos de aprendizaje**
 
+<div class="objetivos-box">
 - Distinguir los distintos tipos de informes ejecutivos y su aplicación en el día a día de una organización
 - Integrar tablas dinámicas y gráficos procedentes de hojas de cálculo en documentos profesionales
 - Diseñar dashboards visuales que faciliten la lectura de indicadores clave para la toma de decisiones
 - Identificar y utilizar bancos de imágenes, infografías y otros recursos gráficos web respetando derechos de autor
 - Redactar cartas, circulares y comunicaciones masivas con corrección y estilo profesional
 - Aplicar criterios de revisión y control de calidad documental antes de publicar o distribuir
-
+</div>
 ---
 
 ## De qué va esto de los informes empresariales
@@ -21,7 +22,11 @@ Un informe empresarial es un documento que comunica información de forma clara,
 
 Hay quien piensa que hacer un informe es solo juntar números y soltarlos en un PDF. Error. Un informe cuenta una historia. Tiene un principio (el problema o la pregunta), un nudo (los datos y su análisis) y un desenlace (las conclusiones y recomendaciones). Sin esa estructura narrativa, lo que tienes es un montón de datos aburridos.
 
-> **📝 Nota:** Un informe no es un volcado de datos. Es una historia que cuentas con datos. Si solo pones números sin contexto, estás haciendo un Excel. Si explicas qué significan y por qué importan, estás haciendo un informe.
+<aside>
+
+Un informe no es un volcado de datos. Es una historia que cuentas con datos. Si solo pones números sin contexto, estás haciendo un Excel. Si explicas qué significan y por qué importan, estás haciendo un informe.
+
+</aside>
 
 ### El Knowledge Manager como guardián del informe
 
@@ -59,7 +64,11 @@ Más detallado. Se usa en departamentos como IT, I+D o calidad. Va al grano, inc
 
 No solo informa, sino que propone. "Deberíamos hacer X porque los datos dicen Y". Muy útil cuando quieres convencer a alguien de algo sin tener que recurrir a la fuerza bruta. Incluye análisis de opciones, pros y contras, y una recomendación clara.
 
-> **💡 Consejo:** Antes de escribir cualquier informe, pregúntate: ¿quién lo va a leer? ¿qué necesita saber? ¿qué decisión va a tomar con esto? Si no tienes respuestas claras, para y reflexiona.
+<aside type="tip">
+
+Antes de escribir cualquier informe, pregúntate: ¿quién lo va a leer? ¿qué necesita saber? ¿qué decisión va a tomar con esto? Si no tienes respuestas claras, para y reflexiona.
+
+</aside>
 
 ---
 
@@ -97,7 +106,11 @@ Introducción, desarrollo, datos, análisis. Aquí está el contenido. Organizad
 
 Tablas completas, metodología, glosario. Aquí va todo lo que es necesario pero no urgente. El lector sabe que está disponible si quiere profundizar, pero no interrumpe la lectura principal.
 
-> **⚠️ Advertencia:** El resumen ejecutivo no es un "adelanto". Es el informe en miniatura. Si no tienes tiempo de leerlo todo, con el resumen deberías poder tomar una decisión. Dedícale el tiempo que merece. Si tu jefe solo lee el resumen, que ese resumen sea impecable.
+<aside type="caution">
+
+El resumen ejecutivo no es un "adelanto". Es el informe en miniatura. Si no tienes tiempo de leerlo todo, con el resumen deberías poder tomar una decisión. Dedícale el tiempo que merece. Si tu jefe solo lee el resumen, que ese resumen sea impecable.
+
+</aside>
 
 ---
 
@@ -114,7 +127,11 @@ Para integrarlas en tu documento:
 - En Google Docs: puedes insertar tablas desde Sheets manteniendo el vínculo
 - En PowerPoint: pega la tabla como **vínculo** para que se actualice sola si cambian los datos
 
-> **📝 Nota:** Si pegas una tabla como imagen estática, te arriesgas a que cuando los datos cambien (y van a cambiar), tengas que rehacerla. Vincular los datos te ahorrará dolores de cabeza. Y tiempo. Y trolleos de última hora.
+<aside>
+
+Si pegas una tabla como imagen estática, te arriesgas a que cuando los datos cambien (y van a cambiar), tengas que rehacerla. Vincular los datos te ahorrará dolores de cabeza. Y tiempo. Y trolleos de última hora.
+
+</aside>
 
 ### Gráficos: elige bien
 
@@ -138,7 +155,11 @@ Todo gráfico debe entenderse sin necesidad de leer el texto que lo acompaña. E
 - Leyenda clara: si hay colores, que se sepa qué significa cada uno
 - Fuente de datos: "Fuente: ERP Corporativo, datos a 31/12/2025"
 
-> **⚠️ Advertencia:** Los gráficos circulares molan, pero si tienes más de 5 categorías, mejor usa barras. Un círculo con 15 porciones parece la rueda de la fortuna y nadie entiende nada.
+<aside type="caution">
+
+Los gráficos circulares molan, pero si tienes más de 5 categorías, mejor usa barras. Un círculo con 15 porciones parece la rueda de la fortuna y nadie entiende nada.
+
+</aside>
 
 ---
 
@@ -167,7 +188,11 @@ Un dashboard es un panel visual que agrupa indicadores clave (KPI) en una sola v
 - **Excel**: sí, con segmentación de datos y tablas dinámicas puedes hacer un dashboard decente. Y mucha gente ya sabe usarlo
 - **Canva**: si lo tuyo no son los números sino el diseño, puedes crear dashboards visualmente atractivos (pero no interactivos)
 
-> **💡 Consejo:** Como Knowledge Manager, no necesitas ser experto en Power BI. Pero sí necesitas saber qué información necesita cada perfil y cómo presentarla. El dashboard perfecto no existe; existe el dashboard que tu público entiende.
+<aside type="tip">
+
+Como Knowledge Manager, no necesitas ser experto en Power BI. Pero sí necesitas saber qué información necesita cada perfil y cómo presentarla. El dashboard perfecto no existe; existe el dashboard que tu público entiende.
+
+</aside>
 
 ### Indicadores clave de conocimiento (Knowledge KPIs)
 
@@ -205,9 +230,17 @@ Una infografía es una representación visual de información. Ideal para explic
 - **Piktochart**: especializado en infografías. Más limitado que Canva pero más enfocado
 - **Genially**: interactivas, con animaciones. Ideales para presentaciones digitales
 
-> **⚠️ Advertencia:** Siempre revisa la licencia. CC0 significa que puedes usar la imagen sin pedir permiso ni pagar. Pero algunas imágenes requieren atribución (mencionar al autor). Y otras son de pago. Si no pones el crédito donde toca, te arriesgas a una reclamación. En el trabajo, una reclamación por derechos de autor es una mancha difícil de borrar.
+<aside type="caution">
 
-> **💡 Consejo:** Crea una carpeta compartida con los recursos gráficos aprobados por la empresa. Así todo el equipo usa las mismas imágenes, hay coherencia visual y nadie se salta las licencias. Como Knowledge Manager, esto es pan comido.
+Siempre revisa la licencia. CC0 significa que puedes usar la imagen sin pedir permiso ni pagar. Pero algunas imágenes requieren atribución (mencionar al autor). Y otras son de pago. Si no pones el crédito donde toca, te arriesgas a una reclamación. En el trabajo, una reclamación por derechos de autor es una mancha difícil de borrar.
+
+</aside>
+
+<aside type="tip">
+
+Crea una carpeta compartida con los recursos gráficos aprobados por la empresa. Así todo el equipo usa las mismas imágenes, hay coherencia visual y nadie se salta las licencias. Como Knowledge Manager, esto es pan comido.
+
+</aside>
 
 ---
 
@@ -250,7 +283,11 @@ Cuando necesitas enviar el mismo correo a muchas personas. Herramientas:
 - **Outlook con combinación de correspondencia**: para internos. Permite personalizar el saludo y otros campos
 - **Google Workspace con complementos**: etiquetas y envíos masivos con límites diarios
 
-> **⚠️ Advertencia:** Si usas correo masivo, incluye siempre la opción de darse de baja (si es externo). Y nunca, NUNCA, pongas las direcciones en el campo "CC" cuando son muchos destinatarios. Usa CCO o una herramienta de mailing. El día que alguien responda a todos y monte el caos, te acordarás.
+<aside type="caution">
+
+Si usas correo masivo, incluye siempre la opción de darse de baja (si es externo). Y nunca, NUNCA, pongas las direcciones en el campo "CC" cuando son muchos destinatarios. Usa CCO o una herramienta de mailing. El día que alguien responda a todos y monte el caos, te acordarás.
+
+</aside>
 
 ---
 
@@ -278,7 +315,11 @@ Si puedes, pide a un compañero que revise el documento antes de publicarlo. Cua
 
 Si el documento es crítico (un informe para el comité de dirección, una circular a toda la empresa), haz una revisión formal con otro miembro del equipo. Y documenta quién revisó y cuándo.
 
-> **💡 Consejo:** Crea una plantilla de informe con los estilos predefinidos. Así te aseguras de que todos los informes tengan la misma apariencia y no tengas que revisar el formato cada vez.
+<aside type="tip">
+
+Crea una plantilla de informe con los estilos predefinidos. Así te aseguras de que todos los informes tengan la misma apariencia y no tengas que revisar el formato cada vez.
+
+</aside>
 
 ---
 
@@ -308,7 +349,11 @@ Un documento sin control de versiones es como una partida de tu abuela sin etiqu
 
 Usa un sistema de versionado (v1.0, v1.1, v2.0…) y un changelog con lo que ha cambiado. En la portada del informe, incluye la versión y la fecha. Así, si alguien tiene una versión antigua, puede comparar.
 
-> **📝 Nota:** Un documento sin control de versiones es como una partida de tu abuela sin etiquetar: no sabes cuándo se hizo ni qué contiene. Usa un sistema de versionado (v1.0, v1.1, v2.0…) y un changelog con lo que ha cambiado.
+<aside>
+
+Un documento sin control de versiones es como una partida de tu abuela sin etiquetar: no sabes cuándo se hizo ni qué contiene. Usa un sistema de versionado (v1.0, v1.1, v2.0…) y un changelog con lo que ha cambiado.
+
+</aside>
 
 ---
 
@@ -375,7 +420,11 @@ Usa la paleta de colores de la empresa. Si no tienes una guía de estilo, crea u
 - Si un gráfico ocupa media página, que tenga media página. No lo ahogues en una esquina
 - Usa pies de foto o títulos descriptivos. "Evolución trimestral de ventas" en lugar de "Figura 1"
 
-> **💡 Consejo:** Cuando diseñes un informe, míralo primero en vista preliminar o imprime una página de prueba. Lo que se ve bien en pantalla a veces se ve mal en papel o en PDF. Los saltos de página traicioneros existen.
+<aside type="tip">
+
+Cuando diseñes un informe, míralo primero en vista preliminar o imprime una página de prueba. Lo que se ve bien en pantalla a veces se ve mal en papel o en PDF. Los saltos de página traicioneros existen.
+
+</aside>
 
 ---
 
@@ -444,7 +493,8 @@ Sí, pero revísalas y adáptalas a la imagen corporativa de tu empresa. Una pla
 
 ---
 
-## Resumen (lo que importa de verdad)
+<div class="resumen-card">
+## 📌 Resumen (lo que importa de verdad)
 
 - Los informes ejecutivos son herramientas para la toma de decisiones, no simples volcados de datos. Conoce a tu audiencia y adapta el formato y la profundidad
 - Un informe bien estructurado tiene: portada, resumen ejecutivo, índice, cuerpo, conclusiones, recomendaciones y anexos. El resumen ejecutivo es lo único que leerá la mayoría
@@ -457,7 +507,7 @@ Sí, pero revísalas y adáptalas a la imagen corporativa de tu empresa. Una pla
 
 ---
 
-## Ejercicios Propuestos
+## ✍️ Ejercicios propuestos
 
 **Ejercicio 1.** Crea la estructura de un informe ejecutivo mensual para el departamento de recursos humanos. Define: título, destinatario, 5 indicadores clave que incluirías, tipo de gráfico para cada uno y frecuencia de actualización. Preséntalo en formato esquema.
 
@@ -485,9 +535,13 @@ Sí, pero revísalas y adáptalas a la imagen corporativa de tu empresa. Una pla
 
 ---
 
-**RAs trabajados en esta unidad:**
-- **RA2** - Elabora documentos e informes empresariales, integrando datos, gráficos y elementos visuales para la transmisión de conocimiento en la organización.
+<span class="ra-badge-footer">🎯 RA trabajados: - **RA2** - Elabora documentos e informes empresariales, integrando datos, gráficos y elementos visuales para la transmisión de conocimiento en la organización.
+</span>
 
 ---
 
 <div align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank"><img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31"></a><br><strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0</div>
+</div>
+</div>
+
+</div>

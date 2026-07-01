@@ -4,20 +4,25 @@ title: "🏁 Unidad 11: Proyecto Knowledge Management (II)"
 
 🎯 **Objetivos de aprendizaje**
 
+<div class="objetivos-box">
 - Preparar una presentación ejecutiva impactante del sistema KM
 - Aplicar técnicas de storytelling corporativo para comunicar el valor del proyecto
 - Defender el proyecto ante stakeholders simulados
 - Realizar una demo funcional del sistema KM completo
 - Identificar lecciones aprendidas y proponer próximos pasos
 - Evaluar el proyecto propio y el de compañeros mediante una rúbrica
-
+</div>
 ---
 
 Bienvenido a la última unidad. Sí, la última. Si has llegado hasta aquí con la memoria terminada, ya has hecho lo más pesado. Pero ojo: ahora viene lo que realmente separa un proyecto memorable de uno que se olvida a los cinco minutos.
 
 En esta unidad no entregas documentación. **Presentas.** Te pones delante de la audiencia (tu profesor y tus compañeros, que harán de stakeholders) y vendes tu sistema KM como si te fuera la vida en ello. Porque, seamos sinceros, en el mundo real las ideas no se venden solas. Necesitas contarlas bien.
 
-> **💡 Consejo:** Hay proyectos mediocres que triunfan porque se presentan de maravilla, y proyectos brillantes que fracasan porque se presentan fatal. No dejes que el tuyo sea el segundo.
+<aside type="tip">
+
+Hay proyectos mediocres que triunfan porque se presentan de maravilla, y proyectos brillantes que fracasan porque se presentan fatal. No dejes que el tuyo sea el segundo.
+
+</aside>
 
 ## Cómo preparar una presentación ejecutiva impactante
 
@@ -40,7 +45,11 @@ Olvídate de las presentaciones aburridas con 50 diapositivas llenas de texto qu
 | 7 | Próximos pasos | ¿Qué falta? ¿Qué viene después? | 1 min |
 | 8 | Cierre | Mensaje final + ronda de preguntas | 1 min |
 
-> **⚠️ Advertencia:** Esto es una guía, no un guión de hierro. Si necesitas más diapositivas, úsalas. Pero si llegas a 20, estás divagando. Vuelve a la estructura base.
+<aside type="caution">
+
+Esto es una guía, no un guión de hierro. Si necesitas más diapositivas, úsalas. Pero si llegas a 20, estás divagando. Vuelve a la estructura base.
+
+</aside>
 
 ### Reglas de oro del diseño visual
 
@@ -50,7 +59,11 @@ Olvídate de las presentaciones aburridas con 50 diapositivas llenas de texto qu
 - **Fuente grande:** si tienes que decir «perdón, la letra es pequeña», es que la letra es pequeña.
 - **Contraste:** texto oscuro sobre fondo claro o viceversa. Texto amarillo sobre fondo blanco: te has ganado el odio eterno de tu audiencia.
 
-> **📝 Nota:** PowerPoint, Canva, Google Slides, Keynote... da igual la herramienta. Lo que importa es cómo la uses. Puedes hacer una presentación horrible con la mejor herramienta y una increíble con la más básica.
+<aside>
+
+PowerPoint, Canva, Google Slides, Keynote... da igual la herramienta. Lo que importa es cómo la uses. Puedes hacer una presentación horrible con la mejor herramienta y una increíble con la más básica.
+
+</aside>
 
 ### El lenguaje corporal y la comunicación no verbal
 
@@ -68,7 +81,11 @@ La gente no recuerda solo lo que dices, recuerda **cómo lo dices**. El lenguaje
 - Señalar la pantalla de espaldas al público (mejor usa el puntero del ratón o un presentador)
 - Tics nerviosos: tocarse el pelo, jugar con un bolígrafo, mirar el reloj
 
-> **💡 Consejo:** Grábate en vídeo durante 3 minutos de ensayo y míralo. Vas a notar cosas que no te gustan. Corrígelas. Repite. Es la forma más rápida de mejorar tu comunicación no verbal.
+<aside type="tip">
+
+Grábate en vídeo durante 3 minutos de ensayo y míralo. Vas a notar cosas que no te gustan. Corrígelas. Repite. Es la forma más rápida de mejorar tu comunicación no verbal.
+
+</aside>
 
 ### Cómo gestionar los nervios
 
@@ -82,7 +99,11 @@ Todos se ponen nerviosos. Todos. El que diga que no, miente. La clave no es elim
 | Ancla mental | Asocia una sensación de confianza a un gesto (apretar un puño, tocar la mesa). Actívalo antes de empezar. |
 | Preparación obsesiva | Ensaya hasta que puedas hacer la presentación sin diapositivas. Si te sabes el guión, los nervios no pueden contigo. |
 
-> **📝 Nota:** Un poco de nerviosismo es bueno. Te mantiene alerta, te da energía. El problema es cuando los nervios te bloquean. Si ensayas lo suficiente, el bloqueo no llega.
+<aside>
+
+Un poco de nerviosismo es bueno. Te mantiene alerta, te da energía. El problema es cuando los nervios te bloquean. Si ensayas lo suficiente, el bloqueo no llega.
+
+</aside>
 
 ### Logística: prepara la sala y los equipos
 
@@ -95,7 +116,11 @@ El día de la presentación no es el día para improvisar con la tecnología. Ll
 - **Agua:** Lleva una botella de agua. La boca seca por los nervios es real.
 - **Plan B de la demo:** Capturas en las diapositivas, un vídeo grabado, o enlaces de respaldo.
 
-> **⚠️ Advertencia:** El «es que el proyector no funciona» no es excusa. Es tu responsabilidad asegurarte de que todo funciona antes de empezar. Si el aula tiene un ordenador fijo, sube tu presentación a ese ordenador 10 minutos antes.
+<aside type="caution">
+
+El «es que el proyector no funciona» no es excusa. Es tu responsabilidad asegurarte de que todo funciona antes de empezar. Si el aula tiene un ordenador fijo, sube tu presentación a ese ordenador 10 minutos antes.
+
+</aside>
 
 ## Storytelling corporativo: contar la historia del proyecto
 
@@ -109,7 +134,11 @@ Los seres humanos recordamos historias, no datos. Si tu presentación es una lis
 4. **Gracias a eso...** ahora la información fluye, la gente colabora, todo funciona mejor (presenta los resultados)
 5. **Y desde entonces...** la organización sigue mejorando (presenta los próximos pasos)
 
-> **💡 Consejo:** No hace falta que seas Shakespeare. Basta con que conectes los puntos de forma que la audiencia entienda *por qué* esto importa. El storytelling no es mentir; es estructurar la realidad para que se entienda mejor.
+<aside type="tip">
+
+No hace falta que seas Shakespeare. Basta con que conectes los puntos de forma que la audiencia entienda *por qué* esto importa. El storytelling no es mentir; es estructurar la realidad para que se entienda mejor.
+
+</aside>
 
 ### Ejemplo de apertura potente
 
@@ -141,7 +170,11 @@ R: Ten el presupuesto claro. Si no lo tienes, di que está detallado en el anexo
 
 R: Esta pregunta es trampa: parece fácil pero es muy reveladora. Responde con honestidad: identifica una cosa que mejorarías y explica por qué. Eso demuestra madurez profesional.
 
-> **⚠️ Advertencia:** Si no sabes la respuesta a una pregunta, no inventes. Di: «Buena pregunta. No lo tengo claro ahora mismo, pero lo he anotado y te doy una respuesta en 24 horas.» Es profesional, honesto y te da tiempo para prepararla.
+<aside type="caution">
+
+Si no sabes la respuesta a una pregunta, no inventes. Di: «Buena pregunta. No lo tengo claro ahora mismo, pero lo he anotado y te doy una respuesta en 24 horas.» Es profesional, honesto y te da tiempo para prepararla.
+
+</aside>
 
 ## Demo del sistema KM completo
 
@@ -156,7 +189,11 @@ La demo es el momento estrella. Aquí muestras que el sistema funciona de verdad
 5. **La web / intranet** (30 s): muestra cómo se publica la información y cómo se accede
 6. **El informe o vídeo** (30 s): enséñalo o pon un fragmento
 
-> **💡 Consejo:** Ten preparado un *plan B* por si la tecnología falla. Capturas de pantalla en la presentación, un vídeo grabado, algo. El directo es emocionante, pero frágil.
+<aside type="tip">
+
+Ten preparado un *plan B* por si la tecnología falla. Capturas de pantalla en la presentación, un vídeo grabado, algo. El directo es emocionante, pero frágil.
+
+</aside>
 
 ### Errores típicos en la demo
 
@@ -183,7 +220,11 @@ Ningún proyecto es perfecto. Y está bien. Lo importante es demostrar que eres 
 - Realizar encuestas de satisfacción trimestrales
 - Crear un repositorio de lecciones aprendidas (sí, es meta, pero tiene gracia)
 
-> **📝 Nota:** Los próximos pasos demuestran que el proyecto no se acaba aquí. Que tienes visión de futuro. Eso gusta a los stakeholders.
+<aside>
+
+Los próximos pasos demuestran que el proyecto no se acaba aquí. Que tienes visión de futuro. Eso gusta a los stakeholders.
+
+</aside>
 
 ## Evaluación del proyecto: la rúbrica
 
@@ -211,7 +252,11 @@ Esta es la rúbrica que se usará para evaluar tu proyecto final. Úsala como li
 | Aprobado | 17-22 |
 | Suspenso | < 17 |
 
-> **⚠️ Advertencia:** Esta rúbrica es pública precisamente para que sepas cómo serás evaluado y puedas prepararte. No hay sorpresas. Todo lo que aparece aquí es lo que tienes que hacer.
+<aside type="caution">
+
+Esta rúbrica es pública precisamente para que sepas cómo serás evaluado y puedas prepararte. No hay sorpresas. Todo lo que aparece aquí es lo que tienes que hacer.
+
+</aside>
 
 ### Cómo usar la rúbrica para mejorar tu nota
 
@@ -225,7 +270,11 @@ La rúbrica no es solo para el profesor. Es tu **hoja de ruta** para saber qué 
 
 4. **Antes del día de la presentación:** Vuelve a puntuarte. Si no has mejorado, necesitas más ensayo.
 
-> **💡 Consejo:** El criterio que más suele bajar la nota es «Presentación: comunicación oral». No por falta de capacidad, sino por falta de ensayo. La gente cree que «ya se la sabe» y no ensaya en voz alta. Grave error.
+<aside type="tip">
+
+El criterio que más suele bajar la nota es «Presentación: comunicación oral». No por falta de capacidad, sino por falta de ensayo. La gente cree que «ya se la sabe» y no ensaya en voz alta. Grave error.
+
+</aside>
 
 ## Las 10 reglas de oro de la presentación final
 
@@ -242,22 +291,32 @@ Si no te da tiempo a leerte toda la unidad (aunque deberías), aquí tienes lo m
 9. **Ten un plan B** — Capturas, vídeo grabado, enlaces de respaldo.
 10. **Disfruta** — Es tu proyecto. Has trabajado meses. Es tu momento de lucirte.
 
-> **📝 Nota:** La regla 10 es la más importante. Si disfrutas, la audiencia lo nota. Si estás tenso y serio, también.
+<aside>
+
+La regla 10 es la más importante. Si disfrutas, la audiencia lo nota. Si estás tenso y serio, también.
+
+</aside>
 
 ## ⭐ Ponte en la piel del Knowledge Manager
 
+<div class="escenario-box">
+<div class="escenario-box">
 ### Escenario 1: el directivo llega tarde y solo tiene 5 minutos
 
 Tu presentación está preparada para 15 minutos. Pero el director general llega con 10 minutos de retraso y dice: «Resume, que tengo otra reunión».
 
 **¿Qué haces?** Tienes que ser capaz de hacer una versión *exprés*: el problema, la solución y el impacto. En 5 minutos. Si has preparado bien la estructura, puedes saltarte diapositivas y contar solo las esenciales. Si no, entrarás en pánico.
 
+</div>
+<div class="escenario-box">
 ### Escenario 2: un stakeholder hostil
 
 Siempre hay alguien que pone pegas. «Esto ya lo intentamos y no funcionó». «¿De verdad crees que esto va a cambiar algo?».
 
 **¿Qué haces?** No te pongas a la defensiva. Agradece la pregunta, reconoce su preocupación («Entiendo que haya escepticismo, es normal»), y responde con datos. El escepticismo se combate con hechos, no con opiniones.
 
+</div>
+<div class="escenario-box">
 ### Escenario 3: la demo falla
 
 Estás enseñando el SGD y de repente la página no carga. O el vídeo no se reproduce. O Teams dice «actualización en curso».
@@ -310,7 +369,8 @@ R: Normalmente sí. El profesor evalúa tu contribución individual a la present
 
 R: No hace falta traje y corbata, pero sí ir arreglado. Piensa en «smart casual»: camisa o blusa, vaqueros oscuros o pantalón formal, zapatos limpios. Sin chándal, sin chanclas, sin sudaderas con capucha. Vas a presentar un proyecto profesional; vístete en consecuencia.
 
-## Resumen (lo que importa de verdad)
+<div class="resumen-card">
+## 📌 Resumen (lo que importa de verdad)
 
 - La presentación debe durar **10-15 minutos** y tener **10-12 diapositivas** visuales
 - Usa **storytelling**: cuenta una historia, no enumeres hechos
@@ -320,32 +380,92 @@ R: No hace falta traje y corbata, pero sí ir arreglado. Piensa en «smart casua
 - Reflexiona sobre **lecciones aprendidas**: demuestra madurez profesional
 - Los **próximos pasos** muestran visión de futuro: no dejes el proyecto colgado
 
-## Ejercicios Propuestos
+## ✍️ Ejercicios propuestos
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 1. **Story elevator:** Prepara un discurso de 1 minuto que responda a «¿qué has hecho en el proyecto KM?». Grábalo en vídeo y míralo. ¿Te gusta cómo suenas? Repite hasta que te guste.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 2. **Diapositivo-póster:** Coge una hoja en blanco. En esa única hoja, dibuja tu proyecto KM. Si no cabe en una hoja, es que no lo tienes claro. Esta hoja será tu diapositiva más importante.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 3. **Simulación de preguntas:** Pide a un compañero que te haga preguntas difíciles sobre tu proyecto (las de la sección de defensa son un buen punto de partida). Practica las respuestas en voz alta.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 4. **Demo a ciegas:** Ensaya la demo con alguien que no conozca tu proyecto. Pídele que te diga si entiende lo que está viendo. Si no lo entiende, simplifica.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 5. **Autoevaluación con la rúbrica:** Antes de presentar, pásate la rúbrica a ti mismo. Sé honesto. ¿En qué criterios perderías puntos? Trabaja esos aspectos antes del día de la presentación.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 6. **Grabación y crítica:** Grábate en vídeo dando la presentación completa. Míralo y anota: ¿dónde dudas? ¿dónde hablas demasiado rápido? ¿dónde pierdes el hilo? Trabaja esos puntos y vuelve a grabarte.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 7. **Preguntas trampa:** Escribe en papeles 5 preguntas difíciles sobre tu proyecto. Mételas en una bolsa. El día del ensayo, saca una al azar y respóndela en voz alta. Si no sabes responder, investiga y prepara la respuesta.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 8. **Ensayo con ruido:** Practica tu presentación con la tele de fondo o en un lugar con algo de ruido. Si eres capaz de mantener la concentración y el hilo en esas condiciones, el día de clase te resultará mucho más fácil.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 9. **Análisis de presentaciones:** Busca en YouTube 3 presentaciones de proyectos (TEDx, defensas de TFG, etc.). Analiza qué hacen bien y qué hacen mal. Aplica lo bueno a tu presentación.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 10. **Cronometraje exprés:** Ensaya la presentación completa con cronómetro. Anota el tiempo. Ajusta contenido o ritmo. Vuelve a cronometrar. Repite hasta que el tiempo sea exacto.
+</div>
+</div>
 
 ---
 
-**RAs trabajados en esta unidad:**
-- **RA1** — Analiza las necesidades de información y conocimiento de una organización, determinando los objetivos y requisitos de un sistema de Gestión del Conocimiento
+<span class="ra-badge-footer">🎯 RA trabajados: - **RA1** — Analiza las necesidades de información y conocimiento de una organización, determinando los objetivos y requisitos de un sistema de Gestión del Conocimiento
+</span>
 - **RA2** — Planifica proyectos de implantación de sistemas KM, identificando recursos, fases, hitos y riesgos
 - **RA3** — Diseña soluciones de Gestión del Conocimiento (plantillas, informes, espacios colaborativos, intranets), aplicando criterios de calidad y usabilidad
 - **RA4** — Implementa sistemas de Gestión Documental y workflows, configurando repositorios, metadatos, permisos y flujos de aprobación
@@ -354,3 +474,9 @@ R: No hace falta traje y corbata, pero sí ir arreglado. Piensa en «smart casua
 ---
 
 <div align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank"><img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31"></a><br><strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>

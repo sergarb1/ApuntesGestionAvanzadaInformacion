@@ -20,7 +20,11 @@ title: "Boletín 08 - Nivel Fácil (Resuelto): Archivo digital: cómo organizar 
    ```
    5 documentos clasificados correctamente en las 5 series documentales.
    ```
-   > **💡 Explicación:** El cuadro de clasificación es la herramienta fundamental de la gestión documental. Clasificar correctamente desde el origen evita que los documentos se pierdan y facilita su recuperación posterior.
+   <aside type="tip">
+
+El cuadro de clasificación es la herramienta fundamental de la gestión documental. Clasificar correctamente desde el origen evita que los documentos se pierdan y facilita su recuperación posterior.
+
+</aside>
 
 2. **Crear una estructura de carpetas para el archivo digital**
    Diseña una estructura de carpetas en una unidad compartida (OneDrive o SharePoint) para el departamento de Administración. Debe incluir: Facturación (2024, 2025, 2026), Contratos (Proveedores, Clientes), RRHH (Nóminas, Contratos laborales) e Informes (Mensuales, Trimestrales, Anuales). Explica el criterio de ordenación elegido.
@@ -54,7 +58,11 @@ title: "Boletín 08 - Nivel Fácil (Resuelto): Archivo digital: cómo organizar 
    ```
    Estructura jerárquica coherente que permite localizar cualquier documento en menos de 3 clics.
    ```
-   > **💡 Explicación:** Una estructura de carpetas bien diseñada reduce el tiempo de búsqueda y evita duplicados. Se recomienda no superar los 3 niveles de profundidad para mantener la navegación ágil.
+   <aside type="tip">
+
+Una estructura de carpetas bien diseñada reduce el tiempo de búsqueda y evita duplicados. Se recomienda no superar los 3 niveles de profundidad para mantener la navegación ágil.
+
+</aside>
 
 3. **Nombrar archivos siguiendo una convención**
    Define una convención de nomenclatura para los archivos del departamento con el formato: AAAAMMDD_TipoDocumento_Descripcion_Version. Aplica esa convención para renombrar estos archivos: "factura.pdf" (25/03/2026, factura proveedor ACME), "contrato.docx" (10/01/2025, contrato servicio limpieza), "informe.xlsx" (31/12/2025, informe anual ventas v2).
@@ -79,7 +87,11 @@ title: "Boletín 08 - Nivel Fácil (Resuelto): Archivo digital: cómo organizar 
    ```
    Archivos renombrados siguiendo la convención y ordenables cronológicamente por nombre.
    ```
-   > **💡 Explicación:** Una convención de nomenclatura evita nombres ambiguos como "final-final-v3.docx". El formato con fecha ISO al inicio permite ordenar los archivos cronológicamente de forma automática.
+   <aside type="tip">
+
+Una convención de nomenclatura evita nombres ambiguos como "final-final-v3.docx". El formato con fecha ISO al inicio permite ordenar los archivos cronológicamente de forma automática.
+
+</aside>
 
 4. **Digitalizar un documento escaneado y extraer su texto con OCR**
    Escanea un documento (puede ser una factura en papel) a 300 DPI en formato PDF. Usa Adobe Acrobat o una herramienta gratuita (Tesseract OCR) para realizar el reconocimiento óptico de caracteres. Explica qué calidad de imagen es necesaria para un OCR fiable y qué hacer si el texto contiene errores de reconocimiento.
@@ -113,7 +125,11 @@ title: "Boletín 08 - Nivel Fácil (Resuelto): Archivo digital: cómo organizar 
    ```
    Archivo PDF con texto seleccionable o archivo TXT con el contenido extraído de la factura.
    ```
-   > **💡 Explicación:** El OCR convierte imágenes de texto en texto digital editable y buscable. La calidad del escaneado es crítica: un escaneo pobre produce errores que requieren corrección manual, anulando el beneficio de la automatización.
+   <aside type="tip">
+
+El OCR convierte imágenes de texto en texto digital editable y buscable. La calidad del escaneado es crítica: un escaneo pobre produce errores que requieren corrección manual, anulando el beneficio de la automatización.
+
+</aside>
 
 ```
 

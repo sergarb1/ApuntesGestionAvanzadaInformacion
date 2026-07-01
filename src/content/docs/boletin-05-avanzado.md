@@ -2,7 +2,6 @@
 title: "Boletín 5 - Avanzado: Creación de vídeos corporativos y contenido audiovisual"
 ---
 
-# Boletín 5 - Avanzado: Creación de vídeos corporativos y contenido audiovisual
 
 ## Ejercicio 1: Producción de un vídeo corporativo multicámara (⭐)
 

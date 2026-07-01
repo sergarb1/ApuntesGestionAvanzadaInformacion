@@ -2,7 +2,6 @@
 title: "Boletín 4 - Avanzado: Informes empresariales: datos, gráficos y comunicaciones"
 ---
 
-# Boletín 4 - Avanzado: Informes empresariales: datos, gráficos y comunicaciones
 
 ## Ejercicio 1: Cuadro de mando interactivo con segmentadores y líneas de tiempo (⭐)
 

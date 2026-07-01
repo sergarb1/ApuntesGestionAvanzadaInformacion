@@ -2,7 +2,6 @@
 title: "Boletín 2 - Avanzado: Planificación y seguimiento de proyectos con herramientas digitales"
 ---
 
-# Boletín 2 - Avanzado: Planificación y seguimiento de proyectos con herramientas digitales
 
 ## Ejercicio 1: Cálculo del camino crítico y holguras (⭐)
 

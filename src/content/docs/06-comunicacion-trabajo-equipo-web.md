@@ -4,6 +4,7 @@ title: "🌐 Unidad 6: Comunicación y trabajo en equipo con herramientas web"
 
 🎯 **Objetivos de aprendizaje**
 
+<div class="objetivos-box">
 - Gestionar el correo electrónico corporativo de forma eficiente aplicando criterios de etiqueta digital
 - Utilizar herramientas de mensajería instantánea profesional con criterio y organización
 - Participar y organizar videoconferencias y reuniones virtuales de manera efectiva
@@ -11,7 +12,7 @@ title: "🌐 Unidad 6: Comunicación y trabajo en equipo con herramientas web"
 - Emplear wikis, documentos compartidos y otras herramientas colaborativas para la gestión del conocimiento
 - Impulsar comunidades de práctica y dinámicas de conocimiento colectivo
 - Configurar y mantener espacios de trabajo colaborativo con herramientas como Teams, Notion o Slack
-
+</div>
 ---
 
 ## Comunicación digital: el arte de no volver loco a tu equipo
@@ -22,7 +23,11 @@ Tu misión como Knowledge Manager no es solo comunicar, sino hacer que la comuni
 
 La paradoja es que cuantas más herramientas de comunicación tenemos, peor nos comunicamos. ¿Por qué? Porque cada herramienta añade un canal más que revisar, un tono diferente que aprender y una expectativa de respuesta distinta. El Knowledge Manager debe poner orden en este caos.
 
-> **📝 Nota:** La herramienta de comunicación perfecta no existe. Existe la que tu equipo usa bien. Mejor una herramienta bien implantada que cinco herramientas instaladas que nadie utiliza. Como Knowledge Manager, tu labor es elegir bien y formar en el uso.
+<aside>
+
+La herramienta de comunicación perfecta no existe. Existe la que tu equipo usa bien. Mejor una herramienta bien implantada que cinco herramientas instaladas que nadie utiliza. Como Knowledge Manager, tu labor es elegir bien y formar en el uso.
+
+</aside>
 
 ---
 
@@ -42,7 +47,11 @@ El correo electrónico no ha muerto. Que tengas WhatsApp, Teams y Slack no signi
 4. **Programa el envío**: no mandes correos a las 23:00. La gente no duerme bien si ve que el jefe escribe a medianoche. Programa para las 9:00 del día siguiente
 5. **Respuesta en 24h**: máximo. Si no tienes respuesta completa, confirma recepción y di cuándo responderás. "Recibido, lo miro y te respondo antes del jueves"
 
-> **💡 Consejo:** Apaga las notificaciones de correo. Sí, en serio. Revisa el correo 3 veces al día (mañana, después de comer, antes de irte). El resto del tiempo, trabaja. El correo no es urgente por definición. Si fuera urgente, te llamarían o te escribirían por Teams.
+<aside type="tip">
+
+Apaga las notificaciones de correo. Sí, en serio. Revisa el correo 3 veces al día (mañana, después de comer, antes de irte). El resto del tiempo, trabaja. El correo no es urgente por definición. Si fuera urgente, te llamarían o te escribirían por Teams.
+
+</aside>
 
 ### Etiqueta digital (netiqueta) en el correo
 
@@ -62,7 +71,11 @@ El correo tiene sus propias reglas de cortesía y efectividad. No son optativas.
 - Para compartir archivos grandes (mejor Drive/SharePoint con enlace)
 - Para debates o decisiones de grupo (mejor reunión o chat grupal)
 
-> **⚠️ Advertencia:** Nunca escribas un correo cuando estés enfadado. Escríbelo en borradores, léelo al día siguiente y luego decide si lo envías. El correo enfadado es el primo hermano del mensaje que no se puede borrar y del que te arrepientes a los 10 minutos de haberlo enviado.
+<aside type="caution">
+
+Nunca escribas un correo cuando estés enfadado. Escríbelo en borradores, léelo al día siguiente y luego decide si lo envías. El correo enfadado es el primo hermano del mensaje que no se puede borrar y del que te arrepientes a los 10 minutos de haberlo enviado.
+
+</aside>
 
 ---
 
@@ -78,7 +91,11 @@ Teams, Slack, Discord… la mensajería instantánea ha invadido el mundo labora
 - **No satures**: un mensaje por idea. No escribas tres párrafos en un solo mensaje. Divide las ideas en mensajes separados. Y nada de audios de 5 minutos sin preguntar antes si la persona puede escucharlos
 - **Horario laboral**: respeta los horarios. No mandes mensajes a las 22:00 esperando respuesta inmediata. Programa los mensajes si tu herramienta lo permite
 
-> **📝 Nota:** Hay un fenómeno que se llama "fatiga de Slack" (o Teams, o lo que toque). Ocurre cuando recibes tantas notificaciones que dejas de prestar atención a todo. La solución: silencia canales no prioritarios, usa estados personalizados y apaga notificaciones fuera del horario laboral.
+<aside>
+
+Hay un fenómeno que se llama "fatiga de Slack" (o Teams, o lo que toque). Ocurre cuando recibes tantas notificaciones que dejas de prestar atención a todo. La solución: silencia canales no prioritarios, usa estados personalizados y apaga notificaciones fuera del horario laboral.
+
+</aside>
 
 ### Equipos híbridos y asíncronos
 
@@ -101,7 +118,11 @@ Las reuniones virtuales han llegado para quedarse. Y con ellas, un nuevo conjunt
 - **Zoom**: popular, fácil de usar, bueno para webinars y eventos grandes. El "estás muteado" es su seña de identidad
 - **Google Meet**: integrado con Google Workspace. Sencillo y efectivo. No requiere instalación, funciona desde el navegador
 
-> **⚠️ Advertencia:** Sea cual sea la plataforma, comprueba el audio y el vídeo ANTES de la reunión. La primera regla de las videollamadas: "¿Se me oye?" "No, no se te oye" es el opening más repetido de la historia empresarial y el mayor devorador de tiempo.
+<aside type="caution">
+
+Sea cual sea la plataforma, comprueba el audio y el vídeo ANTES de la reunión. La primera regla de las videollamadas: "¿Se me oye?" "No, no se te oye" es el opening más repetido de la historia empresarial y el mayor devorador de tiempo.
+
+</aside>
 
 ### Cómo organizar una reunión virtual efectiva
 
@@ -120,7 +141,11 @@ La regla es simple: si la reunión es informativa, puede ser un correo. Si es pa
 
 Otra variante: la reunión recurrente que ya no hace falta. Revisa cada trimestre las reuniones periódicas. La que se creó para un proyecto que ya terminó, elimínala.
 
-> **💡 Consejo:** Prueba el "viernes sin reuniones". Un día a la semana sin videollamadas ni juntas. Verás cómo sube la productividad y el equipo respira.
+<aside type="tip">
+
+Prueba el "viernes sin reuniones". Un día a la semana sin videollamadas ni juntas. Verás cómo sube la productividad y el equipo respira.
+
+</aside>
 
 ---
 
@@ -141,7 +166,11 @@ El caos de las agendas es uno de los grandes generadores de estrés en las organ
 - **Calendly**: enlazas tu agenda y la gente elige hueco directamente. Ideal para entrevistas, tutorías, reuniones con externos. Ahorra muchísimo tiempo
 - **Zonas horarias**: cuando trabajes con equipos internacionales, usa herramientas que conviertan automáticamente la hora. Google Calendar lo hace solo si pones la zona horaria del evento
 
-> **⚠️ Advertencia:** No aceptes todas las reuniones que te proponen sin bloquearte tiempo para hacer tu trabajo. Si tu agenda está llena de reuniones de 9:00 a 18:00, ¿cuándo trabajas? Bloquea al menos 2 horas diarias de "trabajo individual" en tu calendario.
+<aside type="caution">
+
+No aceptes todas las reuniones que te proponen sin bloquearte tiempo para hacer tu trabajo. Si tu agenda está llena de reuniones de 9:00 a 18:00, ¿cuándo trabajas? Bloquea al menos 2 horas diarias de "trabajo individual" en tu calendario.
+
+</aside>
 
 ---
 
@@ -160,7 +189,11 @@ Una wiki es un sitio web que cualquier persona del equipo puede editar. La más 
 
 Herramientas: Confluence (de pago, muy corporativo), Notion (versátil, moderno), DokuWiki (gratuito, sencillo), incluso Google Sites (básico pero funcional).
 
-> **📝 Nota:** Una wiki abandonada es peor que no tener wiki. Si la información está desactualizada, la gente dejará de consultarla. Y cuando realmente necesiten algo, no irán a buscarla. Asigna responsables de actualización por sección y revisa trimestralmente.
+<aside>
+
+Una wiki abandonada es peor que no tener wiki. Si la información está desactualizada, la gente dejará de consultarla. Y cuando realmente necesiten algo, no irán a buscarla. Asigna responsables de actualización por sección y revisa trimestralmente.
+
+</aside>
 
 ### Documentos compartidos
 
@@ -179,7 +212,11 @@ Etherpad, HackMD, Google Keep… son el "post-it digital". Ideales para:
 - Apuntes de formaciones o charlas en directo
 - Redacción colaborativa en tiempo real
 
-> **💡 Consejo:** En una reunión, abre un pad compartido y escribe las notas en tiempo real entre todos. Al terminar, ya tienes la minuta hecha. Sin trabajo extra. Es mágico.
+<aside type="tip">
+
+En una reunión, abre un pad compartido y escribe las notas en tiempo real entre todos. Al terminar, ya tienes la minuta hecha. Sin trabajo extra. Es mágico.
+
+</aside>
 
 ---
 
@@ -203,7 +240,11 @@ Una comunidad de práctica es un grupo de personas que comparten un interés com
 4. **Actividad regular**: una reunión virtual al mes, un artículo semanal, un reto mensual, un café virtual. La regularidad crea el hábito
 5. **Reconocimiento**: celebra las contribuciones. Un simple "gracias" público en el canal ya motiva. Un reconocimiento en la newsletter interna, aún más
 
-> **⚠️ Advertencia:** Las comunidades de práctica no se imponen por decreto. "A partir de mañana, todos los miércoles a las 16:00 tenemos comunidad de práctica" no funciona. Nacen del interés genuino. Tu papel como Knowledge Manager es facilitar el entorno, proporcionar recursos y reconocer el esfuerzo, no obligar a participar.
+<aside type="caution">
+
+Las comunidades de práctica no se imponen por decreto. "A partir de mañana, todos los miércoles a las 16:00 tenemos comunidad de práctica" no funciona. Nacen del interés genuino. Tu papel como Knowledge Manager es facilitar el entorno, proporcionar recursos y reconocer el esfuerzo, no obligar a participar.
+
+</aside>
 
 ### Gestión del conocimiento colectivo
 
@@ -235,7 +276,11 @@ El todoterreno de Microsoft. Combina chat, videollamadas, calendario, archivos (
   - **Canal "Incidencias"**: problemas que resolver, prioridades
   - **Canal "Social"**: tonterías varias, memes, felicitaciones de cumpleaños, lo que sea
 
-> **💡 Consejo:** En Teams, fija las pestañas importantes en cada canal. Por ejemplo, en el canal de "Proyecto X", fija la pestaña con el Planner de tareas y el documento compartido del plan de proyecto. Así todo está a un clic.
+<aside type="tip">
+
+En Teams, fija las pestañas importantes en cada canal. Por ejemplo, en el canal de "Proyecto X", fija la pestaña con el Planner de tareas y el documento compartido del plan de proyecto. Así todo está a un clic.
+
+</aside>
 
 ### Slack
 
@@ -259,7 +304,11 @@ Notion es un cajón desastre maravilloso. Es wiki, base de datos, gestor de tare
 - Seguimiento de objetivos y OKRs
 - Calendario editorial de contenido
 
-> **📝 Nota:** Notion es muy flexible, pero esa flexibilidad es su talón de Aquiles. Sin una estructura definida desde el principio, se convierte en un caos de páginas perdidas y bases de datos duplicadas. Dedica tiempo a diseñar la arquitectura de la información antes de lanzarte.
+<aside>
+
+Notion es muy flexible, pero esa flexibilidad es su talón de Aquiles. Sin una estructura definida desde el principio, se convierte en un caos de páginas perdidas y bases de datos duplicadas. Dedica tiempo a diseñar la arquitectura de la información antes de lanzarte.
+
+</aside>
 
 ### ¿Cuál elegir?
 
@@ -331,7 +380,8 @@ Documenta el uso estándar en una guía rápida de una página. Si no hay un est
 
 ---
 
-## Resumen (lo que importa de verdad)
+<div class="resumen-card">
+## 📌 Resumen (lo que importa de verdad)
 
 - El correo electrónico sigue siendo el canal formal principal. Gestiona tu bandeja con el método Inbox Zero y respeta la netiqueta: asunto claro, mensaje breve, destinatarios necesarios, firma profesional
 - La mensajería instantánea es rápida y eficaz, pero genera ruido si no se organiza por canales temáticos y se respetan los horarios. Menos es más
@@ -344,7 +394,7 @@ Documenta el uso estándar en una guía rápida de una página. Si no hay un est
 
 ---
 
-## Ejercicios Propuestos
+## ✍️ Ejercicios propuestos
 
 **Ejercicio 1.** Redacta un correo profesional para convocar una reunión de seguimiento del proyecto trimestral. Incluye: asunto claro, saludo, orden del día con 3 puntos, duración prevista, enlace a la videollamada y solicitud de confirmación. Luego escribe el mismo contenido en un mensaje de Teams/Slack, adaptando el tono y la estructura al canal.
 
@@ -372,9 +422,13 @@ Documenta el uso estándar en una guía rápida de una página. Si no hay un est
 
 ---
 
-**RAs trabajados en esta unidad:**
-- **RA4** - Utiliza herramientas de comunicación y colaboración en entornos web para la gestión eficiente del conocimiento y el trabajo en equipo en la organización.
+<span class="ra-badge-footer">🎯 RA trabajados: - **RA4** - Utiliza herramientas de comunicación y colaboración en entornos web para la gestión eficiente del conocimiento y el trabajo en equipo en la organización.
+</span>
 
 ---
 
 <div align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank"><img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31"></a><br><strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0</div>
+</div>
+</div>
+
+</div>

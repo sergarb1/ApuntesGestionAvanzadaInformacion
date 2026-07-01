@@ -2,7 +2,6 @@
 title: "Boletín 3 - Avanzado Resuelto: Documentos profesionales con Word, Excel y PowerPoint"
 ---
 
-# Boletín 3 — Avanzado Resuelto: Documentos profesionales con Word, Excel y PowerPoint
 
 ---
 
@@ -46,7 +45,11 @@ Paso 4: Segmentadores de datos (Slicers)
 **Salida esperada:**
 Un cuadro de mando interactivo en Excel con tabla dinámica, dos gráficos vinculados y segmentadores que filtran todo al mismo tiempo.
 
-> **💡 Explicación:** Los segmentadores permiten filtrar visualmente todos los elementos conectados (tabla dinámica + gráficos) de forma sincronizada. Al usar formato tabla (Ctrl+T) en los datos brutos, al añadir nuevas filas la tabla dinámica se actualiza automáticamente sin necesidad de cambiar rangos.
+<aside type="tip">
+
+Los segmentadores permiten filtrar visualmente todos los elementos conectados (tabla dinámica + gráficos) de forma sincronizada. Al usar formato tabla (Ctrl+T) en los datos brutos, al añadir nuevas filas la tabla dinámica se actualiza automáticamente sin necesidad de cambiar rangos.
+
+</aside>
 
 ---
 
@@ -94,7 +97,11 @@ Para separar por tipo de cliente:
 **Salida esperada:**
 Documentos Word personalizados generados automáticamente desde los datos de Excel, con contenido condicional según el tipo de cliente.
 
-> **💡 Explicación:** La combinación de correspondencia permite generar documentos masivos personalizados sin programar. Las reglas condicionales (Si... entonces... sino...) permiten incluir contenido distinto según el valor de un campo. Se pueden filtrar los destinatarios para generar lotes separados por tipo de cliente.
+<aside type="tip">
+
+La combinación de correspondencia permite generar documentos masivos personalizados sin programar. Las reglas condicionales (Si... entonces... sino...) permiten incluir contenido distinto según el valor de un campo. Se pueden filtrar los destinatarios para generar lotes separados por tipo de cliente.
+
+</aside>
 
 ---
 
@@ -147,7 +154,11 @@ Diapo 9 (Incorrecto): Botón "Volver a intentar" → Diapo 7
 **Salida esperada:**
 Una presentación interactiva con navegación no lineal, menú principal y cuestionario autoevaluable, todo sin una línea de código.
 
-> **💡 Explicación:** Los hipervínculos en PowerPoint permiten crear navegación no lineal entre diapositivas. Combinando formas (botones) con hipervínculos a diapositivas específicas, se puede crear una experiencia interactiva completa sin necesidad de macros o programación.
+<aside type="tip">
+
+Los hipervínculos en PowerPoint permiten crear navegación no lineal entre diapositivas. Combinando formas (botones) con hipervínculos a diapositivas específicas, se puede crear una experiencia interactiva completa sin necesidad de macros o programación.
+
+</aside>
 
 ---
 
@@ -203,7 +214,11 @@ Paso 4: Probar la actualización
 **Salida esperada:**
 Un sistema integrado donde Word y PowerPoint se actualizan automáticamente al modificar los datos en Excel, sin escribir una línea de código.
 
-> **💡 Explicación:** La vinculación de datos (Pegado especial > Pegar vínculo) permite que documentos de Word y presentaciones de PowerPoint se actualicen automáticamente cuando cambian los datos originales en Excel. Es la alternativa sin código a la automatización con macros. Los vínculos se actualizan al abrir el documento (previo aviso de seguridad) y también manualmente desde Archivo > Editar vínculos a archivos.
+<aside type="tip">
+
+La vinculación de datos (Pegado especial > Pegar vínculo) permite que documentos de Word y presentaciones de PowerPoint se actualicen automáticamente cuando cambian los datos originales en Excel. Es la alternativa sin código a la automatización con macros. Los vínculos se actualizan al abrir el documento (previo aviso de seguridad) y también manualmente desde Archivo > Editar vínculos a archivos.
+
+</aside>
 
 ## 🧠 Tu turno como Knowledge Manager
 

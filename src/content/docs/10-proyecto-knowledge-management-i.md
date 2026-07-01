@@ -4,19 +4,24 @@ title: "🧩 Unidad 10: Proyecto Knowledge Management (I)"
 
 🎯 **Objetivos de aprendizaje**
 
+<div class="objetivos-box">
 - Integrar todas las unidades anteriores en un proyecto unificado de Gestión del Conocimiento
 - Estructurar una memoria profesional que documente el sistema KM completo
 - Diferenciar entre documentación técnica y documentación ejecutiva
 - Planificar la presentación final del proyecto ante stakeholders
 - Aplicar los RA1 a RA5 de forma coordinada en un entregable único
-
+</div>
 ---
 
 Si has llegado hasta aquí, enhorabuena. Has sobrevivido a nueve unidades de teoría, plantillas, workflows, espacios colaborativos, sistemas de gestión documental y miles de siglas que parecen sacadas de un conjuro de Harry Potter. Pero todo este tiempo has estado coleccionando piezas de un puzle. Y ha llegado el momento de montarlo.
 
 Esta unidad (y la siguiente) son el **trabajo final de curso**. Aquí no hay nuevos contenidos teóricos. Hay **acción**. Vas a coger todo lo que has aprendido —propuestas, planificaciones, informes, vídeos, espacios colaborativos, webs, SGDs y workflows— y lo vas a convertir en una **memoria de proyecto profesional** que podrías enseñar en una entrevista de trabajo sin sonrojarte.
 
-> **💡 Consejo:** Piensa en esta memoria como tu *portfolio* de Knowledge Manager. Cuando en el futuro te pregunten «oye, ¿tú has hecho esto antes?», esta memoria será tu respuesta.
+<aside type="tip">
+
+Piensa en esta memoria como tu *portfolio* de Knowledge Manager. Cuando en el futuro te pregunten «oye, ¿tú has hecho esto antes?», esta memoria será tu respuesta.
+
+</aside>
 
 ## ¿De qué va esto? El proyecto final explicado en 30 segundos
 
@@ -25,7 +30,11 @@ El proyecto KM se compone de **dos grandes entregas**:
 1. **La memoria del sistema KM** (Unidad 10): un documento profesional que recoge todo el trabajo realizado durante el curso, estructurado como un informe ejecutivo-técnico.
 2. **La presentación-defensa** (Unidad 11): una sesión donde presentas tu sistema KM ante unos hipotéticos stakeholders (tu profesor y tus compañeros) y demuestras que funciona.
 
-> **⚠️ Advertencia:** No, no vale hacer la memoria la noche antes. Literalmente no da tiempo. Esto no es un examen tipo test; es un proyecto que se construye con semanas de antelación.
+<aside type="caution">
+
+No, no vale hacer la memoria la noche antes. Literalmente no da tiempo. Esto no es un examen tipo test; es un proyecto que se construye con semanas de antelación.
+
+</aside>
 
 ## Repaso integrador: ¿qué llevamos hasta ahora?
 
@@ -70,7 +79,11 @@ Este RA lo trabajamos en la Unidad 11 (sí, la siguiente), pero ya puedes ir pen
 
 **Pieza para la memoria:** propuesta de evaluación del sistema (puede ser un capítulo o un anexo).
 
-> **📝 Nota:** No te preocupes si alguna pieza no te quedó perfecta. Este es el momento de revisarla, mejorarla y darle coherencia. La memoria no es un *copia y pega* de tus trabajos anteriores; es una **refundición profesional**.
+<aside>
+
+No te preocupes si alguna pieza no te quedó perfecta. Este es el momento de revisarla, mejorarla y darle coherencia. La memoria no es un *copia y pega* de tus trabajos anteriores; es una **refundición profesional**.
+
+</aside>
 
 ## Estructura de una memoria de proyecto profesional
 
@@ -80,14 +93,19 @@ Vale, ya sabemos *qué* piezas tenemos. Ahora toca saber *dónde* ponerlas. Una 
 
 Título del proyecto, nombre de la organización (la ficticia), tu nombre, fecha, versión. Que sea limpia y profesional. Nada de cliparts de los 90.
 
-### Resumen ejecutivo
+#<div class="resumen-card">
+## 📌 Resumen (lo que importa de verdad)
 
 Media página, máximo una. Explica:
 - Qué problema resuelve tu sistema KM
 - Qué soluciones has implementado
 - Qué resultados esperas
 
-> **💡 Consejo:** El resumen ejecutivo es lo único que leerá tu jefe. Haz que cuente.
+<aside type="tip">
+
+El resumen ejecutivo es lo único que leerá tu jefe. Haz que cuente.
+
+</aside>
 
 ### Índice
 
@@ -135,7 +153,11 @@ Qué se ha conseguido, qué falta, qué se recomienda para el futuro.
 
 Fuentes consultadas (formato APA o similar).
 
-> **⚠️ Advertencia:** Esta estructura es una guía, no una camisa de fuerza. Si tu proyecto tiene particularidades, adáptala. Pero no te saltes el resumen ejecutivo. Eso sí que no.
+<aside type="caution">
+
+Esta estructura es una guía, no una camisa de fuerza. Si tu proyecto tiene particularidades, adáptala. Pero no te saltes el resumen ejecutivo. Eso sí que no.
+
+</aside>
 
 ### Cómo escribir cada capítulo: guía paso a paso
 
@@ -175,7 +197,11 @@ Aunque se escribe al final, es lo primero que se lee. Responde a:
 - Presupuesto estimado
 - Análisis de riesgos y medidas de contingencia
 
-> **💡 Consejo:** No inventes cantidades absurdas. Si pones un presupuesto de 500.000€ para una empresa de 10 empleados, la gente se va a reír. Sé realista.
+<aside type="tip">
+
+No inventes cantidades absurdas. Si pones un presupuesto de 500.000€ para una empresa de 10 empleados, la gente se va a reír. Sé realista.
+
+</aside>
 
 **Soluciones implementadas:**
 Esta es la sección más larga. Para cada solución incluye:
@@ -207,7 +233,11 @@ Esta es la sección más larga. Para cada solución incluye:
 | Fuentes distintas en el mismo documento | Usa una sola fuente (Arial, Calibri o la que elijas) para todo. |
 | Sin portada | Una memoria sin portada es como una persona sin ropa. Técnicamente funciona, pero no es profesional. |
 
-> **📝 Nota:** Si cometes 3 o más de estos errores, la impresión profesional de tu memoria cae en picado. Son detalles tontos, pero marcan la diferencia entre un 5 y un 9.
+<aside>
+
+Si cometes 3 o más de estos errores, la impresión profesional de tu memoria cae en picado. Son detalles tontos, pero marcan la diferencia entre un 5 y un 9.
+
+</aside>
 
 ## Documentación técnica vs. documentación ejecutiva
 
@@ -224,10 +254,16 @@ Uno de los errores más comunes en proyectos finales es no saber **a quién le e
 
 La memoria debe ser un **híbrido**. El cuerpo principal (capítulos 1-6) debe ser ejecutivo: cualquier directivo debería entenderlo sin tener un máster en informática. Los detalles técnicos van en **anexos** o en apartados específicos señalizados como «Detalle técnico».
 
-> **💡 Consejo:** Una buena prueba de que tu memoria está bien equilibrada es que tu abuela pueda entender la introducción, pero un informático pueda implementar el sistema con los anexos.
+<aside type="tip">
+
+Una buena prueba de que tu memoria está bien equilibrada es que tu abuela pueda entender la introducción, pero un informático pueda implementar el sistema con los anexos.
+
+</aside>
 
 ## ⭐ Ponte en la piel del Knowledge Manager
 
+<div class="escenario-box">
+<div class="escenario-box">
 ### Escenario 1: el director te pide un resumen
 
 Llevas dos semanas trabajando en la memoria. Tienes 40 páginas escritas. El director de la organización pasa por tu mesa y te dice: «Oye, cuéntame en 2 minutos qué has hecho».
@@ -236,12 +272,16 @@ Si no tienes un resumen ejecutivo preparado, estás perdido. Si lo tienes, sonr�
 
 **¿Qué haces?** Ten siempre el resumen ejecutivo listo. Es tu mejor carta de presentación.
 
+</div>
+<div class="escenario-box">
 ### Escenario 2: el equipo técnico dice que no se entiende
 
 Pasas la memoria al departamento de IT para que implementen el SGD. Te llaman: «Oye, esto es muy bonito, ¿pero qué motor de base de datos usamos? ¿Qué permisos hay que configurar?».
 
 **¿Qué haces?** Los anexos técnicos salvan el día. Ahí tienes toda la configuración detallada. Sin ellos, la memoria es bonita pero inútil.
 
+</div>
+<div class="escenario-box">
 ### Escenario 3: el proyecto se para y tienes que retomarlo 3 meses después
 
 Por cualquier motivo, el proyecto se paraliza. Cuando lo retomas, no te acuerdas de qué iba. Abres la memoria, lees el índice, y en 10 minutos estás al día.
@@ -286,7 +326,11 @@ Incluye:
 - Vídeo corporativo (enlace a YouTube/OneDrive)
 - Documentación de workflows
 
-> **⚠️ Advertencia:** Los enlaces deben funcionar. No es broma. Cada año hay estudiantes que entregan enlaces rotos y es una pena porque el trabajo es bueno. Revisa los enlaces antes de entregar.
+<aside type="caution">
+
+Los enlaces deben funcionar. No es broma. Cada año hay estudiantes que entregan enlaces rotos y es una pena porque el trabajo es bueno. Revisa los enlaces antes de entregar.
+
+</aside>
 
 ### Entregable 3: Presentación (para la Unidad 11)
 
@@ -301,7 +345,11 @@ No la entregues todavía, pero empieza a prepararla. En la siguiente unidad te d
 | Semana 3 | Completar soluciones implementadas, anexos, bibliografía. |
 | Semana 4 | Revisión, maquetación, generar PDF. Empezar presentación. |
 
-> **💡 Consejo:** No dejes la maquetación para el final. Pon la memoria en formato legible desde el día 1. Es más fácil escribir cuando el documento ya tiene buena pinta.
+<aside type="tip">
+
+No dejes la maquetación para el final. Pon la memoria en formato legible desde el día 1. Es más fácil escribir cuando el documento ya tiene buena pinta.
+
+</aside>
 
 ## ❓ Dudas frecuentes
 
@@ -309,7 +357,11 @@ No la entregues todavía, pero empieza a prepararla. En la siguiente unidad te d
 
 R: Sí, pero con inteligencia. La IA es una herramienta, no el autor. Si usas IA para redactar, asegúrate de que el resultado suene a ti, de que los datos sean correctos y de que entiendes absolutamente todo lo que has escrito. Porque en la defensa te preguntarán sobre el contenido, y no vale decir: «eso lo puso la IA».
 
-> **⚠️ Advertencia:** Si entregas una memoria generada al 100% por IA sin revisar, lo notaremos. Y no, no es buena idea. Las IA alucinan, inventan referencias bibliográficas y meten datos que no existen.
+<aside type="caution">
+
+Si entregas una memoria generada al 100% por IA sin revisar, lo notaremos. Y no, no es buena idea. Las IA alucinan, inventan referencias bibliográficas y meten datos que no existen.
+
+</aside>
 
 **P: La memoria, ¿tiene que ser en catalán, castellano o inglés?**
 
@@ -362,7 +414,11 @@ R: Por supuesto. Canva está genial para diseñar portadas, diagramas e infograf
 | SharePoint / OneDrive | Compartir y almacenar versiones | Google Drive, Dropbox |
 | Zotero / Mendeley | Gestión de referencias bibliográficas | Gestión manual con APA |
 
-> **💡 Consejo:** No te obsesiones con la herramienta. Una buena memoria escrita en Word básico gana a una mala memoria hecha con el mejor software del mundo. La herramienta es un medio, no el fin.
+<aside type="tip">
+
+No te obsesiones con la herramienta. Una buena memoria escrita en Word básico gana a una mala memoria hecha con el mejor software del mundo. La herramienta es un medio, no el fin.
+
+</aside>
 
 ## Lista de comprobación antes de entregar
 
@@ -381,9 +437,13 @@ Usa esta checklist antes de subir tu PDF. Si puedes marcar todo, estás listo:
 - [ ] PDF generado correctamente (no da error al abrirlo)
 - [ ] Nombre del archivo correcto: `Apellido1Apellido2_Nombre_GAI_MemoriaKM.pdf`
 
-> **⚠️ Advertencia:** Si fallas en 3 o más puntos de esta checklist, para y revisa antes de entregar. Cada punto incumplido resta puntos en la evaluación.
+<aside type="caution">
 
-## Resumen (lo que importa de verdad)
+Si fallas en 3 o más puntos de esta checklist, para y revisa antes de entregar. Cada punto incumplido resta puntos en la evaluación.
+
+</aside>
+
+## 📌 Resumen (lo que importa de verdad)
 
 - La Unidad 10 es el **proyecto final**: una memoria profesional que integra todo lo trabajado durante el curso
 - La estructura de la memoria debe incluir: portada, resumen ejecutivo, índice, introducción, propuesta, planificación, soluciones, evaluación, conclusiones, anexos y bibliografía
@@ -392,32 +452,92 @@ Usa esta checklist antes de subir tu PDF. Si puedes marcar todo, estás listo:
 - Los enlaces deben **funcionar**. Revísalos. Dos veces
 - Empieza ya a pensar en la **presentación** (Unidad 11). Una buena presentación necesita tiempo
 
-## Ejercicios Propuestos
+## ✍️ Ejercicios propuestos
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 1. **Diagnóstico exprés:** Abre todos tus trabajos anteriores (UD2 a UD9) y haz una lista de lo que tienes y lo que te falta. ¿Qué piezas necesitas mejorar antes de empezar la memoria?
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 2. **Estructura tu memoria:** Crea el documento de la memoria con los títulos de cada capítulo. Solo los títulos. Así tendrás el esqueleto y solo te quedará rellenar.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 3. **Escribe el resumen ejecutivo:** Aunque sea un borrador. Escríbelo ahora, al principio del proyecto, y luego ajústalo al final. Te servirá de guía.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 4. **Prepara el ZIP de artefactos:** Recopila todos los archivos de las unidades anteriores en una carpeta. Comprueba que los formatos son correctos y que los enlaces funcionan.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 5. **Autoevaluación de la memoria:** Pídele a un compañero que lea tu introducción y resumen ejecutivo. ¿Lo entiende sin tener que preguntarte nada? Si no es así, simplifícalo.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 6. **Caza de errores:** Tómate 30 minutos para leer tu memoria de principio a fin buscando específicamente: erratas, enlaces rotos, capturas borrosas y saltos de página extraños. Anota cada error y corrígelo.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 7. **Prueba del ascensor:** Explícale tu proyecto KM a alguien que no sepa nada del curso en menos de 60 segundos. Si no te entiende, tu resumen ejecutivo necesita trabajo.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 8. **Análisis comparativo:** Intercambia tu borrador de memoria con un compañero. Leed las memorias del otro y haced comentarios sinceros. Dos pares de ojos ven más que uno.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 9. **Versiones de la memoria:** Guarda al menos 3 versiones de tu memoria a lo largo del proceso (v0.1, v0.5, v1.0). Así, si algo se rompe, tienes copias de seguridad.
+</div>
+</div>
 
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
+<div class="ejercicio-card">
+<span class="ej-num">Ejercicio</span>
 10. **Simulación de entrega:** 24 horas antes de la fecha límite, genera el PDF, nómbralo correctamente y comprueba que se abre en otro ordenador. No esperes a última hora para descubrir que tu versión de Word no es compatible.
+</div>
+</div>
 
 ---
 
-**RAs trabajados en esta unidad:**
-- **RA1** — Analiza las necesidades de información y conocimiento de una organización, determinando los objetivos y requisitos de un sistema de Gestión del Conocimiento
+<span class="ra-badge-footer">🎯 RA trabajados: - **RA1** — Analiza las necesidades de información y conocimiento de una organización, determinando los objetivos y requisitos de un sistema de Gestión del Conocimiento
+</span>
 - **RA2** — Planifica proyectos de implantación de sistemas KM, identificando recursos, fases, hitos y riesgos
 - **RA3** — Diseña soluciones de Gestión del Conocimiento (plantillas, informes, espacios colaborativos, intranets), aplicando criterios de calidad y usabilidad
 - **RA4** — Implementa sistemas de Gestión Documental y workflows, configurando repositorios, metadatos, permisos y flujos de aprobación
@@ -426,3 +546,9 @@ Usa esta checklist antes de subir tu PDF. Si puedes marcar todo, estás listo:
 ---
 
 <div align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank"><img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31"></a><br><strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>

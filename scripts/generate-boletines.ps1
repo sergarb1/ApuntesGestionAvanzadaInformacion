@@ -30,7 +30,11 @@ Ejercicios básicos con soluciones para practicar los conceptos fundamentales.
 ```
 [Salida]
 ```
-> **💡 Explicación:** [Explicación breve]
+<aside type="tip">
+
+[Explicación breve]
+
+</aside>
 
 ---
 
@@ -46,7 +50,11 @@ Ejercicios básicos con soluciones para practicar los conceptos fundamentales.
 ```
 [Salida]
 ```
-> **💡 Explicación:** [Explicación breve]
+<aside type="tip">
+
+[Explicación breve]
+
+</aside>
 
 ---
 
@@ -62,7 +70,11 @@ Ejercicios básicos con soluciones para practicar los conceptos fundamentales.
 ```
 [Salida]
 ```
-> **💡 Explicación:** [Explicación breve]
+<aside type="tip">
+
+[Explicación breve]
+
+</aside>
 "@
   Set-Content -Path $path -Value $content -Encoding UTF8
   Write-Host "  ✓ $path"
@@ -86,7 +98,11 @@ Ejercicios básicos para practicar los conceptos fundamentales. ¡Intenta resolv
 
 [Enunciado del ejercicio]
 
-> 💡 **Pista:** [Pista sin solución]
+<aside type="tip">
+
+[Pista sin solución]
+
+</aside>
 
 ---
 
@@ -94,7 +110,11 @@ Ejercicios básicos para practicar los conceptos fundamentales. ¡Intenta resolv
 
 [Enunciado del ejercicio]
 
-> 💡 **Pista:** [Pista sin solución]
+<aside type="tip">
+
+[Pista sin solución]
+
+</aside>
 
 ---
 
@@ -102,7 +122,11 @@ Ejercicios básicos para practicar los conceptos fundamentales. ¡Intenta resolv
 
 [Enunciado del ejercicio]
 
-> 💡 **Pista:** [Pista sin solución]
+<aside type="tip">
+
+[Pista sin solución]
+
+</aside>
 "@
   Set-Content -Path $path -Value $content -Encoding UTF8
   Write-Host "  ✓ $path"
@@ -130,7 +154,11 @@ Ejercicios para valientes. Situaciones complejas que combinan varios conceptos. 
 ```[lenguaje/herramienta]
 [Código/solución]
 ```
-> **💡 Explicación:** [Explicación detallada]
+<aside type="tip">
+
+[Explicación detallada]
+
+</aside>
 
 ---
 
@@ -142,7 +170,11 @@ Ejercicios para valientes. Situaciones complejas que combinan varios conceptos. 
 ```[lenguaje/herramienta]
 [Código/solución]
 ```
-> **💡 Explicación:** [Explicación detallada]
+<aside type="tip">
+
+[Explicación detallada]
+
+</aside>
 
 ---
 
@@ -154,7 +186,11 @@ Ejercicios para valientes. Situaciones complejas que combinan varios conceptos. 
 ```[lenguaje/herramienta]
 [Código/solución]
 ```
-> **💡 Explicación:** [Explicación detallada]
+<aside type="tip">
+
+[Explicación detallada]
+
+</aside>
 "@
   Set-Content -Path $path -Value $content -Encoding UTF8
   Write-Host "  ✓ $path"
@@ -178,7 +214,11 @@ Ejercicios para valientes. Sin soluciones. Solo pistas. Si llegas hasta aquí, y
 
 [Enunciado del ejercicio avanzado]
 
-> 💡 **Pista:** [Pista sin solución]
+<aside type="tip">
+
+[Pista sin solución]
+
+</aside>
 
 ---
 
@@ -186,7 +226,11 @@ Ejercicios para valientes. Sin soluciones. Solo pistas. Si llegas hasta aquí, y
 
 [Enunciado del ejercicio avanzado]
 
-> 💡 **Pista:** [Pista sin solución]
+<aside type="tip">
+
+[Pista sin solución]
+
+</aside>
 
 ---
 
@@ -194,7 +238,11 @@ Ejercicios para valientes. Sin soluciones. Solo pistas. Si llegas hasta aquí, y
 
 [Enunciado del ejercicio avanzado]
 
-> 💡 **Pista:** [Pista sin solución]
+<aside type="tip">
+
+[Pista sin solución]
+
+</aside>
 "@
   Set-Content -Path $path -Value $content -Encoding UTF8
   Write-Host "  ✓ $path"
