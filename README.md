@@ -1,10 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://sergarb1.github.io/ApuntesGestionAvanzadaInformacion/logo-gai.svg">
-  <img alt="Gestión Avanzada de la Información" src="https://sergarb1.github.io/ApuntesGestionAvanzadaInformacion/logo-gai.svg" width="600">
-</picture>
-
 <p align="center">
-  <a href="https://sergarb1.github.io/ApuntesGestionAvanzadaInformacion/"><strong>Gestión Avanzada de la Información</strong></a> — Módulo 0663 · CFGS Asistencia a la Dirección (RD 1583/2011)
+  <img alt="Gestión Avanzada de la Información" src="https://raw.githubusercontent.com/sergarb1/ApuntesGestionAvanzadaInformacion/master/public/logo.svg" width="500">
+</p>
+
+<h1 align="center">Gestión Avanzada de la Información</h1>
+<p align="center">
+  <strong>Módulo 0663</strong> · CFGS Asistencia a la Dirección (RD 1583/2011) · Perfil <strong>Knowledge Manager</strong>
 </p>
 
 <p align="center">
@@ -159,7 +159,7 @@ Cada unidad se alinea con los **5 Resultados de Aprendizaje** del módulo 0663 s
 ├── 📁 public/
 │   ├── 🖼️ portada.png                # Portada web (1200×630)
 │   ├── 🖼️ favicon.svg / favicon.png  # Favicons
-│   ├── 🖼️ logo.svg / logo-gai.svg    # Logotipos
+│   ├── 🖼️ logo.svg                   # Logotipo
 │   ├── 🖼️ cc-by-sa.png               # Badge licencia
 │   ├── 📁 pdf/                       # PDF generado
 │   ├── 📁 epub/                      # EPUB generado

@@ -394,50 +394,38 @@ Entonces estás en modo bombero: apagando fuegos sobre la marcha. No es el fin d
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 1. **Construye una WBS.** Imagina que tienes que implantar un sistema de gestión del conocimiento en una pequeña empresa de 20 empleados del sector creativo (una agencia de publicidad). Crea una WBS con al menos 4 niveles y 15 tareas. Incluye desde el diagnóstico inicial hasta el cierre del proyecto.
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 2. **Calcula el camino crítico.** Usando la WBS del ejercicio anterior, identifica qué tareas forman parte del camino crítico. Explica por qué esas tareas son críticas y qué pasaría si una de ellas se retrasa una semana.
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 3. **Matriz de riesgos.** Para el mismo proyecto de la agencia de publicidad, identifica 5 riesgos específicos. Evalúa su probabilidad e impacto, asíigna un nivel (bajo, medio, alto, crítico) y propón una estrategia de respuesta para cada uno.
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 4. **Diseña un dashboard en Excel.** Crea una tabla en Excel (o dibuja el diseño en papel) con un dashboard para un proyecto de KM. Debe incluir al menos 6 KPIs con formato de semáforo (verde/amarillo/rojo), un gráfico de tendencia y un indicador de estado general del proyecto. Explica qué mide cada KPI y por qué lo has elegido.
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 5. **Simulación de reunión de seguimiento.** Redacta el guión de una reunión de seguimiento de proyecto de 15 minutos. Incluye: saludo, repaso de KPIs, estado de tareas críticas, riesgos actuales, acuerdos y cierre. El tono debe ser profesional pero cercano.
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 6. **Informe ejecutivo.** Redacta un informe ejecutivo de una página para la dirección sobre el estado de un proyecto de KM ficticio. Incluye: semáforo de estado, 3 KPIs clave, 2 logros del mes, 1 riesgo en seguimiento y los próximos pasos. Puedes inventar los datos, pero deben ser coherentes entre sí.
-</div>
 </div>
 
 ---
@@ -450,8 +438,6 @@ Entonces estás en modo bombero: apagando fuegos sobre la marcha. No es el fin d
 
 <div align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank"><img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31"></a><br><strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0</div>
 </div>
-</div>
 
-</div>
 </div>
 </div>

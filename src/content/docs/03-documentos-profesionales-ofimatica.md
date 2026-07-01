@@ -411,50 +411,38 @@ La mejor manera es hacer que la plantilla sea fácil de usar y que realmente aho
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 1. **Crea una plantilla corporativa.** Diseña una plantilla de Word para una empresa ficticia del sector legal. Define los estilos (títulos, párrafo normal, citas), el encabezado con logotipo (puedes inventarlo), el pie de página y los márgenes. Explica las decisiones de diseño que has tomado.
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 2. **Grabación de una macro.** Identifica una tarea repetitiva que hagas en Word o Excel (por ejemplo, aplicar un formato específico a un texto pegado de internet). Graba una macro que automatice esa tarea y describe paso a paso cómo lo has hecho. Si no puedes grabar la macro porque no tienes el programa, describe los pasos que seguirías.
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 3. **Combinación de correspondencia.** Imagina que tienes que enviar una carta personalizada a 30 clientes anunciando un nuevo servicio de KM. Diseña la estructura del Excel (columnas necesarias) y redacta el texto de la carta de Word con los campos combinados. Incluye al menos 4 campos personalizados.
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 4. **Base de conocimiento en Excel.** Crea la estructura de una base de conocimiento en Excel para el departamento de atención al cliente. Define al menos 8 columnas, explica qué tipo de datos va en cada una y pon 3 ejemplos de entradas. Añade también las reglas de validación de datos que aplicarías.
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 5. **Vinculación de datos.** Describe un caso práctico en el que necesites vincular datos de Excel a un informe de Word. Explica qué datos se vinculan, por qué es mejor vincular que incrustar en ese caso y qué pasa si los datos de origen se actualizan.
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 6. **Auditoría de documentos.** Busca 3 documentos profesionales (informes, cartas, presentaciones) que hayas hecho tú o que encuentres en internet. Evalúalos según las buenas prácticas de la unidad: formato coherente, uso de estilos, accesibilidad, control de versiones. Para cada documento, identifica 3 cosas que hacen bien y 3 que podrían mejorar.
-</div>
 </div>
 
 ---
@@ -467,8 +455,6 @@ La mejor manera es hacer que la plantilla sea fácil de usar y que realmente aho
 
 <div align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank"><img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31"></a><br><strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0</div>
 </div>
-</div>
 
-</div>
 </div>
 </div>

@@ -304,50 +304,38 @@ Hay métricas cuantitativas y cualitativas. Algunas ideas: número de documentos
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 1. **Dato, información o conocimiento.** Clasifica los siguientes elementos en dato, información o conocimiento y justifica tu respuesta: (a) "35.000€", (b) "El departamento de ventas facturó 35.000€ en enero de este año", (c) "Sabiendo que las ventas de enero suelen ser flojas por la cuesta de enero, este año hemos hecho una campaña de fidelización que ha funcionado mejor de lo esperado".
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 2. **Mapa de stakeholders.** Dibuja un mapa de stakeholders para un proyecto de implantación de KM en una empresa de 50 empleados del sector servicios. Identifica al menos 5 grupos de interés, describe su interés en el proyecto y su posible resistencia al cambio.
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 3. **Análisis de un caso real.** Busca un ejemplo real de empresa que haya implantado KM (puedes investigar en internet o pensar en una empresa que conozcas). Describe brevemente qué hicieron, qué herramientas usaron y qué resultados obtuvieron. Si no encuentras ningún caso, inventa uno plausible.
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 4. **Diseña un ciclo de conocimiento.** Para el departamento de atención al cliente de una empresa de telecomunicaciones, diseña cómo sería cada fase del ciclo de vida del conocimiento. Pon ejemplos concretos de qué conocimiento se crea, cómo se almacena, cómo se comparte y cómo se aplica.
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 5. **Autoevaluación del Knowledge Manager.** Basándote en las competencias descritas en la unidad, haz una autoevaluación honesta: ¿en qué competencias crees que destacarías como Knowledge Manager? ¿En cuáles necesitarías mejorar? Propón 3 acciones concretas para mejorar una de tus debilidades.
 </div>
-</div>
 
 <div class="ejercicio-card">
 <span class="ej-num">Ejercicio</span>
-<div class="ejercicio-card">
-<span class="ej-num">Ejercicio</span>
+
 6. **Plan de comunicación KM.** Redacta un correo electrónico ficticio (máximo 300 palabras) que enviarías a toda la empresa anunciando el inicio de un proyecto de KM. El tono debe ser cercano, motivador y sin tecnicismos. Recuerda: quieres generar ilusión, no miedo.
-</div>
 </div>
 
 ---
@@ -359,8 +347,6 @@ Hay métricas cuantitativas y cualitativas. Algunas ideas: número de documentos
 ---
 
 <div align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank"><img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31"></a><br><strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0</div>
-</div>
 
-</div>
 </div>
 </div>

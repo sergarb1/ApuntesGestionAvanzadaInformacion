@@ -108,8 +108,7 @@ public/
 ├── portada.png              # Portada para la web
 ├── favicon.svg              # Favicon principal (SVG)
 ├── favicon.png              # Favicon fallback (PNG)
-├── logo.svg                 # Logo horizontal (para header/nav)
-├── logo-gai.svg             # Logo completo con fondo (para hero)
+├── logo.svg                 # Logo corporativo (horizontal, para header/nav/hero)
 ├── cc-by-sa.png             # Badge de licencia CC BY-SA 4.0
 ├── pdf/
 │   └── ApuntesGAI-es.pdf    # PDF generado

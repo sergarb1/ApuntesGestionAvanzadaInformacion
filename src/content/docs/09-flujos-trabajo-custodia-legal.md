@@ -622,7 +622,5 @@ R: El RGPD establece un plazo máximo de un mes desde la recepción de la solici
 ---
 
 <div align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank"><img src="/ApuntesGestionAvanzadaInformacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31"></a><br><strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0</div>
-</div>
 
-</div>
 </div>
