@@ -3,11 +3,11 @@ title: "Boletín 5 - Fácil: Creación de vídeos corporativos y contenido audio
 ---
 
 
-## Ejercicio 1: Redacción de un guion para vídeo corporativo de bienvenida
+## ✏️ Ejercicio 1: Redacción de un guion para vídeo corporativo de bienvenida
 
 Redacta el guion completo (literario y técnico) para un vídeo de bienvenida institucional de 60 segundos dirigido a nuevos empleados de una empresa de consultoría. El vídeo debe incluir: presentación de la empresa, valores corporativos, equipo y cierre motivacional. Indica la duración estimada de cada escena y las indicaciones técnicas (planos, audio, texto en pantalla).
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **GUION - VÍDEO DE BIENVENIDA A NUEVOS EMPLEADOS**
@@ -28,7 +28,7 @@ Empresa: Consultoría Estratégica S.L. | Duración total: 60 segundos
 - Cierre: fundido a negro con logotipo 3 segundos
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un guion completo con tabla de planificación que incluya tiempos, escenas, planos, audio y texto.
 
 <aside type="tip">
@@ -37,11 +37,11 @@ Un guion de vídeo corporativo debe planificar cada segundo. La estructura típi
 
 </aside>
 
-## Ejercicio 2: Creación de un storyboard para demo de producto
+## ✏️ Ejercicio 2: Creación de un storyboard para demo de producto
 
 Diseña un storyboard de 6 viñetas para un vídeo de demostración de 90 segundos de una aplicación móvil de gestión de tareas. Cada viñeta debe incluir: descripción de la escena, texto de la voz en off, elementos visuales clave y duración. Utiliza un formato de tabla con las 6 viñetas numeradas secuencialmente.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **STORYBOARD - DEMO APP "TASKMASTER"**
@@ -57,7 +57,7 @@ Duración total: 90 segundos | Formato: 16:9
 | 6 | 0:75-0:90 | Pantalla de descarga con botón "Descargar en Google Play / App Store" | "Descarga TaskMaster gratis y empieza a ser más productivo hoy mismo." | Botones descarga, logotipo, QR code |
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un storyboard de 6 viñetas con descripción visual y de audio para cada escena de la demo.
 
 <aside type="tip">
@@ -66,11 +66,11 @@ El storyboard es la versión visual del guion. Cada viñeta representa una escen
 
 </aside>
 
-## Ejercicio 3: Creación de un screencast para formación
+## ✏️ Ejercicio 3: Creación de un screencast para formación
 
 Planifica y describe el proceso de creación de un screencast (grabación de pantalla) de 5 minutos para formar a empleados en el uso del nuevo software de gestión de gastos. Incluye: preparación previa (herramientas necesarias), estructura del contenido (introducción, 3 procedimientos, cierre), captura de pantalla con anotaciones, y postproducción básica (cortar errores, añadir rótulos).
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **PLAN DE SCREENCAST - FORMACIÓN EN SOFTWARE DE GASTOS**
@@ -120,7 +120,7 @@ Planifica y describe el proceso de creación de un screencast (grabación de pan
 - Exportar en MP4, 1920x1080, H.264
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un plan de screencast completo con estructura, herramientas, contenido seccionado por tiempos y proceso de postproducción.
 
 <aside type="tip">
@@ -129,11 +129,11 @@ El screencast es una herramienta de formación muy efectiva para software. La cl
 
 </aside>
 
-## Ejercicio 4: Edición de una entrevista corporativa
+## ✏️ Ejercicio 4: Edición de una entrevista corporativa
 
 Describe el proceso de edición de una entrevista corporativa de 20 minutos (formato raw) para convertirla en una pieza final de 3 minutos. El material incluye: 2 cámaras (cámara principal al entrevistado, segunda cámara al entrevistador), gráficos de apoyo (3 diapositivas), y un clip de B-roll de las instalaciones. Detalla: selección de fragmentos, sincronización de audio, inserción de B-roll, corrección de color y exportación.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **PROCESO DE EDICIÓN - ENTREVISTA CORPORATIVA**
@@ -183,7 +183,7 @@ Revisar la entrevista completa y marcar los momentos clave:
 - Incluir subtítulos opcionales (SRT)
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un plan detallado de edición con cada paso documentado, desde el visionado hasta la exportación final.
 
 <aside type="tip">
@@ -196,14 +196,21 @@ La edición de entrevistas requiere un equilibrio entre mantener la naturalidad 
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: El vídeo que se escucha fatal
 
 Has grabado una entrevista al director de operaciones para el vídeo de lanzamiento del proyecto Knowledge Manager. Habla de los problemas de conocimiento en su departamento y es justo lo que necesitas. Pero al revisar el material, el audio tiene un zumbido de fondo constante que casi no deja oír su voz. No tienes tiempo ni presupuesto para volver a grabar. La presentación es en 3 días.
 
 **Tu misión:** ¿Cómo salvas el vídeo? ¿Qué herramientas o técnicas de postproducción puedes usar para limpiar el audio? ¿Y si no consigues un audio perfecto, cómo minimizas el impacto (subtítulos, música, texto en pantalla)?
 
-> **Pistas para la reflexión:**
-> - Los editores de vídeo tienen ecualizadores y filtros de reducción de ruido. Prueba con un filtro de paso alto para eliminar frecuencias graves
-> - Existen herramientas online gratuitas de limpieza de audio (Adobe Podcast Enhance, Audacity)
-> - Como plan de emergencia: subtítulos obligatorios, una música de fondo suave que enmascare el ruido
+<aside type="tip">
+
+- Los editores de vídeo tienen ecualizadores y filtros de reducción de ruido. Prueba con un filtro de paso alto para eliminar frecuencias graves
+- Existen herramientas online gratuitas de limpieza de audio (Adobe Podcast Enhance, Audacity)
+- Como plan de emergencia: subtítulos obligatorios, una música de fondo suave que enmascare el ruido
+
+</aside>
+
 ```
+
+</div>

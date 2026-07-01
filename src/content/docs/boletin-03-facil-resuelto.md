@@ -3,11 +3,11 @@ title: "Boletín 3 - Fácil: Documentos profesionales con Word, Excel y PowerPoi
 ---
 
 
-## Ejercicio 1: Creación de una plantilla profesional en Word
+## ✏️ Ejercicio 1: Creación de una plantilla profesional en Word
 
 Diseña una plantilla de informe ejecutivo en Microsoft Word que incluya: portada con logotipo y título, encabezado con nombre de la empresa y número de página, cuerpo con estilos predefinidos (Título 1, Título 2, Cuerpo de texto), tabla de contenidos automática, y pie de página con información de confidencialidad.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **PLANTILLA INFORME EJECUTIVO - WORD**
@@ -41,7 +41,7 @@ Diseña una plantilla de informe ejecutivo en Microsoft Word que incluya: portad
    - Calibri 8 pt, cursiva, color gris
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una plantilla de Word completa con todos los elementos listados que permita crear informes consistentes.
 
 <aside type="tip">
@@ -50,11 +50,11 @@ Las plantillas de Word basadas en estilos garantizan la consistencia documental.
 
 </aside>
 
-## Ejercicio 2: Creación de una factura automatizada en Excel
+## ✏️ Ejercicio 2: Creación de una factura automatizada en Excel
 
 Diseña una hoja de cálculo en Excel para generar facturas. Debe incluir: datos del cliente (nombre, NIF, dirección), desglose de productos/servicios (cantidad, descripción, precio unitario, total), cálculo automático de base imponible, IVA (21%) y total, y un formato de factura profesional con logotipo y numeración automática.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **FACTURA AUTOMATIZADA EN EXCEL - ESTRUCTURA**
@@ -88,7 +88,7 @@ Fila 17: | | **TOTAL FACTURA:** | =D15+D16
 **Validación de datos:** La columna Cantidad solo acepta números enteros positivos.
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una hoja Excel con las fórmulas implementadas que calcule automáticamente el importe de cada línea, la base imponible, el IVA y el total.
 
 <aside type="tip">
@@ -97,11 +97,11 @@ Las fórmulas de Excel automatizan los cálculos repetitivos y reducen errores h
 
 </aside>
 
-## Ejercicio 3: Presentación PowerPoint para un comité de dirección
+## ✏️ Ejercicio 3: Presentación PowerPoint para un comité de dirección
 
 Crea la estructura de una presentación comercial para presentar los resultados anuales ante el comité de dirección. Debe incluir: diapositiva de título, índice, 4 diapositivas de contenido (resultados financieros, logros clave, objetivos futuros, conclusiones), uso de gráficos (al menos 1), animaciones moderadas y notas del orador.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **PRESENTACIÓN RESULTADOS ANUALES - POWERPOINT**
@@ -138,7 +138,7 @@ Crea la estructura de una presentación comercial para presentar los resultados 
 "Como pueden ver en el gráfico, el pico de ingresos se produjo en octubre gracias al lanzamiento del nuevo producto. El margen se ha mantenido estable a pesar del incremento de costes operativos."
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una estructura de presentación con 6 diapositivas, incluyendo un gráfico de barras y animaciones.
 
 <aside type="tip">
@@ -147,11 +147,11 @@ Una presentación profesional debe tener una estructura clara (portada, índice,
 
 </aside>
 
-## Ejercicio 4: Configuración de una combinación de correspondencia (Mail Merge)
+## ✏️ Ejercicio 4: Configuración de una combinación de correspondencia (Mail Merge)
 
 Configura una combinación de correspondencia en Word para enviar una carta personalizada a 50 clientes informando de un cambio en las condiciones de pago. La carta debe incluir: nombre del cliente, dirección, tratamiento (Sr./Sra.), importe actual de la póliza y fecha de entrada en vigor. Describe paso a paso el proceso.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **COMBINACIÓN DE CORRESPONDENCIA - CAMBIO CONDICIONES DE PAGO**
@@ -192,7 +192,7 @@ Atentamente,
 5. Finalizar y combinar > Imprimir documentos o Enviar mensajes de correo electrónico
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una carta modelo configurada para mail merge con los campos combinados y 50 cartas personalizadas generadas.
 
 <aside type="tip">
@@ -203,13 +203,20 @@ La combinación de correspondencia permite personalizar documentos masivos. Es i
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: El informe que tu jefe quiere en 10 minutos
 
 Tu jefe entra en tu despacho a las 14:50: "Necesito un informe con los datos de ventas del trimestre, con gráficos y todo, para la reunión de las 15:00 con el director comercial. Ah, y los datos están en una hoja de Excel que aún no está cerrada porque el departamento de contabilidad sigue introduciendo cifras."
 
 **Tu misión:** ¿Cómo resuelves el plazo imposible sin morir en el intento? ¿Qué técnica ofimática te permite tener el informe listo aunque los datos sigan cambiando? Explica el proceso paso a paso.
 
-> **Pistas para la reflexión:**
-> - Vincular datos (no incrustarlos) permite que el informe se actualice solo cuando cambien los datos origen
-> - Una plantilla de informe predefinida te ahorra el 80% del tiempo de maquetación
-> - ¿Qué pasa si los datos llegan con 5 minutos de retraso? Ten un plan B
+<aside type="tip">
+
+- Vincular datos (no incrustarlos) permite que el informe se actualice solo cuando cambien los datos origen
+- Una plantilla de informe predefinida te ahorra el 80% del tiempo de maquetación
+- ¿Qué pasa si los datos llegan con 5 minutos de retraso? Ten un plan B
+
+</aside>
+
+
+</div>

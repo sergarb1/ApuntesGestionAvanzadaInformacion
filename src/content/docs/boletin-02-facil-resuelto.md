@@ -3,11 +3,11 @@ title: "Boletín 2 - Fácil: Planificación y seguimiento de proyectos con herra
 ---
 
 
-## Ejercicio 1: Creación de una Estructura de Desglose del Trabajo (EDT/WBS)
+## ✏️ Ejercicio 1: Creación de una Estructura de Desglose del Trabajo (EDT/WBS)
 
 La empresa ElectroHogar va a lanzar un nuevo producto: una aspiradora inteligente con navegación láser. Desarrolla la EDT (WBS) hasta el tercer nivel para este proyecto. Identifica al menos 4 paquetes de trabajo principales y desglosa cada uno en al menos 3 subpaquetes.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **EDT - LANZAMIENTO ASPIRADORA INTELIGENTE "CLEANBOT X1"**
@@ -38,7 +38,7 @@ La empresa ElectroHogar va a lanzar un nuevo producto: una aspiradora inteligent
     4.4 Actualizaciones de firmware (programación)
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una EDT jerárquica con 4 paquetes de trabajo principales y al menos 3 subniveles cada uno.
 
 <aside type="tip">
@@ -47,11 +47,11 @@ La EDT descompone el trabajo en componentes manejables. Cada nivel inferior es u
 
 </aside>
 
-## Ejercicio 2: Planificación de un diagrama de Gantt
+## ✏️ Ejercicio 2: Planificación de un diagrama de Gantt
 
 El proyecto de mudanza de oficinas de la empresa InnovaConsult tiene las siguientes tareas y duraciones: 1) Buscar nuevo local (15 días), 2) Contratar reformas (5 días), 3) Reformar local (30 días), 4) Contratar mudanza (3 días), 5) Empaquetar material (10 días), 6) Realizar mudanza (2 días), 7) Instalar equipos informáticos (5 días), 8) Reabrir oficina (1 día). Las dependencias son: 1 precede a 2 y 3; 2 y 3 preceden a 5; 4 comienza tras 2; 5 y 6 preceden a 7; 7 precede a 8. Construye un diagrama de Gantt indicando la duración total del proyecto.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **DIAGRAMA DE GANTT - MUDANZA OFICINAS INNOVACONSULT**
@@ -73,7 +73,7 @@ El proyecto de mudanza de oficinas de la empresa InnovaConsult tiene las siguien
 (no hay margen en estas tareas; cualquier retraso afecta la fecha de fin)
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un diagrama de Gantt con las tareas, duraciones, dependencias y la duración total del proyecto.
 
 <aside type="tip">
@@ -82,11 +82,11 @@ El diagrama de Gantt es una herramienta visual de planificación. Las dependenci
 
 </aside>
 
-## Ejercicio 3: Análisis de riesgos del proyecto
+## ✏️ Ejercicio 3: Análisis de riesgos del proyecto
 
 Identifica al menos 6 riesgos para el proyecto de lanzamiento de la aspiradora inteligente del ejercicio 1. Para cada riesgo, indica: descripción, probabilidad (Alta/Media/Baja), impacto (Alto/Medio/Bajo), y una medida de mitigación concreta. Utiliza una tabla de registro de riesgos.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **REGISTRO DE RIESGOS - PROYECTO CLEANBOT X1**
@@ -101,7 +101,7 @@ Identifica al menos 6 riesgos para el proyecto de lanzamiento de la aspiradora i
 | R6 | Fuga de información técnica a la competencia | Baja | Alto | Firmar NDAs con todos los implicados y limitar acceso a planos |
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un registro de riesgos con al menos 6 entradas, cada una con descripción, probabilidad, impacto y mitigación.
 
 <aside type="tip">
@@ -110,11 +110,11 @@ El registro de riesgos es un documento vivo que se actualiza durante todo el pro
 
 </aside>
 
-## Ejercicio 4: Elaboración de un presupuesto de proyecto
+## ✏️ Ejercicio 4: Elaboración de un presupuesto de proyecto
 
 Elabora el presupuesto detallado para el proyecto de mudanza del ejercicio 2. Incluye: costes de personal (3 personas implicadas: Jefe de Proyecto a 300 €/día, Administrativo a 150 €/día, Técnico a 200 €/día), costes de materiales (embalaje 1.200 €, reformas 15.000 €, mudanza 3.500 €, instalación redes 2.800 €) y costes de contingencia (10% del total). Calcula el presupuesto final.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **PRESUPUESTO - MUDANZA OFICINAS INNOVACONSULT**
@@ -144,7 +144,7 @@ Elabora el presupuesto detallado para el proyecto de mudanza del ejercicio 2. In
 | **Presupuesto final** | **39.600 €** |
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un presupuesto desglosado en personal y materiales, con contingencia y total final.
 
 <aside type="tip">
@@ -155,13 +155,20 @@ El presupuesto debe incluir todos los costes necesarios para ejecutar el proyect
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: La reunión de seguimiento donde nadie ha actualizado nada
 
 Son las 9:30. Empieza la reunión semanal de seguimiento del proyecto Knowledge Manager. Abres el cronograma en la pantalla y ves que los estados no se han actualizado desde la semana pasada. Preguntas "¿cómo vamos?" y obtienes respuestas vagas: "ahí, ahí", "estoy en ello", "esta semana lo termino".
 
 **Tu misión:** ¿Cómo reconduces la reunión para obtener información útil? ¿Qué dos cambios harías en el proceso de seguimiento para que no vuelva a pasar?
 
-> **Pistas para la reflexión:**
-> - Las preguntas cerradas ("¿al 100%?") dan respuestas concretas; las abiertas ("¿cómo va?") dan vaguedades
-> - ¿Quién actualiza el cronograma? ¿Cada miembro del equipo o una sola persona?
-> - Una reunión sin datos es una conversación de café. Una reunión con datos es gestión.
+<aside type="tip">
+
+- Las preguntas cerradas ("¿al 100%?") dan respuestas concretas; las abiertas ("¿cómo va?") dan vaguedades
+- ¿Quién actualiza el cronograma? ¿Cada miembro del equipo o una sola persona?
+- Una reunión sin datos es una conversación de café. Una reunión con datos es gestión.
+
+</aside>
+
+
+</div>

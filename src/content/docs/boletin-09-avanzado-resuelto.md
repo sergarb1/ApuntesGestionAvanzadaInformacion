@@ -5,7 +5,7 @@ title: "Boletín 09 - Nivel Avanzado (Resuelto): Flujos de trabajo, custodia de 
 1. ⭐ **Diseñar un flujo de trabajo automatizado con aprobaciones en Microsoft Teams**
    Supón que cada solicitud de compra debe ser aprobada por el jefe de departamento y, si supera 5000 €, también por dirección. Diseña un flujo usando Power Automate y Approvals de Teams que incluya: formulario de solicitud, notificaciones, escalado por importe y registro en SharePoint. Incluye la lógica de tiempos de espera (si no responde en 48 h, escalar al siguiente nivel).
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Flujo automatizado de aprobación de compras:
    
@@ -25,7 +25,7 @@ title: "Boletín 09 - Nivel Avanzado (Resuelto): Flujos de trabajo, custodia de 
    6. Registro en SharePoint: Lista "SolicitudesCompra" con campos: ID, Fecha, Departamento, Concepto, Importe, Estado, FechaAprobacion.
    7. Notificaciones en Teams: Mensaje en el canal "Aprobaciones" del equipo de Administración con el resultado final.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Flujo completo con aprobaciones en dos niveles, escalado automático y registro en SharePoint.
    ```
@@ -38,7 +38,7 @@ Automatizar las aprobaciones elimina los correos encadenados y los retrasos. El 
 2. ⭐⭐ **Realizar un análisis de riesgos para un tratamiento de datos personales**
    El departamento de Administración va a implantar un nuevo software de gestión de clientes que almacenará: nombre, DNI, dirección, email, teléfono e historial de compras. Realiza un análisis de riesgos identificando: activos, amenazas, vulnerabilidades, impacto potencial (bajo, medio, alto) y medidas de mitigación. Sigue la metodología del RGPD (AEPD).
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Análisis de riesgos del tratamiento "Gestión de Clientes":
    
@@ -76,7 +76,7 @@ Automatizar las aprobaciones elimina los correos encadenados y los retrasos. El 
    ✔ Plan de respuesta ante incidentes (notificación a la AEPD en 72 h si hay brecha).
    ✔ Formación anual en protección de datos para empleados.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Análisis completo con activos, amenazas, vulnerabilidades, matriz de riesgo y medidas de mitigación.
    ```
@@ -89,7 +89,7 @@ El análisis de riesgos es obligatorio bajo el RGPD (art. 32 y 35). Identificar 
 3. ⭐⭐ **Diseñar un sistema de custodia con cadena de custodia digital**
    Una empresa maneja documentos que pueden ser requeridos como prueba en juicios (contratos, facturas, actas). Diseña un sistema de custodia digital que garantice la integridad, autenticidad y conservación del documento, incluyendo: sellado de tiempo (timestamp), firmas electrónicas, registro de accesos y copias de seguridad. Explica cómo se demuestra que el documento no ha sido alterado.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Sistema de custodia digital con cadena de custodia:
    
@@ -119,7 +119,7 @@ El análisis de riesgos es obligatorio bajo el RGPD (art. 32 y 35). Identificar 
       - Copias de seguridad diarias en ubicación geográficamente separada.
       - Migración periódica de formatos (cuando un formato queda obsoleto) sin romper la cadena de custodia.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Sistema de custodia con 5 componentes: ingreso sellado, almacenamiento seguro, registro de accesos, verificación por hash y conservación.
    ```
@@ -132,7 +132,7 @@ La cadena de custodia digital garantiza que un documento es admisible como prueb
 4. ⭐⭐⭐ **Elaborar un informe de auditoría de cumplimiento normativo**
    Imagina que eres el responsable de archivo y te piden una auditoría interna de cumplimiento. Elabora un informe que incluya: alcance (qué departamentos y procesos se auditan), checklist de verificación (al menos 10 puntos sobre RGPD, LOPDGDD, ENS si aplica), hallazgos (3 no conformidades realistas), recomendaciones y plan de acción con plazos. Redacta el informe como si fuera para la dirección de la empresa.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    INFORME DE AUDITORÍA DE CUMPLIMIENTO NORMATIVO
    Fecha: 30/06/2026
@@ -172,7 +172,7 @@ La cadena de custodia digital garantiza que un documento es admisible como prueb
    
    Firmado: [Responsable de archivo]
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Informe de auditoría completo con alcance, checklist, 3 hallazgos, recomendaciones y plan de acción con plazos.
    ```
@@ -186,14 +186,21 @@ Un informe de auditoría no solo detecta incumplimientos, sino que propone soluc
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: La auditoría que destapa una filtración de datos
 
 El Delegado de Protección de Datos de GesDoc Consulting te informa de que ha recibido una notificación: un empleado del departamento de Formación ha enviado por error un listado de empleados con datos personales (nombre, DNI, salario) a toda la lista de distribución de clientes externos. El error ocurrió hace 20 minutos. Ahora mismo no sabes: (1) cuántos destinatarios lo han recibido, (2) si los datos se pueden recuperar, (3) qué obligación legal tienes de notificar a la Agencia Española de Protección de Datos.
 
 **Tu misión:** ¿Cuáles son las 3 acciones inmediatas que pones en marcha en los próximos 5 minutos? ¿Qué medidas preventivas implementarías en los workflows de aprobación de documentos para que un error así no pueda volver a ocurrir?
 
-> **Pistas para la reflexión:**
-> - La AEPD debe ser notificada en un plazo de 72 horas si hay riesgo para los derechos de las personas
-> - La primera acción es contener: pedir al empleado que revoque el correo si es posible, o enviar un correo de rectificación
-> - Los workflows de aprobación deberían detectar automáticamente envíos masivos con datos personales y requerir una doble validación
+<aside type="tip">
+
+- La AEPD debe ser notificada en un plazo de 72 horas si hay riesgo para los derechos de las personas
+- La primera acción es contener: pedir al empleado que revoque el correo si es posible, o enviar un correo de rectificación
+- Los workflows de aprobación deberían detectar automáticamente envíos masivos con datos personales y requerir una doble validación
+
+</aside>
+
 ```
+
+</div>

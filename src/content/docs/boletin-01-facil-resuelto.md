@@ -3,11 +3,11 @@ title: "Boletín 1 - Fácil: Gestión de proyectos empresariales. El valor del c
 ---
 
 
-## Ejercicio 1: Creación de un acta de constitución del proyecto
+## ✏️ Ejercicio 1: Creación de un acta de constitución del proyecto
 
 Redacta el acta de constitución (project charter) para un proyecto de implantación de un nuevo sistema de gestión de facturación en una PYME de 20 empleados. Incluye: objetivo del proyecto, alcance preliminar, recursos asignados, plazo estimado y responsables.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 ```markdown
 **ACTA DE CONSTITUCIÓN DEL PROYECTO**
@@ -47,7 +47,7 @@ Redacta el acta de constitución (project charter) para un proyecto de implantac
 **Aprobado por:** _________________________  **Fecha:** ________
 ```
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un documento formal con los apartados anteriores que sirva como autorización oficial para iniciar el proyecto.
 
 <aside type="tip">
@@ -56,11 +56,11 @@ El acta de constitución es el documento que formaliza la existencia del proyect
 
 </aside>
 
-## Ejercicio 2: Identificación de stakeholders
+## ✏️ Ejercicio 2: Identificación de stakeholders
 
 Identifica y clasifica a los grupos de interés (stakeholders) de un proyecto de transformación digital en una empresa de distribución logística. Emplea la matriz poder-interés para clasificarlos y define la estrategia de gestión para cada grupo.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 ```markdown
 **MATRIZ PODER-INTERÉS – PROYECTO DE TRANSFORMACIÓN DIGITAL**
@@ -85,7 +85,7 @@ Empresa: LogiDistribuye S.L. (120 empleados, 3 almacenes)
 - **Bajo poder + Bajo interés:** Información mínima y puntual.
 ```
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una tabla con los stakeholders identificados, su clasificación poder-interés y la estrategia de gestión recomendada.
 
 <aside type="tip">
@@ -94,7 +94,7 @@ La matriz poder-interés permite priorizar los esfuerzos de comunicación. Los s
 
 </aside>
 
-## Ejercicio 3: Clasificación de datos, información y conocimiento
+## ✏️ Ejercicio 3: Clasificación de datos, información y conocimiento
 
 Clasifica los siguientes elementos según sean datos, información o conocimiento en el contexto de una empresa de consultoría. Justifica cada respuesta:
 
@@ -107,7 +107,7 @@ f) Procedimiento de atención al cliente
 g) "Tras analizar los datos, observamos que las ventas caen en agosto"
 h) Manual de incorporación para nuevos empleados
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 | Elemento | Clasificación | Justificación |
 |----------|---------------|---------------|
@@ -120,7 +120,7 @@ h) Manual de incorporación para nuevos empleados
 | g) "Ventas caen en agosto" | Conocimiento | Interpretación basada en análisis de datos |
 | h) Manual incorporación | Información | Documento que transmite conocimiento explícito |
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una tabla de clasificación con justificación para cada elemento.
 
 <aside type="tip">
@@ -129,11 +129,11 @@ La jerarquía DIK (Dato- Información- Conocimiento) es fundamental en gestión 
 
 </aside>
 
-## Ejercicio 4: Matriz de responsabilidades (RACI)
+## ✏️ Ejercicio 4: Matriz de responsabilidades (RACI)
 
 Crea una matriz RACI para las siguientes tareas del proyecto de implantación de un CRM en una empresa comercial: 1) Definición de requisitos, 2) Evaluación de proveedores, 3) Configuración del sistema, 4) Formación de usuarios, 5) Pruebas de aceptación. Roles: Director Comercial, Jefe de Proyecto, Analista Funcional, Usuarios clave, Proveedor.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 ```markdown
 **MATRIZ RACI – PROYECTO CRM COMERCIAL**
@@ -153,7 +153,7 @@ Crea una matriz RACI para las siguientes tareas del proyecto de implantación de
 - **I** = Informado (recibe información después de ejecutar)
 ```
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una matriz que asigna claramente responsabilidades para evitar duplicidades o lagunas en la ejecución del proyecto.
 
 <aside type="tip">
@@ -164,13 +164,20 @@ La matriz RACI evita conflictos de responsabilidad. Cada tarea debe tener solo u
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: El elevator pitch que te juegas en el ascensor
 
 Subes al ascensor de GesDoc Consulting y, para tu sorpresa, está el nuevo Consejero Delegado. Te mira y te dice: "Oye, tú eres el del proyecto ese de Knowledge Management, ¿verdad? Explícamelo en 30 segundos, que llegamos a la séptima planta."
 
 **Tu misión:** Prepara tu discurso de ascensor. Debe incluir: qué problema resuelve, cómo lo haces y qué beneficio concreto aporta a la empresa. Sin jerga técnica. En 30 segundos.
 
-> **Pistas para la reflexión:**
-> - No uses las palabras "Knowledge Management" en la primera frase. Empieza por el problema.
-> - Un CEO quiere saber: ¿esto ayuda a ganar más o a gastar menos?
-> - Practica en voz alta. Si no te sale en menos de 80 palabras, es demasiado largo.
+<aside type="tip">
+
+- No uses las palabras "Knowledge Management" en la primera frase. Empieza por el problema.
+- Un CEO quiere saber: ¿esto ayuda a ganar más o a gastar menos?
+- Practica en voz alta. Si no te sale en menos de 80 palabras, es demasiado largo.
+
+</aside>
+
+
+</div>

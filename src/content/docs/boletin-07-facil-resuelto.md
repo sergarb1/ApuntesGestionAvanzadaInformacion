@@ -5,7 +5,7 @@ title: "Boletín 07 - Nivel Fácil (Resuelto): Oficina virtual y página web de 
 1. **Crear una página básica en WordPress**
    Accede a un sitio WordPress (puede ser local con XAMPP o en un hosting de pruebas). Crea una página llamada "Quiénes somos" que incluya un texto de presentación de la empresa y una imagen corporativa. Publica la página y asegúrate de que aparezca en el menú principal.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    1. Acceder al panel de administración de WordPress (/wp-admin).
    2. Ir a "Páginas" → "Añadir nueva".
@@ -16,7 +16,7 @@ title: "Boletín 07 - Nivel Fácil (Resuelto): Oficina virtual y página web de 
    6. Publicar la página.
    7. Ir a "Apariencia" → "Menús" → marcar la página "Quiénes somos" → "Añadir al menú" → guardar.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Página "Quiénes somos" visible en el sitio web y accesible desde el menú principal.
    ```
@@ -29,7 +29,7 @@ Una página corporativa básica permite a los clientes conocer la empresa. Integ
 2. **Configurar un formulario de contacto**
    Instala el plugin "Contact Form 7" en WordPress y crea un formulario con los campos: Nombre, Email, Teléfono y Mensaje. Configúralo para que los envíos lleguen a la dirección administracion@empresa.com. Inserta el formulario en la página "Contacto".
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    1. En el panel de WordPress: "Plugins" → "Añadir nuevo" → buscar "Contact Form 7" → "Instalar ahora" → "Activar".
    2. Ir a "Contacto" → "Añadir nuevo formulario".
@@ -51,7 +51,7 @@ Una página corporativa básica permite a los clientes conocer la empresa. Integ
    6. Guardar el formulario.
    7. Copiar el shortcode [contact-form-7 id="XXX"] e insertarlo en la página "Contacto".
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Formulario funcional en la página de contacto. Los envíos llegan a la bandeja de administracion@empresa.com.
    ```
@@ -64,7 +64,7 @@ Un formulario de contacto es la vía principal de comunicación con los clientes
 3. **Crear una intranet básica con Google Sites**
    Crea un sitio en Google Sites (nueva Google Workspace) para uso interno de la empresa. Incluye una página de inicio con el nombre de la empresa, un enlace al calendario compartido y un documento con las políticas internas. Publica el sitio con acceso restringido a los empleados.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    1. Ir a sites.google.com → "Crear" → "En blanco".
    2. Nombre del sitio: "Intranet [Nombre Empresa]".
@@ -77,7 +77,7 @@ Un formulario de contacto es la vía principal de comunicación con los clientes
    5. Añadir página: "Directorio" con lista de empleados y sus cargos.
    6. Publicar: botón "Publicar" → en "Configuración de publicación", seleccionar "Restringido – Solo usuarios de [dominio]" → "Publicar".
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Intranet publicada y accesible solo para empleados con cuenta en el dominio corporativo.
    ```
@@ -90,7 +90,7 @@ Google Sites permite crear intranets sin conocimientos técnicos. Restringir el 
 4. **Añadir y configurar un plugin de seguridad**
    Instala y activa el plugin "Wordfence Security" en WordPress. Realiza un escaneo básico de seguridad. Explica qué acciones recomienda el plugin tras el análisis y cómo programar escaneos periódicos.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    1. "Plugins" → "Añadir nuevo" → buscar "Wordfence Security" → "Instalar ahora" → "Activar".
    2. Al activar, aparece el asistente de configuración → seguir los pasos predeterminados.
@@ -103,7 +103,7 @@ Google Sites permite crear intranets sin conocimientos técnicos. Restringir el 
    5. Programar escaneos: "Wordfence" → "Opciones de escaneo" → marcar "Ejecutar escaneo cada:" → seleccionar "Diariamente" a las 02:00 h.
    6. Configurar alertas por correo electrónico para resultados críticos.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Escaneo completado. Aparecen recomendaciones concretas. Escaneo automático programado diariamente.
    ```
@@ -117,14 +117,21 @@ Un plugin de seguridad es esencial para proteger la web ante vulnerabilidades. L
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: La web que muestra información incorrecta
 
 Un empleado de GesDoc Consulting te escribe: "Oye, en el portal del conocimiento pone que el procedimiento para solicitar vacaciones es enviar un correo a RRHH, pero eso cambió el mes pasado. Ahora se hace a través de una herramienta nueva. Varios compañeros han enviado correos a la antigua dirección y se han perdido solicitudes." Revisas el portal y efectivamente, hay 3 páginas con información desactualizada, una con un enlace roto y otra que muestra el organigrama de hace 2 años.
 
 **Tu misión:** ¿Cómo solucionas la situación actual (corregir el contenido erróneo) y cómo evitas que vuelva a pasar? Propón un proceso de revisión y actualización de contenidos que funcione sin que te lleve todo tu tiempo.
 
-> **Pistas para la reflexión:**
-> - Un portal sin dueño es un portal muerto. Cada sección debe tener un responsable de contenido
-> - Programa revisiones trimestrales con los responsables de cada área
-> - Añade un aviso de "Última actualización: [fecha]" en cada página para que los usuarios sepan si el contenido está fresco
+<aside type="tip">
+
+- Un portal sin dueño es un portal muerto. Cada sección debe tener un responsable de contenido
+- Programa revisiones trimestrales con los responsables de cada área
+- Añade un aviso de "Última actualización: [fecha]" en cada página para que los usuarios sepan si el contenido está fresco
+
+</aside>
+
 ```
+
+</div>

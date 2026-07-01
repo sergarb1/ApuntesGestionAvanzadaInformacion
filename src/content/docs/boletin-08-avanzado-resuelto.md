@@ -5,7 +5,7 @@ title: "Boletín 08 - Nivel Avanzado (Resuelto): Archivo digital: cómo organiza
 1. ⭐ **Diseñar un esquema de metadatos para documentos administrativos**
    Una empresa quiere implantar un sistema de gestión documental (DMS) y necesita definir los metadatos para sus documentos. Diseña un esquema con al menos 8 campos, indicando para cada uno: nombre, tipo de dato (texto, fecha, lista), obligatoriedad y ejemplo. Incluye metadatos de identificación, contexto y control de versiones.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Esquema de metadatos para documentos administrativos:
    
@@ -26,7 +26,7 @@ title: "Boletín 08 - Nivel Avanzado (Resuelto): Archivo digital: cómo organiza
    
    Los metadatos permiten buscar documentos sin necesidad de abrirlos y automatizar políticas de conservación.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Esquema de 12 campos con tipo, obligatoriedad y ejemplo. Listo para implementar en un DMS.
    ```
@@ -39,7 +39,7 @@ Los metadatos son la ficha técnica del documento. Sin ellos, buscar un document
 2. ⭐⭐ **Definir una política de migración de archivos físicos a digitales**
    El departamento de Administración tiene 12 archivadores con documentos en papel que deben digitalizarse. Diseña un plan de migración que incluya: criterios de prioridad (qué documentos primero), lotes de trabajo, controles de calidad y qué hacer con los documentos en papel después de digitalizar. Incluye un cronograma estimado.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Plan de migración a digital:
    
@@ -68,7 +68,7 @@ Los metadatos son la ficha técnica del documento. Sin ellos, buscar un document
    - Transcurrido ese plazo, destruir confidencialmente (trituradora industrial) los documentos sin valor legal permanente.
    - Los contratos y escrituras con valor legal permanente se conservan en papel en archivo histórico.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Plan estructurado en 5 fases con prioridades, lotes, controles y cronograma de 8 semanas.
    ```
@@ -81,7 +81,7 @@ Digitalizar no es solo escanear: requiere un plan ordenado. Priorizar por uso y 
 3. ⭐⭐ **Automatizar la clasificación documental con Power Automate y SharePoint**
    Diseña un flujo en Power Automate que, cuando se suba un archivo a una carpeta de SharePoint, le asigne automáticamente metadatos (tipo documental, año, departamento) en función de la carpeta destino y del nombre del archivo. Describe la lógica condicional necesaria.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Flujo: "Clasificación automática de documentos"
    
@@ -113,7 +113,7 @@ Digitalizar no es solo escanear: requiere un plan ordenado. Priorizar por uso y 
    
    5. Notificación: Si el archivo no pudo clasificarse (carpeta no reconocida), enviar correo al administrador para revisión manual.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Cada archivo subido recibe metadatos automáticos. Los no clasificables generan alerta para revisión manual.
    ```
@@ -126,7 +126,7 @@ Automatizar la clasificación reduce el error humano y acelera la disponibilidad
 4. ⭐⭐⭐ **Crear un plan de conservación documental basado en la normativa legal**
    Investiga los plazos de conservación legales en España para: facturas (Ley 58/2003), contratos mercantiles (Código de Comercio), nóminas (ET), informes anuales y actas de consejo (LSC). Diseña una tabla con el tipo documental, plazo legal, base normativa y acción al vencimiento (eliminar, conservar parcialmente, transferir a archivo histórico). Aplica estos plazos a un ejemplo concreto de cada tipo.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Tabla de conservación documental:
    
@@ -148,7 +148,7 @@ Automatizar la clasificación reduce el error humano y acelera la disponibilidad
    
    Nota: Los plazos empiezan a contar desde la finalización del ejercicio fiscal o desde la extinción de la obligación contractual.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Tabla de conservación con 5 tipos documentales, plazos legales, base normativa y acciones al vencimiento.
    ```
@@ -162,14 +162,21 @@ Cada tipo documental tiene un plazo de conservación diferente según la ley. No
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: El contrato que no aparece por ninguna parte
 
 La directora financiera de GesDoc Consulting necesita urgentemente el contrato con un proveedor firmado hace 3 años. Hay una cláusula que debe revisar antes de renovar. Te pide el documento. Buscas en la carpeta de "Contratos" y encuentras 47 archivos con nombres como "contrato_proveedor_final.pdf", "contrato_proveedor_v2.pdf", "contrato_definitivo_SI_esta_vez_si.pdf". Abres varios y ninguno es el que buscas. Preguntas a 3 compañeros y cada uno te dice una ubicación distinta. Pasada una hora, sigues sin encontrar el contrato.
 
 **Tu misión:** ¿Qué ha fallado en el sistema de clasificación documental para que esta situación sea posible? Diseña 3 reglas básicas de nombrado y organización que eviten que esto vuelva a ocurrir.
 
-> **Pistas para la reflexión:**
-> - Un buen nombre de archivo debe contener: tipo_documento_cliente_fecha.pdf
-> - Las versiones se controlan con un sistema, no con nombres (v1, v2, final, definitivo...)
-> - La clasificación no es solo cosa tuya: si cada empleado clasifica como quiere, el sistema no sirve
+<aside type="tip">
+
+- Un buen nombre de archivo debe contener: tipo_documento_cliente_fecha.pdf
+- Las versiones se controlan con un sistema, no con nombres (v1, v2, final, definitivo...)
+- La clasificación no es solo cosa tuya: si cada empleado clasifica como quiere, el sistema no sirve
+
+</aside>
+
 ```
+
+</div>

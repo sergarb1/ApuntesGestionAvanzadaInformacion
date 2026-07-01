@@ -5,7 +5,7 @@ title: "Boletín 10 - Nivel Fácil (Resuelto): Proyecto Knowledge Management (I)
 1. **Redactar la introducción de una memoria de proyecto**
    Redacta la sección de introducción para una memoria del proyecto "Implantación de un sistema de gestión documental en la empresa GestionaPlus S.L.". Incluye: contexto de la empresa, problemática actual (documentos desorganizados, pérdida de información), objetivos del proyecto y estructura del documento.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    MEMORIA DEL PROYECTO
    "Implantación de un sistema de gestión documental en GestionaPlus S.L."
@@ -25,7 +25,7 @@ title: "Boletín 10 - Nivel Fácil (Resuelto): Proyecto Knowledge Management (I)
    
    Estructura del documento: La presente memoria se estructura en los siguientes apartados: análisis de la situación actual, propuesta de solución, plan de implantación, recursos necesarios, cronograma y conclusiones.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Introducción completa con contexto, problemática, objetivos y estructura del documento.
    ```
@@ -38,7 +38,7 @@ La introducción de una memoria debe responder a qué, por qué y para qué del 
 2. **Preparar un resumen ejecutivo para la dirección**
    A partir de la memoria anterior, redacta un resumen ejecutivo de una página dirigido a la dirección de la empresa. Debe incluir: problema, solución propuesta, beneficios esperados, inversión estimada y plazo de ejecución. Usa un lenguaje directo y orientado a resultados.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    RESUMEN EJECUTIVO
    Proyecto: Implantación de un sistema de gestión documental
@@ -64,7 +64,7 @@ La introducción de una memoria debe responder a qué, por qué y para qué del 
    
    CONCLUSIÓN: El proyecto se amortiza en menos de 6 meses considerando el ahorro en horas de trabajo y la reducción de riesgos legales. Se recomienda su aprobación.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Resumen ejecutivo de una página con problema, solución, beneficios, inversión y plazo.
    ```
@@ -77,7 +77,7 @@ El resumen ejecutivo es lo primero que lee la dirección. Debe ser autónomo (no
 3. **Crear un cronograma de proyecto con hitos clave**
    Diseña un cronograma para el proyecto de implantación del sistema de gestión documental. Incluye al menos 6 fases con fechas de inicio y fin, responsables y un hito clave por fase. Usa formato tabla.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Cronograma del proyecto (8 semanas):
    
@@ -90,7 +90,7 @@ El resumen ejecutivo es lo primero que lee la dirección. Debe ser autónomo (no
    | F5: Formación del personal         | 19/10/2026   | 23/10/2026   | Consultor externo     | 25 empleados formados y evaluados       |
    | F6: Puesta en marcha y seguimiento | 24/10/2026   | 26/10/2026   | Responsable de archivo| Sistema operativo y primer informe de seguimiento |
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Cronograma con 6 fases, fechas, responsables e hitos clave para 8 semanas de proyecto.
    ```
@@ -103,7 +103,7 @@ Un cronograma convierte el plan en acciones con fechas concretas. Cada fase debe
 4. **Definir indicadores clave de rendimiento (KPI) del proyecto**
    Define al menos 4 KPI para medir el éxito del proyecto de gestión documental. Para cada uno: nombre, fórmula de cálculo, frecuencia de medición y valor objetivo. Ejemplos: tiempo de búsqueda, documentos sin clasificar, satisfacción del usuario, cumplimiento de plazos de conservación.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    KPIs del proyecto de gestión documental:
    
@@ -121,7 +121,7 @@ Un cronograma convierte el plan en acciones con fechas concretas. Cada fase debe
    - La satisfacción se evalúa con un Microsoft Forms trimestral.
    - El cumplimiento de conservación se revisa con informes automáticos del sistema.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    5 KPIs definidos con fórmula, frecuencia, objetivo y metodología de medición.
    ```
@@ -135,14 +135,21 @@ Los KPI convierten objetivos abstractos ("mejorar la organización") en métrica
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: La memoria final es un rompecabezas de 9 piezas
 
 Faltan 4 días para entregar la memoria del proyecto Knowledge Manager. Cada unidad del curso ha generado un entregable: propuesta, planificación, plantillas, dashboard, vídeo, espacio colaborativo, portal web, clasificación documental, política de custodia. Tienes 9 archivos en 9 carpetas distintas, cada uno con su propio formato, estilo y estructura. Tu jefe de proyecto te pide "la memoria unificada para mañana".
 
 **Tu misión:** ¿Qué estructura le das a la memoria para que las 9 piezas tengan coherencia? ¿Cómo organizas los contenidos para que un directivo pueda leer el resumen ejecutivo y un técnico pueda ir a los detalles? ¿Qué haces con los formatos dispares (Word, Excel, PowerPoint, vídeo)?
 
-> **Pistas para la reflexión:**
-> - La memoria debe tener un hilo conductor: situación inicial → fases del proyecto → resultados → lecciones aprendidas
-> - Los entregables en formatos no textuales (vídeo, Excel) van como anexos o capturas incorporadas al cuerpo
-> - El resumen ejecutivo se escribe el último, pero va el primero: debe poder leerse solo y contar toda la historia
+<aside type="tip">
+
+- La memoria debe tener un hilo conductor: situación inicial → fases del proyecto → resultados → lecciones aprendidas
+- Los entregables en formatos no textuales (vídeo, Excel) van como anexos o capturas incorporadas al cuerpo
+- El resumen ejecutivo se escribe el último, pero va el primero: debe poder leerse solo y contar toda la historia
+
+</aside>
+
 ```
+
+</div>

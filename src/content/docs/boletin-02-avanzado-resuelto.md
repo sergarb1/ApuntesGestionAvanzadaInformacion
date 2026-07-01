@@ -3,7 +3,7 @@ title: "Boletín 2 - Avanzado: Planificación y seguimiento de proyectos con her
 ---
 
 
-## Ejercicio 1: Cálculo del camino crítico y holguras (⭐)
+## ✏️ Ejercicio 1: Cálculo del camino crítico y holguras (⭐)
 
 El proyecto de desarrollo de una nueva plataforma de e-learning tiene las siguientes tareas con sus duraciones y dependencias:
 
@@ -20,7 +20,7 @@ El proyecto de desarrollo de una nueva plataforma de e-learning tiene las siguie
 
 Calcula: a) la duración total del proyecto, b) el camino crítico, c) la holgura total de cada tarea.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **ANÁLISIS DEL CAMINO CRÍTICO - PLATAFORMA E-LEARNING**
@@ -65,7 +65,7 @@ c) **Holguras totales:**
 Las tareas C y E tienen holgura (3 y 19 días respectivamente) y pueden retrasarse sin afectar la fecha de fin.
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una tabla con el cálculo de tiempos tempranos y tardíos, identificación del camino crítico y holgura de cada tarea.
 
 <aside type="tip">
@@ -74,11 +74,11 @@ El camino crítico es la secuencia de tareas con holgura cero. Cualquier retraso
 
 </aside>
 
-## Ejercicio 2: Análisis del valor ganado (Earned Value) (⭐⭐)
+## ✏️ Ejercicio 2: Análisis del valor ganado (Earned Value) (⭐⭐)
 
 Un proyecto de consultoría tiene un presupuesto total (BAC) de 150.000 € y una duración prevista de 6 meses. Al finalizar el mes 3, se han ejecutado 3 de 6 fases (50% del trabajo planificado). Los costes reales acumulados son 90.000 €. Calcula: PV, EV, AC, CV, SV, CPI, SPI. Interpreta los resultados y pronostica el coste final (EAC).
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **ANÁLISIS DEL VALOR GANADO - PROYECTO CONSULTORÍA**
@@ -115,7 +115,7 @@ VAC (Variación al finalizar) = BAC - EAC = 150.000 - 180.723 = -30.723 €
 **Conclusión:** Si el rendimiento de costes no mejora, el proyecto terminará con un sobrecoste de aproximadamente 30.723 € sobre el presupuesto inicial.
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Cálculos completos de EVM con interpretación y pronóstico del coste final.
 
 <aside type="tip">
@@ -124,7 +124,7 @@ El análisis del valor ganado (EVM) integra alcance, plazo y coste. Un CPI menor
 
 </aside>
 
-## Ejercicio 3: Matriz de probabilidad e impacto con simulación (⭐⭐⭐)
+## ✏️ Ejercicio 3: Matriz de probabilidad e impacto con simulación (⭐⭐⭐)
 
 Para el proyecto de la plataforma e-learning, se han identificado los siguientes 6 riesgos. Construye una matriz de probabilidad-impacto (5x5) y calcula el valor esperado del riesgo (Probabilidad x Impacto económico). Prioriza los riesgos y propone un plan de respuesta para los 3 riesgos críticos.
 
@@ -137,7 +137,7 @@ Para el proyecto de la plataforma e-learning, se han identificado los siguientes
 | R5: Incompatibilidad con navegadores antiguos | 40% | 12.000 € |
 | R6: Retraso en la entrega de contenidos por proveedor externo | 50% | 15.000 € |
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **MATRIZ DE PROBABILIDAD-IMPACTO Y VALOR ESPERADO**
@@ -174,7 +174,7 @@ Probabilidad ↓
 **Valor esperado total de riesgos:** 7.500 + 8.000 + 6.000 + 4.800 + 4.800 + 7.500 = 38.600 €
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Matriz de probabilidad-impacto, valor esperado de cada riesgo, priorización y plan de respuesta para los 3 críticos.
 
 <aside type="tip">
@@ -183,7 +183,7 @@ El valor esperado del riesgo (Probabilidad x Impacto) permite priorizar objetiva
 
 </aside>
 
-## Ejercicio 4: Nivelación de recursos (Resource Leveling) (⭐⭐⭐⭐)
+## ✏️ Ejercicio 4: Nivelación de recursos (Resource Leveling) (⭐⭐⭐⭐)
 
 El proyecto de consultoría tiene 4 consultores disponibles. Las tareas y sus necesidades de recursos son:
 
@@ -198,7 +198,7 @@ El proyecto de consultoría tiene 4 consultores disponibles. Las tareas y sus ne
 
 Planifica la asignación de recursos aplicando nivelación. Calcula la duración inicial (sin nivelar), identifica el conflicto de recursos, aplica nivelación y calcula la nueva duración. Presenta un diagrama de carga de recursos antes y después.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **NIVELACIÓN DE RECURSOS - PROYECTO CONSULTORÍA**
@@ -251,7 +251,7 @@ F:                          ████ ████ (4 consultores)
 - Carga máxima reducida de 5 a 4 consultores
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un plan de nivelación con diagramas de carga antes y después, identificación del conflicto y solución aplicada.
 
 <aside type="tip">
@@ -262,13 +262,20 @@ La nivelación de recursos resuelve conflictos cuando la demanda supera la dispo
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: La reunión de seguimiento donde nadie ha actualizado nada
 
 Son las 9:30. Empieza la reunión semanal de seguimiento del proyecto Knowledge Manager. Abres el cronograma en la pantalla y ves que los estados no se han actualizado desde la semana pasada. Preguntas "¿cómo vamos?" y obtienes respuestas vagas: "ahí, ahí", "estoy en ello", "esta semana lo termino".
 
 **Tu misión:** ¿Cómo reconduces la reunión para obtener información útil? ¿Qué dos cambios harías en el proceso de seguimiento para que no vuelva a pasar?
 
-> **Pistas para la reflexión:**
-> - Las preguntas cerradas ("¿al 100%?") dan respuestas concretas; las abiertas ("¿cómo va?") dan vaguedades
-> - ¿Quién actualiza el cronograma? ¿Cada miembro del equipo o una sola persona?
-> - Una reunión sin datos es una conversación de café. Una reunión con datos es gestión.
+<aside type="tip">
+
+- Las preguntas cerradas ("¿al 100%?") dan respuestas concretas; las abiertas ("¿cómo va?") dan vaguedades
+- ¿Quién actualiza el cronograma? ¿Cada miembro del equipo o una sola persona?
+- Una reunión sin datos es una conversación de café. Una reunión con datos es gestión.
+
+</aside>
+
+
+</div>

@@ -3,11 +3,11 @@ title: "Boletín 1 - Avanzado: Gestión de proyectos empresariales. El valor del
 ---
 
 
-## Ejercicio 1: Elaboración de un caso de negocio con análisis de retorno (⭐)
+## ✏️ Ejercicio 1: Elaboración de un caso de negocio con análisis de retorno (⭐)
 
 La empresa TecnoSoluciones S.A. quiere invertir en un nuevo software ERP. Estima un coste inicial de 60.000 € y costes anuales de mantenimiento de 8.000 €. Los beneficios esperados son: año 1 → 15.000 €, año 2 → 28.000 €, año 3 → 35.000 €, año 4 → 40.000 €. Calcula el ROI, el período de recuperación (payback) y el VAN con una tasa de descuento del 5%. Redacta una conclusión recomendando o no la inversión.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **CASO DE NEGOCIO - IMPLANTACIÓN ERP TECNOSOLUCIONES S.A.**
@@ -39,7 +39,7 @@ VAN = **14.462 €** (positivo, proyecto viable)
 **Conclusión:** El proyecto es viable. El VAN positivo indica que genera valor por encima del coste de capital. El payback de 3,19 años es razonable para un ERP. Se recomienda aprobar la inversión.
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un caso de negocio completo con cálculos financieros, tabla de flujos y una conclusión razonada.
 
 <aside type="tip">
@@ -48,11 +48,11 @@ El VAN positivo indica que el proyecto genera valor. El payback muestra en cuán
 
 </aside>
 
-## Ejercicio 2: Diseño de un plan de gestión del conocimiento (⭐⭐)
+## ✏️ Ejercicio 2: Diseño de un plan de gestión del conocimiento (⭐⭐)
 
 Una consultora de 50 empleados detecta que pierde conocimiento cuando los seniors se jubilan. Diseña un plan de gestión del conocimiento que incluya: mapa de conocimiento crítico, herramientas de captura (3), estrategias de transferencia (3), indicadores de retención (2) y un cronograma de implantación a 6 meses.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **PLAN DE GESTIÓN DEL CONOCIMIENTO - CONSULTORA ESTRATÉGICA S.L.**
@@ -86,7 +86,7 @@ Una consultora de 50 empleados detecta que pierde conocimiento cuando los senior
 - Mes 6: Cierre del plan y elaboración de informe de resultados
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un plan estructurado con las cinco secciones que permita a la organización retener el conocimiento crítico.
 
 <aside type="tip">
@@ -95,11 +95,11 @@ El plan de gestión del conocimiento debe abordar tanto la captura (extraer el c
 
 </aside>
 
-## Ejercicio 3: Estrategia de gestión del cambio organizativo (⭐⭐⭐)
+## ✏️ Ejercicio 3: Estrategia de gestión del cambio organizativo (⭐⭐⭐)
 
 La empresa FamiliCorp (50 años de historia, 200 empleados, cultura tradicional) va a implantar un ERP que sustituye procesos manuales que funcionan desde siempre. Diseña una estrategia de gestión del cambio siguiendo el modelo de Kotter (8 pasos). Para cada paso, describe una acción concreta adaptada al contexto de la empresa.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **ESTRATEGIA DE GESTIÓN DEL CAMBIO - MODELO KOTTER**
@@ -117,7 +117,7 @@ Empresa: FamiliCorp (200 empleados, cultura tradicional)
 | 8. Anclar el cambio | Incorporar el uso del ERP en las evaluaciones de desempeño. Actualizar el manual de procedimientos. |
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una tabla con los 8 pasos de Kotter y una acción concreta para cada uno.
 
 <aside type="tip">
@@ -126,11 +126,11 @@ El modelo de Kotter es uno de los más utilizados para gestionar el cambio organ
 
 </aside>
 
-## Ejercicio 4: Creación de un marco de gobierno del proyecto (⭐⭐⭐⭐)
+## ✏️ Ejercicio 4: Creación de un marco de gobierno del proyecto (⭐⭐⭐⭐)
 
 Diseña un marco de gobierno para un programa de transformación digital que abarca 4 proyectos simultáneos (CRM, ERP, BI, E-commerce) en una empresa de 500 empleados. Define: comités necesarios (al menos 3), niveles de decisión, umbrales de escalado, frecuencia de reuniones y responsables. Incluye un diagrama de la estructura de gobierno.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **MARCO DE GOBIERNO - PROGRAMA DE TRANSFORMACIÓN DIGITAL**
@@ -180,7 +180,7 @@ Comité Técnico (CT)
 - Líderes técnicos: reporting semanal al CT
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un marco de gobierno completo con comités, niveles de decisión, escalado y diagrama que permita gestionar el programa de forma estructurada.
 
 <aside type="tip">
@@ -191,13 +191,20 @@ Un marco de gobierno define quién decide qué y cómo se escalan los problemas.
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: El elevator pitch que te juegas en el ascensor
 
 Subes al ascensor de GesDoc Consulting y, para tu sorpresa, está el nuevo Consejero Delegado. Te mira y te dice: "Oye, tú eres el del proyecto ese de Knowledge Management, ¿verdad? Explícamelo en 30 segundos, que llegamos a la séptima planta."
 
 **Tu misión:** Prepara tu discurso de ascensor. Debe incluir: qué problema resuelve, cómo lo haces y qué beneficio concreto aporta a la empresa. Sin jerga técnica. En 30 segundos.
 
-> **Pistas para la reflexión:**
-> - No uses las palabras "Knowledge Management" en la primera frase. Empieza por el problema.
-> - Un CEO quiere saber: ¿esto ayuda a ganar más o a gastar menos?
-> - Practica en voz alta. Si no te sale en menos de 80 palabras, es demasiado largo.
+<aside type="tip">
+
+- No uses las palabras "Knowledge Management" en la primera frase. Empieza por el problema.
+- Un CEO quiere saber: ¿esto ayuda a ganar más o a gastar menos?
+- Practica en voz alta. Si no te sale en menos de 80 palabras, es demasiado largo.
+
+</aside>
+
+
+</div>

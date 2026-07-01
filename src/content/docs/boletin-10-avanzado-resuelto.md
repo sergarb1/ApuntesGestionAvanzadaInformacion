@@ -5,7 +5,7 @@ title: "Boletín 10 - Nivel Avanzado (Resuelto): Proyecto Knowledge Management (
 1. ⭐ **Redactar un análisis DAFO del proyecto de gestión documental**
    Realiza un análisis DAFO (Debilidades, Amenazas, Fortalezas, Oportunidades) para el proyecto de implantación de un sistema de gestión documental en una pyme de 25 empleados. Incluye al menos 3 elementos en cada cuadrante y explica cómo las fortalezas pueden aprovechar las oportunidades y cómo mitigar las debilidades frente a las amenazas.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    ANÁLISIS DAFO
    
@@ -33,7 +33,7 @@ title: "Boletín 10 - Nivel Avanzado (Resuelto): Proyecto Knowledge Management (
    - Mitigar D1 + A3: Campaña de comunicación interna mostrando que la competencia ya está digitalizada.
    - Mitigar D2 + A2: Plan de formación escalonado que incluya cumplimiento normativo.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Análisis DAFO con 4 cuadrantes, 3 elementos cada uno, y estrategias FO y DA.
    ```
@@ -46,7 +46,7 @@ El DAFO permite tener una visión completa del proyecto antes de empezar. No bas
 2. ⭐⭐ **Elaborar un plan de comunicación del proyecto para los grupos de interés**
    Diseña un plan de comunicación para el proyecto de gestión documental dirigido a cuatro grupos de interés: dirección, empleados, proveedores y clientes. Para cada grupo define: objetivo de la comunicación, canal, frecuencia, contenido clave y responsable. Incluye cómo gestionar las posibles resistencias al cambio.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    PLAN DE COMUNICACIÓN DEL PROYECTO
    
@@ -81,7 +81,7 @@ El DAFO permite tener una visión completa del proyecto antes de empezar. No bas
    - Contenido: "Hemos mejorado nuestro sistema de gestión documental para ofrecerte un servicio más rápido y seguro."
    - Responsable: Departamento Comercial.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Plan de comunicación con 4 grupos de interés, canales, frecuencias y estrategia de gestión del cambio.
    ```
@@ -94,7 +94,7 @@ El fracaso de muchos proyectos no es técnico sino humano. Un plan de comunicaci
 3. ⭐⭐ **Calcular el retorno de inversión (ROI) del proyecto**
    Estima los costes anuales actuales por la mala gestión documental (pérdida de tiempo, errores, almacenamiento) y compáralos con la inversión del proyecto. Calcula el ROI esperado a 1, 2 y 3 años. Incluye los supuestos y las fórmulas utilizadas. Determina el periodo de amortización (payback).
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    CÁLCULO DEL RETORNO DE INVERSIÓN (ROI)
    
@@ -129,7 +129,7 @@ El fracaso de muchos proyectos no es técnico sino humano. Un plan de comunicaci
    
    Nota: El ROI es extraordinariamente alto porque la situación de partida es muy ineficiente. En empresas ya parcialmente digitalizadas, los ahorros serían menores pero aún significativos.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    ROI calculado para 3 años (950% año 1) con payback de 1,14 meses y todos los supuestos detallados.
    ```
@@ -142,7 +142,7 @@ El ROI traduce los beneficios intangibles (tiempo, organización) en euros. Un p
 4. ⭐⭐⭐ **Redactar la memoria completa del proyecto (esquema + desarrollo de una sección técnica)**
    Diseña el esquema completo de una memoria de proyecto de implantación de un sistema de knowledge management. El esquema debe tener al menos 10 secciones. Desarrolla en profundidad la sección "Arquitectura del sistema y flujos de información", describiendo: repositorio único, motor de búsqueda, taxonomía, permisos de acceso e integraciones con otras herramientas. Redacta esta sección como si fuera la memoria real presentada a la dirección.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    ESQUEMA COMPLETO DE LA MEMORIA
    
@@ -197,7 +197,7 @@ El ROI traduce los beneficios intangibles (tiempo, organización) en euros. Un p
    
    Esta arquitectura garantiza un único punto de verdad, accesible desde cualquier dispositivo y con controles de seguridad adaptados a cada tipo de documento.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Esquema de 12 secciones + desarrollo completo de la sección técnica con 5 subsecciones detalladas.
    ```
@@ -211,14 +211,21 @@ Una memoria de proyecto debe ser completa pero no excesiva. El esquema muestra l
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: La memoria final es un rompecabezas de 9 piezas
 
 Faltan 4 días para entregar la memoria del proyecto Knowledge Manager. Cada unidad del curso ha generado un entregable: propuesta, planificación, plantillas, dashboard, vídeo, espacio colaborativo, portal web, clasificación documental, política de custodia. Tienes 9 archivos en 9 carpetas distintas, cada uno con su propio formato, estilo y estructura. Tu jefe de proyecto te pide "la memoria unificada para mañana".
 
 **Tu misión:** ¿Qué estructura le das a la memoria para que las 9 piezas tengan coherencia? ¿Cómo organizas los contenidos para que un directivo pueda leer el resumen ejecutivo y un técnico pueda ir a los detalles? ¿Qué haces con los formatos dispares (Word, Excel, PowerPoint, vídeo)?
 
-> **Pistas para la reflexión:**
-> - La memoria debe tener un hilo conductor: situación inicial → fases del proyecto → resultados → lecciones aprendidas
-> - Los entregables en formatos no textuales (vídeo, Excel) van como anexos o capturas incorporadas al cuerpo
-> - El resumen ejecutivo se escribe el último, pero va el primero: debe poder leerse solo y contar toda la historia
+<aside type="tip">
+
+- La memoria debe tener un hilo conductor: situación inicial → fases del proyecto → resultados → lecciones aprendidas
+- Los entregables en formatos no textuales (vídeo, Excel) van como anexos o capturas incorporadas al cuerpo
+- El resumen ejecutivo se escribe el último, pero va el primero: debe poder leerse solo y contar toda la historia
+
+</aside>
+
 ```
+
+</div>

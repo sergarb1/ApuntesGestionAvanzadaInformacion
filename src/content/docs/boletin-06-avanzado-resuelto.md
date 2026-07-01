@@ -5,7 +5,7 @@ title: "Boletín 06 - Nivel Avanzado (Resuelto): Comunicación y trabajo en equi
 1. ⭐ **Diseñar una estructura de equipos para toda la organización**
    Una empresa de 50 empleados tiene los departamentos: Dirección, RRHH, Comercial, Producción y Administración. Diseña una estructura en Teams con equipos públicos y privados, canales estándar y privados, y justifica qué tipo de equipo usarías para cada departamento. Especifica quién debería ser propietario en cada caso.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Estructura propuesta:
    
@@ -32,7 +32,7 @@ title: "Boletín 06 - Nivel Avanzado (Resuelto): Comunicación y trabajo en equi
    Justificación: Los equipos privados protegen información sensible (nóminas, estrategia, datos contables).
    Los públicos fomentan la transparencia en áreas operativas.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Estructura de 5 equipos con canales estándar y privados correctamente justificada.
    ```
@@ -45,7 +45,7 @@ La combinación de equipos públicos y privados permite equilibrar la transparen
 2. ⭐⭐ **Automatizar el envío de una agenda semanal con Power Automate**
    Crea un flujo en Power Automate que cada lunes a las 8:00 h publique un mensaje en el canal "General" del equipo con el resumen de tareas pendientes del Planner. Describe los pasos para configurarlo y qué conectores necesitas.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Conectores necesarios: Planner, Teams, Programador.
    
@@ -60,7 +60,7 @@ La combinación de equipos públicos y privados permite equilibrar la transparen
    - Incluir nombre de la tarea, asignado y fecha de vencimiento.
    - Añadir una condición para etiquetar con "⚠️ Urgente" si la etiqueta es roja.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Cada lunes a las 8:00 aparece un mensaje en el canal General con las tareas pendientes del Planner.
    ```
@@ -73,7 +73,7 @@ Power Automate elimina la necesidad de recordatorios manuales. Al integrar Plann
 3. ⭐⭐ **Configurar una reunión recurrente con grabación automática**
    Programa una reunión recurrente semanal (los miércoles de 9:30 a 10:30) llamada "Seguimiento de proyectos". Activa la grabación automática y la transcripción en vivo. Configura que los archivos de grabación se guarden en la biblioteca de documentos del equipo "Proyecto Facturación 2026".
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    1. Calendario de Teams → "Nueva reunión" → "Programar reunión".
    2. Asunto: "Seguimiento de proyectos".
@@ -87,7 +87,7 @@ Power Automate elimina la necesidad de recordatorios manuales. Al integrar Plann
       - Opcional: usar Power Automate para mover las grabaciones automáticamente tras finalizar.
    6. Invitar a los asistentes habituales y guardar.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Reunión recurrente creada. Cada miércoles se grabará y transcribirá automáticamente.
    ```
@@ -104,7 +104,7 @@ La grabación automática asegura que ningún asistente pierda información si n
    - Se publique un mensaje en Teams con un resumen de la solicitud.
    Describe los pasos, conectores y la lógica de asignación condicional.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Conectores: Microsoft Forms, SharePoint, Planner, Teams.
    
@@ -124,7 +124,7 @@ La grabación automática asegura que ningún asistente pierda información si n
    
    Nota: Usar "Aplicar a cada" y "Configuración de concurrentes" para evitar límites de API.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Cada respuesta de formulario genera un registro en SharePoint, una tarea en Planner y un aviso en Teams.
    ```
@@ -138,14 +138,21 @@ Este flujo elimina la entrada manual de datos y reduce el tiempo de respuesta a 
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: El equipo que habla en 4 idiomas (digitales)
 
 Eres el Knowledge Manager y acabas de descubrir que el equipo del proyecto se comunica así: los de Madrid usan Teams, los de Barcelona usan WhatsApp, los de Valencia usan correo electrónico y los de Bilbao usan Slack (herencia de un cliente antiguo). Cada vez que hay que tomar una decisión importante, la información está repartida en 4 sitios distintos y nadie tiene la versión completa. Las decisiones se retrasan, la gente se salta cadenas y los malentendidos crecen.
 
 **Tu misión:** Diseña un plan de unificación de la comunicación en 30 días. ¿Qué herramienta eliges como canal oficial? ¿Cómo convences a cada oficina para que abandone su herramienta actual? ¿Qué haces con la información histórica que ya está en cada plataforma?
 
-> **Pistas para la reflexión:**
-> - La mejor herramienta no es la más potente, es la que todo el equipo usa de verdad
-> - El cambio requiere formación y un período de solapamiento (no apagues todas las herramientas el mismo día)
-> - La información histórica importante debe migrarse; la trivial puede perderse
+<aside type="tip">
+
+- La mejor herramienta no es la más potente, es la que todo el equipo usa de verdad
+- El cambio requiere formación y un período de solapamiento (no apagues todas las herramientas el mismo día)
+- La información histórica importante debe migrarse; la trivial puede perderse
+
+</aside>
+
 ```
+
+</div>

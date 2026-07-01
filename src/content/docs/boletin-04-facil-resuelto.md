@@ -3,11 +3,11 @@ title: "Boletín 4 - Fácil: Informes empresariales: datos, gráficos y comunica
 ---
 
 
-## Ejercicio 1: Creación de un cuadro de mando con KPIs
+## ✏️ Ejercicio 1: Creación de un cuadro de mando con KPIs
 
 Diseña un cuadro de mando en Excel para el departamento de atención al cliente. Debe incluir: 5 indicadores clave (KPIs) con semáforo (verde/ámbar/rojo), un gráfico de evolución mensual de llamadas atendidas y una tabla resumen con datos de los últimos 6 meses. Los KPIs son: tiempo medio de respuesta (< 2 min → verde, 2-5 min → ámbar, > 5 min → rojo), llamadas atendidas/día (> 50 → verde, 30-50 → ámbar, < 30 → rojo), satisfacción del cliente (> 85% → verde, 70-85% → ámbar, < 70% → rojo).
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **CUADRO DE MANDO - ATENCIÓN AL CLIENTE**
@@ -48,7 +48,7 @@ Panel de KPIs (formato semáforo con formato condicional):
 - Incluir línea de objetivo (50/día) como referencia
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un cuadro de mando con 5 KPIS, semáforo, gráfico de evolución mensual y tabla de datos.
 
 <aside type="tip">
@@ -57,11 +57,11 @@ Los cuadros de mando permiten visualizar rápidamente el estado de los indicador
 
 </aside>
 
-## Ejercicio 2: Combinación de correspondencia para comunicación comercial
+## ✏️ Ejercicio 2: Combinación de correspondencia para comunicación comercial
 
 Una agencia de seguros necesita enviar una carta personalizada a 200 clientes ofreciendo un descuento del 15% en su renovación anual. Diseña el proceso completo: estructura del origen de datos en Excel (campos necesarios), carta modelo en Word con los campos combinados, y las instrucciones paso a paso para ejecutar la combinación. Incluye un ejemplo de cómo filtrar solo a clientes con pólizas superiores a 500 €.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **COMBINACIÓN DE CORRESPONDENCIA - DESCUENTO RENOVACIÓN**
@@ -109,7 +109,7 @@ Configurar filtro: ImportePoliza es mayor que 500
 Finalizar y combinar > Imprimir documentos (o Enviar correo electrónico)
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una carta modelo con campos combinados, origen de datos Excel configurado y filtro aplicado para seleccionar clientes objetivo.
 
 <aside type="tip">
@@ -118,11 +118,11 @@ La combinación de correspondencia permite personalizar comunicaciones masivas. 
 
 </aside>
 
-## Ejercicio 3: Creación de una infografía empresarial
+## ✏️ Ejercicio 3: Creación de una infografía empresarial
 
 Diseña una infografía en formato vertical (A4) que resuma los logros anuales de una empresa de logística. Debe incluir: título llamativo, 4 datos clave con iconos (paquetes enviados, km recorridos, empleados, clientes), un gráfico de barras de crecimiento interanual, una línea de tiempo con los hitos del año y un código de colores corporativos (azul y naranja).
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **INFOGRÁFICA ANUAL - LOGÍSTICA RÁPIDA S.A.**
@@ -159,7 +159,7 @@ Diseña una infografía en formato vertical (A4) que resuma los logros anuales d
 - Fondo: Blanco #FFFFFF y gris claro #F5F5F5
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una infografía empresarial completa con datos clave, gráfico de crecimiento y línea de tiempo.
 
 <aside type="tip">
@@ -168,11 +168,11 @@ Las infografías combinan datos visuales y texto para comunicar información de 
 
 </aside>
 
-## Ejercicio 4: Informe empresarial con gráficos dinámicos
+## ✏️ Ejercicio 4: Informe empresarial con gráficos dinámicos
 
 Elabora un informe de ventas trimestral en Excel para una cadena de tiendas de ropa. Debe incluir: portada con título y fecha, tabla de datos (6 meses × 3 tiendas), 2 gráficos (evolución de ventas por tienda y comparativa por categoría de producto), análisis de tendencias y un cuadro de conclusiones con recomendaciones.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **INFORME DE VENTAS TRIMESTRAL - MODA URBANA S.L.**
@@ -218,7 +218,7 @@ Elabora un informe de ventas trimestral en Excel para una cadena de tiendas de r
 4. Proyectar cierre de 2026: 310.000 €/trimestre (estimación)
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un informe estructurado en 3 hojas (portada, datos, análisis) con gráficos, tendencias y conclusiones.
 
 <aside type="tip">
@@ -229,13 +229,20 @@ Un informe empresarial debe contar una historia con los datos. La estructura tí
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: El gráfico que no cuenta nada
 
 La directora general de GesDoc Consulting recibe tu informe ejecutivo con 5 gráficos, tablas y un dashboard. Te llama y te dice: "He mirado los gráficos y no sé si las cosas van bien o mal. Esto parece una sopa de números. Necesito que en una diapositiva me expliques el estado del proyecto en 30 segundos."
 
 **Tu misión:** ¿Cuál es el problema? ¿Estás mostrando datos o estás contando una historia? Rediseña el mensaje: ¿qué gráfico quitas, cuál mantienes y qué titular le pones a cada uno? Prepara la diapositiva mentalmente con la estructura: titular → dato → conclusión.
 
-> **Pistas para la reflexión:**
-> - Menos es más: un gráfico bien explicado vale más que 5 gráficos sin contexto
-> - Cada gráfico debe responder a una pregunta concreta: ¿vamos bien de plazo? ¿de presupuesto? ¿de calidad?
-> - El titular debe ser la conclusión, no la descripción: "Vamos bien de plazo pero nos estamos saliendo del presupuesto" vs "Gráfico de evolución del proyecto"
+<aside type="tip">
+
+- Menos es más: un gráfico bien explicado vale más que 5 gráficos sin contexto
+- Cada gráfico debe responder a una pregunta concreta: ¿vamos bien de plazo? ¿de presupuesto? ¿de calidad?
+- El titular debe ser la conclusión, no la descripción: "Vamos bien de plazo pero nos estamos saliendo del presupuesto" vs "Gráfico de evolución del proyecto"
+
+</aside>
+
+
+</div>

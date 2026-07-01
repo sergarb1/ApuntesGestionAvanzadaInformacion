@@ -5,7 +5,7 @@ title: "Boletín 09 - Nivel Fácil (Resuelto): Flujos de trabajo, custodia de do
 1. **Diseñar un flujo de trabajo de aprobación de facturas**
    El proceso de pago de una factura requiere: (1) recepción de la factura, (2) validación por el departamento solicitante, (3) aprobación por administración y (4) pago por tesorería. Dibuja un diagrama de flujo con las etapas, responsables y condiciones (por ejemplo, si la factura supera 1000 € requiere aprobación extra del director). Describe el flujo paso a paso.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Flujo de aprobación de facturas:
    
@@ -32,7 +32,7 @@ title: "Boletín 09 - Nivel Fácil (Resuelto): Flujos de trabajo, custodia de do
    - Facturas sin pedido asociado: requieren justificación escrita del solicitante.
    - Facturas de proveedores nuevos: requieren validación adicional de cumplimiento (datos fiscales correctos).
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Diagrama de flujo con 4 etapas, responsables, condiciones y rutas alternativas.
    ```
@@ -45,7 +45,7 @@ Un flujo de trabajo bien definido elimina la ambigüedad sobre quién hace qué 
 2. **Cumplimentar una lista de verificación RGPD para un tratamiento de datos**
    El departamento de RRHH va a crear un fichero con datos de empleados (nombre, DNI, teléfono, salario). Elabora una lista de verificación de cumplimiento RGPD que incluya al menos 6 puntos: base legal, información al interesado, conservación, seguridad, cesión de datos y derechos ARCO.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Lista de verificación RGPD para fichero de empleados:
    
@@ -57,7 +57,7 @@ Un flujo de trabajo bien definido elimina la ambigüedad sobre quién hace qué 
    ✔ Derechos ARCO: Se ha designado un procedimiento para atender solicitudes de acceso, rectificación, cancelación y oposición en el plazo máximo de 30 días.
    ✔ Registro de actividades: El tratamiento se ha incluido en el registro de actividades de tratamiento (RAT) de la empresa.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Lista de verificación con 7 puntos, todos marcados como cumplidos, con referencias al RGPD.
    ```
@@ -70,7 +70,7 @@ El RGPD exige que cualquier tratamiento de datos personales esté justificado, s
 3. **Crear un registro de entrada y salida de documentos**
    Diseña una plantilla (puede ser en Excel o SharePoint) para registrar la entrada y salida de documentos físicos en el archivo. La plantilla debe incluir: fecha, número de registro, tipo documental, remitente/destinatario, documento, soporte, ubicación física y firma de recepción. Rellena 3 ejemplos.
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Plantilla de registro (campos):
    
@@ -88,7 +88,7 @@ El RGPD exige que cualquier tratamiento de datos personales esté justificado, s
    - Cuando un documento sale del archivo (préstamo), se anota la fecha prevista de devolución.
    - Si el documento es digital, la ubicación es el sistema DMS y la ruta de carpeta.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Plantilla funcional con 3 registros de ejemplo y criterios de numeración definidos.
    ```
@@ -101,7 +101,7 @@ Un registro de entrada/salida permite saber en todo momento qué documentos est�
 4. **Aplicar una política de retención a documentos electrónicos**
    La empresa ha decidido eliminar facturas anteriores a 2018 (8 años de antigüedad). Enumera los pasos que debes seguir para hacerlo de forma segura y conforme a la ley: identificación de los documentos a eliminar, autorización, método de eliminación y registro de la destrucción. ¿Qué documentos NO deberías eliminar aunque superen el plazo?
 
-   **Solución:**
+   <span class="solucion-label">✅ Solución:</span>
    ```text
    Pasos para eliminación segura de documentos electrónicos:
    
@@ -119,7 +119,7 @@ Un registro de entrada/salida permite saber en todo momento qué documentos est�
    
    La eliminación debe suspenderse si hay cualquier proceso abierto que requiera esos documentos.
    ```
-   **Salida esperada:**
+   <span class="salida-label">📋 Salida esperada:</span>
    ```
    Procedimiento en 6 pasos con identificación, autorización, eliminación segura y registro documental.
    ```
@@ -133,14 +133,21 @@ Eliminar documentos no es tan sencillo como pulsar "Suprimir". La normativa exig
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: La auditoría que destapa una filtración de datos
 
 El Delegado de Protección de Datos de GesDoc Consulting te informa de que ha recibido una notificación: un empleado del departamento de Formación ha enviado por error un listado de empleados con datos personales (nombre, DNI, salario) a toda la lista de distribución de clientes externos. El error ocurrió hace 20 minutos. Ahora mismo no sabes: (1) cuántos destinatarios lo han recibido, (2) si los datos se pueden recuperar, (3) qué obligación legal tienes de notificar a la Agencia Española de Protección de Datos.
 
 **Tu misión:** ¿Cuáles son las 3 acciones inmediatas que pones en marcha en los próximos 5 minutos? ¿Qué medidas preventivas implementarías en los workflows de aprobación de documentos para que un error así no pueda volver a ocurrir?
 
-> **Pistas para la reflexión:**
-> - La AEPD debe ser notificada en un plazo de 72 horas si hay riesgo para los derechos de las personas
-> - La primera acción es contener: pedir al empleado que revoque el correo si es posible, o enviar un correo de rectificación
-> - Los workflows de aprobación deberían detectar automáticamente envíos masivos con datos personales y requerir una doble validación
+<aside type="tip">
+
+- La AEPD debe ser notificada en un plazo de 72 horas si hay riesgo para los derechos de las personas
+- La primera acción es contener: pedir al empleado que revoque el correo si es posible, o enviar un correo de rectificación
+- Los workflows de aprobación deberían detectar automáticamente envíos masivos con datos personales y requerir una doble validación
+
+</aside>
+
 ```
+
+</div>

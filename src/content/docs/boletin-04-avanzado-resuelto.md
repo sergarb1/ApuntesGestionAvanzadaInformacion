@@ -3,11 +3,11 @@ title: "Boletín 4 - Avanzado: Informes empresariales: datos, gráficos y comuni
 ---
 
 
-## Ejercicio 1: Cuadro de mando interactivo con segmentadores y líneas de tiempo (⭐)
+## ✏️ Ejercicio 1: Cuadro de mando interactivo con segmentadores y líneas de tiempo (⭐)
 
 Diseña un cuadro de mando interactivo en Excel para una cadena de 10 tiendas. Debe incluir: tabla de ventas diarias (5.000+ registros de todo el año), tabla dinámica resumen por tienda y mes, 2 gráficos dinámicos (ventas por tienda y evolución temporal), segmentadores para filtrar por tienda, región y tipo de producto, y una línea de tiempo (timeline) para filtrar por rango de fechas. Describe la configuración paso a paso.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **CUADRO DE MANDO INTERACTIVO - VENTAS ANUALES**
@@ -44,7 +44,7 @@ Formato: Tabla (Ctrl+T) para que los datos sean dinámicos.
 - Añadir un título: "DASHBOARD DE VENTAS 2026"
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un dashboard interactivo con tabla dinámica, 3 gráficos vinculados, 3 segmentadores y una línea de tiempo funcionando sincronizadamente.
 
 <aside type="tip">
@@ -53,11 +53,11 @@ Los segmentadores y líneas de tiempo convierten un informe estático en una her
 
 </aside>
 
-## Ejercicio 2: Scorecard dinámico con formato condicional avanzado (⭐⭐)
+## ✏️ Ejercicio 2: Scorecard dinámico con formato condicional avanzado (⭐⭐)
 
 Diseña un scorecard de rendimiento para evaluar a 20 comerciales. Cada comercial tiene 4 indicadores: ventas mensuales (€), clientes nuevos, tasa de conversión (%) y cumplimiento de objetivos (%). Crea un sistema de puntuación ponderada (30% ventas, 25% clientes, 20% conversión, 25% cumplimiento) que asigne una nota final del 0 al 10. Utiliza formato condicional con barras de datos, escalas de color y conjuntos de iconos. Incluye un ranking automático.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **SCORECARD COMERCIAL - RENDIMIENTO MENSUAL**
@@ -96,7 +96,7 @@ Si Ranking <= 3 → fondo verde claro
 Si Ranking >= 18 → fondo rojo claro
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un scorecard con 20 comerciales evaluados, puntuación ponderada automática, ranking y formato condicional avanzado.
 
 <aside type="tip">
@@ -105,11 +105,11 @@ Los scorecards permiten evaluar el rendimiento de forma objetiva combinando múl
 
 </aside>
 
-## Ejercicio 3: Infografía dinámica basada en datos con tablas dinámicas (⭐⭐⭐)
+## ✏️ Ejercicio 3: Infografía dinámica basada en datos con tablas dinámicas (⭐⭐⭐)
 
 Crea una infografía dinámica en Excel que se actualice automáticamente al cambiar los datos de origen. Los datos son: encuesta de satisfacción de 500 clientes con campos (edad, género, producto, puntuación 1-5, recomendaría S/N, comentarios). La infografía debe incluir: indicador de NPS (Net Promoter Score), 2 gráficos dinámicos (satisfacción por producto y edad), tarjetas con KPIs (media, total respuestas, % promotores), y formato condicional que resalte productos con NPS inferior a 30.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **INFOGRÁFICA DINÁMICA DE SATISFACCIÓN - NPS**
@@ -147,7 +147,7 @@ Aplicar a: celdas de nombre de producto
 Formato: Fondo rojo claro, texto rojo oscuro, negrita
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una infografía interactiva que calcula el NPS automáticamente y se actualiza al añadir nuevas respuestas de la encuesta.
 
 <aside type="tip">
@@ -156,11 +156,11 @@ El NPS (Net Promoter Score) es un indicador estándar de satisfacción y lealtad
 
 </aside>
 
-## Ejercicio 4: Generación automatizada de informes trimestrales (⭐⭐⭐⭐)
+## ✏️ Ejercicio 4: Generación automatizada de informes trimestrales (⭐⭐⭐⭐)
 
 Diseña un sistema en Excel que genere automáticamente un informe trimestral de ventas con los siguientes requisitos: los datos brutos están en una hoja (12 meses × 5 productos × 4 regiones), el informe debe incluir portada dinámica (con trimestre seleccionable), tabla resumen (top 10 productos), gráfico de tendencias, tabla comparativa intertrimestral y exportación automática a PDF. Todo debe actualizarse al cambiar el trimestre en una celda desplegable.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **SISTEMA AUTOMATIZADO DE INFORMES TRIMESTRALES**
@@ -219,7 +219,7 @@ Para hacerlo más rápido, se puede asignar el comando a la barra de acceso ráp
 3. Archivo > Exportar > Crear PDF/XPS para guardar el informe
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un sistema completo que genera informes trimestrales automáticamente al cambiar un parámetro, listo para exportar a PDF.
 
 <aside type="tip">
@@ -230,13 +230,20 @@ La automatización de informes mediante parámetros y fórmulas dinámicas reduc
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: El gráfico que no cuenta nada
 
 La directora general de GesDoc Consulting recibe tu informe ejecutivo con 5 gráficos, tablas y un dashboard. Te llama y te dice: "He mirado los gráficos y no sé si las cosas van bien o mal. Esto parece una sopa de números. Necesito que en una diapositiva me expliques el estado del proyecto en 30 segundos."
 
 **Tu misión:** ¿Cuál es el problema? ¿Estás mostrando datos o estás contando una historia? Rediseña el mensaje: ¿qué gráfico quitas, cuál mantienes y qué titular le pones a cada uno? Prepara la diapositiva mentalmente con la estructura: titular → dato → conclusión.
 
-> **Pistas para la reflexión:**
-> - Menos es más: un gráfico bien explicado vale más que 5 gráficos sin contexto
-> - Cada gráfico debe responder a una pregunta concreta: ¿vamos bien de plazo? ¿de presupuesto? ¿de calidad?
-> - El titular debe ser la conclusión, no la descripción: "Vamos bien de plazo pero nos estamos saliendo del presupuesto" vs "Gráfico de evolución del proyecto"
+<aside type="tip">
+
+- Menos es más: un gráfico bien explicado vale más que 5 gráficos sin contexto
+- Cada gráfico debe responder a una pregunta concreta: ¿vamos bien de plazo? ¿de presupuesto? ¿de calidad?
+- El titular debe ser la conclusión, no la descripción: "Vamos bien de plazo pero nos estamos saliendo del presupuesto" vs "Gráfico de evolución del proyecto"
+
+</aside>
+
+
+</div>

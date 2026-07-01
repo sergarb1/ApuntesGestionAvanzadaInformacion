@@ -840,3 +840,24 @@ h3::after {
 :root[data-theme='dark'] .faq-item:hover {
   background: rgba(46, 134, 193, 0.12);
 }
+
+/* ============================================ */
+/* LABELS PARA BOLETINES                        */
+/* ============================================ */
+.solucion-label, .salida-label {
+  display: inline-block;
+  font-weight: 700;
+  font-size: 0.78rem;
+  padding: 3px 12px;
+  border-radius: 20px;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.3px;
+}
+.solucion-label {
+  background: #22c55e;
+  color: #ffffff;
+}
+.salida-label {
+  background: linear-gradient(135deg, #1a5276, #2e86c1);
+  color: #ffffff;
+}

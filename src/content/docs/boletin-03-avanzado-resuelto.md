@@ -9,7 +9,7 @@ title: "Boletín 3 - Avanzado Resuelto: Documentos profesionales con Word, Excel
 
 Diseña un cuadro de mando dinámico en Excel para el seguimiento de ventas mensuales. Debe incluir: tabla de datos brutos en formato tabla (Insertar > Tabla), tabla dinámica resumen por producto y región, 2 gráficos dinámicos (ventas por producto y por región), segmentadores de datos (slicers) para filtrar por mes y región.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 ```
 CUADRO DE MANDO DINÁMICO - VENTAS MENSUALES
@@ -42,7 +42,7 @@ Paso 4: Segmentadores de datos (Slicers)
   Clic derecho en segmentador > Conexiones de informe > Marcar tabla y gráficos
 ```
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un cuadro de mando interactivo en Excel con tabla dinámica, dos gráficos vinculados y segmentadores que filtran todo al mismo tiempo.
 
 <aside type="tip">
@@ -57,7 +57,7 @@ Los segmentadores permiten filtrar visualmente todos los elementos conectados (t
 
 Una asesoría necesita generar informes personalizados para 3 tipos de clientes. Diseña un sistema con combinación de correspondencia de Word usando Excel como origen de datos.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 ```
 SISTEMA DE INFORMES PERSONALIZADOS
@@ -94,7 +94,7 @@ Para separar por tipo de cliente:
 - Repetir combinación para cada tipo
 ```
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Documentos Word personalizados generados automáticamente desde los datos de Excel, con contenido condicional según el tipo de cliente.
 
 <aside type="tip">
@@ -109,7 +109,7 @@ La combinación de correspondencia permite generar documentos masivos personaliz
 
 Diseña una presentación interactiva en PowerPoint para un curso de formación autoguiado con menú principal, navegación y cuestionario.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 ```
 PRESENTACIÓN INTERACTIVA - CURSO AUTOGUIADO
@@ -151,7 +151,7 @@ Diapo 8 (Correcto): Botón "Siguiente pregunta" → Diapo 10
 Diapo 9 (Incorrecto): Botón "Volver a intentar" → Diapo 7
 ```
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una presentación interactiva con navegación no lineal, menú principal y cuestionario autoevaluable, todo sin una línea de código.
 
 <aside type="tip">
@@ -166,7 +166,7 @@ Los hipervínculos en PowerPoint permiten crear navegación no lineal entre diap
 
 Diseña un flujo de trabajo que, partiendo de datos en Excel, genere un informe en Word y una presentación en PowerPoint usando vinculación de datos.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 ```
 FLUJO DE TRABAJO INTEGRADO - EXCEL → WORD + POWERPOINT
@@ -211,7 +211,7 @@ Paso 4: Probar la actualización
 - Abrir PowerPoint → Aceptar "Actualizar vínculos" → Los cambios se reflejan
 ```
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un sistema integrado donde Word y PowerPoint se actualizan automáticamente al modificar los datos en Excel, sin escribir una línea de código.
 
 <aside type="tip">
@@ -222,13 +222,20 @@ La vinculación de datos (Pegado especial > Pegar vínculo) permite que document
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: El informe que tu jefe quiere en 10 minutos
 
 Tu jefe entra en tu despacho a las 14:50: "Necesito un informe con los datos de ventas del trimestre, con gráficos y todo, para la reunión de las 15:00 con el director comercial. Ah, y los datos están en una hoja de Excel que aún no está cerrada porque el departamento de contabilidad sigue introduciendo cifras."
 
 **Tu misión:** ¿Cómo resuelves el plazo imposible sin morir en el intento? ¿Qué técnica ofimática te permite tener el informe listo aunque los datos sigan cambiando? Explica el proceso paso a paso.
 
-> **Pistas para la reflexión:**
-> - Vincular datos (no incrustarlos) permite que el informe se actualice solo cuando cambien los datos origen
-> - Una plantilla de informe predefinida te ahorra el 80% del tiempo de maquetación
-> - ¿Qué pasa si los datos llegan con 5 minutos de retraso? Ten un plan B
+<aside type="tip">
+
+- Vincular datos (no incrustarlos) permite que el informe se actualice solo cuando cambien los datos origen
+- Una plantilla de informe predefinida te ahorra el 80% del tiempo de maquetación
+- ¿Qué pasa si los datos llegan con 5 minutos de retraso? Ten un plan B
+
+</aside>
+
+
+</div>

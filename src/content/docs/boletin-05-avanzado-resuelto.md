@@ -3,11 +3,11 @@ title: "Boletín 5 - Avanzado: Creación de vídeos corporativos y contenido aud
 ---
 
 
-## Ejercicio 1: Producción de un vídeo corporativo multicámara (⭐)
+## ✏️ Ejercicio 1: Producción de un vídeo corporativo multicámara (⭐)
 
 Planifica la producción completa de un vídeo corporativo de 4 minutos para el lanzamiento de un nuevo producto. La producción incluye: 2 locaciones (oficina corporativa y laboratorio), 3 fuentes de vídeo (cámara principal, secundaria y drone para tomas aéreas), entrevistas a 3 personas (CEO, Product Manager, Ingeniero), grafismos animados y música original. Desarrolla el plan de rodaje (call sheet), el guion técnico multicámara y el plan de postproducción con cronograma.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **PLAN DE PRODUCCIÓN - VÍDEO LANZAMIENTO PRODUCTO**
@@ -49,7 +49,7 @@ Planifica la producción completa de un vídeo corporativo de 4 minutos para el 
 | 13 | Exportación final | Editor | MP4 H.264 + ProRes master |
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un plan de producción completo con call sheet, guion multicámara y cronograma de postproducción.
 
 <aside type="tip">
@@ -58,11 +58,11 @@ La producción profesional de vídeo corporativo requiere una planificación det
 
 </aside>
 
-## Ejercicio 2: Creación de un tutorial con anotaciones y subtítulos (⭐⭐)
+## ✏️ Ejercicio 2: Creación de un tutorial con anotaciones y subtítulos (⭐⭐)
 
 Diseña un tutorial en vídeo de 8 minutos para enseñar a empleados a utilizar el nuevo sistema de videoconferencias corporativo (Zoom/Room). El tutorial debe incluir: 3 módulos (configuración inicial, funciones básicas, funciones avanzadas), anotaciones en pantalla (flechas, círculos, zoom de área), subtítulos sincronizados en español e inglés, y un capítulo de accesibilidad (atajos de teclado, modo oscuro). Describe el flujo de trabajo de principio a fin.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **TUTORIAL VIDEOCONFERENCIA - PRODUCCIÓN ACCESIBLE**
@@ -108,7 +108,7 @@ Diseña un tutorial en vídeo de 8 minutos para enseñar a empleados a utilizar 
    - Revisión de accesibilidad: contraste, legibilidad, velocidad
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un plan completo de producción de tutorial con módulos, anotaciones, subtítulos bilingües y flujo de trabajo detallado.
 
 <aside type="tip">
@@ -117,11 +117,11 @@ Los tutoriales con anotaciones mejoran la retención del aprendizaje al dirigir 
 
 </aside>
 
-## Ejercicio 3: Estrategia de marketing en vídeo con pruebas A/B (⭐⭐⭐)
+## ✏️ Ejercicio 3: Estrategia de marketing en vídeo con pruebas A/B (⭐⭐⭐)
 
 Diseña una campaña de marketing en vídeo para promocionar un webinar gratuito de la empresa sobre tendencias de inteligencia artificial en los negocios. La campaña incluye: 3 versiones del mismo vídeo (A: enfoque educativo, B: enfoque inspiracional, C: enfoque práctico), plataformas de difusión (LinkedIn, YouTube, web corporativa), indicadores de rendimiento (tasa de clics, visualizaciones completas, inscripciones), y un plan de pruebas A/B con duración de 2 semanas. Establece criterios para determinar la versión ganadora.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **CAMPAÑA DE VÍDEO - WEBINAR IA EN LOS NEGOCIOS**
@@ -167,7 +167,7 @@ Diseña una campaña de marketing en vídeo para promocionar un webinar gratuito
 3. **Desempate:** Mayor CTR si el CPA es similar
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Una estrategia completa de campaña de vídeo marketing con 3 versiones, plan de difusión, KPIs y pruebas A/B.
 
 <aside type="tip">
@@ -176,11 +176,11 @@ Las pruebas A/B en vídeo marketing permiten optimizar la inversión identifican
 
 </aside>
 
-## Ejercicio 4: Pipeline completo de producción de vídeo (⭐⭐⭐⭐)
+## ✏️ Ejercicio 4: Pipeline completo de producción de vídeo (⭐⭐⭐⭐)
 
 Diseña un proceso completo de producción de vídeo corporativo para una empresa que produce 12 vídeos al año (1 al mes). El proceso debe cubrir: flujo de trabajo desde la solicitud hasta la entrega, roles del equipo mínimo (3 personas), herramientas software recomendadas por fase, estándares de calidad (checklist de aprobación), sistema de almacenamiento y versionado de archivos, y métricas de productividad (tiempo medio de producción, coste por vídeo). Incluye un diagrama del flujo de trabajo.
 
-**Solución:**
+<span class="solucion-label">✅ Solución:</span>
 
 `markdown
 **PROCESO DE PRODUCCIÓN DE VÍDEO CORPORATIVO**
@@ -277,7 +277,7 @@ NAS Corporativo (4 TB RAID 5)
 | Horas de edición por minuto de vídeo final | 4 h/min | 4,5 h/min |
 `
 
-**Salida esperada:**
+<span class="salida-label">📋 Salida esperada:</span>
 Un proceso completo de producción con roles, flujo de trabajo, herramientas, checklist de calidad, sistema de archivos y métricas de productividad.
 
 <aside type="tip">
@@ -290,14 +290,21 @@ Un proceso de producción estandarizado garantiza consistencia, calidad y eficie
 
 ## 🧠 Tu turno como Knowledge Manager
 
+<div class="escenario-box">
 ### Escenario: El vídeo que se escucha fatal
 
 Has grabado una entrevista al director de operaciones para el vídeo de lanzamiento del proyecto Knowledge Manager. Habla de los problemas de conocimiento en su departamento y es justo lo que necesitas. Pero al revisar el material, el audio tiene un zumbido de fondo constante que casi no deja oír su voz. No tienes tiempo ni presupuesto para volver a grabar. La presentación es en 3 días.
 
 **Tu misión:** ¿Cómo salvas el vídeo? ¿Qué herramientas o técnicas de postproducción puedes usar para limpiar el audio? ¿Y si no consigues un audio perfecto, cómo minimizas el impacto (subtítulos, música, texto en pantalla)?
 
-> **Pistas para la reflexión:**
-> - Los editores de vídeo tienen ecualizadores y filtros de reducción de ruido. Prueba con un filtro de paso alto para eliminar frecuencias graves
-> - Existen herramientas online gratuitas de limpieza de audio (Adobe Podcast Enhance, Audacity)
-> - Como plan de emergencia: subtítulos obligatorios, una música de fondo suave que enmascare el ruido
+<aside type="tip">
+
+- Los editores de vídeo tienen ecualizadores y filtros de reducción de ruido. Prueba con un filtro de paso alto para eliminar frecuencias graves
+- Existen herramientas online gratuitas de limpieza de audio (Adobe Podcast Enhance, Audacity)
+- Como plan de emergencia: subtítulos obligatorios, una música de fondo suave que enmascare el ruido
+
+</aside>
+
 ```
+
+</div>
