@@ -2,45 +2,87 @@
 title: "Proyecto 6: Espacio colaborativo del equipo KM"
 ---
 
-## Objetivo
+## 🎯 Objetivo
 Configurar un espacio de trabajo colaborativo en Microsoft Teams (o plataforma alternativa como Notion, Slack o Trello) para el equipo del proyecto KM de GesDoc Consulting, que facilite la comunicación, la gestión de tareas, el intercambio de documentos y la coordinación del equipo multidisciplinar.
 
-## Contexto
+## 📖 Contexto
 El equipo del proyecto KM de GesDoc Consulting está formado por 6 personas de diferentes áreas y ubicaciones geográficas (Madrid, Barcelona, Valencia, Bilbao). La comunicación actual se realiza por correo electrónico y reuniones semanales, pero la información se pierde, las decisiones no quedan registradas y cuesta encontrar documentos compartidos. Como Knowledge Manager, debe implantar un espacio colaborativo digital que centralice la comunicación, la gestión de tareas y la documentación del equipo. Este espacio servirá además como piloto de las herramientas colaborativas que GesDoc Consulting planea extender al resto de la organización.
 
-## Tareas del proyecto
+## 📋 Tareas del proyecto
+<div class="tarea-item">
+
 1. Seleccionar la plataforma colaborativa más adecuada para el equipo justificando la decisión (Teams, Slack, Notion, Trello o similar) basándose en los requisitos del proyecto.
+
+</div>
+<div class="tarea-item">
+
 2. Configurar la estructura del espacio: canales o áreas de trabajo (ej: "Diagnóstico", "Diseño", "Implantación", "Formación", "Comunicaciones"), con descripción y propósito de cada una.
+
+</div>
+<div class="tarea-item">
+
 3. Crear un sistema de gestión de tareas integrado en el espacio colaborativo ( planner, tablero Kanban o lista de tareas) con asignación de responsables, prioridades, fechas de vencimiento y estados.
+
+</div>
+<div class="tarea-item">
+
 4. Configurar repositorios de documentos dentro del espacio con control de versiones, metadatos básicos y permisos de acceso.
+
+</div>
+<div class="tarea-item">
+
 5. Definir normas de uso del espacio colaborativo (netiquette, convención de nombres de archivos, política de notificaciones, frecuencia de actualización).
+
+</div>
+<div class="tarea-item">
+
 6. Realizar una sesión de formación virtual (grabada o documentada) para el equipo sobre el uso del espacio colaborativo.
 
-## Entregables
-- Capturas de pantalla comentadas del espacio colaborativo configurado (mínimo 6 capturas mostrando canales, tareas, documentos y ajustes).
-- Documento de normas de uso (2-3 páginas en Word o PDF).
-- Guía rápida de uso del espacio (1 página formato infografía o documento breve).
-- Enlace al espacio colaborativo (si es accesible) o vídeo grabado del recorrido por el espacio.
+</div>
 
-## Criterios de evaluación
-- **Configuración y estructura (30%):** Canales bien definidos, propósito claro, organización lógica.
-- **Gestión de tareas (25%):** Tablero operativo, asignaciones claras, prioridades, fechas, estados.
-- **Documentación y normas (25%):** Netiquette clara, convención de nombres, política de versiones.
-- **Usabilidad y formación (20%):** Guía de uso clara, formación documentada, espacio intuitivo.
+## 📦 Entregables
+- 📄 Capturas de pantalla comentadas del espacio colaborativo configurado (mínimo 6 capturas mostrando canales, tareas, documentos y ajustes).
+- 📄 Documento de normas de uso (2-3 páginas en Word o PDF).
+- 📄 Guía rápida de uso del espacio (1 página formato infografía o documento breve).
+- 📄 Enlace al espacio colaborativo (si es accesible) o vídeo grabado del recorrido por el espacio.
 
-## Recursos y herramientas
+## 📊 Criterios de evaluación
+- 🏆 **Configuración y estructura (30%):** Canales bien definidos, propósito claro, organización lógica.
+- 🏆 **Gestión de tareas (25%):** Tablero operativo, asignaciones claras, prioridades, fechas, estados.
+- 🏆 **Documentación y normas (25%):** Netiquette clara, convención de nombres, política de versiones.
+- 🏆 **Usabilidad y formación (20%):** Guía de uso clara, formación documentada, espacio intuitivo.
+
+## 🛠️ Recursos y herramientas
 - Microsoft Teams (con licencia educativa o corporativa), Slack, Notion, Trello, Asana o similar
 - Microsoft Planner integrado en Teams (si se usa Teams)
 - OneDrive/SharePoint para almacenamiento de documentos (si se usa Teams)
 - Guía de identidad corporativa de GesDoc Consulting
 
-## Consejos para el Knowledge Manager
+## 💡 Consejos para el Knowledge Manager
+<div class="consejo-box">
+
 - No configure el espacio solo. Involucre al equipo en el diseño: pregunte qué canales necesitan y cómo quieren organizarse.
+
+</div>
+<div class="consejo-box">
+
 - Establezca desde el primer día las normas de uso. Un espacio sin reglas termina siendo un caos peor que el correo electrónico.
+
+</div>
+<div class="consejo-box">
+
 - Utilice el espacio como piloto para demostrar su valor antes de extenderlo al resto de la organización.
+
+</div>
+<div class="consejo-box">
+
 - Programe recordatorios periódicos para mantener el espacio vivo. Un espacio colaborativo abandonado es peor que no tenerlo.
 
+</div>
+
 ## 🧠 Tu turno como Knowledge Manager
+
+<div class="escenario-box">
 
 ### Escenario: El espacio colaborativo fantasma
 
@@ -48,10 +90,19 @@ Configuraste un espacio colaborativo en Teams para el equipo del proyecto Knowle
 
 **Tu misión:** Diagnostica por qué el espacio colaborativo ha fracasado y diseña un plan de reactivación. ¿Cómo consigues que el equipo vuelva a usar la herramienta sin que parezca una imposición? ¿Qué cambios harías en la estructura o en las dinámicas de trabajo?
 
-> **Pistas para la reflexión:**
-> - Las herramientas no fracasan solas: fracasan porque el proceso no las exige
-> - ¿Hay alguna consecuencia por no usar el espacio? ¿Y algún beneficio por usarlo?
-> - A veces menos es más: ¿demasiados canales? ¿demasiadas herramientas?
+
+</div>
+
+<aside type="tip">
+
+**Pistas para la reflexión:**
+- Las herramientas no fracasan solas: fracasan porque el proceso no las exige
+- ¿Hay alguna consecuencia por no usar el espacio? ¿Y algún beneficio por usarlo?
+- A veces menos es más: ¿demasiados canales? ¿demasiadas herramientas?
+
+</aside>
+
+<span class="solucion-label">✅ Solución orientativa</span>
 
 <details>
 <summary>🤔 Solución orientativa</summary>
@@ -69,6 +120,6 @@ Plan de reactivación:
 
 ---
 
-*Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*
+<p class="proyecto-footer">*Este proyecto forma parte del proyecto global "Implantación de un Sistema de Knowledge Management". Conserve todos los entregables para la integración final en la Unidad 10.*</p>
 
-**RA trabajados:** RA4 - Utiliza herramientas de comunicación y colaboración en entornos web para la gestión eficiente del conocimiento y el trabajo en equipo en la organización.
+<span class="ra-badge-footer">**RA trabajados:** RA4 - Utiliza herramientas de comunicación y colaboración en entornos web para la gestión eficiente del conocimiento y el trabajo en equipo en la organización.</span>

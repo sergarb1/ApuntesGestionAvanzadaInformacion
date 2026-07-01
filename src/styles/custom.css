@@ -861,3 +861,59 @@ h3::after {
   background: linear-gradient(135deg, #1a5276, #2e86c1);
   color: #ffffff;
 }
+
+/* ============================================ */
+/* PROYECTOS                                    */
+/* ============================================ */
+.tarea-item {
+  border-left: 4px solid #2e86c1;
+  background: rgba(46, 134, 193, 0.04);
+  border-radius: 0 12px 12px 0;
+  padding: 0.8rem 1.2rem 0.8rem 1.5rem;
+  margin-bottom: 0.8rem;
+  transition: all 0.2s ease;
+}
+.tarea-item:hover {
+  background: rgba(46, 134, 193, 0.08);
+  border-left-color: #1a5276;
+}
+.consejo-box {
+  border-left: 4px solid #85c1e9;
+  background: rgba(133, 193, 233, 0.08);
+  border-radius: 0 12px 12px 0;
+  padding: 0.6rem 1rem 0.6rem 1.3rem;
+  margin-bottom: 0.7rem;
+  transition: all 0.2s ease;
+}
+.consejo-box:hover {
+  background: rgba(133, 193, 233, 0.15);
+}
+.proyecto-footer {
+  text-align: center;
+  font-style: italic;
+  color: #666;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+:root[data-theme='dark'] .proyecto-footer {
+  color: #999;
+}
+.ra-badge-footer {
+  display: block;
+  text-align: center;
+  background: linear-gradient(135deg, #1a5276, #2e86c1);
+  color: #ffffff;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 6px 18px;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+  letter-spacing: 0.3px;
+}
+.ra-badge-footer strong {
+  color: #ffffff;
+  font-weight: 700;
+}
+:root[data-theme='dark'] .ra-badge-footer {
+  background: linear-gradient(135deg, #1a5276, #2e86c1);
+}
