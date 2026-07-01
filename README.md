@@ -46,7 +46,25 @@ npm run dev        # → http://localhost:4321/ApuntesGestionAvanzadaInformacion
 npm run build      # → dist/ (listo para deploy)
 ```
 
-> 💡 **¿Solo quieres consultar el material?** La web del curso está publicada en **[sergarb1.github.io/ApuntesGestionAvanzadaInformacion](https://sergarb1.github.io/ApuntesGestionAvanzadaInformacion/)** — no necesitas instalar nada.
+<div align="center">
+<table style="background: linear-gradient(135deg, #e8f4f8, #d1e8f5); border-radius: 16px; padding: 12px 24px; border: 2px solid #2e86c1; margin: 16px 0;">
+  <tr>
+    <td align="center" valign="middle" style="font-size: 28px; padding-right: 12px;">
+      👉 👈 👆
+    </td>
+    <td valign="middle" style="font-size: 15px; line-height: 1.5;">
+      <strong style="color: #1a5276;">¿Solo quieres consultar el material?</strong><br>
+      <span style="color: #2c3e50;">
+        La web del curso ya está publicada en
+        <a href="https://sergarb1.github.io/ApuntesGestionAvanzadaInformacion/" style="color: #1a5276; font-weight: 700;">
+          sergarb1.github.io/ApuntesGestionAvanzadaInformacion
+        </a>
+        — no necesitas instalar nada, solo abre el enlace y empieza.
+      </span>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
